@@ -68,3 +68,16 @@ test('every official level-four word has a real local meaning photograph with a 
   if(picture.relation==='example-word'&&!baseline.entries[word.id])assert.ok(picture.note?.trim(),`new context note: ${word.hanzi}`);
  }
 });
+
+test('every official level-five word has a real local meaning photograph with a caption',()=>{
+ const words=officialVocabulary.filter(word=>word.level===5);
+ assert.equal(words.length,1600);
+ assert.deepEqual(words.filter(word=>!getWordImage(word)).map(word=>word.hanzi),[],'level-five photographs are incomplete');
+ for(const word of words){
+  const picture=getWordImage(word)!;
+  assert.match(picture.src,/^\/images\/[A-Za-z0-9/_\-.]+\.(?:jpg|jpeg|webp|png)$/);
+  assert.ok(existsSync(new URL(`../public${picture.src}`,import.meta.url)),word.hanzi);
+  assert.ok(picture.caption.trim().length>=(baseline.entries[word.id]?1:6),word.hanzi);
+  if(picture.relation==='example-word'&&!baseline.entries[word.id])assert.ok(picture.note?.trim(),`new context note: ${word.hanzi}`);
+ }
+});

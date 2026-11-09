@@ -2,9 +2,15 @@ import type {ExecutionContext} from "@cloudflare/workers-types/index";
 import handler from "vinext/server/fetch-handler";
 import { runWithConnectorBinding } from "../lib/connector-context";
 import type { ConnectorBinding } from "../lib/connector-contract.mjs";
+import photoCatalog from "../src/data/remote-word-photos.json";
+import { archivedPhotoFilename, archivedWordPhotoResponse } from "../lib/remote-word-photos";
 
 const worker = {
   fetch(request: Request, env: Cloudflare.Env, ctx: ExecutionContext<{ CONNECTORS?: ConnectorBinding }>) {
+    // Archived copies are absent from the deployment. Serve these exact public
+    // paths before the framework's build-time static-asset shortcut.
+    const photo = archivedPhotoFilename(request.url, photoCatalog);
+    if (photo) return archivedWordPhotoResponse(request, photo, photoCatalog);
     let binding = ctx.props?.CONNECTORS;
     // Local preview emulates the same request-scoped capability. This branch and
     // the auxiliary service binding are absent from production builds.

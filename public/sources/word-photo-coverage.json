@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:44:46Z",
+  "generatedAt": "2026-11-09T11:52:37Z",
   "target": 11000,
   "officialTotal": 11000,
-  "officialPhotoCount": 2121,
-  "officialPending": 8879,
+  "officialPhotoCount": 3670,
+  "officialPending": 7330,
   "officialByLevel": {
     "1": {
       "total": 300,
@@ -28,8 +28,8 @@
     },
     "5": {
       "total": 1600,
-      "photoCount": 51,
-      "pending": 1549
+      "photoCount": 1600,
+      "pending": 0
     },
     "6": {
       "total": 1800,
@@ -46,9 +46,10 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
-  "throughLevel": 4,
+  "throughLevel": 5,
   "legacy": {
     "total": 2500,
     "photoCount": 298,

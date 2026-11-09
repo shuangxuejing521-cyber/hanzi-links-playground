@@ -3,7 +3,7 @@
   "repository": "https://github.com/shuangxuejing521-cyber/hanzi-links-playground",
   "delivery": "same-origin verified public archive",
   "sourcePhotosRetained": true,
-  "revision": "63ba3cdd542618f74f9dc39ed7d0f938d25b9e88",
+  "revision": "6b0da07cc787e3340228193b525f22dfa27082cd",
   "files": {
     "after-work.jpg": {
       "sha256": "6e00ac12f6f13d7bcd4f4fe136e4dd7474846eff7ca61dce855afbfcb7d77b71",
@@ -2244,6 +2244,1010 @@
     "hsk5-youtiao.jpg": {
       "sha256": "ed95245061a4c29464dcb4143961ec5ac3c569323f63aef72d24182080c88e3a",
       "bytes": 271774
+    },
+    "hsk6-admin-regions-map.jpg": {
+      "sha256": "78526707264fdbb8dec195dd5c4d12f5838bb2f65272175e35dedab67df4f35b",
+      "bytes": 190193
+    },
+    "hsk6-ancient-ruins.jpg": {
+      "sha256": "5c4149dd0092b4d6b6bbc84a5a8c5dbfc17f6e4c18a9d674138f62f63db8895b",
+      "bytes": 492030
+    },
+    "hsk6-archery-equipment.jpg": {
+      "sha256": "cfcfc00b30f29864451b700902d7b5138080e2e4ed63455e5e506ec355bec1d8",
+      "bytes": 197222
+    },
+    "hsk6-arctic-globe.jpg": {
+      "sha256": "a7d3a18e3cb082edc1190fa0220c09b3192ec220fb107476a2125ba7de8eccff",
+      "bytes": 218940
+    },
+    "hsk6-baggage-drop.jpg": {
+      "sha256": "af7e2119e79f4c51225593555e78692f2d5c1eb23a19140366215a43b9ef8d51",
+      "bytes": 202276
+    },
+    "hsk6-ballot-box.jpg": {
+      "sha256": "556f50ff214879b55d912589f3aaaccabaa98ed717fb86a8999ce1f538ae2c01",
+      "bytes": 168578
+    },
+    "hsk6-baseball-game.jpg": {
+      "sha256": "750fdaf4d9365b4057dad232d95f7bb89e01a0a7a8e89bc344c1ddb92e2beb5c",
+      "bytes": 307808
+    },
+    "hsk6-beard-portrait.jpg": {
+      "sha256": "131f0891d02ad80f8509cc13d51418e0ad58a564306279920328fbadf64350cc",
+      "bytes": 134298
+    },
+    "hsk6-before-dawn-room.jpg": {
+      "sha256": "295e1368e5e3556c083be2459bf91fbb9d7c21dee5a7fac8ef630a6373131b7f",
+      "bytes": 106740
+    },
+    "hsk6-bicycle-brake.jpg": {
+      "sha256": "1acfbdb24317f84d047021a2690d034881ce23384174802d1de37c03546596a6",
+      "bytes": 199111
+    },
+    "hsk6-billiards.jpg": {
+      "sha256": "364127d58ebd5794a12c1e696357960d01e86203acc1b567259632cfda55539c",
+      "bytes": 191598
+    },
+    "hsk6-blood-pressure-check.jpg": {
+      "sha256": "298fae191a55788e33fce0c5504e8d60ee1ba12156c034099ea7312628fac4c4",
+      "bytes": 193440
+    },
+    "hsk6-blood-vessel-model.jpg": {
+      "sha256": "6bf6c67be219bdfd8bace628b821f1070a493327e93993c21f60f20209ae36af",
+      "bytes": 198650
+    },
+    "hsk6-bone-model.jpg": {
+      "sha256": "38c6af7bfc18a03830ac95854ed79c6d5db8d60f5bc7a508ec0d16b13818dc7f",
+      "bytes": 127688
+    },
+    "hsk6-book-contents-page.jpg": {
+      "sha256": "7634294fa8d465c666afd4b85b821c1f7e5177b9d17c0911f52183503d346545",
+      "bytes": 184929
+    },
+    "hsk6-brick.jpg": {
+      "sha256": "ade3397d37fa68252ed771c3ceade0f2e36e9670fbd3baea2cc5ae984689bc3c",
+      "bytes": 269777
+    },
+    "hsk6-bronze-silver-medals.jpg": {
+      "sha256": "dbf0dd331021bf626a407866d77bae43e6026b024a0de4aac47ffa149c57660d",
+      "bytes": 276952
+    },
+    "hsk6-brown-fabric.jpg": {
+      "sha256": "fc2e11b0a83074e15951b86fe9f63d87c2383f4aebd2689eca3920a65e069adc",
+      "bytes": 271187
+    },
+    "hsk6-browser-device.jpg": {
+      "sha256": "e3c403cfdaac6c248757c0087bf9abf26710969f82ae568a088072616dc0828b",
+      "bytes": 234503
+    },
+    "hsk6-buffet-self-service.jpg": {
+      "sha256": "d59fd2e3712b41195097b7c8a52ec4a6dc6687acefa79b3aa8128c4933dc7510",
+      "bytes": 280326
+    },
+    "hsk6-burst-balloon.jpg": {
+      "sha256": "80028564ec02f368ba88a6518c808382bc68093a47a4d4d73d42e08d20438296",
+      "bytes": 171542
+    },
+    "hsk6-caliper-inspection.jpg": {
+      "sha256": "0fbefba04dbaa92ee9367978cac2c074bce48e74b2fbbf7135965302aa17e480",
+      "bytes": 201858
+    },
+    "hsk6-candies.jpg": {
+      "sha256": "5fde3e09cdc22de4dde6f9c24c74c4930dea3d2c6a6be9af2b34e52fc868bb3f",
+      "bytes": 219579
+    },
+    "hsk6-carbon-dioxide-model.jpg": {
+      "sha256": "3fdf5d9f653ab6e83e606be5c8fe5ad0321ab6f45793d9463ccd07fdc6fec8fb",
+      "bytes": 167379
+    },
+    "hsk6-cargo-truck.jpg": {
+      "sha256": "ed0cd5d582c4ce12dd143331fb05f6d49b332be650e9acd19457431c26c65fb0",
+      "bytes": 251587
+    },
+    "hsk6-carrying-bowl.jpg": {
+      "sha256": "9d68bddb61fabed852c9a13cb02067d7ca871c7c15ea1aee495911d87929c1ce",
+      "bytes": 204040
+    },
+    "hsk6-cat-pouncing-toy.jpg": {
+      "sha256": "80e6d47d2e46e16beb22eb60865bd5bd5909fea2dcbcd0799174bf4baadc6c21",
+      "bytes": 222401
+    },
+    "hsk6-catching-ball.jpg": {
+      "sha256": "3e9c863bbfb80c6ebb32e5a93c12aaa2a7e93101cf226897e4f6330832ce4484",
+      "bytes": 216455
+    },
+    "hsk6-catching-insect.jpg": {
+      "sha256": "141fa19b86288859ece27f4d81ac5031d59c47b3029768b1b91505afb32f1080",
+      "bytes": 250720
+    },
+    "hsk6-cement.jpg": {
+      "sha256": "57b88f74fbac63c521fa2214efba265be5a76ff39bfccd98b16df155d0f750c5",
+      "bytes": 278418
+    },
+    "hsk6-chest-neutral.jpg": {
+      "sha256": "9172d7f3454abed5c361e939bda8dc00c97ee010c1c01c16243a782422a4a28b",
+      "bytes": 155112
+    },
+    "hsk6-china-flag.jpg": {
+      "sha256": "4385c2d0d2a13310258b25235a237946a0880e7cfd9ab4bacbfc0df307480f89",
+      "bytes": 220315
+    },
+    "hsk6-chopping-log.jpg": {
+      "sha256": "c0c65fa216346f00f44f1ab71810580b5831578950f3fa5c57af6aabc2f96364",
+      "bytes": 327375
+    },
+    "hsk6-chopsticks-gripping-tofu.jpg": {
+      "sha256": "6151712e4cf22f913f99273e466d201f28fd26e0981fa8a44ac5b05929f70f94",
+      "bytes": 173812
+    },
+    "hsk6-chrysanthemum.jpg": {
+      "sha256": "70f39bfd65e1e4aaca98143bb802193ca02a00e07b0b1c433e2b9c9e2cab946c",
+      "bytes": 215696
+    },
+    "hsk6-clocking-in.jpg": {
+      "sha256": "7b6b0ea2dc00df14f36f510ab21d4f5f776653ea36da5ed7a58b259ac58e5f88",
+      "bytes": 180089
+    },
+    "hsk6-coal-and-crude-oil.jpg": {
+      "sha256": "4b24d92d57081c33ce95fcfee70fe97235831e28d2b39d67cde467aab0b846e4",
+      "bytes": 155255
+    },
+    "hsk6-coastal-shore.jpg": {
+      "sha256": "6f7088dccc6ada4f9bc5490d99f701ccedb9ef4e979eed41f1310317aa774967",
+      "bytes": 298022
+    },
+    "hsk6-comic-book-viewing.jpg": {
+      "sha256": "9f3731edf22919bdeb7e332889bfb3dd2125c9f37b2ef5807e41148a48a9eba8",
+      "bytes": 258191
+    },
+    "hsk6-compressing-sponge.jpg": {
+      "sha256": "b1e4bceef3be4774c44a6d3928b4fbf1f680aae52ff03a25bea3da82e9f6ee6c",
+      "bytes": 183169
+    },
+    "hsk6-congee.jpg": {
+      "sha256": "6fb08463ff7ba7ef0b51b9479bed61c25e716b3553751d4a303e2462061d5d5c",
+      "bytes": 191986
+    },
+    "hsk6-conveyor-parcels.jpg": {
+      "sha256": "efd014fbbdc413e61030bbf6fa73553f9573c8d0a78d65bd764b68ff05c23d0d",
+      "bytes": 219138
+    },
+    "hsk6-copper-metal.jpg": {
+      "sha256": "b5b3b3435d6765565dde151e05d26e51cef150c5b12f11fe2311e94cd4d5e9d6",
+      "bytes": 192871
+    },
+    "hsk6-copying-notebook.jpg": {
+      "sha256": "2609b17a4a31c718b5d17a43b50dcd0030bde8b3fc201400d854b0342119c3b8",
+      "bytes": 209475
+    },
+    "hsk6-corridor.jpg": {
+      "sha256": "441118b66262f35cb19758c55c0d734fa910d9e7804953c5aa8d3af4db93092a",
+      "bytes": 174944
+    },
+    "hsk6-crosstalk-duo.jpg": {
+      "sha256": "064e75a0b8991d6ae4df676927607ef68a5b4f54570515618f2a3bce22334709",
+      "bytes": 135470
+    },
+    "hsk6-crowded-subway.jpg": {
+      "sha256": "ecb620a603044b75f8fc6975bcbb2386f97a958f807c8d39d22533ed51931346",
+      "bytes": 240982
+    },
+    "hsk6-cupped-hands-water.jpg": {
+      "sha256": "c5be3ddb3ef2cce8b5d8e738cff236db106602b03eda807790a69111fcfbfe96",
+      "bytes": 151317
+    },
+    "hsk6-deactivated-firearm-display.jpg": {
+      "sha256": "625e258ed21dc35965e9505a5914d489fa5af08634f6f754282e6295a0225c89",
+      "bytes": 185286
+    },
+    "hsk6-dense-sparse-pebbles.jpg": {
+      "sha256": "01142f32aaa1ebc7301fe80c485e87772ed82a49c65d85c4a62e2a0c90f4a951",
+      "bytes": 286144
+    },
+    "hsk6-digging-soil.jpg": {
+      "sha256": "676ad14d2803f94d8db4b77b1b722e0065c2ab9cbe908a200a30039693e8673c",
+      "bytes": 327046
+    },
+    "hsk6-dna-model.jpg": {
+      "sha256": "4fbbb753741fba86bc81f7fe6e22ac869bc5dc0b9dbaba5b8d287b1f42c1affb",
+      "bytes": 221123
+    },
+    "hsk6-doll.jpg": {
+      "sha256": "1b0e509a6c11cb8bb603969eb351dae69a1f5329f33c2e20f702d0d564b34fb6",
+      "bytes": 221757
+    },
+    "hsk6-donation-box.jpg": {
+      "sha256": "4754ef2946062149dc33a13b2b1755daafdb099dcff538598bff65fdaa45473b",
+      "bytes": 231993
+    },
+    "hsk6-down-jacket.jpg": {
+      "sha256": "043f0ec83532935d7c37ffb62a83f26a69efa5ac073d0a7a9c85cd928b371a4a",
+      "bytes": 154981
+    },
+    "hsk6-draping-shawl.jpg": {
+      "sha256": "3d980c29b16504cce7f8df4ab9540fb504a851da9bae53fb53fd4ae890b78a8e",
+      "bytes": 205828
+    },
+    "hsk6-drawing-divider-line.jpg": {
+      "sha256": "b9dc61aa6d9169b5fb7b04d3d0bf09bfadac58868174e524f4a4706e7b5dafb9",
+      "bytes": 171125
+    },
+    "hsk6-drilling-wood.jpg": {
+      "sha256": "e08f260eccfebd28eeed55a1f79442b70ae3c9c6dc3cc7c66754e965e85b77f0",
+      "bytes": 235525
+    },
+    "hsk6-dry-field.jpg": {
+      "sha256": "9214870dc90d5ee45715dfe86e3faad4ff00c975ed99839a3982569aba48e435",
+      "bytes": 400339
+    },
+    "hsk6-dusty-shelf.jpg": {
+      "sha256": "fec9074d78f5170e9eaf8533fbea09fc299eca234577ff1b1324e4a22492ab76",
+      "bytes": 233238
+    },
+    "hsk6-dyeing-cloth.jpg": {
+      "sha256": "c6f48b343283b95f9edcec192b1311c87e8abe8e1ff6c559b956fd65eb1ae8d5",
+      "bytes": 202130
+    },
+    "hsk6-earrings.jpg": {
+      "sha256": "86794975dbac5bb2a97fe8d19f7ab74a1d4c39923c1e4037753a2b844cea64a1",
+      "bytes": 129012
+    },
+    "hsk6-empty-room-corner.jpg": {
+      "sha256": "5a457ed24b3373b372e946f3b6a6bfb7bce071f42b239cfb8e0731ea31b8da7f",
+      "bytes": 104040
+    },
+    "hsk6-eyebrow-closeup.jpg": {
+      "sha256": "3de02fa123c37675cd808a7ff6f9a4408e4bde653b403b653fec5e7069fdff41",
+      "bytes": 255998
+    },
+    "hsk6-fabric-in-breeze.jpg": {
+      "sha256": "022031e1505679f4cfdaee2d29023d4a7b3115576fbb5cdbfc1e1682b82b142f",
+      "bytes": 189116
+    },
+    "hsk6-factory-stack-distance.jpg": {
+      "sha256": "aad464eacf35a7797c2be6901a707a9b2910d17e17ee6fe168c7a44adafd0426",
+      "bytes": 253975
+    },
+    "hsk6-fashion-model-studio.jpg": {
+      "sha256": "5149ff34dc7976a75249501216578fecfe3d12691d68de1c62766469e73ed3ee",
+      "bytes": 183389
+    },
+    "hsk6-fastening-button.jpg": {
+      "sha256": "3ddcc1e4fd4ef5ee7a8565c692d54bad1c08059a1a03f4f042d460b8825621c1",
+      "bytes": 228902
+    },
+    "hsk6-fax-machine.jpg": {
+      "sha256": "725eb859f65171f3def7dc1ef18dee25936fd3af755da2b4011d5a822275c05e",
+      "bytes": 182290
+    },
+    "hsk6-fictional-poison-prop.jpg": {
+      "sha256": "8c7657a64abc0e7f89fffe5a14444a130a858990dae24ad3b6a010f63c5e74bf",
+      "bytes": 233338
+    },
+    "hsk6-fictional-product-mark.jpg": {
+      "sha256": "db2f1986615309df666a5650ccdfd2778a6c8649ee70b6aff2e16a05dd61b5c6",
+      "bytes": 180383
+    },
+    "hsk6-field-research-base.jpg": {
+      "sha256": "f640e5814032a55ff91ca21e2344c77a83807129f95855cfcd77dd23ad196c0f",
+      "bytes": 322703
+    },
+    "hsk6-finish-line.jpg": {
+      "sha256": "7d014deaef81b2dafff03f6a9aff3608f2cd706fdba240126ff2ab5a8a91219e",
+      "bytes": 308729
+    },
+    "hsk6-fire-extinguisher.jpg": {
+      "sha256": "9f29045c0a38f4f0284bebf423bb970c8e679607b42fdf3d11c37d9cd064b3f0",
+      "bytes": 238540
+    },
+    "hsk6-fishing.jpg": {
+      "sha256": "d0beba0ef36718dffdb05857b040a5dddbcca9400c7666c1e8f95b8098dd5660",
+      "bytes": 356035
+    },
+    "hsk6-floating-cork.jpg": {
+      "sha256": "140cb4e3c207e23f1ff0fd0857902f241a4acbc83d5bf7c8743067d24e4f19d2",
+      "bytes": 205725
+    },
+    "hsk6-floating-leaf.jpg": {
+      "sha256": "5bd57b93f144f3da9768ebec1d4634a6410c0c08bd9c05cc527b154d1ff0b68f",
+      "bytes": 231829
+    },
+    "hsk6-flood-aftermath.jpg": {
+      "sha256": "d9a0439789fafcfa88cf0acc9ce74e111d0237cdd3fd322b25a25af2a083b739",
+      "bytes": 327914
+    },
+    "hsk6-flour-and-milk-powder.jpg": {
+      "sha256": "d903a237ce3fe313d48382e92df2df5327a0ebf29529fac741210a719c21040a",
+      "bytes": 215881
+    },
+    "hsk6-folded-underwear.jpg": {
+      "sha256": "09d30b9d4a5054b073e69aefd64c0f6be04e58ac97ff42bc53e16b71df0314ca",
+      "bytes": 174929
+    },
+    "hsk6-footprints-sand.jpg": {
+      "sha256": "51aacafe0fd7f4d9eba5f4b7eedc38df539d48ca56c59ce79731ed0f15fca57b",
+      "bytes": 327946
+    },
+    "hsk6-fork.jpg": {
+      "sha256": "b1be58cd13542aa9e9f82625469cf4d0afb77cfe9ab34f22ec66fe5290126958",
+      "bytes": 161020
+    },
+    "hsk6-fossil-display.jpg": {
+      "sha256": "3aa5d445eddfc592c03ccd9dfad900ac551a6af3d33fc39637b7fd95a059444d",
+      "bytes": 273031
+    },
+    "hsk6-fossil-replica.jpg": {
+      "sha256": "8623f326156147c7aac3b078470d75a5919d71d255c3ba68e59e4225e482a0e7",
+      "bytes": 284307
+    },
+    "hsk6-fountain-pen.jpg": {
+      "sha256": "4de97219cb633e0a673b7d368418244658c57b58873d076eb5d1ff29bedbf34d",
+      "bytes": 150592
+    },
+    "hsk6-gas-stove.jpg": {
+      "sha256": "ea8d0a029a31c69b39232ab8b4d3fb7345a1c90c4afe744cfa4d8a702454eb77",
+      "bytes": 203284
+    },
+    "hsk6-gentle-stop-gesture.jpg": {
+      "sha256": "2238ce35dad0d6cc3da475cbf8076b29f75afd9e48a5271f9c17e23ac4d84dc3",
+      "bytes": 240086
+    },
+    "hsk6-globe-south-america-antarctica.jpg": {
+      "sha256": "e144b4fdc875381a63b0769ddb7c74de84d14a8afe535853a6b5637002f4ad56",
+      "bytes": 207446
+    },
+    "hsk6-go-board.jpg": {
+      "sha256": "ec22b789fc1348c2bf203ff6b8b069e3d402428e3c93a82be3d6a696495ac409",
+      "bytes": 213562
+    },
+    "hsk6-gold-medal.jpg": {
+      "sha256": "f9dc4fb93ff13babe88e1f9bd38b8b83b1fc96e4a4dc128c56564af48fe65c79",
+      "bytes": 280758
+    },
+    "hsk6-grassland.jpg": {
+      "sha256": "4c2cc80f6425172f8068015a78adeb5b4a9253cd4d20572759a434aa19883821",
+      "bytes": 313796
+    },
+    "hsk6-gully.jpg": {
+      "sha256": "d94d7b63bff787c82124c95e8d62b963dd1d75e642075715bbd5c23c47d78447",
+      "bytes": 430187
+    },
+    "hsk6-gymnastics.jpg": {
+      "sha256": "acd67875cc200344e70ed1048135a6fc8b12cd120564c785e68bb00dc96894b2",
+      "bytes": 163270
+    },
+    "hsk6-hand-sanitizing.jpg": {
+      "sha256": "8d49b954d9b578fac55a7b0dca83858fe9cdbd21f2c0fff1734c1458a179150b",
+      "bytes": 221942
+    },
+    "hsk6-hanging-laundry.jpg": {
+      "sha256": "e488f81f54c006140950f325aa88084acb1fb81381e22a0bedc329ef2cdf522d",
+      "bytes": 247110
+    },
+    "hsk6-harbor.jpg": {
+      "sha256": "0e2ade389df18792bfe277192769be3fae42556661d28ac1f47c42f5bb88371a",
+      "bytes": 227089
+    },
+    "hsk6-high-plateau.jpg": {
+      "sha256": "7d6c8e1fceb4fffb827dad9141a2553dd0d9cb749a1260aa850b8c5c8b831719",
+      "bytes": 333225
+    },
+    "hsk6-highrise-building.jpg": {
+      "sha256": "46ad8779618b91bc820cf9c2a7b179b3b538935d81ec22c7f1292b6d74d66a42",
+      "bytes": 369864
+    },
+    "hsk6-historical-court-actors.jpg": {
+      "sha256": "2ab866033513b5cd3c93622e1ad91ec1c4b8a0e3df0428b723b159b0d93ce616",
+      "bytes": 205255
+    },
+    "hsk6-holding-dog-leash.jpg": {
+      "sha256": "f03b22f4d93aa267bd16494c211a99f5250946a50cb1fc565619cf6480fc4a53",
+      "bytes": 266972
+    },
+    "hsk6-homestay-room.jpg": {
+      "sha256": "963eb4c97846f4cd171d999b1fa3ea5fa27531bdc1f661807e938751110fe41d",
+      "bytes": 244245
+    },
+    "hsk6-honeybee-flower.jpg": {
+      "sha256": "3a07eacb7f510da6f6c2182f7aac870a48f2de9dd3c9451d41c11166b79b01e3",
+      "bytes": 194644
+    },
+    "hsk6-immigration-counter.jpg": {
+      "sha256": "6a28a74511233f606ce1e2fb26a5254ca8aed0207acef6442b9247003ce27ed5",
+      "bytes": 190321
+    },
+    "hsk6-interlocking-gears.jpg": {
+      "sha256": "0bfed9976e2f6a51029ba2aa66e35289e5cb6717c67f2aec89ccdb7eaf85f76a",
+      "bytes": 241146
+    },
+    "hsk6-intestine-model.jpg": {
+      "sha256": "ec44de7dfa8f01f95d519e25f78850cb74f3855cf4329cc8c2e5faa13a502e89",
+      "bytes": 166414
+    },
+    "hsk6-island.jpg": {
+      "sha256": "054b69b709211e555e2d5023895a9e799a36d4be50b11817eeb233174b7a95d1",
+      "bytes": 279969
+    },
+    "hsk6-itching-forearm.jpg": {
+      "sha256": "6b2b826c6e8af459ecb3bfd107f962856178e7b406a8c16904c021b0cc863062",
+      "bytes": 191801
+    },
+    "hsk6-jewelry.jpg": {
+      "sha256": "d5cfa17756328734495cd58b0e24773753e6a5a33013ee461c0ac2bab12e7854",
+      "bytes": 242062
+    },
+    "hsk6-lantern.jpg": {
+      "sha256": "318adfe36a1382e6bf7a6280d7bbed7522acebe231c6ab7888b58a7730369ee5",
+      "bytes": 211849
+    },
+    "hsk6-large-crowd.jpg": {
+      "sha256": "932f96cead51515b92cd76ffdc2d82a640c550b068bf48c55a1e9dc30be4f8d1",
+      "bytes": 403421
+    },
+    "hsk6-lightning-from-window.jpg": {
+      "sha256": "d91e6b65fbf9e5a949b5c164df9fe7d0e49dbeb9ade439e708dea4747cce245b",
+      "bytes": 221342
+    },
+    "hsk6-lion.jpg": {
+      "sha256": "02a5784c82e63230ecab7cd5cf4dc7ae3452cc00fd9e9ad8c365cc10f8bd6c91",
+      "bytes": 314968
+    },
+    "hsk6-liver-model.jpg": {
+      "sha256": "35eb0531552c5eb400773c9f380ed2d66abdfb0bd3d68d5247bd93e060b758f6",
+      "bytes": 141342
+    },
+    "hsk6-loose-knot.jpg": {
+      "sha256": "7d6486850af23a18534a189c4b5048610a39076ce58daaae06fd6117056a7b2e",
+      "bytes": 228184
+    },
+    "hsk6-loosening-knot.jpg": {
+      "sha256": "1cc0810b7c56671aa4fcf5aee87314bd5a4991b1a48672cf847d2b269d9c0dc7",
+      "bytes": 222180
+    },
+    "hsk6-lottery-ticket-prop.jpg": {
+      "sha256": "a3ddae8f496912c45dfcc013ba8006f247dfeda3cb3a0084925b4121e243186c",
+      "bytes": 211548
+    },
+    "hsk6-lungs-model.jpg": {
+      "sha256": "55d58162c7808fc76a1b810deba9e1802f60b25ad647d7136f56cd7690847146",
+      "bytes": 185908
+    },
+    "hsk6-magnifying-parts.jpg": {
+      "sha256": "7f96d89fe255b5d00126984ba3b8e81eb77122923e38a659c35b29385340264d",
+      "bytes": 205759
+    },
+    "hsk6-makeup.jpg": {
+      "sha256": "61153bf16c194308ff6c7559362a6eda17c5508577cae97791a4f6fcaf16a0b4",
+      "bytes": 184534
+    },
+    "hsk6-maternal-aunt.jpg": {
+      "sha256": "3f30eb7d5e54441fa33e471bcc97e636972d98fcc79029040ed47bda4cd3080e",
+      "bytes": 275158
+    },
+    "hsk6-maternal-uncle.jpg": {
+      "sha256": "a48f3ebc26c98a80b011e658b0a85ed1e381a4daf3210ccc52c5d30a5e0a029b",
+      "bytes": 271281
+    },
+    "hsk6-meal-bill.jpg": {
+      "sha256": "0ebb659eb848279740c3754cefcd8dc75396c8948dd12f631a3f62643b29f266",
+      "bytes": 173998
+    },
+    "hsk6-measuring-jug.jpg": {
+      "sha256": "8df66fb0ce305de018d0cf705e3c91a9272d45bdc3bb6de985590d9eff9cb72e",
+      "bytes": 151433
+    },
+    "hsk6-mixing-colored-clay.jpg": {
+      "sha256": "8543b64ed4a3f49c33d0dde87e0617cf0f315829127eb18cb4b637a3df8cdc2c",
+      "bytes": 181626
+    },
+    "hsk6-moldy-bread-model.jpg": {
+      "sha256": "96e1986d5ba6c1d54d0e0f422329becccd19b40c68c6a2d79ced04b63cae33e3",
+      "bytes": 197163
+    },
+    "hsk6-mouse-animal.jpg": {
+      "sha256": "414e149810452f0d8eade3ddcd442839d7be4412e19c37e2b83279e6059bf8b5",
+      "bytes": 290405
+    },
+    "hsk6-mouth-teaching-model.jpg": {
+      "sha256": "f9ad36cfec8663823024e5fe6de8bfea4f4376aabbec76ed0c3b8d71da9fc650",
+      "bytes": 164517
+    },
+    "hsk6-museum-weapons.jpg": {
+      "sha256": "987236520998ec953ce6339eba60d97de8542fc4210af4f13250a0732f7ffb19",
+      "bytes": 222158
+    },
+    "hsk6-nauseated-car.jpg": {
+      "sha256": "1e48cb2ba517a3fb3cc55188fa7e6d6ec36c6f82081b0943385cd9f13f178a80",
+      "bytes": 248749
+    },
+    "hsk6-neck-closeup.jpg": {
+      "sha256": "006818c1cb990b55cb8e2efaa0523f6c2be391905880620f40ad175c0cf82718",
+      "bytes": 182808
+    },
+    "hsk6-neck-spine-model.jpg": {
+      "sha256": "8cace8ccc3c7321c9bb4c38daa6fa8b5759ab328000fd5c5e95edc0aa865eeed",
+      "bytes": 139268
+    },
+    "hsk6-necklace.jpg": {
+      "sha256": "1870ecd0a6b9a89251bbef43e577d4d32baa5d208f1af34831eeab314d7403ce",
+      "bytes": 283772
+    },
+    "hsk6-nerve-teaching-model.jpg": {
+      "sha256": "be680fa227ee280e3c973f339ae7a8cd1269b4f8bb9438d2f988f057f9b4beec",
+      "bytes": 184016
+    },
+    "hsk6-net-mesh.jpg": {
+      "sha256": "aee4a89e17d71ec3e8520c3b4c60e5950e07edea3a1b36b35caa7d86adc65eea",
+      "bytes": 207225
+    },
+    "hsk6-network-router.jpg": {
+      "sha256": "c950ffea6cc98d5c8d61c1613b280aac9f4253a74b9269e927e134d250ab13eb",
+      "bytes": 180890
+    },
+    "hsk6-newsroom.jpg": {
+      "sha256": "8c478f4ce415efc24419ea701ed1fa748c43021ac6949f4ba6da30e2ec6c4166",
+      "bytes": 256045
+    },
+    "hsk6-north-america-globe.jpg": {
+      "sha256": "5f260b0564063a0aee9bf92ba04d7c1e9ddea7eba3270344936ac3f20acbceb0",
+      "bytes": 281390
+    },
+    "hsk6-notice-board-paper.jpg": {
+      "sha256": "48fcbf6a893917be4932b7d5899873ee36f980be23587572c50166a4e27aedef",
+      "bytes": 209894
+    },
+    "hsk6-obstacle-path.jpg": {
+      "sha256": "ab32761c9d76632664d6bd11574557e5d4deaa25e1738b426fe0db5e04c78565",
+      "bytes": 393039
+    },
+    "hsk6-oceania-globe.jpg": {
+      "sha256": "f3470afe307ae441a4655297c793544ddeee73e048f0b66f6a419694102beca6",
+      "bytes": 231919
+    },
+    "hsk6-open-ground.jpg": {
+      "sha256": "59ef23c3f8e3123921b2464e832379cc83c4954821d71043d5b2db523996dba0",
+      "bytes": 403144
+    },
+    "hsk6-orchid.jpg": {
+      "sha256": "90abf0e8e6b73b9c272728e483911d66ac7db5ca1e6d13f10200b42258ad81a6",
+      "bytes": 167562
+    },
+    "hsk6-oxygen-cylinder.jpg": {
+      "sha256": "f9b6b85d8b6e8879c10732cc02c9c07fb7560a06f9997f62ad1519895f0ca456",
+      "bytes": 178377
+    },
+    "hsk6-palace-courtyard.jpg": {
+      "sha256": "fe6837eec7256f2254da7976dcb68259d31f825f5c3f4f6eeed7ba95dfb679c4",
+      "bytes": 270642
+    },
+    "hsk6-parked-motorcycle.jpg": {
+      "sha256": "3e3751df781b3feb642b0b3ba0b2fe37dc2f484f2f9c599c5dd97ae0e3a69afa",
+      "bytes": 305818
+    },
+    "hsk6-patch-sewing.jpg": {
+      "sha256": "7c73fdd8f4dcb79679c36cc9ad2f5816a332d13c9b8e4641e442135181c9b6c1",
+      "bytes": 258858
+    },
+    "hsk6-paternal-aunt.jpg": {
+      "sha256": "524692c772bd95894d341a9ddf1ced0678cda3b875c8e5451268a4699d79504c",
+      "bytes": 257002
+    },
+    "hsk6-paternal-uncle.jpg": {
+      "sha256": "d4f78b5b86607b5b798abd21d7de8baac0f230af792d3a65798f7f62f5cd701d",
+      "bytes": 259794
+    },
+    "hsk6-peanuts.jpg": {
+      "sha256": "c98310750256e1b67bcdf1017bf94daf0a5509e8a4b355596b25b60cb85822f0",
+      "bytes": 213568
+    },
+    "hsk6-pearl.jpg": {
+      "sha256": "f4f6cbc1d2607652d1a7a4a34d3ef7296fe40b55192bc603cfa923b5a833eadc",
+      "bytes": 172868
+    },
+    "hsk6-pediatric-consultation.jpg": {
+      "sha256": "b4bc7ad8f34862d28c8ee551aba17b6db48964696921eafa5457a2e5f527ae03",
+      "bytes": 191302
+    },
+    "hsk6-perfume.jpg": {
+      "sha256": "36cfb96ced8e218d2a3cf098bfc798ee85939b3fdcb3171cac1fc24ee5eba910",
+      "bytes": 190137
+    },
+    "hsk6-physical-bar-chart.jpg": {
+      "sha256": "4be2ddb919a98fe5c8b424207b108cfab61d0dd1b5799d467a983fbc7d7ba6ca",
+      "bytes": 215867
+    },
+    "hsk6-pillow.jpg": {
+      "sha256": "8df950fb9e81097ce8949ff9ad9a775f79836d073de7cc5f175de6c44b5f1eef",
+      "bytes": 147569
+    },
+    "hsk6-pink-fabric.jpg": {
+      "sha256": "7f707ee16c762716f9dc10f69be1bbf5eb5bd81f06bcabec168a169455350224",
+      "bytes": 255282
+    },
+    "hsk6-pinning-fabric.jpg": {
+      "sha256": "a1938cafe8ac402aa9ae29851befdf9331de8a3343b25b5939fa35a6116d471a",
+      "bytes": 214100
+    },
+    "hsk6-pipe.jpg": {
+      "sha256": "bbc3a793b14ba9d450ae3d8bcbef6ebd5071319a476a3f22d43adf55af72261a",
+      "bytes": 174301
+    },
+    "hsk6-plant-cell-observation.jpg": {
+      "sha256": "27e0b18ab536e659ea1acd23b2f1aa2590981f2f43afb7028300d286baf41f6a",
+      "bytes": 191799
+    },
+    "hsk6-playful-surprise.jpg": {
+      "sha256": "7ce0addf187efb4d36ca67235c3aa04e7488e33b00084077524f11cea0ade77d",
+      "bytes": 209707
+    },
+    "hsk6-playful-tag.jpg": {
+      "sha256": "8e23b34d4d43dbfb25e6f56ce194fc0b7d03762eb5decb13605d3700102a9584",
+      "bytes": 322301
+    },
+    "hsk6-plum-blossom.jpg": {
+      "sha256": "c68c1f69346817ea84fa27c3ba4461d5ea2bfbcf87823b1f7d3c55ff738e0204",
+      "bytes": 169164
+    },
+    "hsk6-porcelain-vase.jpg": {
+      "sha256": "d9ea91b4e9dc67ccfe4669a1edd0a6141df3b7c2bf56125189b07a55137444ec",
+      "bytes": 124943
+    },
+    "hsk6-potato-chips.jpg": {
+      "sha256": "118d34454100ae5a373c33fbdaac0fa7f5a0e12652f718b6a085374a64412ee2",
+      "bytes": 272296
+    },
+    "hsk6-pregnancy-conversation.jpg": {
+      "sha256": "2360a62dc2053f701ef125dc3858e1a89853d3335162d72eabc143506b37e2d7",
+      "bytes": 202844
+    },
+    "hsk6-princess-actor.jpg": {
+      "sha256": "0766874e7dba7d8ab26caa17260f5e845bc2331dba7b63b90d0d659bd1be6049",
+      "bytes": 232524
+    },
+    "hsk6-prize-draw.jpg": {
+      "sha256": "a05b2e720e0b93416feabcffc891b4c04191c34d13e3c0ff4f10fdc0bd929a80",
+      "bytes": 229956
+    },
+    "hsk6-pulling-suitcase.jpg": {
+      "sha256": "10c0a34538b42cbcd334618f4a68c3752d40769cb4030d6140f5362384775289",
+      "bytes": 233985
+    },
+    "hsk6-radiator-heater.jpg": {
+      "sha256": "36438424baa4e72f4b4f37c398f3d47dd92417bc9a5963d320cc2d74df69b825",
+      "bytes": 209770
+    },
+    "hsk6-rainbow.jpg": {
+      "sha256": "893344b6c677299ee0ab47fd2335f182fd38da8bf49a3f618d52cb288b49e46d",
+      "bytes": 275059
+    },
+    "hsk6-releasing-bird.jpg": {
+      "sha256": "35f01416d3279d1e09300320cf7560b77a16f6a8cae9505e095376d1e1264c25",
+      "bytes": 225899
+    },
+    "hsk6-relief-supplies.jpg": {
+      "sha256": "77c726d1de1158ce347a2d1ec990e7ded290153ce9c4cf168b5a75ae266a5f40",
+      "bytes": 246816
+    },
+    "hsk6-reluctant-sharing.jpg": {
+      "sha256": "e8daa55608b25b4295cfc26be3f4652657219b5a1297e4f459ae18e983390437",
+      "bytes": 215425
+    },
+    "hsk6-remote-video-call.jpg": {
+      "sha256": "2126414014980e7e6d33f67dc89bd958c37858be356d8cfab13cd3ce2717eb66",
+      "bytes": 235631
+    },
+    "hsk6-repair-team.jpg": {
+      "sha256": "2b990146ab01d0d3bcb984d4d76f96df3d178483478fafabc3de468bbd68f757",
+      "bytes": 293285
+    },
+    "hsk6-replacing-battery.jpg": {
+      "sha256": "efce52c41641d4d0b610493ead596ea31d007ec73fc7d0e3063b734d8cd939c6",
+      "bytes": 219721
+    },
+    "hsk6-reservoir.jpg": {
+      "sha256": "350dad4641a5916a6c9f30eecc68c336f21a5385b00157ba3351dd806750cb00",
+      "bytes": 315005
+    },
+    "hsk6-rice-cooker.jpg": {
+      "sha256": "b7ed455cbc105b0b6f9b16d8140384b1f1bcea036a2a96abb1ca9bd595213681",
+      "bytes": 199550
+    },
+    "hsk6-rice-paddy.jpg": {
+      "sha256": "d490c079454461c533a79575dd8500bbbfa4b1595f05530e049b62e2bbb748d8",
+      "bytes": 438544
+    },
+    "hsk6-ring-proposal.jpg": {
+      "sha256": "9a5e58708e19fe4c26cd914a179d4e9fca4aa632990f411840ce0696134112d5",
+      "bytes": 268649
+    },
+    "hsk6-rinsing-mouth.jpg": {
+      "sha256": "76c2c8465874f5e73c71f57888966e438bb28b22736e7b30329625f0681a4316",
+      "bytes": 179179
+    },
+    "hsk6-rolling-paper.jpg": {
+      "sha256": "a36c0ac9e83b7c0399d405a38432eca3f6ef72e6356a5039a996733bcbc923b0",
+      "bytes": 203269
+    },
+    "hsk6-rose-thorn-closeup.jpg": {
+      "sha256": "a923a450a267fd1cccf30baaccdfe7cb34a46904b7e650932e12522f7916d0e9",
+      "bytes": 157998
+    },
+    "hsk6-royal-actor.jpg": {
+      "sha256": "2f2feb3b95de16c3d5ab2c9ab0d3290b4eeec29af0141efd1b7552217b3ed893",
+      "bytes": 243153
+    },
+    "hsk6-rubber-stamp.jpg": {
+      "sha256": "48bb973dfc8fc0fea98bfe387d9daaafcefcc05c01e7e13b86ff5d3a85ffe80c",
+      "bytes": 208845
+    },
+    "hsk6-rule-violation.jpg": {
+      "sha256": "b8a90e851c60d0e0ed2bcc16ffccacb73aca04281947745eda3de8688fde2539",
+      "bytes": 313312
+    },
+    "hsk6-safe-diving.jpg": {
+      "sha256": "c34bf08f54eeb6c2f95910159e536ded593feaa1454acb1252d77ccd7b3e62e2",
+      "bytes": 248831
+    },
+    "hsk6-sausages.jpg": {
+      "sha256": "bfa822b58f48f671412918f7e4127a6ff921e9369d44367467fbadc5c391c145",
+      "bytes": 218818
+    },
+    "hsk6-scattered-blocks.jpg": {
+      "sha256": "81dbae50cf44f5d5a3e406bf15f88d0cabf8a3c12ee564db3b53e483a47b3e0c",
+      "bytes": 205287
+    },
+    "hsk6-scifi-viewing.jpg": {
+      "sha256": "6a78850d10b8d25ff4cbfded9c989592098f27d7a132522815377ba3efc7040c",
+      "bytes": 225994
+    },
+    "hsk6-sealed-culture.jpg": {
+      "sha256": "1d52ef0cdc9b3b7d910957d0c64b3939a90885b8dccbd674630673a046d408b9",
+      "bytes": 185687
+    },
+    "hsk6-seed-sowing.jpg": {
+      "sha256": "afa22b261ff41ec283904d2a91b69df75276a042018063019c90540d88c51774",
+      "bytes": 320868
+    },
+    "hsk6-senior-care-lounge.jpg": {
+      "sha256": "2786762d2ffa01ad3530166c4de13a3f17336d16ba3ea699007cd3c5abfee9e7",
+      "bytes": 271861
+    },
+    "hsk6-shadow-path.jpg": {
+      "sha256": "bde2b58f696ac02fc0ae91dfbbf51f0d3b78f11abcc3c9130f7aa17aa173a6ae",
+      "bytes": 344040
+    },
+    "hsk6-shaping-clay.jpg": {
+      "sha256": "38fd6878dc3e72ebdfcba623bfc46f8faa8e4b94e962646ed5facc1de8e5b400",
+      "bytes": 200140
+    },
+    "hsk6-shark-aquarium.jpg": {
+      "sha256": "12d04ef7750c166ad6d09a13257f2edccb4ba222ce30aa836afe93cbad698bd4",
+      "bytes": 226969
+    },
+    "hsk6-shoulder-closeup.jpg": {
+      "sha256": "2ab0e2ea4ee0b9f4bc71b6f28ea876941baabedceaf70c76aa315c1aecfaa839",
+      "bytes": 190387
+    },
+    "hsk6-shoulder-massage.jpg": {
+      "sha256": "66fd63e2ed6197dff97a59d3abb2fb0c5996b2795a08efb51d01b4dab7dc6627",
+      "bytes": 196076
+    },
+    "hsk6-simple-complex-shapes.jpg": {
+      "sha256": "19a6b4f65d16d11b08ffd1b6c6f430c2a77e3e6f6330250b4a5839013f6cc6a0",
+      "bytes": 160676
+    },
+    "hsk6-single-die.jpg": {
+      "sha256": "f0c8e17c1f45f9c91288f6606d501867eea4168d48c280c5a6a03ded20f22260",
+      "bytes": 147724
+    },
+    "hsk6-single-window.jpg": {
+      "sha256": "615c2a09c7f62846c7861476e331c15079f0260e561edc839a69c3e36d681572",
+      "bytes": 191197
+    },
+    "hsk6-skiing.jpg": {
+      "sha256": "71e64bcd9a77ee35c6be1b95d4ae292fd859d04e566f091a53426816876895e2",
+      "bytes": 251482
+    },
+    "hsk6-solar-panels.jpg": {
+      "sha256": "4e863998b398c1c80370d7eee31f6475b51d186a7b4720d4b25534c27a92b466",
+      "bytes": 368742
+    },
+    "hsk6-solitary-park-bench.jpg": {
+      "sha256": "7c9e1d1c8c45ce1a9c1c14144bd3ed8e69988511c08d769ea04cc17f1e125a22",
+      "bytes": 349028
+    },
+    "hsk6-soy-sauce-paste.jpg": {
+      "sha256": "a0b0e3a7abb7376dc38cf5fa611067197df3d06276dadea59cb4d8f675876498",
+      "bytes": 227081
+    },
+    "hsk6-spaced-cubes.jpg": {
+      "sha256": "44c0595380d87ebfd0ef1ccee8acc2033b704c5f7e9251d5e9c8a82916ab357e",
+      "bytes": 227130
+    },
+    "hsk6-squatting.jpg": {
+      "sha256": "0a4ea565275cfbd54305dc9fc4b9757747e33efa375f2b45758c75d05dadd5ba",
+      "bytes": 318037
+    },
+    "hsk6-staged-noncontact-fight.jpg": {
+      "sha256": "44ed4f3b5262b1077773efc39c00ec4f1ae29b371b3090d571bb6507c39eb88a",
+      "bytes": 191372
+    },
+    "hsk6-staged-theft.jpg": {
+      "sha256": "3d25f1b2d4371d589c335e9a3d18d58751c6a19158913e9df1dd16fb88baef3f",
+      "bytes": 169403
+    },
+    "hsk6-stepping-onto-stage.jpg": {
+      "sha256": "2d9aa4281f4b90287ab1d3e2b616ca8bca7cd0453fd913ca7c95b8de05943c2d",
+      "bytes": 178434
+    },
+    "hsk6-stock-discussion.jpg": {
+      "sha256": "8124569b08e03a3d7d6fc12226204a11a16757d62a39059b83e87bbb780ead03",
+      "bytes": 216099
+    },
+    "hsk6-stopper-bottle.jpg": {
+      "sha256": "98dd73f249b72ec900bb43e234acf0c6abecd4e80c71c4b96d46202c1f3473e1",
+      "bytes": 193198
+    },
+    "hsk6-stretching-band.jpg": {
+      "sha256": "d983b8e37aaf162bb11c1aba1f5c7d285df109106673153a8f81fbc3ecc07f36",
+      "bytes": 175797
+    },
+    "hsk6-summer-camp.jpg": {
+      "sha256": "2fe30e6607050639716c2ee81f0058a3c49f745d372eeaa42fc38b2503ff9c74",
+      "bytes": 309611
+    },
+    "hsk6-supportive-conversation.jpg": {
+      "sha256": "38827336f1258dd11afdba3ca75e7ff394ada3ca27d74f091a0e9bb7d71056fa",
+      "bytes": 273667
+    },
+    "hsk6-symmetric-paper-cut.jpg": {
+      "sha256": "83db82a6535accef89c0ad68a69df0de4acea7410a84aa43a332d5403fe43b2d",
+      "bytes": 169984
+    },
+    "hsk6-taiwan-strait-model-map.jpg": {
+      "sha256": "1ffcce71cab00e87f2eb81e0f428f5740882cf49668f45a4191e7d04531b8ad0",
+      "bytes": 309228
+    },
+    "hsk6-taking-from-pocket.jpg": {
+      "sha256": "28fc5ed1554fa6665dd021fd847065cfc13cd05e05fc4f803d3168191759a1d9",
+      "bytes": 168752
+    },
+    "hsk6-tangyuan.jpg": {
+      "sha256": "5b21055fdd7693ced2aa6dd16492e8ee669f5af9c6a971199d3935a994c28161",
+      "bytes": 203494
+    },
+    "hsk6-tape-and-glue.jpg": {
+      "sha256": "7f58a5f835081f44b970318cb588a53c3f05108bdab256b380f6233572afd8b3",
+      "bytes": 221675
+    },
+    "hsk6-target-hit.jpg": {
+      "sha256": "081443d9e127de10b93377f1113f3ca0062f42a5a157d39b5e168b79b1d7d736",
+      "bytes": 198509
+    },
+    "hsk6-telescope-night.jpg": {
+      "sha256": "da35c23a402414b62cb4b016a99a3f95abf9fb8e6a437f6af70664942c132748",
+      "bytes": 201673
+    },
+    "hsk6-television-subtitles.jpg": {
+      "sha256": "a1a8a6f3de53fe23bb905dbfccbbf0dd49c971a8144a9012bcd4bc7c41c1a93e",
+      "bytes": 237739
+    },
+    "hsk6-ten-day-periods.jpg": {
+      "sha256": "b3ec5be5c1b438935efce00fb1883e2ae904034ec4f46cc95a633b2b69828a14",
+      "bytes": 197850
+    },
+    "hsk6-theatre-fraud-story.jpg": {
+      "sha256": "cd44e1090d561067ea2828e02763bfd43bf41658f9b76e5d5af8525c7a38ce48",
+      "bytes": 193952
+    },
+    "hsk6-tin-can.jpg": {
+      "sha256": "402e1b0a12810d68f5e0b602a89728b3079af7bdb216c6b6374bcd1b3df259cb",
+      "bytes": 153805
+    },
+    "hsk6-trade-fair.jpg": {
+      "sha256": "57abf2749a0c4e95d789b3d6d555c64104f902d48d6d2f9139a4c6feabe1f1c5",
+      "bytes": 268914
+    },
+    "hsk6-turning-around.jpg": {
+      "sha256": "954c57a8dcae123da41acf2bd3cc02b36268c3e5df971a9f351b5a5dede7ab9f",
+      "bytes": 228327
+    },
+    "hsk6-turtle.jpg": {
+      "sha256": "4a4bfae666630d07a4a7c454bdcda744b686ea8c231d547c4b051d1a087b9f22",
+      "bytes": 338672
+    },
+    "hsk6-unarmed-military-actors.jpg": {
+      "sha256": "1cec1830f2698f504e3381e0a62150bb68a7cc5169498b81a5e6d13c8eb1ec93",
+      "bytes": 241421
+    },
+    "hsk6-unlit-matches.jpg": {
+      "sha256": "ad160eb8f098367d578c2571009c07effb42c60a470271df60dd2070047adffc",
+      "bytes": 180148
+    },
+    "hsk6-ventilating-room.jpg": {
+      "sha256": "7033d86aa9c5876ba5a0340a3dcaf30c0e7aa14bcd9247f2674b7f2468d07db3",
+      "bytes": 254730
+    },
+    "hsk6-vest.jpg": {
+      "sha256": "66506fd3f690040a228ea69a7fb7e2a684a6abf1eb385d5b002134b424c210e1",
+      "bytes": 183574
+    },
+    "hsk6-vinegar.jpg": {
+      "sha256": "e539ef8a5a0f6ffe1e408409ed5596e4375481831149b7283eff7435a5e0e373",
+      "bytes": 215627
+    },
+    "hsk6-vision-check.jpg": {
+      "sha256": "28fc02b35b3dbd4d67bc0dbe9065728db896926228b24999ca2232ae84e51adf",
+      "bytes": 210852
+    },
+    "hsk6-wall-power-outlet.jpg": {
+      "sha256": "8c5e2ad5670f7e902eb878b422b10dd81d780344d8b6cdc84f3b4a692b6c2f2e",
+      "bytes": 114701
+    },
+    "hsk6-wall-switch.jpg": {
+      "sha256": "5bfdd79d60fa02fb7bf5820d7c1375b6d8a295f8242eff78d5e763cfff030d53",
+      "bytes": 157162
+    },
+    "hsk6-water-heater.jpg": {
+      "sha256": "a3774ca7fe857d32ee0ea44f8bbea761cc8c0aa2c4aaf23d956e098262b4dade",
+      "bytes": 153425
+    },
+    "hsk6-water-well.jpg": {
+      "sha256": "591f338ec343519129e3deb19cc5092ae026855a7b002e34bb8a81a39092bfa5",
+      "bytes": 368081
+    },
+    "hsk6-weather-sensor-check.jpg": {
+      "sha256": "7971e88ea54671475d2ffa81977fd8506933243c57bf83116b7f9d172b06e623",
+      "bytes": 244509
+    },
+    "hsk6-webcam.jpg": {
+      "sha256": "7c2b2a92e5a00523fc4c6d3af671a9086e8de16d4d4b466f40e04c5752d07c2b",
+      "bytes": 94299
+    },
+    "hsk6-wheat.jpg": {
+      "sha256": "027a558d971a5c87991b9cc3b75693a51afce0b5668caf2063c440fbe0e01813",
+      "bytes": 346893
+    },
+    "hsk6-wheel-in-mud.jpg": {
+      "sha256": "243447d078216be864dcb580fe28889ef4848eed42134810a08f208803fb8eb2",
+      "bytes": 401722
+    },
+    "hsk6-wheelchair-user.jpg": {
+      "sha256": "a35862335871505f284925b0c58bc5e86a99045ec8261809d978253f63d9db99",
+      "bytes": 303126
+    },
+    "hsk6-white-cane-user.jpg": {
+      "sha256": "1184fbd71cdaddd5ce4eaf88d2b5cc9f312bc7029339aead7467907b25bdcf84",
+      "bytes": 266091
+    },
+    "hsk6-wholesale-produce.jpg": {
+      "sha256": "a3b0e477075abdf4c47c1dc63105d24dcf326d52f3ac559c5839979b064e3ac1",
+      "bytes": 307856
+    },
+    "hsk6-withdrawing-atm.jpg": {
+      "sha256": "442d0e8ecb40d4b6115b5c4685b9c54d0b2dd6171b77653a2ae737d93a649a5c",
+      "bytes": 180223
+    },
+    "hsk6-wolf.jpg": {
+      "sha256": "daa6c9d14ea4517778b144cad0eef2a73b634601a69a2f8f3c606d0ea99e3dc5",
+      "bytes": 339552
+    },
+    "hsk6-wooden-stick.jpg": {
+      "sha256": "41b9a7a4f1b4d5c812158b224da6181a3569d3906e552c7677288ed468bfe3ff",
+      "bytes": 157374
+    },
+    "hsk6-xiangqi-board.jpg": {
+      "sha256": "8415c8089b1b431eaef9f4da89c02a12bce86619e3c05276627dc0591664c74f",
+      "bytes": 263721
+    },
+    "hsk6-yellow-fabric.jpg": {
+      "sha256": "90199872df46ba9a647c7026277fa8c2154da7cf16ceeb0d98f2f20d9ff9d32f",
+      "bytes": 202744
+    },
+    "hsk6-zongzi.jpg": {
+      "sha256": "890f17b065f22647a379a240dc84e0ba503abbaf40e45820cb124059cf981ab0",
+      "bytes": 253160
     },
     "hundred-beads.jpg": {
       "sha256": "4a37b12d77d4366131b77e0a06cfd44af7f9948672e48a2607d319ec1252c5c8",

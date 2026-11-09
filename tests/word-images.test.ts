@@ -19,8 +19,13 @@ test('word photographs are explicit sense matches, not a contains-character fall
  const tears=officialVocabulary.find(word=>word.hanzi==='泪水')!;
  assert.equal(getWordImage(tears)?.character,'泪');
  assert.match(getWordImage(tears)?.src??'',/6cea/);
- const knotFruit=officialVocabulary.find(word=>word.hanzi==='结'&&word.pinyin==='jiē');
- if(knotFruit)assert.equal(getWordImage(knotFruit),undefined);
+ const fruitWord=officialVocabulary.find(word=>word.hanzi==='结'&&word.pinyin==='jiē')!;
+ const knotWord=officialVocabulary.find(word=>word.hanzi==='结'&&word.pinyin==='jié')!;
+ const fruitPicture=getWordImage(fruitWord);
+ assert.ok(fruitPicture,'the fruit-bearing sense needs its own reviewed photograph');
+ assert.notEqual(fruitPicture.src,getWordImage(knotWord)?.src,'jiē must not inherit the jié knot image');
+ assert.match(fruitPicture.caption,/果实/);
+ assert.match(fruitPicture.note??'',/jiē/);
  const context={id:'unreviewed-red-words',hanzi:'红细胞',pinyin:'hóngxìbāo',korean:'적혈구',level:7,pos:'名'};
  assert.equal(getWordImage(context),undefined);
  const chain=getPictureWordChain('泪',officialVocabulary);

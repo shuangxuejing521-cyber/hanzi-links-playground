@@ -25,8 +25,11 @@ Progress is recorded under ignored work/hsk-word-images, including scene status 
 - [x] Verified desktop/mobile sidebar, original practice, source cards and production publication in v15; mirrored reviewed source/assets to GitHub.
 - [x] Level3: verified/promoted107 reviewed photographs, completed500/500 mappings in v15. Official photo coverage1159/11000; remaining9841.
 - [x] Level4: complete two500-word curation plans, generate/review140 new scenes, enforce1000/1000 coverage, publish v16 and mirror. Official photo coverage2121/11000; remaining8879.
-- [ ] Level5: preserve51 original mappings, curate1549 missing links, generate/review221 new scenes, enforce1600/1600 coverage, publish and mirror.
+- [x] Level5: preserve51 original mappings, curate1549 missing links, generate/review221 new scenes, enforce1600/1600 coverage, publish v17 and mirror. Official photo coverage3670/11000; remaining7330.
+- [ ] Level6: preserve37 original mappings, curate1763 missing links in three600-word parts, generate/review251 new scenes, enforce1800/1800 coverage, publish and mirror. Curation, image reviews, promotion and exact-ID merge complete;101 tests and types pass. Publication pending.
 
 v15: Site source bc73ec930468b918e02077cb16b1cfe502e751c2; GitHub source snapshot74e25cabdc0b28f40abb12e4525a9cc250e51e6e.86 Node tests,7 collector tests, types and production build passed; live206-sidebar/早 seven stages/level3西瓜 image checked. Runtime owner-only statistics remain at environment revision2.
 
 v16: Site source ca751ce8467777c13e80a2aad52cee9bf6783a13; GitHub snapshot8e2e26a959e630b19f14088653220f9f96161d1f.87 Node tests, types and production build passed; live level4母子 photo1000×750 and all seven母 source-stage images loaded. All1457 previous mappings preserved. Package with COPYFILE_DISABLE=1 to omit macOS AppleDouble metadata; expanded tar253790208 bytes. Runtime owner-only statistics remain at environment revision2.
+
+v17: Site source9afd565ba5ad44f1830dfafaa2ba87048cbb8ab5; GitHub snapshote2d84c995aa3f193ea3ba37aea8ef18c8b307a97.100 tests, types and production build passed.603 reviewed original JPEGs remain in source and immutable archive63ba3cdd542618f74f9dc39ed7d0f938d25b9e88; remove only verified deployment copies. Live5级旅行社 photo1000×750 and all seven旅 source stages loaded. Original2419 mappings preserved; runtime environment revision2. Expanded tar173583360 bytes.

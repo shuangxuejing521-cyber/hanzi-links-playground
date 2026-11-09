@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "policy": "Exact source-specific display recovery. Original stage records and sanitized SVGs are retained unchanged; overrides do not change historical association or classification.",
+  "overrides": {
+    "https://img.zdic.net/zy/xiaozhuan/27_6302.svg": {
+      "displaySrc": "/images/course-evolution/recovered-xiaozhuan-27_6302.png",
+      "sha256": "ff0f18ad9de243d8c8ca30e1df1ce9dc1c55e1796ce5fd55fe153b5ac29ae87c",
+      "sourceUrl": "https://img.zdic.net/zy/xiaozhuan/27_6302.svg",
+      "sourceSha256": "58442942c389d8270ead14d568f17723eea2486429c1f2ed32edd7d0f7b6d6e9",
+      "sourcePageUrl": "https://zdic.net/hans/%E6%8C%82#zyzx",
+      "sourcePageChecked": "2026-11-06",
+      "recovered": "2026-11-09",
+      "mimeType": "image/png",
+      "width": 550,
+      "height": 535,
+      "method": "Extracted the exact base64 PNG bytes embedded in the source SVG; no resizing, redrawing, AI generation or pixel re-encoding.",
+      "recoveryNote": "The previous SVG sanitizer removed the embedded data:image/png URI and left an empty image element. Use this separately retained source image for display while preserving the old sanitized file and its hash.",
+      "license": "CC0-1.0",
+      "licenseSource": "https://zdic.net/terms/"
+    }
+  }
+}

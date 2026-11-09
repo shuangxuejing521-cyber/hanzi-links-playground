@@ -1,12 +1,13 @@
 import {useEffect,useMemo,useState} from 'react';
 import {ArrowRight,Check,ChevronRight,ExternalLink,Heart,RotateCcw,Volume2} from 'lucide-react';
-import {getCourseCharacter,nodeIds,glyphSrc,getRelatedCourseCharacters,getWordsForCourseCharacter,getSpecimenHeadword,type CourseNode} from '../lib/course';
+import {getCourseCharacter,nodeIds,glyphSrc,getRelatedCourseCharacters,getWordsForCourseCharacter,type CourseNode} from '../lib/course';
 import {characters} from '../lib/combine';
 import {characterEvidence,componentEvidence,roots,roleFor} from '../lib/evidence';
 import {formatWordLevel} from '../lib/hsk';
 import type {Word} from '../lib/types';
 import LearningPhoto from './LearningPhoto';
 import ConstructionDiagram from './ConstructionDiagram';
+import {CharacterEvolution} from './CharacterEvolution';
 import './course-character-card.css';
 import objectClueData from '../../public/sources/course-objects.json';
 
@@ -15,19 +16,6 @@ interface Props {
  onCharacter:(hanzi:string)=>void;onWord:(word:Word)=>void;practice?:boolean;
  saved?:boolean;onFavorite?:()=>void;
 }
-interface CourseEvolution {
- traditional?:string;sourceUrl:string;availability:string;sourceAnalysis?:string;
- stages:Array<{stage:string;src:string;url:string;provenanceNote:string}>;
-}
-interface EvolutionManifest {characters:Record<string,CourseEvolution>}
-let evolutionPromise:Promise<EvolutionManifest>|null=null;
-function loadEvolution(){
- if(!evolutionPromise)evolutionPromise=fetch('/sources/course-evolution.json')
-  .then(response=>{if(!response.ok)throw new Error('evolution unavailable');return response.json() as Promise<EvolutionManifest>;})
-  .catch(()=>({characters:{}}));
- return evolutionPromise;
-}
-
 const layoutLabels:Record<string,string>={
  '⿰':'좌우 구조','⿱':'상하 구조','⿲':'왼쪽·가운데·오른쪽','⿳':'위·가운데·아래',
  '⿴':'전체를 둘러싸는 구조','⿵':'위쪽에서 둘러싸는 구조','⿶':'아래쪽에서 둘러싸는 구조',
@@ -36,7 +24,6 @@ const layoutLabels:Record<string,string>={
  '⿽':'오른쪽 아래에서 둘러싸는 구조','⿾':'좌우 반전','⿿':'회전 구조'
 };
 const roleLabels:Record<string,string>={'现代部件':'현대 글자 요소','意义线索':'뜻의 단서','历史声旁':'옛 소리의 단서','简化后字形':'간체 형태','现代字形部件':'현대 글자 요소'};
-const stageName=(value:string)=>value==='说文'?'《说文》 소전':value;
 const relatedForm=(item:unknown):string=>typeof item==='string'?item:item&&typeof item==='object'&&'hanzi' in item&&typeof item.hanzi==='string'?item.hanzi:'';
 function Glyph({form,className=''}:{form:string;className?:string}){
  const src=glyphSrc(form);
@@ -68,8 +55,7 @@ function Fragment({node}:{node:CourseNode}){
 export default function CourseCharacterCard({hanzi,words,showKo,speak,onCharacter,onWord,practice=false,saved=false,onFavorite}:Props){
  const c=getCourseCharacter(hanzi),curated=characters.find(item=>item.hanzi===hanzi);
  const evidence=characterEvidence[hanzi];
- const [evolution,setEvolution]=useState<CourseEvolution|undefined>();
- const [stageIndex,setStageIndex]=useState(0),[slots,setSlots]=useState<Array<string|null>>([]),[feedback,setFeedback]=useState(''),[completed,setCompleted]=useState(false);
+ const [slots,setSlots]=useState<Array<string|null>>([]),[feedback,setFeedback]=useState(''),[completed,setCompleted]=useState(false);
  const pieces=useMemo(()=>c?.tree.type==='layout'?c.tree.children:[],[c]);
  const target=useMemo(()=>pieces.map(nodeIds),[pieces]);
  const bank=useMemo(()=>pieces.filter((node,index)=>pieces.findIndex(candidate=>nodeIds(candidate)===nodeIds(node))===index),[pieces]);
@@ -81,11 +67,8 @@ export default function CourseCharacterCard({hanzi,words,showKo,speak,onCharacte
   if(c)visit(c.tree);
   return roots.filter(root=>leafForms.has(root.baseForm)||(leafForms.has(root.form)&&(!['body','jade'].includes(root.radicalId)||(curated?.radical===root.radicalId&&roleFor(curated,0).label==='意义线索')))).slice(0,3);
  },[c,curated]);
- useEffect(()=>{setSlots(target.map(()=>null));setFeedback('');setCompleted(false);setStageIndex(0);setEvolution(undefined);let active=true;void loadEvolution().then(data=>{if(active)setEvolution(data.characters[hanzi]);});return()=>{active=false;};},[hanzi,target]);
+ useEffect(()=>{setSlots(target.map(()=>null));setFeedback('');setCompleted(false);},[hanzi,target]);
  if(!c)return <section className="course-character-card"><h2>{hanzi}</h2><p>글자 자료를 확인해 주세요.</p><a href={`https://zdic.net/hans/${encodeURIComponent(hanzi)}`} target="_blank" rel="noreferrer">汉典<ExternalLink size={12}/></a></section>;
- const localStages=evolution?.stages.filter(item=>item.src.startsWith('/'))??[];
- const associatedStages=localStages.filter(item=>{const form=getSpecimenHeadword(item.url);return form&&form!==hanzi&&form!==evolution?.traditional;});
- const stages=localStages.filter(item=>!associatedStages.includes(item)),stage=stages[stageIndex]??stages[0];
  const filled=slots.every(value=>value!==null)&&slots.length>0;
  const pick=(value:string)=>{
   const empty=slots.indexOf(null);if(empty<0)return;
@@ -110,7 +93,7 @@ export default function CourseCharacterCard({hanzi,words,showKo,speak,onCharacte
 
   {relatedRoots.length>0&&<section className="course-card-section"><div className="course-section-heading"><h3>부품의 그림 단서</h3><span>부품의 본자와 연결</span></div><div className="course-root-pictures">{relatedRoots.map(root=><figure key={root.radicalId}><img src={`/images/roots/${root.radicalId}.webp`} alt={`${root.baseForm} 부품의 실물 참고: ${root.visualCaption}`} loading="lazy"/><figcaption><strong>{root.baseForm}{root.form!==root.baseForm?` → ${root.form}`:''}</strong><span>{showKo?root.korean:root.meaningZh}</span><small>AI 참고 이미지 · 부품 단서</small></figcaption></figure>)}</div></section>}
 
-  <section className="course-card-section course-evolution"><div className="course-section-heading"><h3>汉典条目关联古字例</h3><span>출전이 있는 참고 자료</span></div>{evolution?.traditional&&evolution.traditional!==hanzi&&<p className="course-traditional-label">원문 병기: {evolution.traditional} · 뜻에 따라 표기가 달라질 수 있어요.</p>}{stages.length>0?<><div className="course-evolution-picker" role="group" aria-label={`${hanzi}의 옛 글자 선택`}>{stages.map((item,i)=><button type="button" key={`${item.stage}-${i}`} className={i===stageIndex?'selected':''} aria-pressed={i===stageIndex} onClick={()=>setStageIndex(i)}><img src={item.src} alt={`汉典 항목의 ${stageName(item.stage)} 참고 글자`} loading="lazy"/><span>{stageName(item.stage)}{getSpecimenHeadword(item.url)&&<small>자료 색인: {getSpecimenHeadword(item.url)}</small>}</span></button>)}</div>{stage&&<div className="course-evolution-specimen"><img src={stage.src} alt={`${stageName(stage.stage)}: ${stage.provenanceNote}`}/><div><strong>{stageName(stage.stage)}</strong>{getSpecimenHeadword(stage.url)&&<p>자료 색인 글자: {getSpecimenHeadword(stage.url)}</p>}<p>{stage.provenanceNote}</p><a href={stage.url||evolution?.sourceUrl} target="_blank" rel="noreferrer">원자료 보기<ExternalLink size={11}/></a></div></div>}<p className="course-structure-note">해당 사전 항목의 참고 자료예요. 같은 글자의 직접 변천으로 단정하지 않아요.</p></>:<p className="course-structure-note">이 카드에는 출전이 확인된 옛 글자 이미지를 싣지 않았어요. 아래 원자료에서 확인할 수 있어요.</p>}{associatedStages.length>0&&<details className="course-associated-specimens"><summary>그 밖의 관련 자료 · 관계 별도 확인 필요 ({associatedStages.length})</summary>{associatedStages.map((item,i)=><p key={i}><a href={item.url} target="_blank" rel="noreferrer">{stageName(item.stage)} · 자료 색인 글자: {getSpecimenHeadword(item.url)}<ExternalLink size={11}/></a></p>)}</details>}<div className="course-source-links"><a href={evolution?.sourceUrl??`https://zdic.net/hans/${encodeURIComponent(hanzi)}`} target="_blank" rel="noreferrer">汉典 · 字源字形<ExternalLink size={11}/></a><a href={`https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=${encodeURIComponent(hanzi)}`} target="_blank" rel="noreferrer">香港中文大学 · 字形字義<ExternalLink size={11}/></a><a href="/sources/course-characters-provenance.json" target="_blank" rel="noreferrer">현대 구조 자료<ExternalLink size={11}/></a></div></section>
+  <section className="course-card-section course-evolution"><div className="course-section-heading"><h3>字源字形</h3><span>출전이 있는 참고 자료</span></div><CharacterEvolution key={hanzi} hanzi={hanzi}/></section>
 
   <section className="course-card-section course-modern-structure"><div className="course-section-heading"><h3>부품 → 한자</h3><span>오늘의 글자 구조</span></div><div className="course-structure-equation"><StructureNode node={c.tree} onCharacter={onCharacter}/><ArrowRight size={20}/><div className="course-structure-result"><Glyph form={hanzi}/><strong>{hanzi}</strong></div></div><p className="course-structure-note">모양의 구성이에요. 부품의 뜻을 더해 단어 뜻으로 해석하지 않아요.</p>{curated&&<ConstructionDiagram character={curated}/>}</section>
 

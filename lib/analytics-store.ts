@@ -1,6 +1,6 @@
 import type {AnalyticsEvent,AnalyticsSummary} from '../src/analytics/contracts';
 import {AnalyticsError,type AnalyticsFilters} from './analytics-core';
-import radicals from '../src/data/radicals.json';
+import {sidebarFamilies} from '../src/lib/sidebar-families';
 import characters from '../src/data/characters.json';
 
 export interface Statement{bind(...values:unknown[]):Statement;first<T=Record<string,unknown>>():Promise<T|null>;all<T=Record<string,unknown>>():Promise<{results:T[]}>;run():Promise<unknown>}
@@ -53,7 +53,7 @@ export async function readSummary(db:AnalyticsDb,filters:AnalyticsFilters):Promi
  return {
   range:{from:filters.from,to:filters.to},
   totals:Object.fromEntries(['visitors','sessions','events','activeMs','radicalClicks','attempts','firstAttempts','firstCorrect','uncollected','freeCompositions','retryAttempts'].map(key=>[key,numeric(total[key])])) as unknown as AnalyticsSummary['totals'],
-  radicals:radicals.map(radical=>{const r=radicalMap.get(radical.id)??{};const visible=numeric(r.visibleSessions);return {id:radical.id,form:radical.form,name:radical.name,korean:radical.korean,clicks:numeric(r.clicks),visitors:numeric(r.visitors),visibleSessions:visible,clickSessions:numeric(r.clickSessions),ctr:visible?numeric(r.clickSessions)/visible:null,characters:characters.filter(c=>c.radical===radical.id).length};}).sort((a,b)=>b.clicks-a.clicks),
+  radicals:sidebarFamilies.map(radical=>{const r=radicalMap.get(radical.id)??{};const visible=numeric(r.visibleSessions);return {id:radical.id,form:radical.form,name:radical.name,korean:radical.korean,clicks:numeric(r.clicks),visitors:numeric(r.visitors),visibleSessions:visible,clickSessions:numeric(r.clickSessions),ctr:visible?numeric(r.clickSessions)/visible:null,characters:radical.characters.length};}).sort((a,b)=>b.clicks-a.clicks),
   daily:dailyRows.map(r=>({date:String(r.date),visitors:numeric(r.visitors),sessions:numeric(r.sessions),clicks:numeric(r.clicks),attempts:numeric(r.attempts),correct:numeric(r.correct),activeMs:numeric(r.activeMs)})),
   modes:modeRows.map(r=>({mode:String(r.mode),views:numeric(r.views),clicks:numeric(r.clicks),activeMs:numeric(r.activeMs)})),
   characters:charRows.map(r=>({id:String(r.id),hanzi:canonicalCharacters.get(String(r.id))?.hanzi??String(r.id),views:numeric(r.views),visitors:numeric(r.visitors),attempts:numeric(r.attempts),firstCorrect:numeric(r.firstCorrect)})),

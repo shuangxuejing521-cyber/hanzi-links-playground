@@ -45,6 +45,7 @@ test('character lessons include corrected Korean glosses and accept untoned char
  assert.ok(searchCourseCharacters(pool,'nv').some(char=>char.hanzi==='女'));
  assert.ok(searchCourseCharacters(pool,'luo').some(char=>char.hanzi==='罗'));
  assert.deepEqual(getCourseCharacter('脊')?.pinyin,['jǐ']);
+ assert.deepEqual(getCourseCharacter('宁')?.pinyin,['níng','nìng']);
  assert.match(getCourseCharacter('袱')?.korean??'',/보자기/);
 });
 test('specimen file headwords do not falsely label related glyphs as the target modern character',()=>{

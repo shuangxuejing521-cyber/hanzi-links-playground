@@ -50,6 +50,20 @@ test('mode clicks require a known destination without treating initial views as 
  assert.throws(()=>validateEventBatch([{...click,mode:'admin'}],session,now));
  assert.equal(validateEventBatch([{...event,name:'mode_view',source:'initial'}],session,now)[0].name,'mode_view');
 });
+test('registered dictionary families accept views, clicks and impressions while retaining legacy IDs',()=>{
+ for(const familyId of ['dict-1','dict-74'])for(const name of ['radical_view','radical_click','radical_impression']){
+  assert.equal(validateEventBatch([{...event,name,familyId}],session,now)[0].familyId,familyId);
+ }
+ for(const familyId of ['water','person','hand','mouth','wood','speech','heart','woman','thread','sun','eye','body','earth','metal','food','animal','ice','fire','rice','ritual','clothes','foot','jade','insect','vehicle','stone']){
+  assert.equal(validateEventBatch([{...event,familyId}],session,now)[0].familyId,familyId);
+ }
+ for(const familyId of ['dict-0','dict-215','dict-999','dict-130','dict-15','74','unknown']){
+  assert.throws(()=>validateEventBatch([{...event,familyId}],session,now));
+ }
+ for(const name of ['radical_view','radical_click','radical_impression']){
+  assert.throws(()=>validateEventBatch([{...event,name,familyId:undefined}],session,now));
+ }
+});
 test('CSV escaping protects formula-like values and preserves Korean commas and quotes',()=>{
  assert.equal(csvCell('=SUM(A1:A3)'),"' =SUM(A1:A3)".replace("' ","'"));
  assert.equal(csvCell('말, "물"'),'"말, ""물"""');
@@ -104,6 +118,65 @@ test('course and level filters keep legacy five separate from official five in s
  assert.equal((await readSummary(db,filters)).totals.events,1);
  const rows=await exportEventPage(db,filters,0);assert.equal(rows.length,1);assert.equal(rows[0].course,'legacy5');
  sqlite.close();
+});
+test('real SQL ranks new dictionary families, deduplicates uploads and separates moon from body',async()=>{
+ const {db,sqlite}=fixture();
+ try{
+  const row=await db.prepare('SELECT * FROM analytics_sessions WHERE id=?').bind(session).first<any>();
+  const make=(id:string,name:string,familyId:string):AnalyticsEvent=>({...event,id,name,familyId,course:'official',level:3}) as AnalyticsEvent;
+  const click=make('dictionary-click-one','radical_click','dict-1');
+  await appendEvents(db,row,[
+   make('dictionary-impression','radical_impression','dict-1'),
+   make('dictionary-auto-view','radical_view','dict-1'),click,
+   make('dictionary-click-two','radical_click','dict-1'),
+   make('moon-impression','radical_impression','dict-74'),
+   make('moon-auto-view','radical_view','dict-74'),
+   make('moon-click','radical_click','dict-74'),
+   make('body-click','radical_click','body'),make('water-click','radical_click','water'),
+   make('ice-auto-view','radical_view','ice'),
+  ],new Date(now).toISOString());
+  await appendEvents(db,row,[click],new Date(now).toISOString());
+  sqlite.prepare('INSERT INTO analytics_visitors(id,created_at,last_seen_at) VALUES(?,?,?)').run('second-visitor',new Date(now).toISOString(),new Date(now).toISOString());
+  const second='second-session';
+  sqlite.prepare('INSERT INTO analytics_sessions(id,visitor_id,created_at,last_seen_at,rate_window) VALUES(?,?,?,?,?)').run(second,'second-visitor',new Date(now).toISOString(),new Date(now).toISOString(),'2026-11-07T07:00');
+  const secondRow=await db.prepare('SELECT * FROM analytics_sessions WHERE id=?').bind(second).first<any>();
+  await appendEvents(db,secondRow,[{...make('dictionary-second-exposure','radical_impression','dict-1'),sessionId:second}],new Date(now).toISOString());
+  const filters=parseFilters(new URLSearchParams('from=2026-11-07&to=2026-11-07'),now);
+  const summary=await readSummary(db,filters);
+  assert.equal(summary.radicals.length,206);
+  assert.equal(summary.radicals[0].id,'dict-1');
+  assert.deepEqual(summary.radicals.find(r=>r.id==='dict-1'),{id:'dict-1',form:'一',name:'一部',korean:'한 일',clicks:2,visitors:1,visibleSessions:2,clickSessions:1,ctr:.5,characters:30});
+  const moon=summary.radicals.find(r=>r.id==='dict-74'),body=summary.radicals.find(r=>r.id==='body');
+  assert.equal(moon?.clicks,1);assert.equal(moon?.characters,9);assert.equal(moon?.name,'月部');
+  assert.equal(body?.clicks,1);assert.equal(body?.characters,67);assert.equal(body?.name,'月字旁（肉）');
+  assert.equal(summary.radicals.find(r=>r.id==='water')?.characters,171);
+  const ice=summary.radicals.find(r=>r.id==='ice');
+  assert.equal(ice?.clicks,0);assert.equal(ice?.visibleSessions,0);assert.equal(ice?.ctr,null);assert.equal(ice?.characters,18);
+  assert.equal(summary.totals.events,11);assert.equal(summary.totals.radicalClicks,5);
+  assert.ok(summary.recent.some(r=>r.familyId==='dict-1'));
+  assert.ok(summary.paths.some(r=>r.from==='family:dict-1'&&r.to==='family:dict-74'));
+  assert.equal((await exportEventPage(db,filters,0)).filter(r=>r.family_id==='dict-1').length,5);
+ }finally{sqlite.close();}
+});
+test('new dictionary family rankings honor filters and include zero-data categories safely',async()=>{
+ const {db,sqlite}=fixture();
+ try{
+  const row=await db.prepare('SELECT * FROM analytics_sessions WHERE id=?').bind(session).first<any>();
+  await appendEvents(db,row,[
+   {...event,id:'dictionary-official-click',familyId:'dict-1',course:'official',level:3},
+   {...event,id:'dictionary-legacy-click',familyId:'dict-1',course:'legacy5',level:5},
+   {...event,id:'dictionary-other-mode',familyId:'dict-1',course:'official',level:3,mode:'lab'},
+   {...event,id:'dictionary-old-click',familyId:'dict-1',course:'official',level:3,occurredAt:'2026-11-05T07:00:00.000Z'},
+  ] as AnalyticsEvent[],new Date(now).toISOString());
+  const filters=parseFilters(new URLSearchParams('from=2026-11-07&to=2026-11-07&course=official&level=3&mode=explore'),now);
+  const summary=await readSummary(db,filters);
+  assert.equal(summary.radicals.find(r=>r.id==='dict-1')?.clicks,1);assert.equal(summary.totals.radicalClicks,1);
+  assert.equal((await exportEventPage(db,filters,0)).length,1);
+  const empty=await readSummary(db,parseFilters(new URLSearchParams('from=2026-11-06&to=2026-11-06'),now));
+  assert.equal(empty.radicals.length,206);
+  assert.ok(empty.radicals.every(r=>r.clicks===0&&r.visitors===0&&r.visibleSessions===0&&r.clickSessions===0&&r.ctr===null));
+  assert.equal(empty.totals.radicalClicks,0);assert.deepEqual(empty.recent,[]);
+ }finally{sqlite.close();}
 });
 test('mode rankings count explicit clicks separately, deduplicate retries and preserve destination in recent events',async()=>{
  const {db,sqlite}=fixture();

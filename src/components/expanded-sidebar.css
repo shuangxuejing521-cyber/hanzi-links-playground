@@ -1,0 +1,2 @@
+.expanded-radical-sidebar .radical-list>button:disabled{opacity:.4}.expanded-radical-sidebar .radical-list>button:disabled:hover{background:transparent}.expanded-radical-sidebar .radical-list>button:focus-visible{outline-offset:-3px}
+@media(max-width:760px){.expanded-radical-sidebar .radical-search{display:flex}.expanded-radical-sidebar .radical-list{max-width:100%}}

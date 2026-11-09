@@ -20,3 +20,12 @@
 @media(max-width:760px){.course-structure-equation{flex-wrap:nowrap}.course-structure-children{flex-wrap:nowrap}}
 
 .course-evolution-picker button>span>small{display:block;font-size:9px;color:#666168;margin-top:3px}.course-associated-specimens,.course-meaning-note{font-size:11px;line-height:1.8;color:#666168;margin-top:10px}.course-associated-specimens summary,.course-meaning-note summary{cursor:pointer;color:#24765e}.course-associated-specimens a{display:inline-flex;gap:4px;align-items:center}.course-root-pictures img{object-fit:contain!important;background:#fffaf4}
+
+/* The shared source panel keeps this card's existing rose/green palette. */
+.course-character-card .character-evolution-content{border-color:#e7e2e6;border-radius:9px;color:#666168}
+.course-character-card .character-origin-summary{background:#fff8f4}
+.course-character-card .character-origin-summary h4{color:#b6314b}
+.course-character-card .character-stage-picker>button{border-color:#e4dfe3}
+.course-character-card .character-stage-picker>button.selected{border-color:#cb3e58;background:#fff0f3}
+.course-character-card .character-stage-detail,.course-character-card .character-associated figure{background:#f6fcf8;border:1px solid #c8e7d9}
+.course-character-card .character-evolution-content a{color:#24765e}

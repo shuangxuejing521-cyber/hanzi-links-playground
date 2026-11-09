@@ -1,0 +1,33 @@
+.center-column.expanded-family-center{min-width:0}
+.expanded-family-center .expanded-family-intro{grid-template-columns:minmax(0,1fr) 130px}
+.expanded-family-intro h2{flex-wrap:wrap;gap:5px 8px}
+.expanded-family-intro>.expanded-family-intro-glyph{position:static;width:130px;height:150px;display:grid;place-items:center;opacity:.85}
+.expanded-family-intro-glyph>.expanded-modern-glyph{width:120px;height:140px}
+.expanded-family-intro-glyph>.expanded-font-glyph{font-family:var(--serif);font-size:110px;line-height:1;color:var(--family-color)}
+.expanded-family-intro .expanded-family-scope{margin-top:9px;color:#81718e;font-size:10px}
+.expanded-family-intro .expanded-family-return{margin-top:10px;padding:6px 0;color:#8c72a8;font-size:11px}
+.expanded-family-cards .expanded-family-glyph{height:96px;display:grid;place-items:center;align-items:center;justify-content:center;width:100%;padding:7px;margin-bottom:7px;border-radius:6px;background:#faf7fc}
+.expanded-family-glyph>.expanded-modern-glyph{display:block;width:100%;height:82px;object-fit:contain}
+.expanded-family-glyph>.expanded-font-glyph{font-family:var(--serif);font-size:65px;line-height:1.15}
+.expanded-family-card .expanded-family-card-label{min-width:0;flex-wrap:wrap;gap:4px 7px}
+.expanded-family-card-label>span{overflow-wrap:anywhere;line-height:1.5;min-width:0}
+.expanded-family-card>small{max-width:100%;line-height:1.6}
+.expanded-family-cards .expanded-family-classification-note{font-size:10px;line-height:1.9;color:#8c799a;margin-top:12px}
+.expanded-family-pagination{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:15px;min-width:0;color:#8c72a8}
+.expanded-family-pagination>button{border:1px solid #e7dff0;border-radius:6px;background:#fff;padding:7px 8px;font-size:10px;gap:3px;flex:none}
+.expanded-family-pagination>button:disabled{opacity:.4}
+.expanded-family-pagination>span{text-align:center;font-size:10px;line-height:1.7;overflow-wrap:anywhere;min-width:0}
+.expanded-family-pagination small{display:block;color:#a798b2;font-size:9px}
+.connection-panel.expanded-family-connections{display:block}
+.expanded-family-connections .connection-current>span>.expanded-modern-glyph{width:44px;height:49px;object-fit:contain}
+.expanded-family-connections .connection-current .expanded-font-glyph{font-size:37px;line-height:1}
+.expanded-family-connections .connection-current strong,.expanded-family-connections .linked-word div{overflow-wrap:anywhere;min-width:0}
+.expanded-family-connections .connection-current>span{flex:none}
+.expanded-family-connections .connection-branch{min-width:0}
+.expanded-family-connections .linked-word{gap:8px}
+.expanded-family-connections .expanded-family-pagination>button{padding:7px 4px;font-size:9px}
+.expanded-family-connections .expanded-family-pagination>span{font-size:9px}
+.expanded-family-empty{padding:25px;border:1px solid #e7dff0;border-radius:12px;background:#fff;color:#8c72a8}
+.expanded-family-empty h3{font-size:15px;margin-bottom:9px}
+.expanded-family-empty p,.expanded-family-empty-copy{font-size:12px;line-height:1.9;color:#8c799a}
+@media(max-width:760px){.expanded-family-center .expanded-family-intro{grid-template-columns:minmax(0,1fr) 90px}.expanded-family-intro>.expanded-family-intro-glyph{width:90px;height:120px}.expanded-family-intro-glyph>.expanded-modern-glyph{width:84px;height:110px}.expanded-family-intro-glyph>.expanded-font-glyph{font-size:86px}.expanded-family-cards .expanded-family-glyph{height:80px;padding:4px}.expanded-family-glyph>.expanded-modern-glyph{height:70px}.expanded-family-glyph>.expanded-font-glyph{font-size:57px}.connection-panel.expanded-family-connections{grid-column:1/-1}.expanded-family-pagination>button{padding:7px 6px}.expanded-family-cards .expanded-family-classification-note{font-size:9px}}

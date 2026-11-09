@@ -56,7 +56,7 @@ def main() -> None:
             for entry in manifest['characters'].values() for stage in entry['stages']
             if stage['url'] in old
         }, 'errors': {}}
-    stages_order = {'甲骨文': 0, '金文': 1, '说文': 2}
+    stages_order = {stage: index for index, stage in enumerate(collector.TARGET_STAGES)}
 
     def save_results() -> None:
         atomic_bytes(receipt, (json.dumps(results, ensure_ascii=False, separators=(',', ':')) + '\n').encode())
@@ -84,6 +84,8 @@ def main() -> None:
                     failed.append({'url': remote, 'error': 'Source page listed an empty image placeholder', 'status': 404})
                     continue
                 suffix = '/'.join(urllib.parse.urlparse(remote).path.split('/')[-2:]).replace('/', '-')
+                if urllib.parse.urlparse(remote).path.startswith('/kai/cn/'):
+                    suffix = 'kaishu-' + suffix
                 asset = images / suffix
                 raw_cache = cache / 'svg' / suffix
                 if not raw_cache.exists():
@@ -164,6 +166,10 @@ def main() -> None:
             if manifest['coverage']['complete'] and not pending_retries:
                 for entry in entries:
                     for stage in entry['stages']:
+                        # Existing reviewed/local records are immutable. Resume
+                        # receipts may fill unresolved records only.
+                        if stage.get('storage') == 'local':
+                            continue
                         key = image_key(entry['sourceUrl'], stage)
                         if key in results['images']:
                             stage.update(results['images'][key])
@@ -172,13 +178,7 @@ def main() -> None:
                     if entry['availability'] == 'found':
                         entry['imageAvailability'] = 'local' if any(s.get('storage') == 'local' for s in entry['stages']) else 'source-unavailable'
                 all_stages = [stage for entry in entries for stage in entry['stages']]
-                manifest['coverage']['localSpecimenCount'] = sum(stage.get('storage') == 'local' for stage in all_stages)
-                manifest['coverage']['remoteSpecimenCount'] = sum(stage.get('storage') == 'remote' for stage in all_stages)
-                manifest['coverage']['charactersWithLocalAncientSpecimens'] = sum(any(s.get('storage') == 'local' for s in entry['stages']) for entry in entries)
-                manifest['coverage']['charactersWithoutReachableAncientSpecimens'] = waiting
-                manifest['coverage']['firstImageMirroringComplete'] = not waiting
-                manifest['coverage']['allStageMirroringComplete'] = not unresolved
-                manifest['coverage']['mirrorProcessingComplete'] = True
+                manifest['coverage'] = collector.coverage_for(manifest['characters'], list(manifest['characters']))
                 manifest['sources']['displayPolicy'] = 'Display only storage=local image elements. Remote records are provenance links, not ready-to-display images (CDN blocks external hotlinks). Failed URLs are separate from absent historical records.'
                 atomic_bytes(output, (json.dumps(manifest, ensure_ascii=False, separators=(',', ':')) + '\n').encode())
                 print('Merged complete page metadata with all usable locally mirrored selected-stage specimens.', flush=True)

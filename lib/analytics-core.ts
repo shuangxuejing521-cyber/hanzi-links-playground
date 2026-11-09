@@ -1,10 +1,10 @@
 import {EVENT_NAMES,type AnalyticsEvent,type AdminIdentity} from '../src/analytics/contracts';
-import radicals from '../src/data/radicals.json';
+import {sidebarFamilies} from '../src/lib/sidebar-families';
 import characters from '../src/data/characters.json';
 
 export const MODES=['explore','lab','challenge','connections','lesson'] as const;
 const eventNames=new Set<string>(EVENT_NAMES),modes=new Set<string>(MODES);
-const familyIds=new Set(radicals.map(r=>r.id)),characterIds=new Set(characters.map(c=>c.id));
+const familyIds=new Set(sidebarFamilies.map(r=>r.id)),characterIds=new Set(characters.map(c=>c.id));
 const partForms=new Set(characters.flatMap(c=>[c.firstPart,c.secondPart]));
 const sources=new Set(['initial','auto','click','keyboard','drag','grade','navigation','family-card','related','search','word-chain','lesson','composition','practice','manual','toggle','heartbeat','visible','hidden','favorite','panda']);
 const values=new Set(['on','off','save','unsave','ko-on','ko-off','start','stop','play','kick','甲骨文','金文','楚系简帛','说文','秦系简牍','隶书','楷书','《说文》小篆']);

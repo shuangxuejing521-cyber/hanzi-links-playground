@@ -5383,5 +5383,4325 @@
     "caption": "“他来了”：等候者看到旅客朝自己所在的站台走来。",
     "relation": "example-word",
     "note": "말하는 사람이나 기준점 쪽으로 오는 예시예요. 방향의 기준은 예문으로 확인해요."
+  },
+  "hsk3-00301": {
+    "character": "啊",
+    "src": "/images/characters/60ca.webp",
+    "caption": "“啊，真漂亮！”：看到惊喜时发出感叹。",
+    "relation": "example-word",
+    "note": "놀라거나 감탄하는 대화의 예시예요. 사진만으로 조사 “啊”의 뜻이 정해지지는 않아요."
+  },
+  "hsk3-00304": {
+    "character": "课",
+    "src": "/images/characters/8bfe.webp",
+    "caption": "同一间教室里一起上课的学生，组成一个班。",
+    "relation": "example-word",
+    "note": "학생들이 함께 수업하는 한 반의 예시예요. 근무조나 양사 용법은 별도로 배워요."
+  },
+  "hsk3-00312": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "看着亲手做好的陶碗，满意地点赞：“不错！”",
+    "relation": "example-word",
+    "note": "직접 만든 그릇이 괜찮다는 평가의 예시예요. “不错”는 부정을 두 번 붙여 좋은 평가를 나타내요."
+  },
+  "hsk3-00313": {
+    "character": "不好意思",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "不小心弄洒了水，向对方说：“不好意思”。",
+    "relation": "example-word",
+    "note": "작은 실수 뒤에 미안하다고 말하는 상황의 예시예요. 쑥스럽다는 다른 뜻도 있어요."
+  },
+  "hsk3-00321": {
+    "character": "床",
+    "src": "/images/words/tidy-bedroom.jpg",
+    "caption": "用来躺卧睡觉、有枕头和被子的床。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00322": {
+    "character": "杯",
+    "src": "/images/characters/676f.webp",
+    "caption": "“杯子”是一个词，它指用来盛饮料的器具。",
+    "relation": "example-word",
+    "note": "구체적인 물건 “杯子”를 하나의 단어로 배우는 예시예요. 물건 사진 자체가 “단어”라는 추상 개념은 아니에요."
+  },
+  "hsk3-00325": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "“她从小就喜欢和家人看相册”：用童年家庭情境理解“从小”。",
+    "relation": "example-word",
+    "note": "어린 시절부터 이어지는 일을 말하는 예문이에요. 사진만으로 과거부터 계속되었는지는 알 수 없어요."
+  },
+  "hsk3-00328": {
+    "character": "打车",
+    "src": "/images/words/waiting-taxi.jpg",
+    "caption": "在路边上出租车，准备乘车出行：打车。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00331": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“想骑车，但是下雨了”：骑车的愿望与下雨的现实形成转折。",
+    "relation": "example-word",
+    "note": "비 때문에 자전거를 타기 어려운 상황의 예시예요. “但是”는 두 내용을 대조하는 말이에요."
+  },
+  "hsk3-00332": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "“他认真地跑步”：用动作情境学习“地”连接状语与动作。",
+    "relation": "example-word",
+    "note": "달리는 상황을 설명하는 예문이에요. 조사 “地”의 기능은 “认真地跑步”라는 문장과 함께 배워요."
+  },
+  "hsk3-00333": {
+    "character": "快",
+    "src": "/images/characters/5feb.webp",
+    "caption": "“他跑得很快”：用跑步情境学习动作后的程度表达。",
+    "relation": "example-word",
+    "note": "“跑得很快”에서 “得”는 달리는 정도를 이어 주는 조사예요. 사진만으로 문법이 보이는 것은 아니에요."
+  },
+  "hsk3-00338": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "跑步时手臂和双腿不断动。",
+    "relation": "example-word",
+    "note": "“움직이다”의 구체적인 예로 달리는 몸의 움직임을 보여 줘요."
+  },
+  "hsk3-00343": {
+    "character": "说",
+    "src": "/images/characters/8bf4.webp",
+    "caption": "一个人对面前的听者说明情况：告诉对方。",
+    "relation": "example-word",
+    "note": "상대에게 정보를 알려 주는 대화 상황의 예시예요. 실제 대화 내용은 사진만으로 확인할 수 없어요."
+  },
+  "hsk3-00345": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "“我跟朋友一起走”：两个人沿着小路同行。",
+    "relation": "example-word",
+    "note": "“친구와 함께”라는 동행의 예시예요. 명사 “발뒤꿈치” 뜻과는 달라요."
+  },
+  "hsk3-00347": {
+    "character": "经",
+    "src": "/images/characters/7ecf.webp",
+    "caption": "人从拱门中经过：过一道门。",
+    "relation": "example-word",
+    "note": "장소를 지나가는 동작의 예시예요. 시간을 보내는 다른 용법은 나타내지 않아요."
+  },
+  "hsk3-00351": {
+    "character": "泳",
+    "src": "/images/characters/6cf3.webp",
+    "caption": "“我游过泳”：用游泳经历的例句学习“过”。",
+    "relation": "example-word",
+    "note": "과거에 해 본 경험을 말하는 조사예요. 사진은 수영 상황일 뿐, 촬영된 사람의 실제 과거 경험을 증명하지 않아요."
+  },
+  "hsk3-00356": {
+    "character": "后面",
+    "src": "/images/words/queue-ticket.jpg",
+    "caption": "队伍中另外两个人排在正在办理服务的人的后面。",
+    "relation": "example-word",
+    "note": "사진을 바라보는 방향을 기준으로 앞뒤 관계를 설명해요."
+  },
+  "hsk3-00357": {
+    "character": "花",
+    "src": "/images/words/shopping-checkout.jpg",
+    "caption": "买东西时付出钱：花钱。",
+    "relation": "example-word",
+    "note": "돈을 쓴다는 동사 뜻이에요. 식물의 꽃인 “花”와 구별해요."
+  },
+  "hsk3-00358": {
+    "character": "花",
+    "src": "/images/words/flowers-vase.jpg",
+    "caption": "花瓶里插着有花瓣的鲜花：花。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00361": {
+    "character": "回来",
+    "src": "/images/words/father-son-homecoming.jpg",
+    "caption": "爸爸回到家，朝屋里迎接他的孩子走回来。",
+    "relation": "example-word",
+    "note": "집 안에 있는 사람을 기준으로 돌아오는 상황이에요. 실제 이동의 과거 과정은 예문이 설명해요."
+  },
+  "hsk3-00365": {
+    "character": "记得",
+    "src": "/images/characters/7eaa.webp",
+    "caption": "把约定写进本子，提醒自己记得。",
+    "relation": "example-word",
+    "note": "기억을 돕기 위해 메모하는 예시예요. “记得”와 “기록하다”는 같은 뜻이 아니에요."
+  },
+  "hsk3-00366": {
+    "character": "间",
+    "src": "/images/words/tidy-bedroom.jpg",
+    "caption": "一间卧室：用“间”数房间。",
+    "relation": "example-word",
+    "note": "방 하나를 세는 “一间卧室”의 예시예요. 양사 “间” 자체가 침대라는 뜻은 아니에요."
+  },
+  "hsk3-00367": {
+    "character": "讲",
+    "src": "/images/characters/8bb2.webp",
+    "caption": "老师用地球仪给学生教地理知识。",
+    "relation": "example-word",
+    "note": "학생에게 지식을 가르치는 수업의 예시예요. “教”는 여기서 jiāo로 읽어요."
+  },
+  "hsk3-00368": {
+    "character": "课",
+    "src": "/images/characters/8bfe.webp",
+    "caption": "有老师、学生和课桌，正在上课的房间：教室。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00369": {
+    "character": "介绍",
+    "src": "/images/words/self-introduction.jpg",
+    "caption": "第一次见面，向对方介绍自己。",
+    "relation": "example-word",
+    "note": "처음 만난 사람에게 자신을 소개하는 대화의 예시예요. 실제 소개 내용은 문장으로 확인해요."
+  },
+  "hsk3-00371": {
+    "character": "进来",
+    "src": "/images/words/father-son-homecoming.jpg",
+    "caption": "爸爸从家门外进来，孩子在屋里迎接他。",
+    "relation": "example-word",
+    "note": "말하는 사람이 안에 있다고 설정해 방향을 설명해요."
+  },
+  "hsk3-00374": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "“他经常跑步”：用跑步这件日常活动举例。",
+    "relation": "example-word",
+    "note": "자주 한다는 빈도는 예문이 설명해요. 한 장의 사진만으로 횟수를 알 수는 없어요."
+  },
+  "hsk3-00376": {
+    "character": "始",
+    "src": "/images/characters/59cb.webp",
+    "caption": "“准备好就开始”：以起跑前的动作说明前后紧接。",
+    "relation": "example-word",
+    "note": "준비가 끝나면 바로 시작한다는 예문이에요. “就”의 다른 용법까지 한 사진으로 나타내지는 않아요."
+  },
+  "hsk3-00379": {
+    "character": "校",
+    "src": "/images/characters/6821.webp",
+    "caption": "学生带着学习用品进入校园：开学的情境。",
+    "relation": "example-word",
+    "note": "새 학기에 학교로 가는 상황의 예시예요. 사진만으로 실제 개학일인지는 알 수 없어요."
+  },
+  "hsk3-00385": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "做好陶碗后露出笑容：快乐的情境。",
+    "relation": "example-word",
+    "note": "만든 물건을 보고 기뻐하는 상황의 예시예요. 감정은 사람과 상황에 따라 달라요."
+  },
+  "hsk3-00386": {
+    "character": "始",
+    "src": "/images/characters/59cb.webp",
+    "caption": "跑者摆好姿势，快要开始跑了。",
+    "relation": "example-word",
+    "note": "아직 출발하지 않고 곧 시작하려는 상황이에요. “快要”는 빠르다는 성질이 아니라 임박함을 나타내요."
+  },
+  "hsk3-00390": {
+    "character": "里面",
+    "src": "/images/words/open-box-toys.jpg",
+    "caption": "两块积木放在盒子的里面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00403": {
+    "character": "面",
+    "src": "/images/words/open-box-toys.jpg",
+    "caption": "“盒子的里面”：用这个方位词理解表示方位的“面”。",
+    "relation": "example-word",
+    "note": "“里面”에서 위치를 나타내는 접미 성분을 배우는 예시예요. “얼굴”이라는 다른 뜻과 구별해요."
+  },
+  "hsk3-00404": {
+    "character": "组",
+    "src": "/images/characters/7ec4.webp",
+    "caption": "三名学生坐在一起学习：用“三名学生”学习人数表达。",
+    "relation": "example-word",
+    "note": "사람을 세는 양사 “名”의 예시예요. 이름이라는 명사 뜻을 사진으로 표시한 것은 아니에요."
+  },
+  "hsk3-00405": {
+    "character": "提",
+    "src": "/images/characters/63d0.webp",
+    "caption": "手握提手，把袋子拿在手里：拿。",
+    "relation": "example-word",
+    "note": "가방을 손에 드는 “잡다/들다”의 한 예예요."
+  },
+  "hsk3-00409": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "一家人看相册，旁边的老年女性在例句中称作奶奶。",
+    "relation": "example-word",
+    "note": "가족사진 장면에서 할머니라는 관계를 설정한 예시예요. 실제 친족 관계는 사진만으로 확인할 수 없어요."
+  },
+  "hsk3-00410": {
+    "character": "男孩儿",
+    "src": "/images/words/brothers-park.jpg",
+    "caption": "沿着公园小路走的年幼男孩儿。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00412": {
+    "character": "女孩儿",
+    "src": "/images/words/family-with-daughter.jpg",
+    "caption": "父母旁边的年幼女孩儿。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00413": {
+    "character": "旁边",
+    "src": "/images/words/open-box-toys.jpg",
+    "caption": "另一块积木紧挨着盒子，放在盒子旁边。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00417": {
+    "character": "妻子",
+    "src": "/images/words/couple-park-walk.jpg",
+    "caption": "在例句设定中，一起牵手散步的女性是旁边男性的妻子。",
+    "relation": "example-word",
+    "note": "부부 관계를 설정한 예시예요. 실제 혼인 관계나 성별 정체성은 외모만으로 확인하지 않아요."
+  },
+  "hsk3-00419": {
+    "character": "前面",
+    "src": "/images/words/queue-ticket.jpg",
+    "caption": "队伍中靠近柜台、正在办理服务的人，在另外两人的前面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00422": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "“主人让客人坐下”：用邀请入座的情境理解“让”。",
+    "relation": "example-word",
+    "note": "앉도록 권하거나 허락하는 문장의 예시예요. “让”의 다른 사역 용법은 따로 배워요."
+  },
+  "hsk3-00430": {
+    "character": "祝",
+    "src": "/images/characters/795d.webp",
+    "caption": "蛋糕前许下愿望，庆祝生日。",
+    "relation": "example-word",
+    "note": "생일 케이크 앞에서 소원을 비는 생일 축하의 예시예요."
+  },
+  "hsk3-00432": {
+    "character": "忙",
+    "src": "/images/characters/5fd9.webp",
+    "caption": "桌上有资料和工作要处理：“今天有几件事情要做”。",
+    "relation": "example-word",
+    "note": "해야 할 일을 처리하는 예시예요. “事情”는 사진 속 물건 하나의 이름이 아니에요."
+  },
+  "hsk3-00433": {
+    "character": "手",
+    "src": "/images/roots/hand.webp",
+    "caption": "伸开手指的手掌：手。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00437": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "“送你一本书”：把书交给对方，作为礼物。",
+    "relation": "example-word",
+    "note": "책을 선물하는 예문이에요. 단순히 건네는 모습만으로 선물인지 빌려주는 것인지는 구별되지 않아요."
+  },
+  "hsk3-00438": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“虽然下雨，他还是准备好了自行车”：用下雨与骑车意愿举例。",
+    "relation": "example-word",
+    "note": "“비가 오지만”이라는 양보 표현의 예시예요. 접속사의 관계는 문장으로 이해해요."
+  },
+  "hsk3-00439": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“外面下雨，所以今天不骑车”：从天气说明结果。",
+    "relation": "example-word",
+    "note": "비가 원인이고 자전거를 타지 않는 것이 결과라는 예문이에요. 실제 인물의 결정은 사진만으로 알 수 없어요."
+  },
+  "hsk3-00442": {
+    "character": "错",
+    "src": "/images/characters/9519.webp",
+    "caption": "“这道题怎么做？”：把合适形状的积木放进洞里的问题。",
+    "relation": "example-word",
+    "note": "모양 맞추기를 하나의 문제로 제시한 예시예요. 글로 된 시험 문제만을 뜻하지는 않아요."
+  },
+  "hsk3-00443": {
+    "character": "线",
+    "src": "/images/characters/7ebf.webp",
+    "caption": "从线轴拉出一条线：用“一条线”学习量词。",
+    "relation": "example-word",
+    "note": "길고 가는 실을 세는 “一条线”의 예시예요. “条” 자체가 실이라는 뜻은 아니에요."
+  },
+  "hsk3-00447": {
+    "character": "外面",
+    "src": "/images/words/open-box-toys.jpg",
+    "caption": "另一块积木没有放进盒子，而在盒子外面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00448": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "陶碗做好了，制作的人放下工具：做完的情境。",
+    "relation": "example-word",
+    "note": "그릇을 다 만들었다는 예문과 함께 보는 장면이에요. 완료의 판단은 사진 설명이 제공해요."
+  },
+  "hsk3-00452": {
+    "character": "找",
+    "src": "/images/characters/627e.webp",
+    "caption": "“出门才发现忘了带钥匙”：借找钥匙的情境理解“忘”。",
+    "relation": "example-word",
+    "note": "열쇠를 잊고 두고 온 상황을 가정한 예시예요. 찾는 모습 자체가 잊었다는 증거는 아니에요."
+  },
+  "hsk3-00453": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“为什么今天不骑车？”——因为外面下雨了。",
+    "relation": "example-word",
+    "note": "비가 오는 장면을 원인으로 묻는 “왜”의 대화 예시예요. 물음의 의미는 문장과 함께 배워요."
+  },
+  "hsk3-00454": {
+    "character": "组",
+    "src": "/images/characters/7ec4.webp",
+    "caption": "三位学生坐在一起学习：用“三位学生”学习礼貌量词。",
+    "relation": "example-word",
+    "note": "사람을 공손하게 세는 양사 “位”의 예시예요. 사진의 학생 수는 세 명이에요."
+  },
+  "hsk3-00455": {
+    "character": "祝",
+    "src": "/images/characters/795d.webp",
+    "caption": "生日许愿：“希望新的一年顺利”。",
+    "relation": "example-word",
+    "note": "소원을 비는 모습을 “바라다”의 예시로 써요. 마음속 희망의 내용은 예문이 설명해요."
+  },
+  "hsk3-00461": {
+    "character": "小孩儿",
+    "src": "/images/words/family-with-daughter.jpg",
+    "caption": "父母陪伴的小孩儿，这里是他们的女儿。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00462": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "小孩儿和爷爷奶奶一起看相册：小时候的家庭情境。",
+    "relation": "example-word",
+    "note": "어린 시절을 말하는 예문을 위한 가족 장면이에요. 사진만으로 누군가의 실제 과거 사진인지는 알 수 없어요."
+  },
+  "hsk3-00463": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "做陶器的人嘴角上扬，露出笑容：笑。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00465": {
+    "character": "姓名",
+    "src": "/images/words/self-introduction.jpg",
+    "caption": "“我来介绍自己的姓名”：第一次见面时说出名字。",
+    "relation": "example-word",
+    "note": "이름을 말하는 자기소개 상황이에요. 사진 속 인물의 실제 이름을 제시하거나 추정하지 않아요."
+  },
+  "hsk3-00470": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "一家人看相册，旁边的老年男性在例句中称作爷爷。",
+    "relation": "example-word",
+    "note": "가족사진 장면에서 할아버지라는 관계를 설정한 예시예요. 실제 친족 관계는 사진만으로 확인할 수 없어요."
+  },
+  "hsk3-00471": {
+    "character": "休",
+    "src": "/images/characters/4f11.webp",
+    "caption": "“在树旁休息一会儿”：短暂地暂停活动。",
+    "relation": "example-word",
+    "note": "잠깐 쉰다는 시간 표현의 예시예요. 휴식 시간이 얼마나 긴지는 사진만으로 알 수 없어요."
+  },
+  "hsk3-00472": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "两个人一起沿小路走：一起。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00473": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "“陶碗已经做好了”：以完成的作品学习“已经”。",
+    "relation": "example-word",
+    "note": "완료된 결과를 말하는 예문이에요. “이미”라는 시간 관계는 문장으로 이해해요."
+  },
+  "hsk3-00474": {
+    "character": "杯",
+    "src": "/images/characters/676f.webp",
+    "caption": "词语“杯子”的意思，是用来盛饮料的器具。",
+    "relation": "example-word",
+    "note": "단어와 구체적인 뜻을 연결하는 예시예요. 이 물건이 “意思” 자체라는 뜻은 아니에요."
+  },
+  "hsk3-00475": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“因为外面下雨，所以今天不骑车”：下雨是原因。",
+    "relation": "example-word",
+    "note": "원인을 나타내는 “因为”의 예시예요. 원인과 결과는 문장으로 설명해요."
+  },
+  "hsk3-00477": {
+    "character": "泳",
+    "src": "/images/characters/6cf3.webp",
+    "caption": "人在水中划动手臂和双腿，向前游。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00479": {
+    "character": "休",
+    "src": "/images/characters/4f11.webp",
+    "caption": "“我有时在树下休息”：以休息活动举例。",
+    "relation": "example-word",
+    "note": "가끔 한다는 빈도는 예문이 설명해요. 사진 한 장만으로 자주 또는 가끔 하는지는 알 수 없어요."
+  },
+  "hsk3-00480": {
+    "character": "玩",
+    "src": "/images/characters/73a9.webp",
+    "caption": "“搭积木真有意思”：孩子专注地玩积木。",
+    "relation": "example-word",
+    "note": "쌓기 놀이를 재미있어하는 상황의 예시예요. 무엇이 재미있는지는 사람마다 달라요."
+  },
+  "hsk3-00485": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "人在户外跑步锻炼：运动的一种。",
+    "relation": "example-word",
+    "note": "운동의 여러 종류 중 달리기를 예로 보여 줘요."
+  },
+  "hsk3-00487": {
+    "character": "丈夫",
+    "src": "/images/words/couple-park-walk.jpg",
+    "caption": "在例句设定中，一起牵手散步的男性是旁边女性的丈夫。",
+    "relation": "example-word",
+    "note": "부부 관계를 설정한 예시예요. 실제 혼인 관계나 성별 정체성은 외모만으로 확인하지 않아요."
+  },
+  "hsk3-00492": {
+    "character": "周",
+    "src": "/images/words/blank-wall-calendar.jpg",
+    "caption": "日历一横行有七个日格，对应一周的七天。",
+    "relation": "example-word",
+    "note": "7일을 한 주로 묶는 일정 예시예요. 빈 카드 자체가 날짜 이름을 나타내지는 않아요."
+  },
+  "hsk3-00495": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "两个人沿着林间小路步行：走。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00496": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "用双脚一步一步向前移动：走路。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00302": {
+    "character": "爱好",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "用空闲时间画画：爱好的一种。",
+    "relation": "example-word",
+    "note": "취미의 한 예로 그림 그리기를 보여 줘요. 사진 속 활동이 모든 사람의 취미라는 뜻은 아니에요."
+  },
+  "hsk3-00303": {
+    "character": "白色",
+    "src": "/images/words/hsk2-white-black-fabrics.jpg",
+    "caption": "左边布料的颜色是白色。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00305": {
+    "character": "帮",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "一个人帮另一个人抬起重箱子：帮忙。",
+    "relation": "example-word",
+    "note": "무거운 상자를 함께 들어 주는 도움의 예시예요."
+  },
+  "hsk3-00306": {
+    "character": "帮忙",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "一个人帮另一个人抬起重箱子：帮忙。",
+    "relation": "example-word",
+    "note": "무거운 상자를 함께 들어 주는 도움의 예시예요."
+  },
+  "hsk3-00307": {
+    "character": "包",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "可以装东西、背在身上的包：这里是一个书包。",
+    "relation": "example-word",
+    "note": "가방이라는 명사 뜻의 예시예요. “싸다”라는 동사나 소포의 뜻을 모두 나타내지는 않아요."
+  },
+  "hsk3-00308": {
+    "character": "本子",
+    "src": "/images/words/hsk2-notebook-pen.jpg",
+    "caption": "有装订在一起的空白纸页，可以写字的本子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00309": {
+    "character": "比",
+    "src": "/images/words/hsk2-height-comparison.jpg",
+    "caption": "左边蓝衣人的个子比右边绿衣人高。",
+    "relation": "example-word",
+    "note": "같은 바닥에 서 있는 두 사람의 키를 비교하는 “~보다” 예문이에요."
+  },
+  "hsk3-00310": {
+    "character": "笔",
+    "src": "/images/words/hsk2-notebook-pen.jpg",
+    "caption": "放在本子旁边，用来写字的一支笔。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00311": {
+    "character": "别",
+    "src": "/images/words/hsk2-do-not-touch-hot-kettle.jpg",
+    "caption": "“别碰热水壶！”：大人示意孩子不要触碰热的物体。",
+    "relation": "example-word",
+    "note": "하지 말라고 막는 “别”의 예문이에요. 보호하는 몸짓과 문장을 함께 이해해요."
+  },
+  "hsk3-00314": {
+    "character": "长",
+    "src": "/images/words/hsk2-long-short-ribbons.jpg",
+    "caption": "同样宽的两段红丝带，前面这一段很长。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00315": {
+    "character": "车站",
+    "src": "/images/words/hsk2-bus-stop-city.jpg",
+    "caption": "公交车停靠、乘客候车上车的地方：车站。",
+    "relation": "example-word",
+    "note": "버스를 기다리고 타는 정류장의 예시예요. 기차역도 “车站”이라고 할 수 있어요."
+  },
+  "hsk3-00316": {
+    "character": "出",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "人从房屋里面走到外面：出。",
+    "relation": "example-word",
+    "note": "집 안에서 밖으로 나가는 구체적인 동작을 보여 줘요."
+  },
+  "hsk3-00317": {
+    "character": "出国",
+    "src": "/images/words/hsk2-airport-departure-ticket.jpg",
+    "caption": "拿着旅行证件，在机场准备离开本国：出国的情境。",
+    "relation": "example-word",
+    "note": "다른 나라로 떠나는 출국 상황을 설정한 예시예요. 국적이나 실제 목적지는 사진만으로 알 수 없어요."
+  },
+  "hsk3-00318": {
+    "character": "出来",
+    "src": "/images/words/hsk2-coming-out-to-speaker.jpg",
+    "caption": "屋里的人朝门外的说话人走出来。",
+    "relation": "example-word",
+    "note": "말하는 사람이 문 밖에 있다고 설정한 예시예요. “来”는 말하는 사람 쪽으로 오는 방향이에요."
+  },
+  "hsk3-00319": {
+    "character": "出门",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "带着包离开家，到门外去：出门。",
+    "relation": "example-word",
+    "note": "집 안에서 밖으로 나가는 구체적인 동작을 보여 줘요."
+  },
+  "hsk3-00320": {
+    "character": "出去",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "从屋里到屋外、离开里面的地点：出去。",
+    "relation": "example-word",
+    "note": "집 안에서 밖으로 나가는 구체적인 동작을 보여 줘요."
+  },
+  "hsk3-00323": {
+    "character": "次",
+    "src": "/images/words/hsk2-repeat-ball-throw.jpg",
+    "caption": "“再投一次球”：把投球这个动作数一遍。",
+    "relation": "example-word",
+    "note": "동작의 횟수를 세는 양사예요. 사진 한 장으로 전체 횟수를 확인하지는 못해요."
+  },
+  "hsk3-00324": {
+    "character": "从",
+    "src": "/images/words/hsk2-walking-path-destination.jpg",
+    "caption": "“从大门走到亭子”：大门是出发点。",
+    "relation": "example-word",
+    "note": "출발점을 나타내는 “从”의 예문이에요. 공간 관계는 문장으로 지정해요."
+  },
+  "hsk3-00329": {
+    "character": "打开",
+    "src": "/images/words/hsk2-open-box.jpg",
+    "caption": "把盒盖掀开，看到里面的东西：打开盒子。",
+    "relation": "example-word",
+    "note": "상자를 여는 동작의 예시예요. 전원을 켜는 뜻과는 다른 용법이에요."
+  },
+  "hsk3-00334": {
+    "character": "等",
+    "src": "/images/words/hsk2-bus-stop-city.jpg",
+    "caption": "乘客站在公交车站，等车来。",
+    "relation": "example-word",
+    "note": "버스가 오기를 기다리는 구체적인 상황이에요."
+  },
+  "hsk3-00335": {
+    "character": "地铁",
+    "src": "/images/words/hsk2-subway-platform.jpg",
+    "caption": "在地下轨道上运行、乘客从站台上车的地铁。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00336": {
+    "character": "点",
+    "src": "/images/words/hsk2-order-food.jpg",
+    "caption": "客人向服务员点一份菜：点菜。",
+    "relation": "example-word",
+    "note": "음식을 주문한다는 동사 뜻의 예시예요. 시각을 나타내는 “点”이나 클릭 용법과 구별해요."
+  },
+  "hsk3-00340": {
+    "character": "飞",
+    "src": "/images/words/hsk2-bird-flight.jpg",
+    "caption": "鸟张开翅膀，在空中飞。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00341": {
+    "character": "高",
+    "src": "/images/words/hsk2-height-comparison.jpg",
+    "caption": "三个人站在一起，左边蓝衣人的个子很高。",
+    "relation": "example-word",
+    "note": "주변 사람과 비교해 키가 큰 예시예요. 건물이나 산의 높이에도 쓰여요."
+  },
+  "hsk3-00342": {
+    "character": "高中",
+    "src": "/images/words/hsk2-high-school-classroom.jpg",
+    "caption": "高中阶段的学生在教室学习：高中的情境。",
+    "relation": "example-word",
+    "note": "고등학교 수업을 설정한 예시예요. 건물 모습이나 얼굴만으로 학교급을 판단하지 않아요."
+  },
+  "hsk3-00344": {
+    "character": "个子",
+    "src": "/images/words/hsk2-height-comparison.jpg",
+    "caption": "三位朋友站在同一平地上，可以比较个子的高矮。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00346": {
+    "character": "公交车",
+    "src": "/images/words/hsk2-bus-stop-city.jpg",
+    "caption": "沿城市道路行驶、供乘客乘坐的公交车。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00348": {
+    "character": "过来",
+    "src": "/images/words/hsk2-approach-over-bridge.jpg",
+    "caption": "朋友从桥的另一端朝说话人走过来。",
+    "relation": "example-word",
+    "note": "말하는 사람이 카메라 가까이에 있다고 정한 방향 예시예요."
+  },
+  "hsk3-00349": {
+    "character": "过年",
+    "src": "/images/words/hsk2-new-year-family-meal.jpg",
+    "caption": "一家人吃年夜饭、团聚过年。",
+    "relation": "example-word",
+    "note": "설을 쇠는 가족 모임의 예시예요. 중국의 설 명절 풍습 중 하나를 보여 줘요."
+  },
+  "hsk3-00350": {
+    "character": "过去",
+    "src": "/images/words/hsk2-go-across-bridge.jpg",
+    "caption": "从这边走到桥的那边去：走过去。",
+    "relation": "example-word",
+    "note": "관찰자가 이쪽에 있다고 정한 이동 방향이에요. 과거라는 시간 명사 뜻과 구별해요."
+  },
+  "hsk3-00352": {
+    "character": "还是",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "“你喝红茶还是绿茶？”：在两种茶之间选择。",
+    "relation": "example-word",
+    "note": "선택 질문에서 “또는”을 나타내는 예시예요. “여전히” 같은 다른 용법은 따로 배워요."
+  },
+  "hsk3-00353": {
+    "character": "黑色",
+    "src": "/images/words/hsk2-white-black-fabrics.jpg",
+    "caption": "右边布料的颜色是黑色。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00354": {
+    "character": "红茶",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "左边透明杯里是红褐色的红茶茶汤。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00359": {
+    "character": "画",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "拿画笔在纸上画花：画。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00362": {
+    "character": "回去",
+    "src": "/images/words/hsk2-entering-house-away.jpg",
+    "caption": "离开外面的地点，往自己的家回去。",
+    "relation": "example-word",
+    "note": "현재 밖에 있는 사람을 기준으로 집으로 돌아가는 예시예요. “回来”와 기준점이 달라요."
+  },
+  "hsk3-00363": {
+    "character": "机场",
+    "src": "/images/words/hsk2-airport-departure-ticket.jpg",
+    "caption": "航站楼窗外停着客机，旅客在候机：机场。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00364": {
+    "character": "机票",
+    "src": "/images/words/hsk2-airport-departure-ticket.jpg",
+    "caption": "旅客在登机前拿着的登机凭证，作为机票情境的例子。",
+    "relation": "example-word",
+    "note": "비행기를 타기 위한 표의 예시예요. 종이 뒷면을 보여 주며 실제 사용 가능한 티켓이나 정보는 없어요."
+  },
+  "hsk3-00370": {
+    "character": "进",
+    "src": "/images/words/hsk2-entering-house-away.jpg",
+    "caption": "从门外跨过门槛，进到屋里。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00372": {
+    "character": "进去",
+    "src": "/images/words/hsk2-entering-house-away.jpg",
+    "caption": "从门外向里面走，离开门外的观察位置：进去。",
+    "relation": "example-word",
+    "note": "관찰자가 밖에 있다고 설정한 방향 예시예요."
+  },
+  "hsk3-00373": {
+    "character": "近",
+    "src": "/images/words/hsk2-near-far-path.jpg",
+    "caption": "路边这张长椅就在眼前，离我们很近。",
+    "relation": "example-word",
+    "note": "관찰 지점에서 가까운 물체를 보여 주는 예시예요. 기준점은 설명으로 정해요."
+  },
+  "hsk3-00375": {
+    "character": "酒店",
+    "src": "/images/words/hsk2-hotel-lobby.jpg",
+    "caption": "旅客带行李来到前台办理住宿：酒店。",
+    "relation": "example-word",
+    "note": "여행객이 숙박하는 호텔의 예시예요. 식당이라는 일부 지역 용법은 나타내지 않아요."
+  },
+  "hsk3-00377": {
+    "character": "咖啡",
+    "src": "/images/words/hsk2-coffee.jpg",
+    "caption": "用烘焙咖啡豆冲泡、装在杯中的咖啡。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00380": {
+    "character": "考",
+    "src": "/images/words/hsk2-exam-classroom.jpg",
+    "caption": "学生独立作答，正在考一门课。",
+    "relation": "example-word",
+    "note": "시험을 보는 동작의 예시예요. 사진에 실제 시험 문제는 표시하지 않아요."
+  },
+  "hsk3-00381": {
+    "character": "考试",
+    "src": "/images/words/hsk2-exam-classroom.jpg",
+    "caption": "学生在规定的场地独立作答：考试。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00382": {
+    "character": "可能",
+    "src": "/images/words/hsk2-cloudy-sky.jpg",
+    "caption": "“天这么阴，可能会下雨”：根据天气作推测。",
+    "relation": "example-word",
+    "note": "비가 올지도 모른다는 추측의 예문이에요. 사진만으로 미래의 비를 단정할 수 없어요."
+  },
+  "hsk3-00388": {
+    "character": "累",
+    "src": "/images/words/hsk2-tired-after-run.jpg",
+    "caption": "跑步后坐下擦汗，觉得累。",
+    "relation": "example-word",
+    "note": "운동 뒤에 피곤해하는 상황의 예시예요. 질환이나 건강 상태를 판단하는 사진은 아니에요."
+  },
+  "hsk3-00389": {
+    "character": "离",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "从家门离开，走向外面。",
+    "relation": "example-word",
+    "note": "집 안에서 밖으로 나가는 동작의 예시예요. “离”의 거리 표현 등 다른 용법은 문장으로 배워요."
+  },
+  "hsk3-00391": {
+    "character": "楼",
+    "src": "/images/words/hsk2-building.jpg",
+    "caption": "有多个楼层、供人使用的建筑：楼。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00393": {
+    "character": "路上",
+    "src": "/images/words/hsk2-walking-path-destination.jpg",
+    "caption": "人沿着通往亭子的小路前进，正在路上。",
+    "relation": "example-word",
+    "note": "목적지로 이동하는 길 위의 예시예요."
+  },
+  "hsk3-00394": {
+    "character": "旅游",
+    "src": "/images/words/hsk2-tourist-landmark.jpg",
+    "caption": "带着背包去参观景点：旅游。",
+    "relation": "example-word",
+    "note": "여행·관광의 한 예로 파리의 명소를 방문하는 상황을 보여 줘요."
+  },
+  "hsk3-00395": {
+    "character": "绿茶",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "右边透明杯里是淡黄绿色的绿茶茶汤。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00398": {
+    "character": "没意思",
+    "src": "/images/words/hsk2-bored-activity.jpg",
+    "caption": "“这个游戏没意思”：用对活动感到无趣的情境举例。",
+    "relation": "example-word",
+    "note": "게임을 재미없다고 느끼는 예시예요. 무엇이 재미없는지는 사람마다 달라요."
+  },
+  "hsk3-00399": {
+    "character": "每",
+    "src": "/images/words/hsk2-each-place-setting.jpg",
+    "caption": "每个人的位置上都有一个盘子、一个杯子和一双筷子。",
+    "relation": "example-word",
+    "note": "각 자리마다 같은 물건을 놓은 상황으로 “每”를 배워요. “매번/매일”의 시간 용법도 있어요."
+  },
+  "hsk3-00400": {
+    "character": "门",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "房屋入口处可以开关的门。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00401": {
+    "character": "门口",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "门前紧邻出入口的地方：门口。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00402": {
+    "character": "门票",
+    "src": "/images/words/hsk2-admission-ticket.jpg",
+    "caption": "进入展馆前出示的门票。",
+    "relation": "example-word",
+    "note": "입장할 때 쓰는 표의 예시예요. 실제 이용 가능한 정보가 없는 종이 뒷면을 보여 줘요."
+  },
+  "hsk3-00406": {
+    "character": "那么",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "“你也那么折”：照着对方示范的方式折纸。",
+    "relation": "example-word",
+    "note": "상대가 보여 준 방식을 가리키는 예시예요. “那么”는 문맥에 따라 그렇게 또는 그러면을 뜻해요."
+  },
+  "hsk3-00407": {
+    "character": "那样",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "“像老师那样折纸”：指对方示范的方式。",
+    "relation": "example-word",
+    "note": "다른 사람 쪽의 방식을 “그렇게”라고 가리키는 예시예요. 지시 대상은 문장이 정해 줘요."
+  },
+  "hsk3-00408": {
+    "character": "奶茶",
+    "src": "/images/words/hsk2-milk-tea.jpg",
+    "caption": "茶汤与奶混合，成为奶茶。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00411": {
+    "character": "鸟",
+    "src": "/images/words/hsk2-bird-flight.jpg",
+    "caption": "有羽毛、翅膀和喙的小鸟。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00416": {
+    "character": "票",
+    "src": "/images/words/hsk2-admission-ticket.jpg",
+    "caption": "进入展馆用的纸质票：票的一种。",
+    "relation": "example-word",
+    "note": "입장권을 표의 한 종류로 보여 줘요. 교통수단의 표 등 다른 종류도 있어요."
+  },
+  "hsk3-00418": {
+    "character": "起来",
+    "src": "/images/words/hsk2-stand-up-from-chair.jpg",
+    "caption": "原来坐在椅子上的人起身站起来。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00423": {
+    "character": "肉",
+    "src": "/images/words/hsk2-raw-meat.jpg",
+    "caption": "盘中可以烹饪食用的肉，这里是牛肉。",
+    "relation": "example-word",
+    "note": "고기 종류 중 소고기를 보여 주는 예시예요."
+  },
+  "hsk3-00424": {
+    "character": "商场",
+    "src": "/images/words/hsk2-shopping-mall.jpg",
+    "caption": "有许多店铺、供人集中购物的商场。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00425": {
+    "character": "上来",
+    "src": "/images/words/hsk2-stairs-from-top.jpg",
+    "caption": "楼上的说话人看着蓝衣人从楼下走上来。",
+    "relation": "example-word",
+    "note": "말하는 사람이 계단 위에 있다고 정한 방향 예시예요. “上来”는 위쪽의 말하는 사람 쪽으로 오는 것이에요."
+  },
+  "hsk3-00426": {
+    "character": "上面",
+    "src": "/images/words/hsk2-table-above-below.jpg",
+    "caption": "红色杯子放在桌子上面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00427": {
+    "character": "上去",
+    "src": "/images/words/hsk2-stairs-from-bottom.jpg",
+    "caption": "楼下的观察者看着蓝衣人朝楼上走上去。",
+    "relation": "example-word",
+    "note": "말하는 사람이 아래에 있다고 정한 방향 예시예요."
+  },
+  "hsk3-00428": {
+    "character": "上网",
+    "src": "/images/words/hsk2-using-internet.jpg",
+    "caption": "用电脑连接网络，浏览网页：上网。",
+    "relation": "example-word",
+    "note": "인터넷을 사용하는 상황을 설정한 예시예요. 사진만으로 실제 접속 상태를 보증하지 않아요."
+  },
+  "hsk3-00434": {
+    "character": "手表",
+    "src": "/images/words/hsk2-wristwatch.jpg",
+    "caption": "戴在手腕上、用来查看时间的手表。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00435": {
+    "character": "书包",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "把本子和笔装进去、上学时背的书包。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00436": {
+    "character": "舒服",
+    "src": "/images/words/hsk2-comfortable-sofa.jpg",
+    "caption": "靠着柔软的靠垫坐好，感到舒服。",
+    "relation": "example-word",
+    "note": "편안하게 앉아 쉬는 상황의 예시예요. 개인의 실제 감각이나 건강을 단정하지 않아요."
+  },
+  "hsk3-00440": {
+    "character": "疼",
+    "src": "/images/words/hsk2-sore-knee.jpg",
+    "caption": "用手扶着膝盖，表示这里疼。",
+    "relation": "example-word",
+    "note": "무릎이 아프다고 표현하는 상황의 예시예요. 원인이나 진단을 보여 주는 사진은 아니에요."
+  },
+  "hsk3-00444": {
+    "character": "跳舞",
+    "src": "/images/words/hsk2-dance.jpg",
+    "caption": "身体随着节奏做舞蹈动作：跳舞。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00445": {
+    "character": "头",
+    "src": "/images/words/hsk2-head-portrait.jpg",
+    "caption": "从头顶、头发到面部的头部：头。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00446": {
+    "character": "外国",
+    "src": "/images/words/hsk2-tourist-landmark.jpg",
+    "caption": "对住在中国的人来说，去法国是到外国旅行。",
+    "relation": "example-word",
+    "note": "“외국”은 기준이 되는 나라에 따라 달라요. 파리 장면을 중국 거주자의 예문으로 설명해요. 인물의 국적은 사진으로 판단하지 않아요."
+  },
+  "hsk3-00449": {
+    "character": "万",
+    "src": "/images/words/hsk2-ten-thousand-numeral-blocks.jpg",
+    "caption": "五块实体数字积木依次组成10000：万。",
+    "relation": "same-meaning",
+    "note": "사진 속 숫자 10000을 읽는 말이 万이에요."
+  },
+  "hsk3-00450": {
+    "character": "网上",
+    "src": "/images/words/hsk2-using-internet.jpg",
+    "caption": "“在网上看照片”：借浏览网页的情境理解“网上”。",
+    "relation": "example-word",
+    "note": "온라인 공간을 나타내는 말의 예시예요. 노트북이라는 물건 자체를 뜻하지 않아요."
+  },
+  "hsk3-00451": {
+    "character": "往",
+    "src": "/images/words/hsk2-walking-path-destination.jpg",
+    "caption": "沿着小路往前面的亭子走。",
+    "relation": "example-word",
+    "note": "정자를 향해 간다는 방향의 예시예요. “往” 자체는 물체 이름이 아니에요."
+  },
+  "hsk3-00457": {
+    "character": "洗手间",
+    "src": "/images/words/hsk2-restroom.jpg",
+    "caption": "有洗手池和卫生间隔间的洗手间。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00458": {
+    "character": "下来",
+    "src": "/images/words/hsk2-stairs-from-bottom.jpg",
+    "caption": "楼下的说话人看着红衣人从楼上走下来。",
+    "relation": "example-word",
+    "note": "말하는 사람이 계단 아래에 있다고 정한 방향 예시예요."
+  },
+  "hsk3-00459": {
+    "character": "下面",
+    "src": "/images/words/hsk2-table-above-below.jpg",
+    "caption": "蓝色球放在桌子下面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00460": {
+    "character": "下去",
+    "src": "/images/words/hsk2-stairs-from-top.jpg",
+    "caption": "楼上的观察者看着红衣人朝楼下走下去。",
+    "relation": "example-word",
+    "note": "관찰자가 위에 있다고 정한 방향 예시예요. “계속하다”라는 다른 용법은 나타내지 않아요."
+  },
+  "hsk3-00466": {
+    "character": "颜色",
+    "src": "/images/words/hsk2-colored-pencils.jpg",
+    "caption": "红、黄、蓝、绿等不同的颜色。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00468": {
+    "character": "药",
+    "src": "/images/words/hsk2-medicine-pharmacy.jpg",
+    "caption": "柜台上的盒装药和密封药片：药。",
+    "relation": "example-word",
+    "note": "약의 형태를 보여 주는 예시예요. 복용법·효과·개인의 처방을 안내하는 사진은 아니에요."
+  },
+  "hsk3-00469": {
+    "character": "药店",
+    "src": "/images/words/hsk2-medicine-pharmacy.jpg",
+    "caption": "有药品柜台、药架和药师工作的药店。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00476": {
+    "character": "阴",
+    "src": "/images/words/hsk2-cloudy-sky.jpg",
+    "caption": "云层遮住太阳，天空灰白、没有明显日照：阴天。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00481": {
+    "character": "右",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "以看图者的方向为准，香蕉在白碗的右边。",
+    "relation": "example-word",
+    "note": "사진을 바라보는 사람의 방향을 기준으로 오른쪽을 설명해요. 인물의 몸 기준과는 다를 수 있어요."
+  },
+  "hsk3-00482": {
+    "character": "右边",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "以看图者的方向为准，香蕉在白碗的右边。",
+    "relation": "example-word",
+    "note": "사진을 바라보는 사람의 방향을 기준으로 오른쪽을 설명해요. 인물의 몸 기준과는 다를 수 있어요."
+  },
+  "hsk3-00483": {
+    "character": "鱼",
+    "src": "/images/words/hsk2-live-fish.jpg",
+    "caption": "在水里游动、有鳍和尾巴的鱼。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00484": {
+    "character": "远",
+    "src": "/images/words/hsk2-near-far-path.jpg",
+    "caption": "小路尽头的亭子离眼前的位置很远。",
+    "relation": "example-word",
+    "note": "관찰 지점에서 먼 곳을 보여 주는 예시예요."
+  },
+  "hsk3-00486": {
+    "character": "站",
+    "src": "/images/words/hsk2-bus-stop-city.jpg",
+    "caption": "公交车停靠的一站，有候车棚和乘客。",
+    "relation": "example-word",
+    "note": "역·정류장이라는 명사 뜻의 예시예요. 서 있다는 동사 “站”와 구별해요."
+  },
+  "hsk3-00488": {
+    "character": "这么",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "示范的人说：“纸要这么折”。",
+    "relation": "example-word",
+    "note": "말하는 사람이 자기 앞의 방식을 “이렇게”라고 보여 주는 예시예요."
+  },
+  "hsk3-00489": {
+    "character": "这样",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "示范的人说：“像我这样折纸”。",
+    "relation": "example-word",
+    "note": "자신이 하는 방식을 “이렇게”라고 가리키는 예시예요. “那样”와 기준점이 달라요."
+  },
+  "hsk3-00490": {
+    "character": "着",
+    "src": "/images/words/hsk2-ongoing-reading.jpg",
+    "caption": "“他手里拿着一本书”：用持续的状态学习“着”。",
+    "relation": "example-word",
+    "note": "“拿着”에서 상태가 이어짐을 나타내는 조사예요. 사진만으로 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00491": {
+    "character": "正",
+    "src": "/images/words/hsk2-ongoing-reading.jpg",
+    "caption": "“他正看书呢”：说话的这一刻，阅读正在进行。",
+    "relation": "example-word",
+    "note": "지금 한창 하는 동작을 말하는 예시예요. “正”의 다른 형용사 뜻은 따로 배워요."
+  },
+  "hsk3-00493": {
+    "character": "准备",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "把本子和笔装进书包，为上课做准备。",
+    "relation": "example-word",
+    "note": "수업 전에 필요한 물건을 챙기는 준비의 예시예요. 미래 계획의 뜻은 문장으로 배워요."
+  },
+  "hsk3-00494": {
+    "character": "自己",
+    "src": "/images/words/hsk2-tie-own-shoes.jpg",
+    "caption": "不用别人帮忙，自己系鞋带。",
+    "relation": "example-word",
+    "note": "스스로 하는 행동의 예시예요. “自己”의 가리키는 대상은 문장 속 주어에 따라 달라요."
+  },
+  "hsk3-00497": {
+    "character": "足球",
+    "src": "/images/words/hsk2-soccer.jpg",
+    "caption": "在草地上用脚传踢足球：足球运动。",
+    "relation": "example-word",
+    "note": "축구공과 축구하는 활동을 함께 보여 줘요."
+  },
+  "hsk3-00498": {
+    "character": "最",
+    "src": "/images/words/hsk2-height-comparison.jpg",
+    "caption": "三个人中，左边穿蓝衣服的人个子最高。",
+    "relation": "example-word",
+    "note": "세 명을 비교한 최상급 예시예요. “最”는 비교 범위 안에서 제일임을 나타내요."
+  },
+  "hsk3-00499": {
+    "character": "左",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "以看图者的方向为准，苹果在白碗的左边。",
+    "relation": "example-word",
+    "note": "사진을 바라보는 사람의 방향을 기준으로 왼쪽을 설명해요. 인물의 몸 기준과는 다를 수 있어요."
+  },
+  "hsk3-00500": {
+    "character": "左边",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "以看图者的方向为准，苹果在白碗的左边。",
+    "relation": "example-word",
+    "note": "사진을 바라보는 사람의 방향을 기준으로 왼쪽을 설명해요. 인물의 몸 기준과는 다를 수 있어요."
+  },
+  "hsk3-00501": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "用本例中的成年女性练习礼貌称呼“阿姨”。",
+    "relation": "example-word",
+    "note": "여기서는 어른 여성에게 하는 친근한 호칭의 예시예요. 이모·고모 등의 친족 관계나 돌봄 직업의 뜻은 문맥으로 구분해요."
+  },
+  "hsk3-00502": {
+    "character": "矮",
+    "src": "/images/words/hsk2-height-comparison.jpg",
+    "caption": "同一平地上，穿绿色衣服的人比另外两人矮。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00503": {
+    "character": "爱人",
+    "src": "/images/words/couple-park-walk.jpg",
+    "caption": "本例中，婚姻关系中的两人互称爱人。",
+    "relation": "example-word",
+    "note": "여기서는 배우자의 뜻이에요. 실제 인물의 관계는 사진 외모가 아니라 예문에서 정해요."
+  },
+  "hsk3-00504": {
+    "character": "安静",
+    "src": "/images/words/hsk3-quiet-library.jpg",
+    "caption": "读者各自阅读，周围没有喧闹：安静的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00505": {
+    "character": "安全",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "骑车前戴好头盔，是注意安全的生活例子。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00506": {
+    "character": "把",
+    "src": "/images/words/wooden-chair.jpg",
+    "caption": "“一把椅子”：用量词把数椅子。",
+    "relation": "example-word",
+    "note": "여기서는 양사의 쓰임이에요. 목적어를 앞으로 이끄는 “把” 구문은 별도로 문장과 함께 배워요."
+  },
+  "hsk3-00507": {
+    "character": "班级",
+    "src": "/images/words/primary-classroom.jpg",
+    "caption": "同一班的学生一起上课，组成一个班级。",
+    "relation": "example-word",
+    "note": "사진은 학급의 예시예요. 학생의 나이와 학급의 실제 소속은 설명에서 정해요."
+  },
+  "hsk3-00508": {
+    "character": "搬",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "两个人合力把大箱子搬到台阶上：搬。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00509": {
+    "character": "住",
+    "src": "/images/characters/4f4f.webp",
+    "caption": "把生活用品搬进新的住所：搬家。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00510": {
+    "character": "办",
+    "src": "/images/words/hsk3-office-desk.jpg",
+    "caption": "在办公桌前处理手头的事务，是“办事”的一种情境。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00511": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "找到合适的拼法，是解决这道拼图的办法。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00512": {
+    "character": "办公室",
+    "src": "/images/words/hsk3-office-desk.jpg",
+    "caption": "摆有工作桌、电脑等办公设备的办公室。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00513": {
+    "character": "半天",
+    "src": "/images/words/hsk2-ongoing-reading.jpg",
+    "caption": "“读了半天书”：用持续阅读练习一段较长时间的“半天”。",
+    "relation": "example-word",
+    "note": "반나절 또는 꽤 오랜 시간을 뜻하는 예시예요. 사진 자체가 실제로 지난 시간을 증명하지는 않아요."
+  },
+  "hsk3-00514": {
+    "character": "帮助",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "看到对方搬箱子吃力，另一人伸手一起搬：帮助。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00516": {
+    "character": "报纸",
+    "src": "/images/words/hsk3-newspaper.jpg",
+    "caption": "展开阅读的纸质报纸，有分栏版面和新闻图片。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00517": {
+    "character": "北",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "本例把地图上方设为北，用指北针和地图认识北。",
+    "relation": "example-word",
+    "note": "위쪽을 북쪽으로 정한 지도 예시예요. 모든 지도나 사진의 위쪽이 항상 북쪽인 것은 아니에요."
+  },
+  "hsk3-00518": {
+    "character": "北方",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "从约定的中心向北的一片地区，可以称北方。",
+    "relation": "example-word",
+    "note": "북쪽 지역은 기준 지점과 문맥에 따라 정해요. 특정 기후나 주민의 모습을 뜻하지 않아요."
+  },
+  "hsk3-00519": {
+    "character": "被",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "“杯子被碰倒了”：用桌上的洒水意外练习被动表达。",
+    "relation": "example-word",
+    "note": "여기서는 수동을 나타내는 “被”예요. 이불을 뜻하는 명사와 구분해요."
+  },
+  "hsk3-00520": {
+    "character": "比较",
+    "src": "/images/words/big-small-toy-balls.jpg",
+    "caption": "把同类玩具球放在同一距离，比较它们的大小。",
+    "relation": "same-meaning",
+    "note": "여기서는 서로 견주어 보는 동사의 뜻이에요. “비교적”이라는 부사 쓰임은 문맥으로 배워요."
+  },
+  "hsk3-00521": {
+    "character": "比如",
+    "src": "/images/words/one-red-apple.jpg",
+    "caption": "“水果有很多，比如苹果”：用一只苹果作具体例子。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00522": {
+    "character": "比赛",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "双方按规则进行篮球比赛。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00523": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "把观察或学习的内容写下来，留下笔记。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00524": {
+    "character": "笔记本",
+    "src": "/images/words/hsk2-notebook-pen.jpg",
+    "caption": "用来写字、记录内容的纸质笔记本。",
+    "relation": "same-meaning",
+    "note": "여기서는 공책의 뜻이에요. 노트북 컴퓨터라는 다른 뜻과 구분해요."
+  },
+  "hsk3-00525": {
+    "character": "必须",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "“出发前必须戴好头盔”：用具体的准备要求练习必须。",
+    "relation": "example-word",
+    "note": "예문 속에서 반드시 따라야 하는 요구를 나타내요."
+  },
+  "hsk3-00526": {
+    "character": "变",
+    "src": "/images/words/hsk3-melting-ice.jpg",
+    "caption": "冰块渐渐融化，状态发生了改变：变。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00527": {
+    "character": "变成",
+    "src": "/images/words/hsk3-melting-ice.jpg",
+    "caption": "冰融化后变成水，从固态变成液态。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00528": {
+    "character": "变化",
+    "src": "/images/words/hsk3-melting-ice.jpg",
+    "caption": "同一盘里能看见冰块和融水，示意融化的变化。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00529": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "“把这本书读一遍”：用阅读情境练习从头到尾的一次。",
+    "relation": "example-word",
+    "note": "사진은 읽는 장면이에요. 처음부터 끝까지 마친 횟수는 예문으로 정해요."
+  },
+  "hsk3-00530": {
+    "character": "表演",
+    "src": "/images/words/hsk2-dance.jpg",
+    "caption": "用舞蹈动作进行表演，是表演的一种形式。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00531": {
+    "character": "样",
+    "src": "/images/characters/6837.webp",
+    "caption": "“不选这一块，选别的样品”：用不同样品练习别的。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00532": {
+    "character": "他",
+    "src": "/images/characters/4ed6.webp",
+    "caption": "“这不是我，是别人”：用另一位人物的指代情境练习别人。",
+    "relation": "example-word",
+    "note": "자신 이외의 사람을 뜻해요. 누가 말하는 사람인지는 대화 관점으로 정해요."
+  },
+  "hsk3-00533": {
+    "character": "宾馆",
+    "src": "/images/words/hsk2-hotel-lobby.jpg",
+    "caption": "有接待柜台、旅客和行李的宾馆大堂。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00535": {
+    "character": "冰激凌",
+    "src": "/images/words/hsk3-ice-cream.jpg",
+    "caption": "蛋筒上冷冻的奶油冰品：冰激凌。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00536": {
+    "character": "冰箱",
+    "src": "/images/words/hsk3-refrigerator.jpg",
+    "caption": "打开门后能看见食物冷藏空间的冰箱。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00537": {
+    "character": "病人",
+    "src": "/images/words/patient-doctor.jpg",
+    "caption": "来到诊室接受医生检查的人，是本例中的病人。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00538": {
+    "character": "不但",
+    "src": "/images/words/university-campus-students.jpg",
+    "caption": "“不但带了书，而且带了书包”：用两种物品练习不但。",
+    "relation": "example-word",
+    "note": "서로 더해지는 두 사실을 잇는 예문이에요. 사진의 물건과 문장을 함께 봐요."
+  },
+  "hsk3-00539": {
+    "character": "找",
+    "src": "/images/characters/627e.webp",
+    "caption": "“钥匙不见了”：用正在寻找钥匙的情境理解不见。",
+    "relation": "example-word",
+    "note": "찾던 것이 보이지 않는 상황의 예시예요. 찾는 동작만으로 실제 분실 여부를 단정하지 않아요."
+  },
+  "hsk3-00540": {
+    "character": "不久",
+    "src": "/images/words/train-station-arrival.jpg",
+    "caption": "“等了不久，朋友就到了”：用站台相见情境练习较短时间。",
+    "relation": "example-word",
+    "note": "실제로 기다린 시간은 사진에서 알 수 없으며, 짧은 시간이라는 뜻은 예문으로 정해요."
+  },
+  "hsk3-00541": {
+    "character": "样",
+    "src": "/images/characters/6837.webp",
+    "caption": "摆在一起的样品在颜色、材料等方面不同。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00542": {
+    "character": "不行",
+    "src": "/images/words/hsk2-do-not-touch-hot-kettle.jpg",
+    "caption": "“不行，别碰热水壶”：用成人阻止触碰热壶的情境练习不行。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00543": {
+    "character": "不用",
+    "src": "/images/words/hsk2-tie-own-shoes.jpg",
+    "caption": "“我会自己系鞋带，不用别人帮忙”：用独立完成的动作练习不用。",
+    "relation": "example-word",
+    "note": "여기서는 그럴 필요가 없다는 뜻이에요. 하지 말라는 금지와 구분해요."
+  },
+  "hsk3-00544": {
+    "character": "才",
+    "src": "/images/words/train-station-arrival.jpg",
+    "caption": "“等到现在才到站”：用旅客到站的情境练习才。",
+    "relation": "example-word",
+    "note": "기대보다 늦게 이루어짐을 말하는 예시예요. 실제 도착 시각은 사진에 담겨 있지 않아요."
+  },
+  "hsk3-00545": {
+    "character": "菜单",
+    "src": "/images/words/hsk2-order-food.jpg",
+    "caption": "客人看着菜品图片点菜，手中的是菜单。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00546": {
+    "character": "参加",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "球员进入场地参加比赛：参加。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00547": {
+    "character": "草",
+    "src": "/images/words/hsk3-grass-lawn.jpg",
+    "caption": "地上密密生长着绿色的草。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00548": {
+    "character": "草地",
+    "src": "/images/words/hsk3-grass-lawn.jpg",
+    "caption": "由许多草覆盖的一片地面：草地。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00549": {
+    "character": "层",
+    "src": "/images/words/hsk2-building.jpg",
+    "caption": "楼房里上下排列的一层层空间：层。",
+    "relation": "example-word",
+    "note": "여기서는 건물의 층을 세는 단위예요. 다른 겹·단계의 뜻과 구분해요."
+  },
+  "hsk3-00550": {
+    "character": "查",
+    "src": "/images/words/hsk3-dictionary-lookup.jpg",
+    "caption": "翻开词典寻找需要的词条：查词典。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00551": {
+    "character": "差",
+    "src": "/images/words/pair-of-eggs.jpg",
+    "caption": "“需要三个鸡蛋，只有两个，还差一个”：用可数物品练习差。",
+    "relation": "example-word",
+    "note": "여기서는 필요한 수량보다 모자란다는 뜻이에요. 나쁘다는 평가와 구분해요."
+  },
+  "hsk3-00552": {
+    "character": "如",
+    "src": "/images/characters/5982.webp",
+    "caption": "两个杯子的形状相似，可以说看起来差不多。",
+    "relation": "example-word",
+    "note": "완전히 같다는 단정이 아니라 거의 비슷하다는 예시예요."
+  },
+  "hsk3-00553": {
+    "character": "吃",
+    "src": "/images/characters/5403.webp",
+    "caption": "把一点食物送入口中，尝一尝味道：尝。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00554": {
+    "character": "常",
+    "src": "/images/words/hsk2-ongoing-reading.jpg",
+    "caption": "“他常在这里看书”：用阅读习惯的例句练习常。",
+    "relation": "example-word",
+    "note": "자주 한다는 빈도는 예문에서 정해요. 한 장의 사진은 반복 빈도를 보여 주지 않아요."
+  },
+  "hsk3-00555": {
+    "character": "常常",
+    "src": "/images/words/hsk2-ongoing-reading.jpg",
+    "caption": "“她常常读书”：用日常阅读的例句练习常常。",
+    "relation": "example-word",
+    "note": "자주 반복되는 행동을 뜻하는 예시예요. 실제 횟수는 사진에서 알 수 없어요."
+  },
+  "hsk3-00556": {
+    "character": "杯",
+    "src": "/images/characters/676f.webp",
+    "caption": "杯子是日常生活中常见的用品，用作常见的具体例子。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00557": {
+    "character": "常用",
+    "src": "/images/words/hsk2-each-place-setting.jpg",
+    "caption": "餐桌上摆着筷子：在中餐用餐中常用的餐具之一。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00558": {
+    "character": "衬衫",
+    "src": "/images/words/hsk3-shirt.jpg",
+    "caption": "有领子、长袖和前襟纽扣的衬衫。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00559": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "“这次学习取得了好成绩”：用得到肯定的学习成果作情境例子。",
+    "relation": "example-word",
+    "note": "성적·성과의 예시예요. 사진은 실제 점수나 학습 능력을 측정하지 않아요."
+  },
+  "hsk3-00561": {
+    "character": "迟到",
+    "src": "/images/words/hsk3-late-student.jpg",
+    "caption": "课堂已经开始，学习者这时才到：迟到。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00562": {
+    "character": "出发",
+    "src": "/images/words/hsk2-airport-departure-ticket.jpg",
+    "caption": "旅客带好登机所需物品，在机场准备出发。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00563": {
+    "character": "出生",
+    "src": "/images/words/hsk3-newborn-family.jpg",
+    "caption": "用父母照顾新生婴儿的情境理解出生。",
+    "relation": "example-word",
+    "note": "태어난 아기의 예시예요. 출산 과정이나 특정 출생 시각을 보여 주는 사진은 아니에요."
+  },
+  "hsk3-00564": {
+    "character": "出院",
+    "src": "/images/words/hsk3-leaving-hospital.jpg",
+    "caption": "病人带着随身物品离开医院：出院的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00565": {
+    "character": "初中",
+    "src": "/images/words/secondary-classroom.jpg",
+    "caption": "本例设为初中课堂，同学在老师指导下学习。",
+    "relation": "example-word",
+    "note": "학교 단계는 예문에서 정해요. 학생의 외모만으로 실제 학제를 판정하지 않아요."
+  },
+  "hsk3-00566": {
+    "character": "除了",
+    "src": "/images/words/hsk2-colored-pencils.jpg",
+    "caption": "“除了蓝色的，其余颜色都选”：用一组铅笔练习除了。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00567": {
+    "character": "船",
+    "src": "/images/words/hsk3-boat-on-river.jpg",
+    "caption": "浮在水上、可以载人通行的小船。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00568": {
+    "character": "春天",
+    "src": "/images/words/hsk3-spring-blossoms.jpg",
+    "caption": "枝头开花、嫩叶新生的春天情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00569": {
+    "character": "词典",
+    "src": "/images/words/hsk3-dictionary-lookup.jpg",
+    "caption": "可以按词条查找词义、读音等信息的词典。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00570": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "找到拼图的正确办法，可以用“聪明”表扬这次解决问题的表现。",
+    "relation": "example-word",
+    "note": "구체적인 문제 해결의 예시예요. 한 장의 사진으로 사람의 지능 전체를 판단하지 않아요."
+  },
+  "hsk3-00571": {
+    "character": "打扫",
+    "src": "/images/words/hsk3-cleaning-floor.jpg",
+    "caption": "用扫帚和簸箕清理地上的碎屑：打扫。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00572": {
+    "character": "打算",
+    "src": "/images/words/blank-wall-calendar.jpg",
+    "caption": "“提前在日历上安排要做的事”：用日程安排的情境练习打算。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00573": {
+    "character": "大概",
+    "src": "/images/words/hsk2-cloudy-sky.jpg",
+    "caption": "“天阴了，大概会下雨”：用阴天情境练习不完全确定的推测。",
+    "relation": "example-word",
+    "note": "아마 그러할 것이라는 예문이에요. 이 사진은 실제 일기예보가 아니에요."
+  },
+  "hsk3-00574": {
+    "character": "他",
+    "src": "/images/characters/4ed6.webp",
+    "caption": "本例中的成年男子，是大人的一个人物例图。",
+    "relation": "example-word",
+    "note": "여기서는 어른의 뜻이에요. 이름 뒤에 붙는 존칭 등 다른 쓰임과 구분해요."
+  },
+  "hsk3-00575": {
+    "character": "大小",
+    "src": "/images/words/big-small-toy-balls.jpg",
+    "caption": "两个同类玩具球放在同一距离，可以比较大小。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00576": {
+    "character": "大熊猫",
+    "src": "/images/words/hsk3-giant-panda.jpg",
+    "caption": "黑白相间、拿着竹子的大熊猫。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00577": {
+    "character": "大衣",
+    "src": "/images/words/hsk3-long-overcoat.jpg",
+    "caption": "长及膝部附近、穿在外面的长大衣。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00578": {
+    "character": "带",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "“带上书包去上学”：用整理随身学习用品的情境练习带。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00579": {
+    "character": "担心",
+    "src": "/images/words/hsk3-worried-parent.jpg",
+    "caption": "家长留意休息中的孩子，表现关切和担心。",
+    "relation": "example-word",
+    "note": "걱정하는 상황의 예시예요. 사진에서 특정 질병이나 위험을 진단하지 않아요."
+  },
+  "hsk3-00580": {
+    "character": "祝",
+    "src": "/images/characters/795d.webp",
+    "caption": "生日庆祝时的蛋糕，是蛋糕的一种生活例子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00581": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "“当然可以”：用肯定、赞许的回应情境练习当然。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00582": {
+    "character": "到处",
+    "src": "/images/words/hsk3-garden-flowerbeds.jpg",
+    "caption": "“花园里到处都能看见花草”：用园中的植物分布练习到处。",
+    "relation": "example-word",
+    "note": "여기서는 정해진 정원 안의 여러 곳을 가리키는 예시예요."
+  },
+  "hsk3-00583": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "接过别人递来的书，表示得到物品的“得”。",
+    "relation": "example-word",
+    "note": "여기서는 dé로 읽고 얻다는 뜻이에요. 조동사 děi나 구조조사 de와 구분해요."
+  },
+  "hsk3-00584": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "从对方手中收到一本书：得到书的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00585": {
+    "character": "得分",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "把球投入篮筐可以得分：用比赛情境理解得分。",
+    "relation": "example-word",
+    "note": "득점 규칙의 예시예요. 사진 한 장으로 실제 경기 점수나 슛 성공을 단정하지 않아요."
+  },
+  "hsk3-00586": {
+    "character": "的话",
+    "src": "/images/words/hsk2-cloudy-sky.jpg",
+    "caption": "“下雨的话，就带伞”：用天气话题练习表示条件的“的话”。",
+    "relation": "example-word",
+    "note": "조건을 제시하는 예문이에요. 사진의 날씨와 실제 미래의 비를 단정하지 않아요."
+  },
+  "hsk3-00587": {
+    "character": "得",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "“出发前得戴好头盔”：用需要完成的准备练习得。",
+    "relation": "example-word",
+    "note": "여기서는 děi로 읽고 해야 한다는 뜻이에요. 얻다는 dé와 구분해요."
+  },
+  "hsk3-00590": {
+    "character": "地点",
+    "src": "/images/words/hsk2-walking-path-destination.jpg",
+    "caption": "把前方的小亭子约定为见面的地点。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00591": {
+    "character": "地方",
+    "src": "/images/words/hsk2-walking-path-destination.jpg",
+    "caption": "路旁或前方的小亭子，是可以去的一个地方。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00592": {
+    "character": "地图",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "展开的地图用图形记录地形和路线。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00593": {
+    "character": "灯",
+    "src": "/images/characters/706f.webp",
+    "caption": "接通电源后灯发光：用电的情境理解电。",
+    "relation": "example-word",
+    "note": "전기를 사용하는 한 예시예요. 전기 자체의 모든 성질을 사진으로 나타내지는 않아요."
+  },
+  "hsk3-00594": {
+    "character": "电梯",
+    "src": "/images/words/hsk3-elevator.jpg",
+    "caption": "有滑动门和升降轿厢的电梯。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00595": {
+    "character": "电子书",
+    "src": "/images/words/hsk3-electronic-reading.jpg",
+    "caption": "在电子阅读器上阅读电子书的使用情境。",
+    "relation": "example-word",
+    "note": "전자책은 디지털 콘텐츠예요. 기기 자체와 책 내용은 구분해서 이해해요."
+  },
+  "hsk3-00596": {
+    "character": "找",
+    "src": "/images/characters/627e.webp",
+    "caption": "“钥匙丢了，正在找”：用寻找遗失物的情境练习丢。",
+    "relation": "example-word",
+    "note": "여기서는 잃어버리다의 뜻이에요. 버리다는 다른 쓰임과 구분해요."
+  },
+  "hsk3-00597": {
+    "character": "东",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "本例把地图上方设为北，右方就是东。",
+    "relation": "example-word",
+    "note": "위쪽을 북쪽으로 정한 지도 예시에서 오른쪽은 동쪽이에요. 실제 방향은 나침반과 기준으로 확인해요."
+  },
+  "hsk3-00598": {
+    "character": "东北",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "本例把地图上方设为北，右上方就是东北。",
+    "relation": "example-word",
+    "note": "북쪽과 동쪽 사이 방향의 예시예요. 지도 방향은 예문에서 정했어요."
+  },
+  "hsk3-00599": {
+    "character": "东方",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "本例地图向右的一方为东方，用地图学习方向。",
+    "relation": "example-word",
+    "note": "여기서는 동쪽 방향이에요. 문화·지역을 가리키는 동양의 뜻은 문맥으로 구분해요."
+  },
+  "hsk3-00600": {
+    "character": "东南",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "本例把地图上方设为北，右下方就是东南。",
+    "relation": "example-word",
+    "note": "동쪽과 남쪽 사이 방향의 예시예요. 지도 위쪽이 북쪽이라는 약속과 함께 봐요."
+  },
+  "hsk3-00601": {
+    "character": "冬天",
+    "src": "/images/words/snow-park.jpg",
+    "caption": "用白雪覆盖的公园作冬天的季节情境。",
+    "relation": "example-word",
+    "note": "겨울의 한 예시예요. 모든 지역의 겨울에 눈이 내리는 것은 아니에요."
+  },
+  "hsk3-00602": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "理解了拼图规则，懂得怎样把部件放好。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00603": {
+    "character": "狗",
+    "src": "/images/characters/72d7.webp",
+    "caption": "狗是动物的一种，用熟悉的家犬理解动物。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00604": {
+    "character": "动物园",
+    "src": "/images/words/hsk3-zoo-giraffe.jpg",
+    "caption": "游人在园区内观察长颈鹿：动物园的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00605": {
+    "character": "短",
+    "src": "/images/words/hsk2-long-short-ribbons.jpg",
+    "caption": "同类丝带比较，较短的一条用来理解短。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00606": {
+    "character": "短裤",
+    "src": "/images/words/hsk3-shorts.jpg",
+    "caption": "裤腿较短的一条裤子：短裤。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00607": {
+    "character": "线",
+    "src": "/images/characters/7ebf.webp",
+    "caption": "一段丝线：用连续线段的例子练习量词段。",
+    "relation": "example-word",
+    "note": "여기서는 길이의 한 구간을 세는 쓰임이에요. 시간 구간 등 다른 용법은 문맥으로 배워요."
+  },
+  "hsk3-00608": {
+    "character": "锻炼",
+    "src": "/images/words/hsk3-exercise-stretch.jpg",
+    "caption": "在公园里做伸展等身体练习：锻炼。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00609": {
+    "character": "对话",
+    "src": "/images/words/family-with-daughter.jpg",
+    "caption": "两个人互相说话、倾听，是对话的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00611": {
+    "character": "而且",
+    "src": "/images/words/university-campus-students.jpg",
+    "caption": "“不但带了书，而且带了书包”：用补充另一事实的句子练习而且。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00612": {
+    "character": "耳朵",
+    "src": "/images/words/hsk3-ear-closeup.jpg",
+    "caption": "头部一侧完整的外耳：耳朵。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00613": {
+    "character": "耳机",
+    "src": "/images/words/hsk3-headphones.jpg",
+    "caption": "有头梁和两个耳罩的耳机。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00614": {
+    "character": "发",
+    "src": "/images/words/hsk3-posting-letter.jpg",
+    "caption": "把信投入邮筒，发出一封信：发。",
+    "relation": "same-meaning",
+    "note": "여기서는 보내다·발송하다의 뜻이에요. 머리카락의 fà와 구분해요."
+  },
+  "hsk3-00615": {
+    "character": "发烧",
+    "src": "/images/words/fever-rest.jpg",
+    "caption": "身体发热时在家休息的情境，用来学习发烧。",
+    "relation": "example-word",
+    "note": "발열 때 쉬는 상황의 예시예요. 체온 측정이나 진단 결과를 사진에서 추정하지 않아요."
+  },
+  "hsk3-00616": {
+    "character": "发生",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "杯子碰倒、桌上洒水，发生了一件小意外。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00617": {
+    "character": "现",
+    "src": "/images/characters/73b0.webp",
+    "caption": "揭开布后注意到原先遮住的物品，是发现的情境。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00618": {
+    "character": "发展",
+    "src": "/images/words/hsk3-building-construction.jpg",
+    "caption": "建设中的新楼，是城市发展的一个具体例子。",
+    "relation": "example-word",
+    "note": "도시 개발의 한 장면이에요. 전체 발전의 정도나 성과를 사진 한 장으로 판단하지 않아요."
+  },
+  "hsk3-00619": {
+    "character": "方便",
+    "src": "/images/words/hsk3-elevator.jpg",
+    "caption": "用电梯上下楼，是使出行更方便的一种例子。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00620": {
+    "character": "方便面",
+    "src": "/images/words/hsk3-instant-noodles.jpg",
+    "caption": "杯中可以用热水泡食的卷曲面条：方便面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00621": {
+    "character": "方法",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "按步骤折纸船，是完成这件事的一种方法。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00622": {
+    "character": "方向",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "用地图和指北针认识前进的方向。",
+    "relation": "example-word",
+    "note": "방위의 기준은 지도·나침반과 예문으로 정해요. 그래픽 화살표를 실제 방향으로 착각하지 않아요."
+  },
+  "hsk3-00623": {
+    "character": "房子",
+    "src": "/images/words/hsk2-building.jpg",
+    "caption": "有屋顶、门和窗、供人居住的楼房，是房子的一种。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00624": {
+    "character": "放",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "把笔记本放进书包：放。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00625": {
+    "character": "放假",
+    "src": "/images/words/weekend-park.jpg",
+    "caption": "“放假去公园”：用不必上课或上班时的活动练习放假。",
+    "relation": "example-word",
+    "note": "실제 휴일 여부는 일정으로 정해요. 공원에 있다는 것만으로 방학·휴가라고 판단하지 않아요."
+  },
+  "hsk3-00626": {
+    "character": "放心",
+    "src": "/images/words/father-son-homecoming.jpg",
+    "caption": "“一家人平安团聚，这下放心了”：用家中团聚的情境练习放心。",
+    "relation": "example-word",
+    "note": "안심하게 된 이유와 상태 변화는 예문에서 정해요. 사진은 그 상황의 예시예요."
+  },
+  "hsk3-00627": {
+    "character": "放学",
+    "src": "/images/words/class-finish.jpg",
+    "caption": "收拾书包，结束当天学习后准备离开学校：放学。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00628": {
+    "character": "绝",
+    "src": "/images/characters/7edd.webp",
+    "caption": "丝绳剪开后，两端彼此分开。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00629": {
+    "character": "风",
+    "src": "/images/words/hsk3-wind-in-trees.jpg",
+    "caption": "头发、衣角和树枝随空气流动而摆动：风。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00630": {
+    "character": "信",
+    "src": "/images/characters/4fe1.webp",
+    "caption": "一封信：用装在信封里的信练习量词封。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00631": {
+    "character": "夫妻",
+    "src": "/images/words/couple-park-walk.jpg",
+    "caption": "本例中已结婚的两人，是一对夫妻。",
+    "relation": "example-word",
+    "note": "혼인 관계는 예문에서 정한 역할이에요. 사람의 외모만으로 실제 관계를 판단하지 않아요."
+  },
+  "hsk3-00632": {
+    "character": "服务",
+    "src": "/images/words/hsk2-order-food.jpg",
+    "caption": "服务员听客人点菜，是提供服务的一种情境。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00633": {
+    "character": "附近",
+    "src": "/images/words/hsk2-near-far-path.jpg",
+    "caption": "长椅就在观察者附近：用近处的物体练习附近。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00634": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "上课后再读已经学过的内容，是复习的一种情境。",
+    "relation": "example-word",
+    "note": "이미 배운 내용을 다시 공부한다는 상황은 예문에서 정해요."
+  },
+  "hsk3-00635": {
+    "character": "该",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "“骑车前该戴好头盔”：用适当的准备练习该。",
+    "relation": "example-word",
+    "note": "여기서는 마땅히 해야 한다는 쓰임이에요. “그” 등 다른 뜻과 구분해요."
+  },
+  "hsk3-00637": {
+    "character": "怕",
+    "src": "/images/characters/6015.webp",
+    "caption": "“站在高处感到害怕”：用人物的主观感受练习感到。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00638": {
+    "character": "咳",
+    "src": "/images/restored-new/54b3.jpg",
+    "caption": "“感冒时可能咳嗽”：用咳嗽的情境辅助学习感冒。",
+    "relation": "example-word",
+    "note": "기침이 있다고 반드시 감기인 것은 아니에요. 여기서는 감기와 관련된 예문을 연습해요."
+  },
+  "hsk3-00639": {
+    "character": "感兴趣",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "专注地把花画下来，是对绘画感兴趣的情境例子。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00640": {
+    "character": "作",
+    "src": "/images/characters/4f5c.webp",
+    "caption": "动手制作、从事具体工作，是干活的情境。",
+    "relation": "example-word",
+    "note": "여기서는 gàn으로 읽고 일을 하다는 뜻이에요. 마르다는 gān과 구분해요."
+  },
+  "hsk3-00641": {
+    "character": "刚",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "“杯子刚被碰倒”：用洒水结果练习离现在很近的刚。",
+    "relation": "example-word",
+    "note": "막 일어났다는 시간关系는 예문으로 정해요. 사진 자체에 실제 발생 시각이 있지는 않아요."
+  },
+  "hsk3-00642": {
+    "character": "刚才",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "“刚才不小心碰倒了杯子”：用小意外的情境练习刚才。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00643": {
+    "character": "刚刚",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "“杯子刚刚碰倒了”：用近期发生的小事练习刚刚。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00644": {
+    "character": "高铁",
+    "src": "/images/words/hsk3-high-speed-train.jpg",
+    "caption": "有流线型车头的高速铁路列车：高铁。",
+    "relation": "same-meaning",
+    "note": "고속철도의 차량 예시예요. 사진에서 실제 운행 속도를 측정한 것은 아니에요."
+  },
+  "hsk3-00645": {
+    "character": "根据",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "“根据地图判断方向”：用查地图的情境练习根据。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00646": {
+    "character": "更",
+    "src": "/images/words/big-small-toy-balls.jpg",
+    "caption": "同类玩具球相比较，这个比另一个更大：更。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00647": {
+    "character": "工作日",
+    "src": "/images/words/hsk3-office-desk.jpg",
+    "caption": "按单位安排上班的日子叫工作日，照片是办公中的情境。",
+    "relation": "example-word",
+    "note": "실제 근무일은 직장과 일정에 따라 달라요. 사진으로 특정 요일을 정하지 않아요."
+  },
+  "hsk3-00648": {
+    "character": "公斤",
+    "src": "/images/words/hsk3-produce-on-scale.jpg",
+    "caption": "用秤称苹果的情境，帮助理解重量单位公斤。",
+    "relation": "example-word",
+    "note": "1公斤은 1000그램이에요. 이 사진에서 실제 사과 무게가 정확히 1킬로그램이라는 뜻은 아니에요."
+  },
+  "hsk3-00649": {
+    "character": "公园",
+    "src": "/images/words/weekend-park.jpg",
+    "caption": "有草地、树木和休闲活动空间的公园。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00650": {
+    "character": "故事",
+    "src": "/images/words/hsk3-telling-story.jpg",
+    "caption": "大人向孩子讲故事，孩子专心听。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00651": {
+    "character": "刮",
+    "src": "/images/words/hsk3-wind-in-trees.jpg",
+    "caption": "风吹动头发、衣角和树枝：刮风的刮。",
+    "relation": "same-meaning",
+    "note": "여기서는 바람이 불다는 쓰임이에요. 긁다·깎다 등의 다른 뜻과 구분해요."
+  },
+  "hsk3-00652": {
+    "character": "关",
+    "src": "/images/words/hsk3-closing-door.jpg",
+    "caption": "把门往门框方向合上：关门。",
+    "relation": "same-meaning",
+    "note": "여기서는 닫다의 뜻이에요. 전원을 끄다·관계되다 등은 문맥으로 구분해요."
+  },
+  "hsk3-00653": {
+    "character": "关机",
+    "src": "/images/words/hsk3-laptop-power-button.jpg",
+    "caption": "按电源键进行关机的使用情境。",
+    "relation": "example-word",
+    "note": "사진은 전원 조작의 예시예요. 검은 화면만으로 기기의 종료가 완료되었다고 판단하지 않아요."
+  },
+  "hsk3-00654": {
+    "character": "关系",
+    "src": "/images/words/couple-park-walk.jpg",
+    "caption": "本例中两人有婚姻关系，用具体的人际联系理解关系。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00655": {
+    "character": "关心",
+    "src": "/images/words/hsk3-worried-parent.jpg",
+    "caption": "家长留意孩子的状态，照顾并关心孩子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00656": {
+    "character": "讲",
+    "src": "/images/characters/8bb2.webp",
+    "caption": "“关于地理知识的讲解”：用讲解地球仪的情境练习关于。",
+    "relation": "example-word",
+    "note": "이야기하는 주제를 제시하는 쓰임의 예시예요. 특정 단어 자체가 사진 속 물체라는 뜻은 아니에요."
+  },
+  "hsk3-00657": {
+    "character": "听",
+    "src": "/images/characters/542c.webp",
+    "caption": "侧耳认真听，表现对声音的关注。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00658": {
+    "character": "国家",
+    "src": "/images/words/hsk3-globe-table.jpg",
+    "caption": "用地球仪讨论世界上的国家，国家包括一定地域和相应社会共同体。",
+    "relation": "example-word",
+    "note": "사진은 나라를 이야기하는 지리 학습의 예시예요. 실제 국가의 이름과 경계는 신뢰할 수 있는 지도로 확인해요."
+  },
+  "hsk3-00659": {
+    "character": "过节",
+    "src": "/images/words/hsk2-new-year-family-meal.jpg",
+    "caption": "一家人围坐吃节日饭，庆祝春节：过节的一个例子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00660": {
+    "character": "过去",
+    "src": "/images/words/hsk3-history-museum.jpg",
+    "caption": "博物馆里陈列的旧式器物，帮助谈论过去的生活。",
+    "relation": "example-word",
+    "note": "과거를 배우는 예시예요. 생성된 참고 사진이 특정 실제 유물의 진위를 증명하지는 않아요."
+  },
+  "hsk3-00663": {
+    "character": "林",
+    "src": "/images/characters/6797.webp",
+    "caption": "成片的树林里有好多树。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00664": {
+    "character": "情",
+    "src": "/images/characters/60c5.webp",
+    "caption": "“好久不见”：用重逢时表达感情的情境练习较长时间。",
+    "relation": "example-word",
+    "note": "오랜만에 만났다는 시간关系는 예문에서 정해요. 사진만으로 헤어진 기간을 알 수는 없어요."
+  },
+  "hsk3-00665": {
+    "character": "如",
+    "src": "/images/characters/5982.webp",
+    "caption": "“这两个杯子好像是同款”：用相似外形练习不完全确定的判断。",
+    "relation": "example-word",
+    "note": "확정이 아니라 그렇게 보인다는 추측의 예시예요."
+  },
+  "hsk3-00666": {
+    "character": "号码",
+    "src": "/images/words/queue-ticket.jpg",
+    "caption": "排队时按号码等候，用号码牌的使用情境理解号码。",
+    "relation": "example-word",
+    "note": "번호표의 용도 예시예요. 실제 번호는 글자로 확인하며 사진의 빈 표에 숫자가 적혔다고 주장하지 않아요."
+  },
+  "hsk3-00667": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "拼图的形状能与对应位置相合：合适的具体例子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00669": {
+    "character": "黑板",
+    "src": "/images/words/hsk3-chalkboard.jpg",
+    "caption": "深绿色板面和粉笔、板擦组成课堂里的黑板。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00670": {
+    "character": "红绿灯",
+    "src": "/images/words/hsk3-traffic-light.jpg",
+    "caption": "路口用于提示通行或等候的红绿灯。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00671": {
+    "character": "后来",
+    "src": "/images/words/apology-spilled-water.jpg",
+    "caption": "“杯子碰倒了，后来对方说没关系”：用事件前后的叙述练习后来。",
+    "relation": "example-word",
+    "note": "앞선 일 다음에 이어지는 때를 말하는 예시예요. 한 장의 사진이 전체 시간 순서를 보여 주지는 않아요."
+  },
+  "hsk3-00672": {
+    "character": "祝",
+    "src": "/images/characters/795d.webp",
+    "caption": "“后年再一起过生日”：用生日约定练习今年之后两年的后年。",
+    "relation": "example-word",
+    "note": "말하는 해에서 두 해 뒤예요. 사진 자체에는 특정 연도가 없어요."
+  },
+  "hsk3-00673": {
+    "character": "后天",
+    "src": "/images/characters/6628.webp",
+    "caption": "“后天去野餐”：用活动计划练习今天之后两天的后天。",
+    "relation": "example-word",
+    "note": "오늘을 기준으로 이틀 뒤예요. 실제 날짜는 예문과 달력으로 정해요."
+  },
+  "hsk3-00674": {
+    "character": "护照",
+    "src": "/images/words/hsk2-airport-departure-ticket.jpg",
+    "caption": "出行时携带护照的小册子，用机场情境辅助认识护照。",
+    "relation": "example-word",
+    "note": "여권의 사용 예시예요. 실제 문서의 이름·번호·유효성은 사진에 표시하지 않아요."
+  },
+  "hsk3-00675": {
+    "character": "花园",
+    "src": "/images/words/hsk3-garden-flowerbeds.jpg",
+    "caption": "有花坛、绿植和小路的花园。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00676": {
+    "character": "画家",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "本例设作画者为画家，用他描绘花朵的情境学习画家。",
+    "relation": "example-word",
+    "note": "화가의 작업 예시로 정한 장면이에요. 그림을 그리는 모습만으로 실제 직업을 단정하지 않아요."
+  },
+  "hsk3-00677": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "礼貌地邀请来访者入座，表示欢迎客人。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00678": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "把借来的书交回给对方：还书的情境。",
+    "relation": "example-word",
+    "note": "여기서는 huán으로 읽고 돌려주다는 뜻이에요. 아직·또한의 hái와 구분하고, 책을 돌려주는 설정은 예문에서 정해요."
+  },
+  "hsk3-00679": {
+    "character": "环境",
+    "src": "/images/words/hsk3-garden-flowerbeds.jpg",
+    "caption": "花园里的花草、小路和周围条件，构成这一处的环境。",
+    "relation": "example-word",
+    "note": "여기서는 눈에 보이는 주변 환경의 예시예요. 사회 환경 등 모든 뜻을 다 담지는 않아요."
+  },
+  "hsk3-00680": {
+    "character": "换",
+    "src": "/images/words/hsk3-exchanging-books.jpg",
+    "caption": "两个人互相把不同的书交给对方：换书。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00681": {
+    "character": "黄色",
+    "src": "/images/words/hsk2-colored-pencils.jpg",
+    "caption": "画面中黄色的一支铅笔，用来认识黄色。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00682": {
+    "character": "回答",
+    "src": "/images/words/classroom-question.jpg",
+    "caption": "“老师问，同学回答”：用课堂交流的情境练习回答。",
+    "relation": "example-word",
+    "note": "누가 질문하고 누가 답하는지는 예문에서 정해요. 손을 든 모습만으로 말의 내용을 알 수는 없어요."
+  },
+  "hsk3-00683": {
+    "character": "会",
+    "src": "/images/words/hsk3-meeting-table.jpg",
+    "caption": "几位同事围桌讨论，正在开一个会。",
+    "relation": "same-meaning",
+    "note": "여기서는 huì로 읽고 회의라는 뜻이에요. 할 줄 안다의 조동사와 구분해요."
+  },
+  "hsk3-00684": {
+    "character": "会议",
+    "src": "/images/words/hsk3-meeting-table.jpg",
+    "caption": "同事们围桌商议工作内容：会议。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00685": {
+    "character": "或",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "“喝红茶或绿茶”：在两种茶之间选择，用来理解或。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00686": {
+    "character": "或者",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "“红茶或者绿茶都可以”：用两种可选茶练习或者。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00687": {
+    "character": "几乎",
+    "src": "/images/words/little-water-glass.jpg",
+    "caption": "杯中只剩很少的水，可以说几乎空了。",
+    "relation": "example-word",
+    "note": "완전히 빈 것은 아니지만 거의 그 상태라는 예시예요."
+  },
+  "hsk3-00688": {
+    "character": "机会",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "“有机会投篮”：用球员面对篮筐准备进攻的情境理解机会。",
+    "relation": "example-word",
+    "note": "기회가 되는 조건은 경기 상황과 예문으로 정해요. 슛 성공을 보장한다는 뜻은 아니에요."
+  },
+  "hsk3-00689": {
+    "character": "鸡",
+    "src": "/images/words/hsk3-hen.jpg",
+    "caption": "农家饲养、有羽毛、鸡冠和喙的鸡。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00690": {
+    "character": "怕",
+    "src": "/images/characters/6015.webp",
+    "caption": "“害怕极了”：用明显害怕的情境练习表示程度很高的极。",
+    "relation": "example-word",
+    "note": "여기서는 정도를 높이는 쓰임이에요. 끝·극점 등의 명사 뜻과 구분해요."
+  },
+  "hsk3-00691": {
+    "character": "急",
+    "src": "/images/words/hsk3-late-student.jpg",
+    "caption": "“要迟到了，心里很急”：用赶到课堂的情境练习急。",
+    "relation": "example-word",
+    "note": "시간에 쫓겨 초조한 상황의 예시예요. 실제 마음 상태는 예문에서 정해요."
+  },
+  "hsk3-00693": {
+    "character": "季",
+    "src": "/images/words/hsk3-spring-blossoms.jpg",
+    "caption": "春天是一年中的一季，用春景认识季的时间单位。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00694": {
+    "character": "季节",
+    "src": "/images/words/hsk3-spring-blossoms.jpg",
+    "caption": "开花和嫩叶新生的春天，是一个季节。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00695": {
+    "character": "加",
+    "src": "/images/words/three-red-apples.jpg",
+    "caption": "“一个再加两个，一共三个苹果”：用可数物品练习加。",
+    "relation": "example-word",
+    "note": "덧셈의 예시예요. 실제로 옮기는 동작 전체가 사진에 담겨 있지는 않아요."
+  },
+  "hsk3-00696": {
+    "character": "假期",
+    "src": "/images/words/weekend-park.jpg",
+    "caption": "“假期去公园休息”：用空闲活动的情境练习假期。",
+    "relation": "example-word",
+    "note": "실제 방학·휴가 일정은 예문에서 정해요. 공원 활동을 모두 휴가라고 하는 것은 아니에요."
+  },
+  "hsk3-00697": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "一次次继续练习、不轻易停下，是坚持的学习例子。",
+    "relation": "example-word",
+    "note": "꾸준히 한다는 과정은 예문으로 이해해요. 한 장의 사진으로 장기간의 지속을 측정하지 않아요."
+  },
+  "hsk3-00698": {
+    "character": "检查",
+    "src": "/images/words/patient-doctor.jpg",
+    "caption": "医生听诊、查看病人的状态：检查身体。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00699": {
+    "character": "检票",
+    "src": "/images/words/hsk3-ticket-check.jpg",
+    "caption": "工作人员查看旅客的车票：检票。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00700": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "“这个拼图很简单”：用容易理解或完成的任务作例子。",
+    "relation": "example-word",
+    "note": "쉽고 간단하다는 평가는 사람과 경험에 따라 달라요. 사진은 예문 속 과제의 참고예요."
+  },
+  "hsk3-00701": {
+    "character": "见面",
+    "src": "/images/words/greeting-handshake.jpg",
+    "caption": "两个人走到一起互相问候：见面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00702": {
+    "character": "健康",
+    "src": "/images/words/hsk3-exercise-stretch.jpg",
+    "caption": "适当锻炼是维护健康的生活例子。",
+    "relation": "example-word",
+    "note": "건강한 생활 습관의 예시예요. 외모나 사진 한 장으로 건강 상태를 진단하지 않아요."
+  },
+  "hsk3-00704": {
+    "character": "钱",
+    "src": "/images/characters/94b1.webp",
+    "caption": "一角是人民币十分之一元，用硬币情境辅助理解角。",
+    "relation": "example-word",
+    "note": "여기서는 화폐 단위예요. 사진 속 특정 동전의 액면가가 一角라고 주장하지 않아요."
+  },
+  "hsk3-00705": {
+    "character": "脚",
+    "src": "/images/words/hsk3-foot-on-mat.jpg",
+    "caption": "脚趾、脚掌和脚跟组成的一只脚。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00706": {
+    "character": "接",
+    "src": "/images/words/train-station-arrival.jpg",
+    "caption": "等候者在站台迎接到站的朋友：接朋友。",
+    "relation": "same-meaning",
+    "note": "여기서는 마중하다의 쓰임이에요. 받다·전화를 받다 등 다른 뜻과 구분해요."
+  },
+  "hsk3-00707": {
+    "character": "街",
+    "src": "/images/words/hsk3-city-street.jpg",
+    "caption": "两旁有建筑、行人和通行空间的街。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00708": {
+    "character": "节",
+    "src": "/images/words/primary-classroom.jpg",
+    "caption": "“一节课”：用课堂学习的情境练习量词节。",
+    "relation": "example-word",
+    "note": "여기서는 수업 시간을 세는 단위예요. 명절·마디 등의 다른 뜻과 구분해요."
+  },
+  "hsk3-00709": {
+    "character": "节目",
+    "src": "/images/words/home-television.jpg",
+    "caption": "在电视上观看节目，是节目的一种使用情境。",
+    "relation": "example-word",
+    "note": "방송 프로그램을 보는 예시예요. 무대 공연 등 다른 형태도 있어요."
+  },
+  "hsk3-00710": {
+    "character": "节日",
+    "src": "/images/words/hsk2-new-year-family-meal.jpg",
+    "caption": "春节团聚庆祝，是过节日的一个例子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00711": {
+    "character": "结婚",
+    "src": "/images/words/hsk3-wedding-couple.jpg",
+    "caption": "两位成年人举行婚礼、交换戒指：结婚的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00712": {
+    "character": "结束",
+    "src": "/images/words/class-finish.jpg",
+    "caption": "课堂学习告一段落，同学收拾物品：结束。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00713": {
+    "character": "姐",
+    "src": "/images/characters/59d0.webp",
+    "caption": "本例中两位年龄不同的女性手足，是姐妹。",
+    "relation": "example-word",
+    "note": "설명에서 정한 자매 관계의 예시예요. 함께 있는 여성들의 관계를 외모로 추정하는 규칙은 아니에요."
+  },
+  "hsk3-00714": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "找到正确的拼图办法，把问题解决了。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00716": {
+    "character": "斤",
+    "src": "/images/words/hsk3-produce-on-scale.jpg",
+    "caption": "用秤称水果的情境，帮助理解重量单位斤。",
+    "relation": "example-word",
+    "note": "중국 대륙의 현대 市斤은 500그램이에요. 사진의 실제 과일이 정확히 一斤라는 뜻은 아니에요."
+  },
+  "hsk3-00718": {
+    "character": "经理",
+    "src": "/images/words/hsk3-meeting-table.jpg",
+    "caption": "本例设主持讨论的同事为经理，用工作会议认识这个岗位。",
+    "relation": "example-word",
+    "note": "직책은 예문에서 정한 역할이에요. 옷차림이나 위치만으로 실제 직책을 판단하지 않아요."
+  },
+  "hsk3-00719": {
+    "character": "久",
+    "src": "/images/words/new-and-worn-shoes.jpg",
+    "caption": "“穿了很久，鞋子磨旧了”：用旧鞋的情境练习较长时间。",
+    "relation": "example-word",
+    "note": "실제 사용 기간은 사진에서 측정할 수 없어요. 오래라는 뜻은 예문과 함께 이해해요."
+  },
+  "hsk3-00721": {
+    "character": "旧",
+    "src": "/images/words/new-and-worn-shoes.jpg",
+    "caption": "与崭新的鞋相比较，磨损的那双鞋显得旧。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00722": {
+    "character": "句",
+    "src": "/images/words/greeting-handshake.jpg",
+    "caption": "“一句你好”：用见面时的一句话练习量词句。",
+    "relation": "example-word",
+    "note": "말을 문장 단위로 세는 예시예요. 말의 실제 내용은 학습 문장으로 정해요."
+  },
+  "hsk3-00723": {
+    "character": "句子",
+    "src": "/images/words/greeting-handshake.jpg",
+    "caption": "“你好”可以作为一句问候的句子，照片提供见面情境。",
+    "relation": "example-word",
+    "note": "문장은 글자와 음성으로 확인해요. 사진이 문법 구조 자체를 보여 주는 것은 아니에요."
+  },
+  "hsk3-00724": {
+    "character": "决定",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "“决定喝红茶”：用在两杯茶中作出选择的情境理解决定。",
+    "relation": "example-word",
+    "note": "실제로 무엇을 골랐는지는 예문으로 정해요. 고민하는 표정만으로 결정 결과를 알 수는 없어요."
+  },
+  "hsk3-00725": {
+    "character": "卡",
+    "src": "/images/words/hsk3-plain-card.jpg",
+    "caption": "有圆角和芯片的塑料卡片，是卡的一种。",
+    "relation": "same-meaning",
+    "note": "결제 카드의 형태 예시예요. 실제 계좌·카드 번호·사용 권한은 포함하지 않아요."
+  },
+  "hsk3-00726": {
+    "character": "开花",
+    "src": "/images/words/hsk3-garden-flowerbeds.jpg",
+    "caption": "花坛里花朵已经开放：开花的状态。",
+    "relation": "same-meaning",
+    "note": "꽃이 핀 상태의 예시예요. 한 장의 사진은 개화의 전 과정을 보여 주지는 않아요."
+  },
+  "hsk3-00727": {
+    "character": "开会",
+    "src": "/images/words/hsk3-meeting-table.jpg",
+    "caption": "同事围桌讨论工作，正在开会。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00728": {
+    "character": "开机",
+    "src": "/images/words/hsk3-laptop-power-button.jpg",
+    "caption": "按电源键启动电脑，是开机的使用情境。",
+    "relation": "example-word",
+    "note": "사진은 전원 조작의 예시예요. 시작과 종료의 결과는 상황에 따라 구분하며 화면만으로 단정하지 않아요."
+  },
+  "hsk3-00729": {
+    "character": "开心",
+    "src": "/images/words/father-son-homecoming.jpg",
+    "caption": "家人见面时带着笑容，是开心的生活情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00730": {
+    "character": "看来",
+    "src": "/images/words/hsk2-cloudy-sky.jpg",
+    "caption": "“看来快要下雨了”：用阴天的景象练习根据观察作推测。",
+    "relation": "example-word",
+    "note": "보아하니 그러할 것 같다는 예문이에요. 사진은 실제 예보를 보장하지 않아요."
+  },
+  "hsk3-00731": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“想骑车，可下雨了”：用计划与天气的反差练习转折的可。",
+    "relation": "example-word",
+    "note": "여기서는 그러나라는 뜻이에요. 가능하다 등 다른 쓰임과 구분해요."
+  },
+  "hsk3-00732": {
+    "character": "猫",
+    "src": "/images/characters/732b.webp",
+    "caption": "“这只猫很可爱”：用家猫作喜爱感受的具体例子。",
+    "relation": "example-word",
+    "note": "귀엽다는 느낌은 사람마다 달라요. 사진은 예문의 대상이에요."
+  },
+  "hsk3-00733": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“想骑车，可是下雨了”：用反差情境练习可是。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00734": {
+    "character": "喝",
+    "src": "/images/characters/559d.webp",
+    "caption": "感到口渴时喝水，用饮水的情境理解渴。",
+    "relation": "example-word",
+    "note": "사진은 물을 마시는 행동의 예시예요. 보이는 모습만으로 실제 갈증을 측정하지 않아요."
+  },
+  "hsk3-00735": {
+    "character": "刻",
+    "src": "/images/words/clock-three.jpg",
+    "caption": "一刻钟是十五分钟，借钟表的分钟刻度理解时长单位刻。",
+    "relation": "example-word",
+    "note": "사진 속 시계가 15분의 경과를 보여 준다는 뜻은 아니에요. 시간 단위는 예문과 함께 익혀요."
+  },
+  "hsk3-00736": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "受到主人礼貌邀请入座的来访者，是本例中的客人。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00737": {
+    "character": "课本",
+    "src": "/images/words/primary-classroom.jpg",
+    "caption": "课堂上用来学习课程内容的书，是课本的使用情境。",
+    "relation": "example-word",
+    "note": "이 사진은 제시한 예문의 상황을 돕는 참고예요. 단어의 모든 뜻을 나타내지는 않아요."
+  },
+  "hsk3-00738": {
+    "character": "课文",
+    "src": "/images/words/primary-classroom.jpg",
+    "caption": "同学在课堂里读课本中的课文：课文的学习情境。",
+    "relation": "example-word",
+    "note": "본문의 실제 내용은 글자로 읽어야 해요. 사진은 수업 활동의 예시예요."
+  },
+  "hsk3-00739": {
+    "character": "空调",
+    "src": "/images/words/hsk3-air-conditioner.jpg",
+    "caption": "墙上用于调节室内空气温度的空调。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00740": {
+    "character": "泪",
+    "src": "/images/characters/6cea.webp",
+    "caption": "眼泪从眼睛流到脸颊，是哭的情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00741": {
+    "character": "筷子",
+    "src": "/images/words/hsk2-each-place-setting.jpg",
+    "caption": "餐位旁成双摆放、用来夹取食物的筷子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00742": {
+    "character": "矿泉水",
+    "src": "/images/words/hsk3-bottled-water.jpg",
+    "caption": "本例用一瓶瓶装水帮助认识矿泉水的生活用法。",
+    "relation": "example-word",
+    "note": "생수 병의 사용 예시예요. 미네랄 성분과 물의 종류는 실제 제품 정보로 확인하며 투명한 물만 보고 단정하지 않아요."
+  },
+  "hsk3-00743": {
+    "character": "来自",
+    "src": "/images/words/self-introduction.jpg",
+    "caption": "自我介绍时说“我来自……”：用介绍自己的情境练习来自。",
+    "relation": "example-word",
+    "note": "실제 출신 지역은 학습 문장에서 정해요. 사람의 외모로 출신을 추정하지 않아요."
+  },
+  "hsk3-00744": {
+    "character": "蓝",
+    "src": "/images/words/hsk2-colored-pencils.jpg",
+    "caption": "画面中蓝色的一支铅笔，用来认识蓝色的蓝。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00745": {
+    "character": "老",
+    "src": "/images/words/hsk3-older-adult.jpg",
+    "caption": "用本例中年纪较大的成年人学习形容年龄的老。",
+    "relation": "example-word",
+    "note": "여기서는 나이가 많다는 뜻이에요. 낡다·이름 앞의 접두사 등 다른 쓰임과 구분해요."
+  },
+  "hsk3-00746": {
+    "character": "老人",
+    "src": "/images/words/hsk3-older-adult.jpg",
+    "caption": "本例中年纪较大的成年人，是老人的人物例图。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00747": {
+    "character": "离开",
+    "src": "/images/words/hsk2-leaving-home.jpg",
+    "caption": "从家门内走到门外，离开原来的地方：离开。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00748": {
+    "character": "礼物",
+    "src": "/images/words/hsk3-wrapped-gift.jpg",
+    "caption": "包好并递给对方的小盒子，是礼物的一个例子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00749": {
+    "character": "历史",
+    "src": "/images/words/hsk3-history-museum.jpg",
+    "caption": "观察博物馆里的旧式器物，学习过去生活的历史情境。",
+    "relation": "example-word",
+    "note": "역사를 배우는 예시예요. 생성 참고 사진은 특정 유물·사건의 실제 사료가 아니에요."
+  },
+  "hsk3-00753": {
+    "character": "凉",
+    "src": "/images/characters/51c9.webp",
+    "caption": "扇子带来舒适的凉意：“这里很凉快。”",
+    "relation": "example-word",
+    "note": "덥지 않고 시원하게 느껴지는 상황의 예시예요. 사진이 실제 온도를 측정하지는 않아요."
+  },
+  "hsk3-00755": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "几位朋友见面后随意交谈：“聊一会儿”。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00756": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "朋友们轻松地谈论日常话题：聊天儿。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00757": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "“先了解拼图规则，再开始拼”：了解规则的情境。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00758": {
+    "character": "邻居",
+    "src": "/images/words/hsk3-neighbors-doorways.jpg",
+    "caption": "住在相邻门里的两个人互相问好：邻居。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
+  },
+  "hsk3-00759": {
+    "character": "留学",
+    "src": "/images/words/university-campus-students.jpg",
+    "caption": "例句设定学生在国外的大学学习：“去留学”。",
+    "relation": "example-word",
+    "note": "유학은 자기 나라 밖에서 공부한다는 뜻이에요. 사진만으로 인물의 국적이나 유학 여부를 판단하지 않아요."
+  },
+  "hsk3-00760": {
+    "character": "留学生",
+    "src": "/images/words/university-campus-students.jpg",
+    "caption": "例句中在国外求学的大学生：留学生。",
+    "relation": "example-word",
+    "note": "유학생이라는 신분은 예문의 설정이에요. 외모나 언어로 국적을 추정하지 않아요."
+  },
+  "hsk3-00761": {
+    "character": "楼梯",
+    "src": "/images/words/hsk2-stairs-from-bottom.jpg",
+    "caption": "一层层踏步连接楼上与楼下：楼梯。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00762": {
+    "character": "路边",
+    "src": "/images/words/hsk2-bus-stop-city.jpg",
+    "caption": "公交站设在道路旁边：“在路边等车”。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00763": {
+    "character": "路口",
+    "src": "/images/words/hsk3-traffic-light.jpg",
+    "caption": "几条道路交会、有交通灯的地方：路口。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00764": {
+    "character": "马",
+    "src": "/images/words/hsk3-horse-meadow.jpg",
+    "caption": "草地上的马，长鬃、四蹄和尾巴清楚可见。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00766": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "“听到提醒，马上记下来”：马上表示立即行动。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00767": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "“对做好的陶器感到满意”：完成作品后的满意情境。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00768": {
+    "character": "钱",
+    "src": "/images/characters/94b1.webp",
+    "caption": "用计算钱数的情境学习毛：一毛是一元的十分之一。",
+    "relation": "example-word",
+    "note": "돈의 단위 마오를 익히는 예시예요. 사진 속 동전의 실제 통화나 액면가를 판정하지 않아요."
+  },
+  "hsk3-00769": {
+    "character": "米",
+    "src": "/images/words/hsk3-meter-ruler.jpg",
+    "caption": "用米尺量木板的长度，联系长度单位米。",
+    "relation": "example-word",
+    "note": "미터라는 길이 단위와 측정 도구를 연결해요. 사진에서 특정한 수치를 읽지는 않아요."
+  },
+  "hsk3-00770": {
+    "character": "你",
+    "src": "/images/characters/4f60.webp",
+    "caption": "两个人面对面交流：“对方就在我面前”。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00771": {
+    "character": "名单",
+    "src": "/images/words/hsk3-clipboard-list.jpg",
+    "caption": "工作人员逐行核对名单。",
+    "relation": "example-word",
+    "note": "명단을 확인하는 상황이에요. 문서는 흐린 자리표시이며 실제 이름이나 개인정보가 없어요."
+  },
+  "hsk3-00772": {
+    "character": "名人",
+    "src": "/images/words/hsk3-evening-performance.jpg",
+    "caption": "例句把台上的演员设为一位名人。",
+    "relation": "example-word",
+    "note": "유명한 인물이라는 설정은 예문이 정해요. AI 속 인물을 실제 유명인으로 소개하지 않아요."
+  },
+  "hsk3-00773": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "“我明白怎么拼了”：理解拼图方法的情境。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00774": {
+    "character": "他",
+    "src": "/images/characters/4ed6.webp",
+    "caption": "图中例句提到的成年男性：男人。",
+    "relation": "example-word",
+    "note": "성인 남성이라는 인물 예시예요. 실제 개인의 정체성을 사진으로 판정하는 자료가 아니에요."
+  },
+  "hsk3-00775": {
+    "character": "男生",
+    "src": "/images/words/hsk3-campus-student-pair.jpg",
+    "caption": "例句中的男性学生：男生。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
+  },
+  "hsk3-00776": {
+    "character": "南",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "借指南针的朝向学习方向南。",
+    "relation": "example-word",
+    "note": "실제 방위 교구의 기준 방향과 함께 보세요. 특정 촬영 장소의 남쪽을 단정하지 않아요."
+  },
+  "hsk3-00777": {
+    "character": "南方",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "“往南方走”：把南方作为朝南的方向情境。",
+    "relation": "example-word",
+    "note": "이 예시는 남쪽 방향을 말해요. 어느 나라의 특정 지역·기후를 뜻하는지는 문장으로 확인하세요."
+  },
+  "hsk3-00778": {
+    "character": "难",
+    "src": "/images/words/hsk3-challenging-puzzle.jpg",
+    "caption": "“这幅拼图很难”：复杂拼图需要仔细思考。",
+    "relation": "example-word",
+    "note": "어렵게 느끼는 문제의 예시예요. 사람의 능력이나 지능을 사진으로 평가하지 않아요."
+  },
+  "hsk3-00779": {
+    "character": "泪",
+    "src": "/images/characters/6cea.webp",
+    "caption": "“心里难过，流下眼泪”：伤心情绪的例子。",
+    "relation": "example-word",
+    "note": "슬픔의 한 예시예요. 눈물만으로 실제 감정이나 원인을 단정하지 않아요."
+  },
+  "hsk3-00780": {
+    "character": "难看",
+    "src": "/images/words/hsk3-ugly-clay-pot.jpg",
+    "caption": "“这只陶杯做得不太好看”：用不规则器物示意难看。",
+    "relation": "example-word",
+    "note": "물건의 모양을 평가하는 예시예요. 사람의 외모를 비하하거나 아름다움의 기준을 정하지 않아요."
+  },
+  "hsk3-00781": {
+    "character": "难题",
+    "src": "/images/words/hsk3-challenging-puzzle.jpg",
+    "caption": "“遇到一道难题”：用难拼的拼图作困难问题的例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00782": {
+    "character": "难听",
+    "src": "/images/words/hsk3-loud-noise-ear-cover.jpg",
+    "caption": "“施工噪声很难听”：人捂住耳朵的情境。",
+    "relation": "example-word",
+    "note": "듣기 불편한 소음 상황의 예시예요. 사진 자체에서 소리를 들을 수는 없어요."
+  },
+  "hsk3-00783": {
+    "character": "年级",
+    "src": "/images/words/primary-classroom.jpg",
+    "caption": "例句说这些孩子在同一个年级学习：年级。",
+    "relation": "example-word",
+    "note": "학년은 예문에서 지정해요. 사진으로 실제 학년이나 나이를 판정하지 않아요."
+  },
+  "hsk3-00784": {
+    "character": "年轻",
+    "src": "/images/words/hsk3-campus-student-pair.jpg",
+    "caption": "“年轻的大学生”：用年轻成人作年龄阶段的例子。",
+    "relation": "example-word",
+    "note": "젊다는 말의 인물 예시예요. 실제 나이나 건강 상태를 추정하지 않아요."
+  },
+  "hsk3-00785": {
+    "character": "牛",
+    "src": "/images/words/hsk3-cow-meadow.jpg",
+    "caption": "牧场中的牛，四蹄、牛鼻和身体轮廓清楚可见。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00786": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "“努力练习画线”：认真投入一项练习。",
+    "relation": "example-word",
+    "note": "노력하는 활동의 상황 예시예요. 사진만으로 노력의 기간이나 성과를 측정하지 않아요."
+  },
+  "hsk3-00787": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "图中例句提到的成年女性：女人。",
+    "relation": "example-word",
+    "note": "성인 여성이라는 인물 예시예요. 사진은 모든 여성을 대표하지 않아요."
+  },
+  "hsk3-00788": {
+    "character": "女生",
+    "src": "/images/words/hsk3-campus-student-pair.jpg",
+    "caption": "例句中的女性学生：女生。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
+  },
+  "hsk3-00789": {
+    "character": "爬",
+    "src": "/images/words/hsk3-rock-climbing.jpg",
+    "caption": "双手抓住支点，身体沿岩壁向上：爬。",
+    "relation": "same-meaning",
+    "note": "기어오르는 동작의 예시예요. 바닥을 기어가는 다른 쓰임은 별도 예문으로 확인하세요."
+  },
+  "hsk3-00791": {
+    "character": "拍照",
+    "src": "/images/words/hsk3-taking-photo.jpg",
+    "caption": "举起相机，对准景物按下快门：拍照。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00792": {
+    "character": "盘子",
+    "src": "/images/words/hsk3-empty-plate.jpg",
+    "caption": "有平浅盘面和盘沿的餐具：盘子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00794": {
+    "character": "啤酒",
+    "src": "/images/words/hsk3-glass-beer.jpg",
+    "caption": "杯中的金黄色啤酒，表面有泡沫：啤酒。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00795": {
+    "character": "平时",
+    "src": "/images/words/breakfast-table.jpg",
+    "caption": "“平时早上吃早饭”：用日常早餐作平时的情境。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00796": {
+    "character": "瓶子",
+    "src": "/images/words/hsk3-bottled-water.jpg",
+    "caption": "装水的容器是瓶子：用水瓶作例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00797": {
+    "character": "西红柿",
+    "src": "/images/restored-new/tomato.jpg",
+    "caption": "“看着像苹果，其实是西红柿”：其实引出真实情况。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00798": {
+    "character": "其他",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "“除了茶，还有其他饮料可以选”：其他表示另外的。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00800": {
+    "character": "骑",
+    "src": "/images/words/hsk3-bicycle-riding.jpg",
+    "caption": "坐在自行车上，双脚蹬踏向前：骑。",
+    "relation": "same-meaning",
+    "note": "자전거를 타는 동작의 예시예요. 말을 타는 용법은 별도로 확인하세요."
+  },
+  "hsk3-00801": {
+    "character": "起",
+    "src": "/images/words/hsk2-stand-up-from-chair.jpg",
+    "caption": "“从椅子上起身”：用站起的动作学习起。",
+    "relation": "example-word",
+    "note": "일어나다라는 동작의 예시예요. 사건을 세는 양사 용법은 나타내지 않아요."
+  },
+  "hsk3-00802": {
+    "character": "起飞",
+    "src": "/images/words/hsk3-airplane-takeoff.jpg",
+    "caption": "飞机离开跑道，机头抬起向空中飞去：起飞。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00803": {
+    "character": "汽车",
+    "src": "/images/words/waiting-taxi.jpg",
+    "caption": "出租车是一种汽车：用轿车外形作例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00804": {
+    "character": "铅笔",
+    "src": "/images/words/hsk2-colored-pencils.jpg",
+    "caption": "彩色铅笔也是铅笔：注意笔尖、木杆和笔芯。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00805": {
+    "character": "前年",
+    "src": "/images/characters/6628.webp",
+    "caption": "把野餐照片放进“前年去野餐”的例句情境：前年。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00806": {
+    "character": "前天",
+    "src": "/images/characters/6628.webp",
+    "caption": "把野餐照片放进“前天去野餐”的例句情境：前天。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00807": {
+    "character": "清",
+    "src": "/images/characters/6e05.webp",
+    "caption": "“水很清，能看得清楚”：用清晰可见的场景理解清楚。",
+    "relation": "example-word",
+    "note": "잘 보인다는 뜻의 예시예요. 이해·설명이 분명하다는 다른 쓰임은 문장으로 확인하세요."
+  },
+  "hsk3-00808": {
+    "character": "请假",
+    "src": "/images/words/classroom-question.jpg",
+    "caption": "学生礼貌地向老师说：“我想请一天假。”",
+    "relation": "example-word",
+    "note": "휴가·결석 허락을 구하는 문장의 예시예요. 사진만으로 실제 허가 여부나 기간을 알 수는 없어요."
+  },
+  "hsk3-00809": {
+    "character": "请客",
+    "src": "/images/words/hsk3-host-paying-meal.jpg",
+    "caption": "主人招待朋友吃饭并付款：请客。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00810": {
+    "character": "秋天",
+    "src": "/images/words/hsk3-autumn-path.jpg",
+    "caption": "树叶变黄、变红并落下的秋天情境。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00811": {
+    "character": "球场",
+    "src": "/images/words/hsk2-soccer.jpg",
+    "caption": "有球门、可以踢足球的场地：球场的一种。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00813": {
+    "character": "然后",
+    "src": "/images/words/class-finish.jpg",
+    "caption": "“先下课，然后收拾书包”：然后连接后一步。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00814": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "“热情地请客人入座”：友好积极地接待客人。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00815": {
+    "character": "认",
+    "src": "/images/characters/8ba4.webp",
+    "caption": "看到熟人后认出对方：“我认得她。”",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00816": {
+    "character": "认为",
+    "src": "/images/words/hsk3-agreement-discussion.jpg",
+    "caption": "“我认为这个办法可以”：用讨论意见的情境学习认为。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00817": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "“认真地记录内容”：注意力放在手头的工作上。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00818": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "“看懂规则后，拼起来容易些”：完成拼图的例子。",
+    "relation": "example-word",
+    "note": "쉽고 어려움은 상황에 따라 달라요. 사진으로 사람의 능력을 평가하지 않아요."
+  },
+  "hsk3-00819": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“如果下雨，就换一种出行办法”：如果提出条件。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00820": {
+    "character": "伞",
+    "src": "/images/words/hsk3-open-umbrella.jpg",
+    "caption": "展开后可以挡雨的伞，伞面、伞骨和伞柄清楚可见。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00821": {
+    "character": "扫",
+    "src": "/images/words/hsk3-cleaning-floor.jpg",
+    "caption": "用扫帚把地上的杂物扫到一起：扫。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00822": {
+    "character": "沙发",
+    "src": "/images/words/hsk2-comfortable-sofa.jpg",
+    "caption": "带有软垫、可供人坐靠的沙发。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00823": {
+    "character": "山",
+    "src": "/images/words/hsk3-mountain-landscape.jpg",
+    "caption": "明显高起的山峰和山坡：山。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00824": {
+    "character": "上衣",
+    "src": "/images/words/putting-on-jacket.jpg",
+    "caption": "穿在身体上部的外套，是上衣的一种。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00825": {
+    "character": "勺子",
+    "src": "/images/words/hsk3-spoon-bowl.jpg",
+    "caption": "有勺头和长柄、可舀取食物的勺子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00826": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "“朋友就在她身边”：两个人相伴而行。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00827": {
+    "character": "身高",
+    "src": "/images/words/hsk2-height-comparison.jpg",
+    "caption": "三位成年人站在同一地面上，比较身高。",
+    "relation": "example-word",
+    "note": "키가 서로 다름을 비교하는 예시예요. 사진에서 정확한 키 수치를 읽지는 않아요."
+  },
+  "hsk3-00828": {
+    "character": "生活",
+    "src": "/images/words/breakfast-table.jpg",
+    "caption": "一家人吃早饭，是日常生活的一部分：生活。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00829": {
+    "character": "生气",
+    "src": "/images/words/hsk3-angry-face.jpg",
+    "caption": "眉头紧皱、表情不悦的情境：“他有些生气。”",
+    "relation": "example-word",
+    "note": "화가 난 표정의 학습 예시예요. 실제 감정이나 성격을 사진으로 진단하지 않아요."
+  },
+  "hsk3-00830": {
+    "character": "铃",
+    "src": "/images/restored-new/94c3.jpg",
+    "caption": "“一声铃声”：用手铃发出的声音学习声。",
+    "relation": "example-word",
+    "note": "소리의 한 예시와 소리를 세는 단위예요. 사진 자체가 소리를 재생하지는 않아요."
+  },
+  "hsk3-00831": {
+    "character": "铃",
+    "src": "/images/restored-new/94c3.jpg",
+    "caption": "手铃可以发出铃声，这是声音的一种。",
+    "relation": "example-word",
+    "note": "벨 소리는 소리의 한 예예요. 목소리 등 다른 종류의 소리도 있어요."
+  },
+  "hsk3-00832": {
+    "character": "世界",
+    "src": "/images/words/hsk3-globe-table.jpg",
+    "caption": "用地球仪把地球上的各地联系为世界。",
+    "relation": "example-word",
+    "note": "지구 모형을 이용한 세계의 예시예요. 정치적 경계나 정확한 위치를 판정하는 지도는 아니에요."
+  },
+  "hsk3-00833": {
+    "character": "市",
+    "src": "/images/words/hsk3-city-street.jpg",
+    "caption": "城市里的街道、楼房和交通，联系市的城市义。",
+    "relation": "example-word",
+    "note": "도시의 일상 풍경 예시예요. 특정 행정구역이나 실제 도시 이름을 단정하지 않아요."
+  },
+  "hsk3-00834": {
+    "character": "试",
+    "src": "/images/words/hsk2-tie-own-shoes.jpg",
+    "caption": "“试一试这双鞋是否合脚”：用试穿的情境学习试。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00835": {
+    "character": "室",
+    "src": "/images/words/tidy-bedroom.jpg",
+    "caption": "卧室是室的一种：屋里的一个房间。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00836": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "从对方手中把书接过来：“收下这本书”。",
+    "relation": "example-word",
+    "note": "책을 받는 장면의 예시예요. 수집·거두다 등 다른 뜻은 따로 확인하세요."
+  },
+  "hsk3-00837": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "“收到了朋友递来的书”：收到表示接收已经发生。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00838": {
+    "character": "受",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "搬箱子时受到朋友帮助：受。",
+    "relation": "example-word",
+    "note": "도움을 받는 상황의 예시예요. 고통을 겪는 다른 쓰임을 모두 나타내지는 않아요."
+  },
+  "hsk3-00839": {
+    "character": "受到",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "“受到朋友的帮助”：受到引出获得的帮助。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00840": {
+    "character": "瘦",
+    "src": "/images/words/hsk3-slender-adult.jpg",
+    "caption": "自然、较瘦的成人体形示例：瘦。",
+    "relation": "example-word",
+    "note": "체형을 묘사하는 낱말의 예시예요. 건강·가치·성격을 평가하지 않아요."
+  },
+  "hsk3-00841": {
+    "character": "他",
+    "src": "/images/characters/4ed6.webp",
+    "caption": "例句中，孩子把这位成年男子称为叔叔。",
+    "relation": "example-word",
+    "note": "삼촌이라는 친족 관계나 성인 남성을 부르는 호칭은 문맥으로 구별해요. 사진으로 친족 관계를 단정하지 않아요."
+  },
+  "hsk3-00843": {
+    "character": "数学",
+    "src": "/images/words/ten-counters.jpg",
+    "caption": "用实物木片练习计数，是数学学习的一种活动。",
+    "relation": "example-word",
+    "note": "수학의 한 기초 활동인 수 세기예요. 수학 전체가 단순한 수 세기만을 뜻하지는 않아요."
+  },
+  "hsk3-00844": {
+    "character": "刷",
+    "src": "/images/words/hsk3-brushing-teeth.jpg",
+    "caption": "用牙刷清洁牙齿：刷牙里的刷。",
+    "relation": "same-meaning",
+    "note": "솔로 닦는 동작의 예시예요. 다른 물체를 닦는 용법도 있어요."
+  },
+  "hsk3-00845": {
+    "character": "双",
+    "src": "/images/words/hsk2-tie-own-shoes.jpg",
+    "caption": "成对穿在两只脚上的鞋，可以用双计算。",
+    "relation": "example-word",
+    "note": "두 개가 짝을 이루는 물건을 세는 단위예요. “个”와 쓰임이 같지는 않아요."
+  },
+  "hsk3-00846": {
+    "character": "水平",
+    "src": "/images/words/hsk3-practice-progression.jpg",
+    "caption": "比较练习作品的熟练程度，联系水平。",
+    "relation": "example-word",
+    "note": "작품의 차이를 보여 주는 예시예요. 사진만으로 실제 능력이나 성적을 평가하지 않아요."
+  },
+  "hsk3-00847": {
+    "character": "司机",
+    "src": "/images/words/driving-car.jpg",
+    "caption": "正在驾驶汽车的人：司机。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00848": {
+    "character": "四季",
+    "src": "/images/words/hsk3-autumn-path.jpg",
+    "caption": "秋天是四季之一，四季包括春、夏、秋、冬。",
+    "relation": "example-word",
+    "note": "사진에는 가을의 예시만 보여요. 네 계절이 동시에 나타난 그림으로 설명하지 않아요."
+  },
+  "hsk3-00849": {
+    "character": "太阳",
+    "src": "/images/words/hsk3-sun-over-field.jpg",
+    "caption": "地平线上清楚可见的太阳：太阳。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00851": {
+    "character": "怪",
+    "src": "/images/characters/602a.webp",
+    "caption": "“这个胡萝卜的形状很特别”：少见形状的例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00852": {
+    "character": "提高",
+    "src": "/images/words/hsk3-practice-progression.jpg",
+    "caption": "“通过练习，让画线更稳”：用作品对比示意提高。",
+    "relation": "example-word",
+    "note": "향상을 설명하는 예시예요. 실제 학습 성과나 인과효과를 입증하는 전후 검사는 아니에요."
+  },
+  "hsk3-00853": {
+    "character": "体育",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "球赛是体育活动的一种：体育。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00854": {
+    "character": "体育馆",
+    "src": "/images/words/hsk3-gymnasium.jpg",
+    "caption": "有室内球场和运动设施的体育馆。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00855": {
+    "character": "糖",
+    "src": "/images/characters/7cd6.webp",
+    "caption": "糖通常带有甜味，用糖联系味觉词甜。",
+    "relation": "example-word",
+    "note": "단맛을 설명하는 사물 예시예요. 사진 자체로 맛을 느끼거나 평가할 수는 없어요."
+  },
+  "hsk3-00857": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "“听朋友说学校要放假”：用聊天的情境学习听说。",
+    "relation": "example-word",
+    "note": "전해 들었다는 표현이에요. 사진은 소문의 사실 여부를 확인해 주지 않아요."
+  },
+  "hsk3-00858": {
+    "character": "挺",
+    "src": "/images/words/flowers-vase.jpg",
+    "caption": "“这些花挺漂亮的”：挺表示程度比较高。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00859": {
+    "character": "同事",
+    "src": "/images/words/hsk3-meeting-table.jpg",
+    "caption": "例句中的几位成年人一起工作：同事。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
+  },
+  "hsk3-00860": {
+    "character": "同意",
+    "src": "/images/words/hsk3-agreement-discussion.jpg",
+    "caption": "听完建议后点头表示赞成：同意。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00861": {
+    "character": "头发",
+    "src": "/images/words/hsk3-hair-closeup.jpg",
+    "caption": "头上的发丝和发际清楚可见：头发。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00862": {
+    "character": "突然",
+    "src": "/images/characters/60ca.webp",
+    "caption": "“突然收到惊喜，露出吃惊表情”：突然。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00863": {
+    "character": "图书馆",
+    "src": "/images/words/hsk3-quiet-library.jpg",
+    "caption": "有大量藏书、阅读座位的图书馆。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00865": {
+    "character": "外地",
+    "src": "/images/words/hsk2-tourist-landmark.jpg",
+    "caption": "“到外地旅行”：把游客来到别的地方放入外地的语境。",
+    "relation": "example-word",
+    "note": "다른 지역이라는 뜻은 예문의 출발지·거주지를 기준으로 해요. 사진으로 실제 주소를 추정하지 않아요."
+  },
+  "hsk3-00866": {
+    "character": "外卖",
+    "src": "/images/words/hsk3-food-delivery.jpg",
+    "caption": "送餐人员把打包好的食物送到家门口：外卖。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00867": {
+    "character": "语",
+    "src": "/images/characters/8bed.webp",
+    "caption": "例句中的学生在学习不是母语的语言：外语。",
+    "relation": "example-word",
+    "note": "외국어인지는 학습자의 모국어에 따라 달라요. 사진으로 사용하는 언어나 국적을 판단하지 않아요."
+  },
+  "hsk3-00868": {
+    "character": "完成",
+    "src": "/images/words/hsk3-completed-puzzle.jpg",
+    "caption": "放好最后一块，整幅拼图做好了：完成。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00869": {
+    "character": "晚点",
+    "src": "/images/words/hsk2-airport-departure-ticket.jpg",
+    "caption": "“航班晚点，旅客还在等待”：晚点的候机场景。",
+    "relation": "example-word",
+    "note": "연착이라는 정보는 예문이 정해요. 사진만으로 실제 시간표나 항공편 지연 여부를 알 수는 없어요."
+  },
+  "hsk3-00870": {
+    "character": "晚会",
+    "src": "/images/words/hsk3-evening-performance.jpg",
+    "caption": "夜晚举行、有表演和观众的晚会。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00871": {
+    "character": "碗",
+    "src": "/images/words/hsk3-spoon-bowl.jpg",
+    "caption": "口较深、可盛食物的碗：碗。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00872": {
+    "character": "网球",
+    "src": "/images/words/hsk3-tennis.jpg",
+    "caption": "用网球拍隔网击打网球：网球。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00873": {
+    "character": "网站",
+    "src": "/images/words/hsk2-using-internet.jpg",
+    "caption": "电脑浏览器里打开的网页，联系网站。",
+    "relation": "example-word",
+    "note": "웹사이트를 보는 상황의 예시예요. 화면은 실제 계정 데이터나 이 사이트의 기능 변경을 뜻하지 않아요."
+  },
+  "hsk3-00874": {
+    "character": "找",
+    "src": "/images/characters/627e.webp",
+    "caption": "“忘记钥匙放在哪里，所以翻找”：忘记。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00875": {
+    "character": "卫生间",
+    "src": "/images/words/hsk2-restroom.jpg",
+    "caption": "有洗手设施和便器的卫生间。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00876": {
+    "character": "为",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "“为朋友搬箱子”：为引出帮助的对象。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00877": {
+    "character": "为了",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "“为了送朋友礼物而画画”：为了引出目的。",
+    "relation": "example-word",
+    "note": "목적은 예문이 정해요. 그림 그리는 모습만으로 실제 의도를 알 수는 없어요."
+  },
+  "hsk3-00878": {
+    "character": "文化",
+    "src": "/images/words/hsk3-history-museum.jpg",
+    "caption": "博物馆中的器物展示，是文化材料的一类例子。",
+    "relation": "example-word",
+    "note": "문화의 한 종류인 역사·실물 자료의 예시예요. 문화는 언어·예술·생활 관습 등도 포함해요."
+  },
+  "hsk3-00879": {
+    "character": "屋子",
+    "src": "/images/words/tidy-bedroom.jpg",
+    "caption": "有床、柜子和窗户的屋子内部。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00880": {
+    "character": "西",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "借指南针的朝向学习方向西。",
+    "relation": "example-word",
+    "note": "교구의 기준 방위를 보세요. 실제 촬영 장소의 서쪽을 단정하지 않아요."
+  },
+  "hsk3-00881": {
+    "character": "西北",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "“向西北走”：西和北之间的方向。",
+    "relation": "example-word",
+    "note": "방향 교구와 예문을 함께 보세요. 지도의 실제 장소를 판정하지 않아요."
+  },
+  "hsk3-00882": {
+    "character": "西方",
+    "src": "/images/words/hsk3-western-building-reference.jpg",
+    "caption": "以欧洲风格街道作为西方地区语境的一个例子。",
+    "relation": "example-word",
+    "note": "서양 지역의 한 건축 풍경 예시예요. 모든 서양 국가·문화가 같다는 뜻은 아니며 실제 장소를 특정하지 않아요."
+  },
+  "hsk3-00883": {
+    "character": "西瓜",
+    "src": "/images/words/hsk3-watermelon.jpg",
+    "caption": "绿色条纹瓜皮和红色瓜瓤：西瓜。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00884": {
+    "character": "西南",
+    "src": "/images/words/hsk3-compass-map.jpg",
+    "caption": "“向西南走”：西和南之间的方向。",
+    "relation": "example-word",
+    "note": "방향 교구와 예문을 함께 보세요. 지도의 실제 장소를 판정하지 않아요."
+  },
+  "hsk3-00885": {
+    "character": "习惯",
+    "src": "/images/words/hsk2-tie-own-shoes.jpg",
+    "caption": "“习惯出门前系好鞋带”：日常重复行为的例子。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00886": {
+    "character": "洗衣机",
+    "src": "/images/words/hsk3-washing-machine.jpg",
+    "caption": "有滚筒和圆形门、用来洗衣服的洗衣机。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00887": {
+    "character": "洗澡",
+    "src": "/images/words/hsk3-bathroom-shower.jpg",
+    "caption": "淋浴间是洗澡的地方，图为洗澡情境示例。",
+    "relation": "example-word",
+    "note": "샤워 공간은 씻는 장소의 예시예요. 사진에는 사람이 씻는 동작을 직접 보여 주지 않아요."
+  },
+  "hsk3-00888": {
+    "character": "喜爱",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "“喜爱画画，空闲时愿意投入其中”：喜爱的活动。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00889": {
+    "character": "夏天",
+    "src": "/images/words/hot-weather-fan.jpg",
+    "caption": "穿轻便衣服、扇风的炎热夏天情境。",
+    "relation": "example-word",
+    "note": "여름의 한 날씨 예시예요. 한 장면으로 실제 계절·기온을 판정하지 않아요."
+  },
+  "hsk3-00890": {
+    "character": "先",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "“先把纸对折，再继续下一步”：先表示前一步。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00891": {
+    "character": "相信",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "“相信朋友会帮忙，放心一起抬箱子”：相信。",
+    "relation": "example-word",
+    "note": "믿는다는 심리적 의미는 예문이 정해요. 사진만으로 실제 내면을 판단하지 않아요."
+  },
+  "hsk3-00892": {
+    "character": "香蕉",
+    "src": "/images/words/hsk3-bananas.jpg",
+    "caption": "一串弯曲的黄色香蕉，果皮和外形清楚。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00893": {
+    "character": "箱子",
+    "src": "/images/words/hsk2-open-box.jpg",
+    "caption": "打开盖子、可以装物品的箱子。",
+    "relation": "same-meaning",
+    "note": "상자를 뜻하는 예시예요. 여행 가방이라는 다른 용법은 별도 장면으로 확인하세요."
+  },
+  "hsk3-00894": {
+    "character": "向",
+    "src": "/images/words/hsk2-walking-path-destination.jpg",
+    "caption": "“向前面的亭子走”：向引出移动方向。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00895": {
+    "character": "相机",
+    "src": "/images/words/hsk3-taking-photo.jpg",
+    "caption": "拍照时手中使用的器材是相机。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00896": {
+    "character": "如",
+    "src": "/images/characters/5982.webp",
+    "caption": "“两个杯子的形状很像”：用相似外形理解像。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00897": {
+    "character": "小区",
+    "src": "/images/words/hsk3-apartment-garden.jpg",
+    "caption": "住宅楼、共有花园和步行道组成的居住小区。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00898": {
+    "character": "小心",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "骑车前检查并戴好头盔：“小心一些。”",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00900": {
+    "character": "校长",
+    "src": "/images/words/hsk3-school-principal.jpg",
+    "caption": "例句中主持学校事务、与师生交谈的校长。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
+  },
+  "hsk3-00901": {
+    "character": "鞋",
+    "src": "/images/words/hsk2-tie-own-shoes.jpg",
+    "caption": "穿在脚上、正在系鞋带的鞋。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00902": {
+    "character": "情",
+    "src": "/images/characters/60c5.webp",
+    "caption": "“重逢时心里很高兴”：用内心感受的语境学习心里。",
+    "relation": "example-word",
+    "note": "마음속 감정은 예문이 정해요. 표정만으로 실제 생각을 단정하지 않아요."
+  },
+  "hsk3-00903": {
+    "character": "新年",
+    "src": "/images/words/hsk2-new-year-family-meal.jpg",
+    "caption": "家人一起庆祝新年的聚餐情境。",
+    "relation": "example-word",
+    "note": "신년이라는 시점은 예문이 정해요. 사진만으로 정확한 날짜나 모든 지역의 풍습을 판단하지 않아요."
+  },
+  "hsk3-00904": {
+    "character": "新闻",
+    "src": "/images/words/hsk3-newspaper.jpg",
+    "caption": "报纸是阅读新闻的一种媒介：新闻。",
+    "relation": "example-word",
+    "note": "뉴스 매체의 예시예요. 흐린 지면의 내용은 실제 사건 보도나 검증된 최신 정보가 아니에요."
+  },
+  "hsk3-00905": {
+    "character": "新鲜",
+    "src": "/images/words/hsk3-produce-on-scale.jpg",
+    "caption": "“刚买来的新鲜水果”：用有生气的果蔬作情境。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00907": {
+    "character": "信用卡",
+    "src": "/images/words/hsk3-plain-card.jpg",
+    "caption": "例句把这张支付卡设为信用卡。",
+    "relation": "example-word",
+    "note": "신용카드라는 종류는 예문이 정해요. 무표시 카드의 외관으로 실제 신용 기능이나 계좌를 판정하지 않아요."
+  },
+  "hsk3-00908": {
+    "character": "行",
+    "src": "/images/words/hsk3-agreement-discussion.jpg",
+    "caption": "“这个办法行”：用点头接受建议的情境学习行。",
+    "relation": "example-word",
+    "note": "괜찮다·가능하다는 뜻의 예시예요. xíng과 háng의 다른 읽기는 구별하세요."
+  },
+  "hsk3-00909": {
+    "character": "行李",
+    "src": "/images/words/hsk3-airport-luggage.jpg",
+    "caption": "出行时携带的箱包放在一起：行李。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00910": {
+    "character": "兴趣",
+    "src": "/images/words/hsk2-hobby-painting.jpg",
+    "caption": "“对画画有兴趣”：用投入喜欢的活动作例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00911": {
+    "character": "休假",
+    "src": "/images/words/weekend-park.jpg",
+    "caption": "“休假时去公园放松”：休假的活动例子。",
+    "relation": "example-word",
+    "note": "휴가라는 정보는 예문이 정해요. 공원에 있다고 실제 근무·휴가 상태를 판단하지 않아요."
+  },
+  "hsk3-00912": {
+    "character": "需要",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "“上课需要课本和铅笔”：准备学习用品。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00913": {
+    "character": "选",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "在两种饮料里挑选一种：选。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00914": {
+    "character": "选择",
+    "src": "/images/words/hsk2-tea-choice.jpg",
+    "caption": "“在茶和咖啡之间作选择”：选择。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00915": {
+    "character": "学期",
+    "src": "/images/words/blank-wall-calendar.jpg",
+    "caption": "把一段学校学习时间联系为一个学期：学期。",
+    "relation": "example-word",
+    "note": "학기는 일정한 학교 학습 기간이에요. 한 달력 사진이 실제 학기 시작·종료일을 표시하지는 않아요."
+  },
+  "hsk3-00916": {
+    "character": "牙",
+    "src": "/images/words/hsk3-smiling-mouth.jpg",
+    "caption": "微笑时露出的牙齿：牙。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00917": {
+    "character": "牙刷",
+    "src": "/images/words/hsk3-brushing-teeth.jpg",
+    "caption": "刷牙时手中使用的小刷子：牙刷。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00918": {
+    "character": "羊",
+    "src": "/images/words/hsk3-sheep-meadow.jpg",
+    "caption": "草地上有卷毛、四蹄的绵羊：羊的一种。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00919": {
+    "character": "养",
+    "src": "/images/words/hsk3-caring-for-pet.jpg",
+    "caption": "每天给宠物食物并照料它：养宠物里的养。",
+    "relation": "example-word",
+    "note": "동물을 기르는 예시예요. 식물을 재배하는 다른 쓰임도 있어요."
+  },
+  "hsk3-00920": {
+    "character": "要求",
+    "src": "/images/words/primary-classroom.jpg",
+    "caption": "“老师要求按时完成作业”：课堂提出任务的语境。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00921": {
+    "character": "页",
+    "src": "/images/words/hsk2-notebook-pen.jpg",
+    "caption": "打开本子，看到其中的纸面；书本的纸面可以用页计算。",
+    "relation": "example-word",
+    "note": "책·공책의 페이지를 세는 단위예요. 사진 전체의 종이 수를 정확히 세는 설명은 아니에요."
+  },
+  "hsk3-00922": {
+    "character": "一般",
+    "src": "/images/words/breakfast-table.jpg",
+    "caption": "“一般早上吃早饭”：用通常的日常行为理解一般。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00923": {
+    "character": "一边",
+    "src": "/images/words/hsk3-walk-and-talk.jpg",
+    "caption": "一边散步，一边打电话：两个动作同时进行。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00924": {
+    "character": "一定",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "“骑车前一定要戴好头盔”：一定加强语气。",
+    "relation": "example-word",
+    "note": "이 문장은 꼭 해야 한다는 강조의 예시예요. “틀림없다”라는 확신 용법은 별도 문장으로 확인하세요."
+  },
+  "hsk3-00925": {
+    "character": "一共",
+    "src": "/images/words/ten-counters.jpg",
+    "caption": "两排各有五个木片，一共有十个：一共。",
+    "relation": "example-word",
+    "note": "다섯 개씩 두 줄인지 세어 합계 열 개를 확인하세요."
+  },
+  "hsk3-00926": {
+    "character": "一块儿",
+    "src": "/images/words/hsk2-help-carry-box.jpg",
+    "caption": "两个人一块儿搬同一个箱子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00927": {
+    "character": "一样",
+    "src": "/images/words/hsk3-two-identical-mugs.jpg",
+    "caption": "同一套的两个杯子，形状、大小和颜色一样。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00928": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "“一直练习画线”：持续练习的情境。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00929": {
+    "character": "以后",
+    "src": "/images/words/class-finish.jpg",
+    "caption": "“下课以后收拾书包”：以后说明后面的时间。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00930": {
+    "character": "以前",
+    "src": "/images/words/hsk2-packing-schoolbag.jpg",
+    "caption": "“上课以前先装好课本”：以前说明前面的时间。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00931": {
+    "character": "以上",
+    "src": "/images/words/six-wooden-blocks.jpg",
+    "caption": "六块积木的数量在五块以上：以上。",
+    "relation": "example-word",
+    "note": "여섯이 다섯보다 많다는 수량 예시예요. 경계값 포함 여부 등 다른 용법은 문맥으로 확인하세요."
+  },
+  "hsk3-00932": {
+    "character": "以外",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "“苹果以外，还有香蕉”：以外表示不包括前项的其他部分。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00933": {
+    "character": "西红柿",
+    "src": "/images/restored-new/tomato.jpg",
+    "caption": "“我以为是苹果，仔细看原来是西红柿”：以为。",
+    "relation": "example-word",
+    "note": "잘못 생각했다는 예문의 상황이에요. 사진은 토마토의 모습만 보여 줘요."
+  },
+  "hsk3-00934": {
+    "character": "以下",
+    "src": "/images/words/four-stones.jpg",
+    "caption": "四块石子的数量在五块以下：以下。",
+    "relation": "example-word",
+    "note": "넷이 다섯보다 적다는 수량 예시예요. 경계값 포함 여부 등은 문맥으로 확인하세요."
+  },
+  "hsk3-00935": {
+    "character": "音乐",
+    "src": "/images/words/hsk3-headphones.jpg",
+    "caption": "用耳机作“戴耳机听音乐”的例子。",
+    "relation": "example-word",
+    "note": "음악을 들을 때 사용하는 헤드폰의 예시예요. 사진은 실제 소리나 착용 동작을 보여 주지 않아요."
+  },
+  "hsk3-00936": {
+    "character": "银行",
+    "src": "/images/words/hsk3-bank-building.jpg",
+    "caption": "有金融服务柜台入口和取款设施的银行。",
+    "relation": "same-meaning",
+    "note": "특정 은행이나 실제 계좌·거래 정보를 보여 주는 사진은 아니에요."
+  },
+  "hsk3-00937": {
+    "character": "银行卡",
+    "src": "/images/words/hsk3-plain-card.jpg",
+    "caption": "可以用于银行服务和支付的卡片：银行卡的例子。",
+    "relation": "example-word",
+    "note": "표시 없는 카드의 예시예요. 실제 은행·계좌·결제 기능을 식별하지 않아요."
+  },
+  "hsk3-00938": {
+    "character": "饮料",
+    "src": "/images/words/glass-of-milk.jpg",
+    "caption": "牛奶是一种饮料：用一杯牛奶作饮料的例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00939": {
+    "character": "应该",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "“骑车前应该戴好头盔”：应该表示合适的做法或建议。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00940": {
+    "character": "影响",
+    "src": "/images/words/hsk3-traffic-light.jpg",
+    "caption": "交通灯会影响道路的通行方式：影响。",
+    "relation": "example-word",
+    "note": "영향을 설명하는 교통 상황 예시예요. 사진으로 영향의 크기나 인과효과를 측정하지 않아요."
+  },
+  "hsk3-00941": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "“用笔写字”：用表示使用工具。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00942": {
+    "character": "邮件",
+    "src": "/images/words/hsk3-posting-letter.jpg",
+    "caption": "把信件投进邮箱，信件是邮件的一种。",
+    "relation": "example-word",
+    "note": "실물 우편물의 예시예요. 전자메일의 화면이나 실제 개인정보는 아니에요."
+  },
+  "hsk3-00943": {
+    "character": "邮箱",
+    "src": "/images/words/hsk3-posting-letter.jpg",
+    "caption": "可以投放信件的实物邮箱。",
+    "relation": "example-word",
+    "note": "실물 우체통의 뜻을 보여 줘요. 이메일 계정·주소라는 뜻은 별도 문맥으로 확인하세요."
+  },
+  "hsk3-00944": {
+    "character": "游客",
+    "src": "/images/words/hsk2-tourist-landmark.jpg",
+    "caption": "带着行装参观景点的人，按例句称为游客。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
+  },
+  "hsk3-00945": {
+    "character": "游戏",
+    "src": "/images/words/hsk3-board-game.jpg",
+    "caption": "按规则轮流移动棋子，玩一种桌面游戏。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00946": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "“笔与写字有关”：用物品和用途的联系理解有关。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00947": {
+    "character": "有名",
+    "src": "/images/words/hsk3-evening-performance.jpg",
+    "caption": "“这位演员很有名”：用舞台上的演员作有名的情境。",
+    "relation": "example-word",
+    "note": "유명하다는 설정은 예문이 정해요. AI 인물의 실제 인지도나 유명세를 주장하지 않아요."
+  },
+  "hsk3-00948": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "“笔对写字有用”：工具能帮助完成事情。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00949": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "“又练了一次”：重复做同一个练习。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00950": {
+    "character": "羽毛球",
+    "src": "/images/words/hsk3-badminton.jpg",
+    "caption": "用细长球拍隔网击打白色羽毛球：羽毛球。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00951": {
+    "character": "雨衣",
+    "src": "/images/words/hsk3-raincoat.jpg",
+    "caption": "下雨时穿着有帽子的防水雨衣。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00953": {
+    "character": "认",
+    "src": "/images/characters/8ba4.webp",
+    "caption": "“在路上遇到熟人”：用相遇后问好的情境学习遇到。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00954": {
+    "character": "认",
+    "src": "/images/characters/8ba4.webp",
+    "caption": "“在公园遇见朋友”：碰面后挥手招呼。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00955": {
+    "character": "园",
+    "src": "/images/words/hsk3-garden-flowerbeds.jpg",
+    "caption": "有植物、花坛和小路的花园，用花园例示园。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00956": {
+    "character": "员",
+    "src": "/images/words/shopping-checkout.jpg",
+    "caption": "“店员、服务员”中的员，表示从事相关工作的人。",
+    "relation": "example-word",
+    "note": "직업 관련 접미사의 예시예요. 실제 고용 관계나 직책을 사진으로 판정하지 않아요."
+  },
+  "hsk3-00957": {
+    "character": "愿意",
+    "src": "/images/words/hsk3-agreement-discussion.jpg",
+    "caption": "“愿意帮忙”，听完请求后点头答应。",
+    "relation": "example-word",
+    "note": "기꺼이 하겠다는 의사는 예문이 정해요. 사진으로 실제 속마음을 단정하지 않아요."
+  },
+  "hsk3-00958": {
+    "character": "月亮",
+    "src": "/images/words/moonlit-sky.jpg",
+    "caption": "夜空中清楚可见的月亮。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00959": {
+    "character": "越",
+    "src": "/images/words/hsk3-plant-growth.jpg",
+    "caption": "“植物越长越高”：用不同生长阶段示意变化。",
+    "relation": "example-word",
+    "note": "성장 단계의 예시예요. 같은 식물의 실제 시간 경과·성장 속도나 원인을 입증하지 않아요."
+  },
+  "hsk3-00960": {
+    "character": "运动会",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "球赛可以是运动会中的一项活动：运动会。",
+    "relation": "example-word",
+    "note": "체육 행사 안의 한 경기 예시예요. 사진이 운동회 전체 프로그램을 보여 주지는 않아요."
+  },
+  "hsk3-00961": {
+    "character": "运动员",
+    "src": "/images/words/hsk3-sports-match.jpg",
+    "caption": "参加例句中球赛的运动员。",
+    "relation": "example-word",
+    "note": "경기 참가자라는 역할의 학습 예시예요. 실제 선수 경력이나 신원을 주장하지 않아요."
+  },
+  "hsk3-00962": {
+    "character": "咱们",
+    "src": "/images/words/self-introduction.jpg",
+    "caption": "“咱们一起商量”：把说话人和听话人都包括在内。",
+    "relation": "example-word",
+    "note": "咱们에는 말하는 사람과 듣는 사람이 함께 포함돼요. 사진 속 포함 범위는 문장으로 지정해요."
+  },
+  "hsk3-00964": {
+    "character": "怎么办",
+    "src": "/images/words/classroom-question.jpg",
+    "caption": "遇到问题向老师请教：“怎么办？”",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00965": {
+    "character": "怎样",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "看别人示范折纸，询问：“怎样折这一步？”",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00966": {
+    "character": "体",
+    "src": "/images/characters/4f53.webp",
+    "caption": "双脚支撑身体、身体直立：站。",
+    "relation": "same-meaning",
+    "note": "서 있는 자세의 예시예요. “멈추다”라는 다른 쓰임은 문장으로 확인하세요."
+  },
+  "hsk3-00967": {
+    "character": "纸",
+    "src": "/images/characters/7eb8.webp",
+    "caption": "平面的纸可以用张计算：“一张纸”。",
+    "relation": "example-word",
+    "note": "종이처럼 평평한 물건을 세는 단위예요. 사진에 보이는 종이 전체가 한 장이라는 뜻은 아니에요."
+  },
+  "hsk3-00968": {
+    "character": "长",
+    "src": "/images/words/hsk3-plant-growth.jpg",
+    "caption": "从幼苗到更大的植株，用生长状态理解长。",
+    "relation": "example-word",
+    "note": "자라다의 zhǎng을 보여 주는 예시예요. cháng(길다)과 구별하고 실제 성장 속도를 추정하지 않아요."
+  },
+  "hsk3-00969": {
+    "character": "着急",
+    "src": "/images/words/hsk3-worried-parent.jpg",
+    "caption": "孩子不舒服，家长担心、着急的情境。",
+    "relation": "example-word",
+    "note": "조급하고 걱정되는 감정의 예시예요. 실제 감정이나 병의 상태를 진단하지 않아요."
+  },
+  "hsk3-00970": {
+    "character": "照",
+    "src": "/images/words/hsk3-taking-photo.jpg",
+    "caption": "“照一张相”：用照相里的照作例子。",
+    "relation": "example-word",
+    "note": "사진을 찍는 동작의 예시예요. 빛이 비추다·반사하다라는 다른 뜻은 나타내지 않아요."
+  },
+  "hsk3-00971": {
+    "character": "照顾",
+    "src": "/images/words/hsk3-caring-for-pet.jpg",
+    "caption": "给宠物准备食物，关心它的日常需要：照顾。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00972": {
+    "character": "照片",
+    "src": "/images/words/hsk3-photo-print.jpg",
+    "caption": "拿在手中、记录景物影像的一张照片。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00973": {
+    "character": "照相",
+    "src": "/images/words/hsk3-taking-photo.jpg",
+    "caption": "用相机对准景物拍摄：照相。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00974": {
+    "character": "直到",
+    "src": "/images/words/hsk3-completed-puzzle.jpg",
+    "caption": "“一直拼，直到整幅拼图完成”：直到指出终点。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00975": {
+    "character": "只",
+    "src": "/images/words/one-red-apple.jpg",
+    "caption": "“桌上只放一个苹果”中的只，表示仅仅。",
+    "relation": "example-word",
+    "note": "zhǐ(오직)라는 부사예요. 동물을 세는 zhī(只)와 구별하세요."
+  },
+  "hsk3-00976": {
+    "character": "只能",
+    "src": "/images/words/hsk3-raincoat.jpg",
+    "caption": "例句设定出行条件受限：“没有伞，只能穿雨衣”。",
+    "relation": "example-word",
+    "note": "이 예문의 제한된 조건에서 가능한 방법을 말해요. 실제로 모든 상황에 다른 선택이 없다는 뜻은 아니에요."
+  },
+  "hsk3-00977": {
+    "character": "只是",
+    "src": "/images/words/one-red-apple.jpg",
+    "caption": "“这只是一个苹果”中的只是，表示仅仅是。",
+    "relation": "example-word",
+    "note": "“다만·단지”라는 뜻의 예시예요. “그러나”라는 전환 용법은 문장으로 따로 확인하세요."
+  },
+  "hsk3-00978": {
+    "character": "只要",
+    "src": "/images/words/hsk3-board-game.jpg",
+    "caption": "“只要有空，就来下棋”：只要引出条件。",
+    "relation": "example-word",
+    "note": "조건은 예문이 제공해요. 사진만으로 논리적 필요·충분 관계를 판단하지 않아요."
+  },
+  "hsk3-00979": {
+    "character": "只有",
+    "src": "/images/words/hsk3-ticket-check.jpg",
+    "caption": "“只有拿到票，才能按例句的规则进场”：只有。",
+    "relation": "example-word",
+    "note": "해당 예문에서 정한 입장 조건이에요. 모든 장소의 실제 규칙을 주장하지 않아요."
+  },
+  "hsk3-00981": {
+    "character": "中",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "苹果和香蕉之间的白碗在中间：中。",
+    "relation": "example-word",
+    "note": "공간의 가운데를 나타내는 예시예요. 중국을 줄여 부르는 다른 뜻은 별도 문맥으로 확인하세요."
+  },
+  "hsk3-00982": {
+    "character": "中间",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "白碗位于左右两个水果之间：中间。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00983": {
+    "character": "终于",
+    "src": "/images/words/hsk3-completed-puzzle.jpg",
+    "caption": "努力拼好后，终于放上最后一块。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00984": {
+    "character": "种",
+    "src": "/images/words/hsk2-right-left-fruit.jpg",
+    "caption": "苹果和香蕉是两种不同水果：种用来分类型。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00985": {
+    "character": "重要",
+    "src": "/images/words/hsk3-helmet-before-cycling.jpg",
+    "caption": "“骑车时，头盔很重要”：用保护用品的重要作用作例子。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00986": {
+    "character": "周末",
+    "src": "/images/words/weekend-park.jpg",
+    "caption": "“周末去公园放松”：周末活动的例子。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00987": {
+    "character": "主要",
+    "src": "/images/words/hsk3-homework-desk.jpg",
+    "caption": "“今天的主要任务是完成作业”：主要指出重点。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00988": {
+    "character": "住院",
+    "src": "/images/words/hsk3-hospital-bed.jpg",
+    "caption": "病人在医院病床上接受一段时间的照料：住院。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00989": {
+    "character": "注意",
+    "src": "/images/words/hsk3-traffic-light.jpg",
+    "caption": "过路口前留意交通信号：“注意交通灯。”",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00990": {
+    "character": "子",
+    "src": "/images/words/wooden-table.jpg",
+    "caption": "“桌子”中的子是名词词尾，不把它单独画成孩子。",
+    "relation": "example-word",
+    "note": "zi로 가볍게 읽는 명사 접미사예요. 그림은 “桌子”의 사물 예시이며 독립 한자 뜻이나 자원을 설명하지 않아요."
+  },
+  "hsk3-00991": {
+    "character": "自行车",
+    "src": "/images/words/hsk3-bicycle-riding.jpg",
+    "caption": "人骑着有两只车轮、脚踏和车把的自行车。",
+    "relation": "example-word",
+    "note": "사진은 예문의 한 가지 상황을 보여 줘요. 추상적 의미와 문법 관계는 단어·문장과 함께 확인하세요."
+  },
+  "hsk3-00992": {
+    "character": "字典",
+    "src": "/images/words/hsk3-dictionary-lookup.jpg",
+    "caption": "“按单字查字典”：用翻查工具书的情境学习字典。",
+    "relation": "example-word",
+    "note": "단자를 찾는 사전이라는 예문의 설정이에요. 흐린 책 지면만으로 字典과 词典의 종류를 판정하지 않아요."
+  },
+  "hsk3-00993": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "“他总在空闲时练字”：总表示经常发生。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00994": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "“他总是认真练习”：总是表示惯常发生。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00995": {
+    "character": "嘴",
+    "src": "/images/words/hsk3-smiling-mouth.jpg",
+    "caption": "嘴唇围成的口部，微笑时能看见牙齿：嘴。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00996": {
+    "character": "最好",
+    "src": "/images/words/hsk2-fold-paper-demonstration.jpg",
+    "caption": "“最好先对齐边角再折”：最好表示建议。",
+    "relation": "example-word",
+    "note": "권하거나 제안하는 표현의 예시예요. 사진이 모든 방법 중 객관적으로 최고임을 입증하지 않아요."
+  },
+  "hsk3-00997": {
+    "character": "最后",
+    "src": "/images/words/hsk3-completed-puzzle.jpg",
+    "caption": "放上最后一块拼图：最后指出末尾的一步。",
+    "relation": "example-word",
+    "note": "시간·반복·순서는 예문이 정해요. 사진 한 장으로 실제 날짜나 지속 시간을 알 수는 없어요."
+  },
+  "hsk3-00998": {
+    "character": "最近",
+    "src": "/images/words/blank-wall-calendar.jpg",
+    "caption": "“最近的一段时间”：借日历联系最近。",
+    "relation": "example-word",
+    "note": "최근이라는 범위는 말하는 날과 문장이 정해요. 빈 달력에 실제 최근 날짜가 표시된 것은 아니에요."
+  },
+  "hsk3-00999": {
+    "character": "作业",
+    "src": "/images/words/hsk3-homework-desk.jpg",
+    "caption": "学生在家完成课堂布置的练习：作业。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01000": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "“去朋友家做客”，主人请到访的客人坐下。",
+    "relation": "example-word",
+    "note": "관계와 역할은 학습 예문이 정한 설정이에요. 외모만으로 실제 신분이나 관계를 판단하지 않아요."
   }
 }

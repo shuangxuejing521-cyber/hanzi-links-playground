@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "policy": "Brief editorial paraphrases of the linked dictionary explanations. These notes do not supply invented historic glyphs or an independently established genealogy.",
+ "characters": {
+  "乒": {
+   "text": "教育部《异体字字典》把乒、乓列为后起字，并认为它们可能由兵的省写产生；乒的现代字形可与省去兵末笔的写法对照。字典未把它列作《说文》字头，相关造字来历仍保留推测性质。",
+   "confidence": "qualified",
+   "checked": "2026-11-09",
+   "sources": [{"title":"教育部《异体字字典》·乒","url":"https://dict.variants.moe.edu.tw/dictView.jsp?ID=289&la=0"}]
+  },
+  "瞪": {
+   "text": "据香港中文大学字库，瞪是以目为形符、登为声符的字，早期含义是直视；后来也用于睁大眼睛的注视动作。登在这里提供声音线索，不能按它的独立字义解释整个字。",
+   "confidence": "source-supported",
+   "checked": "2026-11-09",
+   "sources": [{"title":"香港中文大学《汉语多功能字库》·瞪","url":"https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9E%AA"}]
+  },
+  "噩": {
+   "text": "香港中文大学字库转述一种研究意见：噩与喪在早期可能同字，至金文阶段因有无亡声而分化。其字形源流涉及这些相关字；后世噩又与愕相通，表达惊恐。这里保留所引学者的解释性质，不把现代部件组合当成确定的造字故事。",
+   "confidence": "qualified",
+   "checked": "2026-11-09",
+   "sources": [{"title":"香港中文大学《汉语多功能字库》·噩","url":"https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%99%A9"}]
+  },
+  "钙": {
+   "text": "钙的繁体对应形式为鈣。教育部《异体字字典》说明鈣左侧为金、右侧为丐，并注明《说文》未收此字。本条仅据此说明字形及文献收录情况，不为它补造甲骨文、金文或小篆。",
+   "confidence": "documented-form-only",
+   "checked": "2026-11-09",
+   "sources": [{"title":"教育部《异体字字典》·鈣","url":"https://dict.variants.moe.edu.tw/dictView.jsp?ID=47092&la=0"},{"title":"汉典·钙","url":"https://zdic.net/hans/%E9%92%99"}]
+  },
+  "喇": {
+   "text": "香港中文大学字库将喇分析为口作形符、剌作声符，并说明它可用于助词或拟声表达。声符指历史读音线索，喇叭等整词的意思仍应结合词语学习。",
+   "confidence": "source-supported",
+   "checked": "2026-11-09",
+   "sources": [{"title":"香港中文大学《汉语多功能字库》·喇","url":"https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%96%87"}]
+  },
+  "倘": {
+   "text": "香港中文大学字库把倘的构形解释为人作形符、尚作声符，并记录过惊疑的用法。现在倘若中的倘常用来引出假设，不能把人和尚的现代独立字义相加得到这个词义。",
+   "confidence": "source-supported",
+   "checked": "2026-11-09",
+   "sources": [{"title":"香港中文大学《汉语多功能字库》·倘","url":"https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%80%98"}]
+  }
+ }
+}

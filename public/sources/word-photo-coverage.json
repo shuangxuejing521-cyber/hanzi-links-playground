@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-09T03:12:24Z",
+  "target": 11000,
+  "officialTotal": 11000,
+  "officialPhotoCount": 517,
+  "officialPending": 10483,
+  "officialByLevel": {
+    "1": {
+      "total": 300,
+      "photoCount": 300,
+      "pending": 0
+    },
+    "2": {
+      "total": 200,
+      "photoCount": 25,
+      "pending": 175
+    },
+    "3": {
+      "total": 500,
+      "photoCount": 33,
+      "pending": 467
+    },
+    "4": {
+      "total": 1000,
+      "photoCount": 38,
+      "pending": 962
+    },
+    "5": {
+      "total": 1600,
+      "photoCount": 51,
+      "pending": 1549
+    },
+    "6": {
+      "total": 1800,
+      "photoCount": 37,
+      "pending": 1763
+    },
+    "7": {
+      "total": 5600,
+      "photoCount": 33,
+      "pending": 5567
+    }
+  },
+  "completedLevels": [
+    1
+  ],
+  "throughLevel": 1,
+  "legacy": {
+    "total": 2500,
+    "photoCount": 298,
+    "pending": 2202,
+    "preservedOriginalMappings": 119
+  },
+  "description": "按真实官方词条ID及存在的已审核图片统计；尚无图片的词仍保留在完整词库中。"
+}

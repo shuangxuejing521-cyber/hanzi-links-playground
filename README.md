@@ -81,3 +81,10 @@ The learning site remains public at https://hanzi-links-playground.jazzybay4.cha
 The dashboard compares learning-mode entry clicks, click shares, radical selections and session-based radical CTR. Mode clicks and automatic views are counted separately. New mode clicks start with the 2026-11-09 update; historical views are preserved. Founder traffic is excluded. Date, course and level filters apply to the displayed totals.
 
 Cloudflare D1 stores real visitor records. This repository contains schema and synthetic tests, not production data, database files, analytics exports, credentials or runtime configuration values. Keep `.env*`, `.dev.vars*`, `.wrangler/`, `.sites-runtime/` and exports out of Git. Publishing source does not grant write access to the running site. Retain the individual data and asset notices listed above.
+
+
+## 分级词义照片补全
+
+在现有照片学习界面中，按官方词条ID逐级补充词义照片；组件、布局、CSS、词库ID和统计权限保持不变。已有照片和对应关系保留。词义相同或明确的例句情境才共用图片，抽象词和语法词附使用语境说明，照片不充当字源证据。
+
+各级实际照片覆盖与待补数量见 `public/sources/word-photo-coverage.json`，新增图片的实际提示词、SHA256和审核记录见 `public/sources/word-photo-expansion.json`。补全目标为11,000词，按真实完成度逐级更新，不把字形SVG计作词义照片。

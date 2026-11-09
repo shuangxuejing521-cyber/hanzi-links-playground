@@ -6212,5 +6212,10 @@
     "饮",
     "饮水"
   ],
-  "requestedVariantsNote": "这些完整词头未出现在当前11000官方+2500旧版数据中；不捏造词条ID。已有柳树、桃、饮用水等按其各自真实ID关联。"
+  "requestedVariantsNote": "这些完整词头未出现在当前11000官方+2500旧版数据中；不捏造词条ID。已有柳树、桃、饮用水等按其各自真实ID关联。",
+  "expansion": {
+    "audit": "/sources/word-photo-expansion.json",
+    "coverage": "/sources/word-photo-coverage.json",
+    "originalSnapshotCountsUnchanged": true
+  }
 }

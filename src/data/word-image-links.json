@@ -1,0 +1,2456 @@
+{
+  "hsk3-00004": {
+    "character": "吧",
+    "src": "/images/characters/5427.webp",
+    "caption": "“我们一起走吧”：用邀请、建议的情境理解“吧”。",
+    "relation": "example-word",
+    "note": "함께 가자고 제안하는 대화의 예시예요. 사진만으로 조사의 뜻을 알 수는 없어요."
+  },
+  "hsk3-00009": {
+    "character": "杯",
+    "src": "/images/characters/676f.webp",
+    "caption": "有杯口、杯身，可盛饮料的器具：杯。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00018": {
+    "character": "唱",
+    "src": "/images/characters/5531.webp",
+    "caption": "用声音发出旋律：唱歌。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00021": {
+    "character": "吃",
+    "src": "/images/characters/5403.webp",
+    "caption": "把食物送入口中：吃饭。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00042": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "专注阅读一本书",
+    "relation": "example-word"
+  },
+  "hsk3-00043": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "专注阅读一本书",
+    "relation": "example-word",
+    "note": "책을 읽는 동작이에요. “학교에 다니다/공부하다”의 넓은 뜻을 모두 나타내지는 않아요."
+  },
+  "hsk3-00050": {
+    "character": "饭",
+    "src": "/images/characters/996d.webp",
+    "caption": "饭：一碗热米饭。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00061": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "把书交给另一人：对应“给予、交付”的动作。",
+    "relation": "example-word",
+    "note": "책을 건네주는 “주다”의 예시예요. 개사 용법은 나타내지 않아요."
+  },
+  "hsk3-00064": {
+    "character": "狗",
+    "src": "/images/characters/72d7.webp",
+    "caption": "狗：家犬的体形、耳朵和尾巴。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00071": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "做得好、令人满意的现代情境",
+    "relation": "example-word",
+    "note": "그릇을 잘 만든 “좋다/잘하다”의 예시예요. hào(좋아하다)는 아니에요."
+  },
+  "hsk3-00077": {
+    "character": "喝",
+    "src": "/images/characters/559d.webp",
+    "caption": "饮用杯中的水：喝水，读hē。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00090": {
+    "character": "饺",
+    "src": "/images/characters/997a.webp",
+    "caption": "饺：饺子的折叠面皮包着馅。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00091": {
+    "character": "叫",
+    "src": "/images/characters/53eb.webp",
+    "caption": "张口呼喊，叫住远处的人：叫。",
+    "relation": "example-word",
+    "note": "멀리 있는 사람을 소리 내어 부르는 뜻이에요. 이름을 말하는 용법은 아니에요."
+  },
+  "hsk3-00092": {
+    "character": "姐",
+    "src": "/images/characters/59d0.webp",
+    "caption": "姐姐：年龄较长的女性手足",
+    "relation": "example-word",
+    "note": "나이가 많은 여자 형제라는 관계는 문장과 함께 확인하세요."
+  },
+  "hsk3-00103": {
+    "character": "课",
+    "src": "/images/characters/8bfe.webp",
+    "caption": "正在进行的一堂课",
+    "relation": "example-word",
+    "note": "교실 수업의 한 장면이에요. 과의 순서·교재 단원은 나타내지 않아요."
+  },
+  "hsk3-00105": {
+    "character": "块",
+    "src": "/images/characters/5757.webp",
+    "caption": "块：可以单独分开的成块物体",
+    "relation": "example-word",
+    "note": "흙 덩어리를 세는 예시예요. 화폐 단위는 나타내지 않아요."
+  },
+  "hsk3-00109": {
+    "character": "冷",
+    "src": "/images/characters/51b7.webp",
+    "caption": "冷：穿厚衣的人在寒风中缩起身体。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00114": {
+    "character": "妈",
+    "src": "/images/characters/5988.webp",
+    "caption": "母亲和孩子的亲情",
+    "relation": "same-meaning"
+  },
+  "hsk3-00115": {
+    "character": "吗",
+    "src": "/images/characters/5417.webp",
+    "caption": "“这是你的吗？”：句末的“吗”提示疑问，照片须配合句子。",
+    "relation": "example-word",
+    "note": "“이것은 배인가요?”라고 묻는 대화의 예시예요. 문장과 함께 보세요."
+  },
+  "hsk3-00118": {
+    "character": "忙",
+    "src": "/images/characters/5fd9.webp",
+    "caption": "事情多、无暇休息的忙碌情境",
+    "relation": "same-meaning"
+  },
+  "hsk3-00119": {
+    "character": "猫",
+    "src": "/images/characters/732b.webp",
+    "caption": "猫：家猫的体形和毛发。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00123": {
+    "character": "妹",
+    "src": "/images/characters/59b9.webp",
+    "caption": "妹妹：年龄较小的女性手足",
+    "relation": "example-word",
+    "note": "나이가 어린 여자 형제라는 관계는 문장과 함께 확인하세요."
+  },
+  "hsk3-00124": {
+    "character": "们",
+    "src": "/images/characters/4eec.webp",
+    "caption": "一组人可称“他们”或“我们”；“们”表示复数，须结合词语。",
+    "relation": "example-word",
+    "note": "여러 사람을 我们/他们으로 부르는 상황의 예시예요. 복수 접미사는 문장과 함께 보세요."
+  },
+  "hsk3-00125": {
+    "character": "饭",
+    "src": "/images/characters/996d.webp",
+    "caption": "饭：一碗热米饭。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00144": {
+    "character": "呢",
+    "src": "/images/characters/5462.webp",
+    "caption": "“我喜欢茶，你呢？”：用轮流回应的情境理解“呢”。",
+    "relation": "example-word",
+    "note": "“나는 차를 좋아해요. 당신은요?”라고 이어 묻는 대화의 예시예요."
+  },
+  "hsk3-00146": {
+    "character": "你",
+    "src": "/images/characters/4f60.webp",
+    "caption": "对话者正在称呼面前的对方：“你”；须结合对话理解。",
+    "relation": "example-word",
+    "note": "말하는 사람이 마주한 상대를 “你”라고 부르는 상황이에요. 대명사는 문장과 함께 보세요."
+  },
+  "hsk3-00164": {
+    "character": "钱",
+    "src": "/images/characters/94b1.webp",
+    "caption": "货币：叠起的硬币和储钱罐。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00165": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "礼貌邀请客人入座",
+    "relation": "example-word",
+    "note": "손님에게 앉으라고 정중히 권하는 상황의 예시예요."
+  },
+  "hsk3-00177": {
+    "character": "课",
+    "src": "/images/characters/8bfe.webp",
+    "caption": "正在进行的一堂课",
+    "relation": "same-meaning"
+  },
+  "hsk3-00186": {
+    "character": "时",
+    "src": "/images/characters/65f6.webp",
+    "caption": "沙漏帮助观察时间流逝",
+    "relation": "example-word",
+    "note": "모래시계로 시간의 흐름을 보여 줘요."
+  },
+  "hsk3-00194": {
+    "character": "睡",
+    "src": "/images/characters/7761.webp",
+    "caption": "睡：闭眼进入睡眠",
+    "relation": "same-meaning"
+  },
+  "hsk3-00195": {
+    "character": "睡",
+    "src": "/images/characters/7761.webp",
+    "caption": "睡：闭眼进入睡眠",
+    "relation": "same-meaning"
+  },
+  "hsk3-00196": {
+    "character": "说",
+    "src": "/images/characters/8bf4.webp",
+    "caption": "对听众说话、说明",
+    "relation": "example-word"
+  },
+  "hsk3-00197": {
+    "character": "说",
+    "src": "/images/characters/8bf4.webp",
+    "caption": "对听众说话、说明",
+    "relation": "same-meaning"
+  },
+  "hsk3-00200": {
+    "character": "他",
+    "src": "/images/characters/4ed6.webp",
+    "caption": "说话人提到另一位男性：“他”；照片仅作指代情境。",
+    "relation": "example-word",
+    "note": "대화 중 다른 남성을 “他”라고 가리키는 상황이에요. 대명사는 문장과 함께 보세요."
+  },
+  "hsk3-00204": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "代词情境：“她”指那位女性",
+    "relation": "example-word",
+    "note": "대화 중 다른 여성을 “她”라고 가리키는 상황이에요. 대명사는 문장과 함께 보세요."
+  },
+  "hsk3-00209": {
+    "character": "听",
+    "src": "/images/characters/542c.webp",
+    "caption": "侧耳留意声音：听。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00210": {
+    "character": "听",
+    "src": "/images/characters/542c.webp",
+    "caption": "侧耳留意声音：听。",
+    "relation": "example-word",
+    "note": "소리에 귀 기울이는 장면이에요. 실제로 들렸는지는 대화 문장과 함께 확인하세요."
+  },
+  "hsk3-00214": {
+    "character": "玩",
+    "src": "/images/characters/73a9.webp",
+    "caption": "玩：孩子玩玩具。",
+    "relation": "example-word"
+  },
+  "hsk3-00215": {
+    "character": "晚",
+    "src": "/images/characters/665a.webp",
+    "caption": "傍晚：日落前后的光线",
+    "relation": "example-word",
+    "note": "해 질 무렵의 “저녁”이에요. 시간에 늦는 모습은 아니에요."
+  },
+  "hsk3-00246": {
+    "character": "休",
+    "src": "/images/characters/4f11.webp",
+    "caption": "人在树旁放松，暂停活动：休息。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00250": {
+    "character": "校",
+    "src": "/images/characters/6821.webp",
+    "caption": "师生进入上课的校园：学校；这是“校”的现代用法。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00278": {
+    "character": "找",
+    "src": "/images/characters/627e.webp",
+    "caption": "翻看物品，寻找不见的钥匙：找。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00294": {
+    "character": "住",
+    "src": "/images/characters/4f4f.webp",
+    "caption": "把生活用品搬进家中，在这里生活：居住。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00326": {
+    "character": "错",
+    "src": "/images/characters/9519.webp",
+    "caption": "错：方形积木放不进圆孔，表示搭配不正确。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00327": {
+    "character": "打",
+    "src": "/images/characters/6253.webp",
+    "caption": "手敲击鼓面：打鼓。",
+    "relation": "example-word"
+  },
+  "hsk3-00330": {
+    "character": "但",
+    "src": "/images/characters/4f46.webp",
+    "caption": "“想骑车，但下雨了”：用反差情境理解转折，不是物体字源。",
+    "relation": "example-word",
+    "note": "“자전거를 타고 싶지만 비가 와요”라는 대조 상황의 예시예요. 접속사는 문장과 함께 보세요."
+  },
+  "hsk3-00337": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "理解了拼图规则，找到正确拼法",
+    "relation": "same-meaning"
+  },
+  "hsk3-00339": {
+    "character": "馆",
+    "src": "/images/characters/9986.webp",
+    "caption": "馆：这里用饭馆的用餐空间作例子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00355": {
+    "character": "红",
+    "src": "/images/characters/7ea2.webp",
+    "caption": "红色丝束：用颜色理解“红”；工是声旁，图片不解释工。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00360": {
+    "character": "坏",
+    "src": "/images/characters/574f.webp",
+    "caption": "坏：物品损坏，不能按原样使用",
+    "relation": "example-word",
+    "note": "물건이 망가진 뜻의 예시예요. 사람의 성품을 뜻하지 않아요."
+  },
+  "hsk3-00378": {
+    "character": "始",
+    "src": "/images/characters/59cb.webp",
+    "caption": "开始：跑者即将起跑",
+    "relation": "example-word",
+    "note": "달리기 출발 직전의 시작 장면을 예로 들어요."
+  },
+  "hsk3-00383": {
+    "character": "裤",
+    "src": "/images/characters/88e4.webp",
+    "caption": "裤：有两条裤腿的裤子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00384": {
+    "character": "快",
+    "src": "/images/characters/5feb.webp",
+    "caption": "速度很快的跑步动作",
+    "relation": "example-word",
+    "note": "빨리 달리는 모습이에요. “곧”이라는 시간 부사는 나타내지 않아요."
+  },
+  "hsk3-00387": {
+    "character": "球",
+    "src": "/images/characters/7403.webp",
+    "caption": "球：圆球形的运动用具。",
+    "relation": "example-word",
+    "note": "농구 경기에 쓰는 공이에요. 경기 전체를 나타내지는 않아요."
+  },
+  "hsk3-00392": {
+    "character": "路",
+    "src": "/images/characters/8def.webp",
+    "caption": "路：可以通行的道路。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00396": {
+    "character": "绿",
+    "src": "/images/characters/7eff.webp",
+    "caption": "绿色丝绸：用颜色理解“绿”；录形右部不能按“记录”解释。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00397": {
+    "character": "慢",
+    "src": "/images/characters/6162.webp",
+    "caption": "慢慢爬行的蜗牛",
+    "relation": "same-meaning"
+  },
+  "hsk3-00414": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "跑：人的双腿交替向前奔跑。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00415": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "跑：人的双腿交替向前奔跑。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00420": {
+    "character": "晴",
+    "src": "/images/characters/6674.webp",
+    "caption": "晴天：天空少云、阳光明亮",
+    "relation": "same-meaning"
+  },
+  "hsk3-00421": {
+    "character": "球",
+    "src": "/images/characters/7403.webp",
+    "caption": "球：圆球形的运动用具。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00429": {
+    "character": "体",
+    "src": "/images/characters/4f53.webp",
+    "caption": "从头、躯干到四肢组成的整体：身体。",
+    "relation": "example-word",
+    "note": "머리·몸통·팔다리로 이뤄진 몸이에요. 건강 상태의 뜻을 모두 나타내지는 않아요."
+  },
+  "hsk3-00431": {
+    "character": "时",
+    "src": "/images/characters/65f6.webp",
+    "caption": "沙漏帮助观察时间流逝",
+    "relation": "example-word",
+    "note": "모래시계로 시간의 흐름을 보여 줘요."
+  },
+  "hsk3-00441": {
+    "character": "踢",
+    "src": "/images/characters/8e22.webp",
+    "caption": "踢：用脚踢球。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00456": {
+    "character": "洗",
+    "src": "/images/characters/6d17.webp",
+    "caption": "用流水和肥皂去掉手上的污物：洗手。",
+    "relation": "example-word"
+  },
+  "hsk3-00464": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "姓氏的情境：同一家族的成员",
+    "relation": "example-word",
+    "note": "한 가족이 성씨를 함께 쓰는 상황의 예시예요. 사진만으로 성씨를 확인할 수는 없어요."
+  },
+  "hsk3-00467": {
+    "character": "眼",
+    "src": "/images/characters/773c.webp",
+    "caption": "眼：人的双眼与眼部轮廓",
+    "relation": "same-meaning"
+  },
+  "hsk3-00478": {
+    "character": "泳",
+    "src": "/images/characters/6cf3.webp",
+    "caption": "人在水中划臂、前进：游泳。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00515": {
+    "character": "饱",
+    "src": "/images/characters/9971.webp",
+    "caption": "饱：吃过一餐后满足地放下筷子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00534": {
+    "character": "冰",
+    "src": "/images/characters/51b0.webp",
+    "caption": "冰：水凝固成透明冰块。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00560": {
+    "character": "城",
+    "src": "/images/characters/57ce.webp",
+    "caption": "城：城墙、城门及城内建筑",
+    "relation": "example-word",
+    "note": "성벽이 있는 옛 도시의 예시예요. 모든 현대 도시가 이런 형태는 아니에요."
+  },
+  "hsk3-00588": {
+    "character": "灯",
+    "src": "/images/characters/706f.webp",
+    "caption": "灯：发光照明的台灯。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00589": {
+    "character": "地",
+    "src": "/images/characters/5730.webp",
+    "caption": "地：脚下的土地和地面",
+    "relation": "same-meaning"
+  },
+  "hsk3-00610": {
+    "character": "饿",
+    "src": "/images/characters/997f.webp",
+    "caption": "饿：碗里没有食物，人想吃东西。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00636": {
+    "character": "净",
+    "src": "/images/characters/51c0.webp",
+    "caption": "净：洗过的玻璃和干净台面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00661": {
+    "character": "海",
+    "src": "/images/characters/6d77.webp",
+    "caption": "从海岸望向大片咸水水域：大海。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00662": {
+    "character": "怕",
+    "src": "/images/characters/6015.webp",
+    "caption": "面对高处时害怕的表情",
+    "relation": "same-meaning"
+  },
+  "hsk3-00668": {
+    "character": "河",
+    "src": "/images/characters/6cb3.webp",
+    "caption": "两岸之间不断流动的长水道：河流。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00692": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "把观察到的内容记录下来",
+    "relation": "example-word",
+    "note": "본 것과 들은 것을 적어 두는 뜻이에요. 기억 자체를 눈에 보이게 그린 것은 아니에요."
+  },
+  "hsk3-00703": {
+    "character": "讲",
+    "src": "/images/characters/8bb2.webp",
+    "caption": "教师借助地球仪讲解",
+    "relation": "example-word",
+    "note": "교사가 지구본을 설명하는 예시예요."
+  },
+  "hsk3-00715": {
+    "character": "借",
+    "src": "/images/characters/501f.webp",
+    "caption": "暂时拿来使用、之后归还：借书。",
+    "relation": "example-word",
+    "note": "책을 잠시 빌려 쓰고 돌려주는 상황의 예시예요."
+  },
+  "hsk3-00717": {
+    "character": "经",
+    "src": "/images/characters/7ecf.webp",
+    "caption": "从拱门中经过：只示意“经过”里的经，其他词义按词语学习。",
+    "relation": "example-word",
+    "note": "문을 지나가는 동작의 뜻만 보여 줘요. 사건의 과정은 나타내지 않아요."
+  },
+  "hsk3-00720": {
+    "character": "酒",
+    "src": "/images/characters/9152.webp",
+    "caption": "杯中的红酒：一种含酒精的饮料。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00750": {
+    "character": "脸",
+    "src": "/images/characters/8138.webp",
+    "caption": "脸：从额头到下巴的面部",
+    "relation": "same-meaning"
+  },
+  "hsk3-00751": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "重复画圈练习：对应今天的“反复学习或训练”；古义炼丝另作说明。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00752": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "重复画圈练习：对应今天的“反复学习或训练”；古义炼丝另作说明。",
+    "relation": "example-word",
+    "note": "원을 반복해서 그리는 연습의 예시예요."
+  },
+  "hsk3-00754": {
+    "character": "辆",
+    "src": "/images/characters/8f86.webp",
+    "caption": "辆：数汽车时用的量词，如三辆车。",
+    "relation": "example-word",
+    "note": "자동차 세 대로 양사 辆의 쓰임을 보여 줘요."
+  },
+  "hsk3-00765": {
+    "character": "路",
+    "src": "/images/characters/8def.webp",
+    "caption": "路：可以通行的道路。",
+    "relation": "example-word",
+    "note": "포장된 도로의 예시예요."
+  },
+  "hsk3-00790": {
+    "character": "怕",
+    "src": "/images/characters/6015.webp",
+    "caption": "面对高处时害怕的表情",
+    "relation": "same-meaning"
+  },
+  "hsk3-00793": {
+    "character": "胖",
+    "src": "/images/characters/80d6.webp",
+    "caption": "胖：描述体型，图片保持尊重",
+    "relation": "same-meaning"
+  },
+  "hsk3-00799": {
+    "character": "怪",
+    "src": "/images/characters/602a.webp",
+    "caption": "“奇怪”的例子：形状少见的胡萝卜",
+    "relation": "same-meaning"
+  },
+  "hsk3-00812": {
+    "character": "裙",
+    "src": "/images/characters/88d9.webp",
+    "caption": "裙：下摆展开的裙子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00842": {
+    "character": "树",
+    "src": "/images/characters/6811.webp",
+    "caption": "一株有树干、树枝和树叶的植物：树。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00850": {
+    "character": "糖",
+    "src": "/images/characters/7cd6.webp",
+    "caption": "糖：方糖和白砂糖。",
+    "relation": "example-word",
+    "note": "설탕과 각설탕이에요. 포장된 사탕 사진은 아니에요."
+  },
+  "hsk3-00856": {
+    "character": "跳",
+    "src": "/images/characters/8df3.webp",
+    "caption": "跳：跃起时双脚离开地面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00864": {
+    "character": "腿",
+    "src": "/images/characters/817f.webp",
+    "caption": "腿：人体下肢与行走",
+    "relation": "same-meaning"
+  },
+  "hsk3-00899": {
+    "character": "校",
+    "src": "/images/characters/6821.webp",
+    "caption": "师生进入上课的校园：学校；这是“校”的现代用法。",
+    "relation": "same-meaning"
+  },
+  "hsk3-00906": {
+    "character": "信",
+    "src": "/images/characters/4fe1.webp",
+    "caption": "从信封中取出纸页：信件；这是“信”的一个常用义。",
+    "relation": "example-word",
+    "note": "봉투에서 꺼낸 편지예요. “믿다”의 뜻은 나타내지 않아요."
+  },
+  "hsk3-00952": {
+    "character": "语",
+    "src": "/images/characters/8bed.webp",
+    "caption": "语言学习：听音和练习发音",
+    "relation": "example-word",
+    "note": "언어를 듣고 말하는 연습 상황의 예시예요."
+  },
+  "hsk3-00963": {
+    "character": "脏",
+    "src": "/images/characters/810f.webp",
+    "caption": "脏 zāng：手和衣袖沾上泥土，不干净",
+    "relation": "same-meaning"
+  },
+  "hsk3-00980": {
+    "character": "纸",
+    "src": "/images/characters/7eb8.webp",
+    "caption": "轻薄的纤维纸张：对应可书写或印刷的材料。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01018": {
+    "character": "抱",
+    "src": "/images/characters/62b1.webp",
+    "caption": "用双臂围住对方：拥抱。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01060": {
+    "character": "猜",
+    "src": "/images/characters/731c.webp",
+    "caption": "猜：玩找小球的游戏，根据线索推测。",
+    "relation": "example-word"
+  },
+  "hsk3-01080": {
+    "character": "城",
+    "src": "/images/characters/57ce.webp",
+    "caption": "城：城墙、城门及城内建筑",
+    "relation": "example-word",
+    "note": "성벽과 성문이 있는 옛 도시의 예시예요."
+  },
+  "hsk3-01090": {
+    "character": "现",
+    "src": "/images/characters/73b0.webp",
+    "caption": "现：揭开布后，物品显现出来。",
+    "relation": "example-word",
+    "note": "천을 걷어 물건이 눈에 나타나는 구체적인 예시예요."
+  },
+  "hsk3-01097": {
+    "character": "吹",
+    "src": "/images/restored-new/5439.jpg",
+    "caption": "吹风车",
+    "relation": "example-word",
+    "note": "입으로 바람개비를 부는 실제 동작이에요. 허풍을 떨다는 뜻은 나타내지 않아요."
+  },
+  "hsk3-01105": {
+    "character": "粗",
+    "src": "/images/characters/7c97.webp",
+    "caption": "粗：粗麻布的纤维厚而不细。",
+    "relation": "example-word",
+    "note": "굵고 거친 천의 섬유예요. 추상적인 의미는 나타내지 않아요."
+  },
+  "hsk3-01143": {
+    "character": "路",
+    "src": "/images/characters/8def.webp",
+    "caption": "路：可以通行的道路。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01170": {
+    "character": "肚",
+    "src": "/images/characters/809a.webp",
+    "caption": "肚：双手指示腹部的位置",
+    "relation": "same-meaning"
+  },
+  "hsk3-01230": {
+    "character": "情",
+    "src": "/images/characters/60c5.webp",
+    "caption": "重逢时表达的感情",
+    "relation": "example-word",
+    "note": "오랜만에 만난 친구들이 포옹하며 감정을 표현하는 예시예요."
+  },
+  "hsk3-01255": {
+    "character": "路",
+    "src": "/images/characters/8def.webp",
+    "caption": "路：可以通行的道路。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01283": {
+    "character": "洋",
+    "src": "/images/characters/6d0b.webp",
+    "caption": "远离海岸的开阔水域：海洋；与海的意思有关联。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01286": {
+    "character": "冷",
+    "src": "/images/characters/51b7.webp",
+    "caption": "冷：穿厚衣的人在寒风中缩起身体。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01288": {
+    "character": "汗",
+    "src": "/images/restored-new/6c57.jpg",
+    "caption": "汗珠",
+    "relation": "same-meaning"
+  },
+  "hsk3-01332": {
+    "character": "续",
+    "src": "/images/characters/7eed.webp",
+    "caption": "接起两段线：示意接续、继续；卖形右部不表示买卖。",
+    "relation": "example-word",
+    "note": "끊긴 실을 이어 계속하는 구체적인 비유 예시예요."
+  },
+  "hsk3-01406": {
+    "character": "镜",
+    "src": "/images/characters/955c.webp",
+    "caption": "镜：光滑镜面映出面前的树枝。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01423": {
+    "character": "烤",
+    "src": "/images/characters/70e4.webp",
+    "caption": "烤：食物在烤箱里受热变金黄。",
+    "relation": "example-word"
+  },
+  "hsk3-01427": {
+    "character": "咳",
+    "src": "/images/restored-new/54b3.jpg",
+    "caption": "咳嗽",
+    "relation": "example-word",
+    "note": "ké, 팔꿈치로 입을 가리고 기침하는 동작이에요. 감탄사 hāi와 구분하세요."
+  },
+  "hsk3-01428": {
+    "character": "咳",
+    "src": "/images/restored-new/54b3.jpg",
+    "caption": "咳嗽",
+    "relation": "same-meaning"
+  },
+  "hsk3-01434": {
+    "character": "课",
+    "src": "/images/characters/8bfe.webp",
+    "caption": "正在进行的一堂课",
+    "relation": "same-meaning"
+  },
+  "hsk3-01448": {
+    "character": "拉",
+    "src": "/images/characters/62c9.webp",
+    "caption": "把物体朝自己方向用力带过来：拉。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01471": {
+    "character": "凉",
+    "src": "/images/characters/51c9.webp",
+    "caption": "凉：扇子带来舒适的凉意。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01484": {
+    "character": "流",
+    "src": "/images/restored-new/6d41.jpg",
+    "caption": "流动的水",
+    "relation": "example-word",
+    "note": "주전자에서 컵으로 물이 흐르는 예시예요. 유행·눈물·사람의 이동을 나타내지 않아요."
+  },
+  "hsk3-01542": {
+    "character": "拍",
+    "src": "/images/characters/62cd.webp",
+    "caption": "两手掌相击：拍手；这是“拍”的一种常用动作。",
+    "relation": "example-word",
+    "note": "손뼉을 치는 뜻의 예시예요. 사진 촬영이나 라켓은 아니에요."
+  },
+  "hsk3-01558": {
+    "character": "破",
+    "src": "/images/characters/7834.webp",
+    "caption": "破：石板断裂，成为几块。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01581": {
+    "character": "桥",
+    "src": "/images/characters/6865.webp",
+    "caption": "架在水道上、连接两岸的建筑：桥。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01691": {
+    "character": "林",
+    "src": "/images/characters/6797.webp",
+    "caption": "许多树木成片生长：林。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01726": {
+    "character": "提",
+    "src": "/images/characters/63d0.webp",
+    "caption": "手抓住提手，把袋子向上拿起：提。",
+    "relation": "example-word",
+    "note": "가방을 손에 들어 올리는 뜻이에요. “언급하다”는 나타내지 않아요."
+  },
+  "hsk3-01755": {
+    "character": "推",
+    "src": "/images/characters/63a8.webp",
+    "caption": "手向外用力，使物体离自己更远：推。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01788": {
+    "character": "西红柿",
+    "src": "/images/restored-new/tomato.jpg",
+    "caption": "西红柿",
+    "relation": "same-meaning"
+  },
+  "hsk3-01791": {
+    "character": "细",
+    "src": "/images/characters/7ec6.webp",
+    "caption": "细丝与粗绳对照：突出“细小”，田形右部不表示田地。",
+    "relation": "example-word",
+    "note": "굵은 밧줄과 비교한 가는 실이에요. 추상적인 섬세함은 나타내지 않아요."
+  },
+  "hsk3-01843": {
+    "character": "烟",
+    "src": "/images/characters/70df.webp",
+    "caption": "烟：木材燃烧后升起灰色烟雾。",
+    "relation": "example-word",
+    "note": "나무가 타며 생긴 연기예요. 담배는 아니에요."
+  },
+  "hsk3-01887": {
+    "character": "油",
+    "src": "/images/characters/6cb9.webp",
+    "caption": "食用油从瓶中倒入锅里：油脂。",
+    "relation": "same-meaning"
+  },
+  "hsk3-01906": {
+    "character": "约",
+    "src": "/images/characters/7ea6.webp",
+    "caption": "握手约定：示意“约定”，不直接解释“大约”的词义。",
+    "relation": "example-word",
+    "note": "서로 약속하는 상황의 예시예요. “대략”의 뜻은 나타내지 않아요."
+  },
+  "hsk3-01910": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "专注阅读一本书",
+    "relation": "same-meaning"
+  },
+  "hsk3-01930": {
+    "character": "理",
+    "src": "/images/characters/7406.webp",
+    "caption": "理：整理书本，使物品有条理。",
+    "relation": "example-word",
+    "note": "책을 가지런히 정리하는 예시예요."
+  },
+  "hsk3-01965": {
+    "character": "祝",
+    "src": "/images/characters/795d.webp",
+    "caption": "祝：生日时许下祝愿。",
+    "relation": "example-word",
+    "note": "생일을 축하하고 좋은 일을 비는 상황의 예시예요."
+  },
+  "hsk3-01970": {
+    "character": "转",
+    "src": "/images/characters/8f6c.webp",
+    "caption": "转：转动把手，改变它的方向。",
+    "relation": "example-word",
+    "note": "문손잡이를 돌리는 동작의 예시예요. 이전·환승 등 다른 뜻은 나타내지 않아요."
+  },
+  "hsk3-01987": {
+    "character": "组",
+    "src": "/images/characters/7ec4.webp",
+    "caption": "三位学生组成一组：对应现代的“一组、组成”。",
+    "relation": "example-word",
+    "note": "함께 공부하는 세 사람을 한 조로 보는 예시예요."
+  },
+  "hsk3-02014": {
+    "character": "晚",
+    "src": "/images/characters/665a.webp",
+    "caption": "傍晚：日落前后的光线",
+    "relation": "same-meaning"
+  },
+  "hsk3-02039": {
+    "character": "被",
+    "src": "/images/characters/88ab.webp",
+    "caption": "被：床上蓬松的被子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02067": {
+    "character": "饼",
+    "src": "/images/characters/997c.webp",
+    "caption": "饼：扁圆形的烙饼。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02123": {
+    "character": "炒",
+    "src": "/images/characters/7092.webp",
+    "caption": "炒：锅中用少量油翻动蔬菜。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02154": {
+    "character": "池",
+    "src": "/images/restored-new/6c60.jpg",
+    "caption": "池塘",
+    "relation": "example-word",
+    "note": "작은 연못의 뜻이에요. 수영장·저수지의 모든 형태를 보여 주지는 않아요."
+  },
+  "hsk3-02175": {
+    "character": "初",
+    "src": "/images/characters/521d.webp",
+    "caption": "初：开始裁布的第一剪，画面说明开始这个意思。",
+    "relation": "example-word",
+    "note": "천을 처음 자르는 시작 장면을 예로 들어요. 모든 초기 상황을 나타내지는 않아요."
+  },
+  "hsk3-02259": {
+    "character": "灯",
+    "src": "/images/characters/706f.webp",
+    "caption": "灯：发光照明的台灯。",
+    "relation": "example-word",
+    "note": "탁상용 전등에서 나오는 빛의 예시예요."
+  },
+  "hsk3-02270": {
+    "character": "地",
+    "src": "/images/characters/5730.webp",
+    "caption": "地：脚下的土地和地面",
+    "relation": "example-word",
+    "note": "흙이 드러난 지면의 예시예요. 모든 바닥 재질을 나타내지는 않아요."
+  },
+  "hsk3-02291": {
+    "character": "冻",
+    "src": "/images/characters/51bb.webp",
+    "caption": "冻：桶里的水结成了冰。",
+    "relation": "example-word",
+    "note": "통 안의 물이 얼어 있는 예시예요. 추워하는 사람의 모습은 아니에요."
+  },
+  "hsk3-02327": {
+    "character": "西红柿",
+    "src": "/images/restored-new/tomato.jpg",
+    "caption": "西红柿",
+    "relation": "example-word",
+    "note": "番茄와 西红柿는 같은 토마토를 가리켜요."
+  },
+  "hsk3-02430": {
+    "character": "怪",
+    "src": "/images/characters/602a.webp",
+    "caption": "“奇怪”的例子：形状少见的胡萝卜",
+    "relation": "example-word",
+    "note": "모양이 이상한 당근이에요. “탓하다/꽤”의 뜻은 나타내지 않아요."
+  },
+  "hsk3-02437": {
+    "character": "明",
+    "src": "/images/characters/660e.webp",
+    "caption": "明亮：充足光线照进房间",
+    "relation": "example-word",
+    "note": "방에 빛이 들어 밝은 실제 상태의 뜻만 보여 줘요. 희망·정의 같은 비유는 나타내지 않아요."
+  },
+  "hsk3-02466": {
+    "character": "汗",
+    "src": "/images/restored-new/6c57.jpg",
+    "caption": "汗珠",
+    "relation": "same-meaning"
+  },
+  "hsk3-02480": {
+    "character": "河",
+    "src": "/images/characters/6cb3.webp",
+    "caption": "两岸之间不断流动的长水道：河流。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02483": {
+    "character": "红",
+    "src": "/images/characters/7ea2.webp",
+    "caption": "红色丝束：用颜色理解“红”；工是声旁，图片不解释工。",
+    "relation": "example-word",
+    "note": "빨간 실의 색이에요. “인기 있다”는 나타내지 않아요."
+  },
+  "hsk3-02490": {
+    "character": "湖",
+    "src": "/images/characters/6e56.webp",
+    "caption": "陆地包围的一大片积水：湖泊。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02491": {
+    "character": "蝴",
+    "src": "/images/characters/8774.webp",
+    "caption": "蝴：蝴蝶张开有花纹的翅膀。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02516": {
+    "character": "伙",
+    "src": "/images/characters/4f19.webp",
+    "caption": "一起做事、共同生活的人：伙伴、同伙；使用情境示意。",
+    "relation": "example-word",
+    "note": "함께 요리하는 동료들의 예시예요."
+  },
+  "hsk3-02527": {
+    "character": "级",
+    "src": "/images/characters/7ea7.webp",
+    "caption": "三级台阶：现代“等级、级别”的意义示意，台阶不是该字古形。",
+    "relation": "example-word",
+    "note": "계단을 단계·등급에 빗댄 학습용 예시예요. 글자의 고대 유래를 보여 주는 사진은 아니에요."
+  },
+  "hsk3-02541": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "把观察到的内容记录下来",
+    "relation": "example-word",
+    "note": "관찰한 내용을 노트에 적는 구체적인 예시예요."
+  },
+  "hsk3-02601": {
+    "character": "结",
+    "src": "/images/characters/7ed3.webp",
+    "caption": "双手把丝绳打成结：对应“打结”的动作。",
+    "relation": "example-word",
+    "note": "jié, 줄을 매어 생긴 매듭이에요. jiē(열매를 맺다)는 아니에요."
+  },
+  "hsk3-02634": {
+    "character": "住",
+    "src": "/images/characters/4f4f.webp",
+    "caption": "把生活用品搬进家中，在这里生活：居住。",
+    "relation": "example-word",
+    "note": "생활용품을 집으로 옮겨 거주하는 상황의 예시예요."
+  },
+  "hsk3-02692": {
+    "character": "泪",
+    "src": "/images/characters/6cea.webp",
+    "caption": "从眼睛流到脸颊的水滴：眼泪。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02693": {
+    "character": "泪",
+    "src": "/images/characters/6cea.webp",
+    "caption": "从眼睛流到脸颊的水滴：眼泪。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02724": {
+    "character": "铃",
+    "src": "/images/restored-new/94c3.jpg",
+    "caption": "手铃",
+    "relation": "example-word",
+    "note": "손으로 흔들어 울리는 작은 금속 종의 예시예요."
+  },
+  "hsk3-02751": {
+    "character": "忙",
+    "src": "/images/characters/5fd9.webp",
+    "caption": "事情多、无暇休息的忙碌情境",
+    "relation": "same-meaning"
+  },
+  "hsk3-02815": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "两个人一同走、互相陪着：陪伴。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02889": {
+    "character": "情",
+    "src": "/images/characters/60c5.webp",
+    "caption": "重逢时表达的感情",
+    "relation": "example-word",
+    "note": "오랜만에 만난 친구들이 포옹하며 감정을 표현하는 예시예요."
+  },
+  "hsk3-02911": {
+    "character": "烧",
+    "src": "/images/characters/70e7.webp",
+    "caption": "烧：木柴正在燃烧。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02926": {
+    "character": "体",
+    "src": "/images/characters/4f53.webp",
+    "caption": "从头、躯干到四肢组成的整体：身体。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02929": {
+    "character": "认",
+    "src": "/images/characters/8ba4.webp",
+    "caption": "认出熟人并挥手相认",
+    "relation": "example-word",
+    "note": "아는 사람을 알아보는 상황의 예시예요. 인정·승낙의 뜻은 나타내지 않아요."
+  },
+  "hsk3-02932": {
+    "character": "如",
+    "src": "/images/characters/5982.webp",
+    "caption": "如同：两个杯子的形状相似",
+    "relation": "example-word",
+    "note": "두 컵이 서로 비슷함을 비교하는 예시예요. “만약/예컨대”는 나타내지 않아요."
+  },
+  "hsk3-02936": {
+    "character": "如",
+    "src": "/images/characters/5982.webp",
+    "caption": "如同：两个杯子的形状相似",
+    "relation": "example-word",
+    "note": "모양이 비슷한 두 컵을 비교하는 예시예요."
+  },
+  "hsk3-02938": {
+    "character": "软",
+    "src": "/images/characters/8f6f.webp",
+    "caption": "软：海绵被手指按下后变形。",
+    "relation": "example-word"
+  },
+  "hsk3-02945": {
+    "character": "沙",
+    "src": "/images/characters/6c99.webp",
+    "caption": "细小的石粒从指间落下：沙。",
+    "relation": "same-meaning"
+  },
+  "hsk3-02947": {
+    "character": "晒",
+    "src": "/images/characters/6652.webp",
+    "caption": "晒：让衣物受到阳光照射",
+    "relation": "example-word",
+    "note": "옷을 햇볕에 말리는 예시예요. 일광욕·햇볕에 타는 피부는 아니에요."
+  },
+  "hsk3-02967": {
+    "character": "烧",
+    "src": "/images/characters/70e7.webp",
+    "caption": "烧：木柴正在燃烧。",
+    "relation": "example-word",
+    "note": "장작이 타는 예시예요. 열이 나는 증상은 아니에요."
+  },
+  "hsk3-02969": {
+    "character": "蛇",
+    "src": "/images/characters/86c7.webp",
+    "caption": "蛇：没有腿、身体细长的爬行动物。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03007": {
+    "character": "诗",
+    "src": "/images/characters/8bd7.webp",
+    "caption": "朗诵诗歌的情境",
+    "relation": "same-meaning"
+  },
+  "hsk3-03067": {
+    "character": "树",
+    "src": "/images/characters/6811.webp",
+    "caption": "一株有树干、树枝和树叶的植物：树。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03073": {
+    "character": "睡",
+    "src": "/images/characters/7761.webp",
+    "caption": "睡：闭眼进入睡眠",
+    "relation": "same-meaning"
+  },
+  "hsk3-03101": {
+    "character": "灯",
+    "src": "/images/characters/706f.webp",
+    "caption": "灯：发光照明的台灯。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03104": {
+    "character": "说",
+    "src": "/images/characters/8bf4.webp",
+    "caption": "对听众说话、说明",
+    "relation": "same-meaning"
+  },
+  "hsk3-03105": {
+    "character": "桃",
+    "src": "/images/restored-new/6843.jpg",
+    "caption": "桃子",
+    "relation": "example-word",
+    "note": "복숭아 열매의 뜻이에요. 나무 전체는 나타내지 않아요."
+  },
+  "hsk3-03330": {
+    "character": "眼",
+    "src": "/images/characters/773c.webp",
+    "caption": "眼：人的双眼与眼部轮廓",
+    "relation": "example-word",
+    "note": "사람의 눈이에요. 구덩이를 세는 양사 용법은 나타내지 않아요."
+  },
+  "hsk3-03331": {
+    "character": "泪",
+    "src": "/images/characters/6cea.webp",
+    "caption": "从眼睛流到脸颊的水滴：眼泪。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03386": {
+    "character": "硬",
+    "src": "/images/characters/786c.webp",
+    "caption": "硬：石头不易变形，与旁边柔软海绵作比较。",
+    "relation": "example-word",
+    "note": "돌과 눌리는 스펀지를 비교한 물리적 단단함이에요."
+  },
+  "hsk3-03388": {
+    "character": "抱",
+    "src": "/images/characters/62b1.webp",
+    "caption": "用双臂围住对方：拥抱。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03436": {
+    "character": "约",
+    "src": "/images/characters/7ea6.webp",
+    "caption": "握手约定：示意“约定”，不直接解释“大约”的词义。",
+    "relation": "example-word",
+    "note": "악수하며 약속하는 상황의 예시예요."
+  },
+  "hsk3-03515": {
+    "character": "作",
+    "src": "/images/characters/4f5c.webp",
+    "caption": "动手制作物品、进行工作：作。",
+    "relation": "example-word",
+    "note": "나무 물건을 손으로 만드는 구체적인 예시예요."
+  },
+  "hsk3-03536": {
+    "character": "猪",
+    "src": "/images/characters/732a.webp",
+    "caption": "猪：常见的家畜，圆鼻盘很明显。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03644": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "跑：人的双腿交替向前奔跑。",
+    "relation": "same-meaning"
+  },
+  "hsk3-03761": {
+    "character": "现",
+    "src": "/images/characters/73b0.webp",
+    "caption": "现：揭开布后，物品显现出来。",
+    "relation": "example-word",
+    "note": "천을 걷어 물건이 눈에 드러나는 구체적인 예시예요."
+  },
+  "hsk3-03964": {
+    "character": "忙",
+    "src": "/images/characters/5fd9.webp",
+    "caption": "事情多、无暇休息的忙碌情境",
+    "relation": "same-meaning"
+  },
+  "hsk3-03980": {
+    "character": "胖",
+    "src": "/images/characters/80d6.webp",
+    "caption": "胖：描述体型，图片保持尊重",
+    "relation": "same-meaning"
+  },
+  "hsk3-04042": {
+    "character": "唱",
+    "src": "/images/characters/5531.webp",
+    "caption": "用声音发出旋律：唱歌。",
+    "relation": "same-meaning"
+  },
+  "hsk3-04116": {
+    "character": "海",
+    "src": "/images/characters/6d77.webp",
+    "caption": "从海岸望向大片咸水水域：大海。",
+    "relation": "example-word",
+    "note": "해안에서 바라본 바다의 예시예요. 사진에 보이는 해안선과 함께 보세요."
+  },
+  "hsk3-04118": {
+    "character": "海",
+    "src": "/images/characters/6d77.webp",
+    "caption": "从海岸望向大片咸水水域：大海。",
+    "relation": "example-word",
+    "note": "바다 사진에서 수면을 가리켜요."
+  },
+  "hsk3-04203": {
+    "character": "饿",
+    "src": "/images/characters/997f.webp",
+    "caption": "饿：碗里没有食物，人想吃东西。",
+    "relation": "same-meaning"
+  },
+  "hsk3-04221": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "把书交给另一人：对应“给予、交付”的动作。",
+    "relation": "example-word",
+    "note": "책을 건네주는 구체적인 예시예요."
+  },
+  "hsk3-04244": {
+    "character": "硬",
+    "src": "/images/characters/786c.webp",
+    "caption": "硬：石头不易变形，与旁边柔软海绵作比较。",
+    "relation": "same-meaning"
+  },
+  "hsk3-04302": {
+    "character": "钱",
+    "src": "/images/characters/94b1.webp",
+    "caption": "货币：叠起的硬币和储钱罐。",
+    "relation": "same-meaning"
+  },
+  "hsk3-04327": {
+    "character": "净",
+    "src": "/images/characters/51c0.webp",
+    "caption": "净：洗过的玻璃和干净台面。",
+    "relation": "example-word",
+    "note": "얼룩 없는 유리잔과 표면의 깨끗함이에요. 순이익·“오직”의 뜻은 나타내지 않아요."
+  },
+  "hsk3-04450": {
+    "character": "料",
+    "src": "/images/characters/6599.webp",
+    "caption": "料：准备烹饪的原料，是材料的一种。",
+    "relation": "example-word",
+    "note": "요리에 쓰는 재료예요. “예상하다”의 뜻은 아니에요."
+  },
+  "hsk3-04456": {
+    "character": "流",
+    "src": "/images/restored-new/6d41.jpg",
+    "caption": "流动的水",
+    "relation": "example-word",
+    "note": "물의 실제 흐름을 보여 주는 예시예요. 인구·자본의 유동 같은 비유는 아니에요."
+  },
+  "hsk3-04475": {
+    "character": "轮",
+    "src": "/images/characters/8f6e.webp",
+    "caption": "轮：车轮的外圈、轮辐和中心轴。",
+    "relation": "example-word",
+    "note": "바퀴예요. 순서·차례를 세는 뜻은 나타내지 않아요."
+  },
+  "hsk3-04479": {
+    "character": "轮",
+    "src": "/images/characters/8f6e.webp",
+    "caption": "轮：车轮的外圈、轮辐和中心轴。",
+    "relation": "same-meaning"
+  },
+  "hsk3-04485": {
+    "character": "蚁",
+    "src": "/images/characters/8681.webp",
+    "caption": "蚁：蚂蚁搬运一小块食物。",
+    "relation": "same-meaning"
+  },
+  "hsk3-04527": {
+    "character": "明",
+    "src": "/images/characters/660e.webp",
+    "caption": "明亮：充足光线照进房间",
+    "relation": "same-meaning"
+  },
+  "hsk3-04555": {
+    "character": "泥",
+    "src": "/images/restored-new/6ce5.jpg",
+    "caption": "湿泥",
+    "relation": "same-meaning"
+  },
+  "hsk3-04604": {
+    "character": "坡",
+    "src": "/images/restored-new/5761.jpg",
+    "caption": "斜坡",
+    "relation": "same-meaning"
+  },
+  "hsk3-04656": {
+    "character": "清",
+    "src": "/images/characters/6e05.webp",
+    "caption": "透过清水，仍能看清后面的物体：清澈。",
+    "relation": "example-word",
+    "note": "맑은 물의 예시예요. 정산 등 동사 용법은 나타내지 않아요."
+  },
+  "hsk3-04718": {
+    "character": "软",
+    "src": "/images/characters/8f6f.webp",
+    "caption": "软：海绵被手指按下后变形。",
+    "relation": "example-word",
+    "note": "손으로 눌리는 스펀지의 물리적인 부드러움이에요."
+  },
+  "hsk3-04739": {
+    "character": "坡",
+    "src": "/images/restored-new/5761.jpg",
+    "caption": "斜坡",
+    "relation": "example-word",
+    "note": "비탈진 풀 언덕의 예시예요."
+  },
+  "hsk3-04765": {
+    "character": "神",
+    "src": "/images/characters/795e.webp",
+    "caption": "神：寺庙中的神像，用于说明神灵这一义项。",
+    "relation": "example-word",
+    "note": "사당의 신상으로 신을 나타내는 예시예요. “신기하다”의 뜻은 아니에요."
+  },
+  "hsk3-04778": {
+    "character": "诗",
+    "src": "/images/characters/8bd7.webp",
+    "caption": "朗诵诗歌的情境",
+    "relation": "example-word",
+    "note": "시를 낭송하는 상황의 예시예요."
+  },
+  "hsk3-04835": {
+    "character": "流",
+    "src": "/images/restored-new/6d41.jpg",
+    "caption": "流动的水",
+    "relation": "example-word",
+    "note": "주전자에서 컵으로 이어지는 물줄기를 보여 줘요."
+  },
+  "hsk3-04852": {
+    "character": "坏",
+    "src": "/images/characters/574f.webp",
+    "caption": "坏：物品损坏，不能按原样使用",
+    "relation": "example-word",
+    "note": "손잡이가 부러진 컵으로 물건이 손상된 결과를 보여 줘요."
+  },
+  "hsk3-04856": {
+    "character": "塔",
+    "src": "/images/restored-new/5854.jpg",
+    "caption": "多层塔",
+    "relation": "example-word",
+    "note": "여러 층의 전통 탑이라는 구체적인 예시예요. 모든 종류의 타워를 뜻하지는 않아요."
+  },
+  "hsk3-05031": {
+    "character": "线",
+    "src": "/images/characters/7ebf.webp",
+    "caption": "线轴拉出一根丝线：对应细长的线。",
+    "relation": "example-word",
+    "note": "실패에 감긴 실이에요. 전선·추상적인 노선은 나타내지 않아요."
+  },
+  "hsk3-05086": {
+    "character": "转",
+    "src": "/images/characters/8f6c.webp",
+    "caption": "转：转动把手，改变它的方向。",
+    "relation": "example-word",
+    "note": "문손잡이가 도는 구체적인 예시예요."
+  },
+  "hsk3-05176": {
+    "character": "银",
+    "src": "/images/characters/94f6.webp",
+    "caption": "银：银白色的金属，抛光银锭。",
+    "relation": "same-meaning"
+  },
+  "hsk3-05182": {
+    "character": "饮",
+    "src": "/images/restored-new/996e.jpg",
+    "caption": "饮水",
+    "relation": "example-word",
+    "note": "컵 속 물을 마시는 사용 장면으로 식수를 보여 줘요. 물체만의 사진보다 마시는 용도에 초점을 둔 예시예요."
+  },
+  "hsk3-05219": {
+    "character": "料",
+    "src": "/images/characters/6599.webp",
+    "caption": "料：准备烹饪的原料，是材料的一种。",
+    "relation": "example-word",
+    "note": "요리에 쓰기 전의 재료를 예로 들어요. 다른 산업 원자재를 나타내지는 않아요."
+  },
+  "hsk3-05221": {
+    "character": "料",
+    "src": "/images/characters/6599.webp",
+    "caption": "料：准备烹饪的原料，是材料的一种。",
+    "relation": "example-word",
+    "note": "요리에 쓰는 재료의 예시예요. 다른 산업 원료의 사진은 아니에요."
+  },
+  "hsk3-05276": {
+    "character": "针",
+    "src": "/images/characters/9488.webp",
+    "caption": "针：细长尖锐、有针眼的缝纫工具。",
+    "relation": "example-word",
+    "note": "바늘귀가 있는 바느질 바늘이에요. 주사기는 아니에요."
+  },
+  "hsk3-05369": {
+    "character": "转",
+    "src": "/images/characters/8f6c.webp",
+    "caption": "转：转动把手，改变它的方向。",
+    "relation": "example-word",
+    "note": "문손잡이를 돌리는 동작의 예시예요. 이전·환승 등 다른 뜻은 나타내지 않아요."
+  },
+  "hsk3-05370": {
+    "character": "转",
+    "src": "/images/characters/8f6c.webp",
+    "caption": "转：转动把手，改变它的方向。",
+    "relation": "same-meaning"
+  },
+  "hsk3-05486": {
+    "character": "伴",
+    "src": "/images/characters/4f34.webp",
+    "caption": "两个人一同走、互相陪着：陪伴。",
+    "relation": "same-meaning"
+  },
+  "hsk3-05915": {
+    "character": "池",
+    "src": "/images/restored-new/6c60.jpg",
+    "caption": "池塘",
+    "relation": "same-meaning"
+  },
+  "hsk3-06349": {
+    "character": "冻",
+    "src": "/images/characters/51bb.webp",
+    "caption": "冻：桶里的水结成了冰。",
+    "relation": "example-word",
+    "note": "통 안의 물이 얼어 있는 실제 동결의 예시예요. 자산 동결 등 비유는 아니에요."
+  },
+  "hsk3-06378": {
+    "character": "绝",
+    "src": "/images/characters/7edd.webp",
+    "caption": "剪断丝绳、两端分开：对应“断绝”，不直接解释所有绝的词义。",
+    "relation": "example-word",
+    "note": "실을 끊는 구체적인 동작의 예시예요. 모든 추상적인 관계 단절을 뜻하지는 않아요."
+  },
+  "hsk3-06513": {
+    "character": "织",
+    "src": "/images/characters/7ec7.webp",
+    "caption": "把纬线穿过经线，交织成布；看清织机、梭子和正在形成的布。",
+    "relation": "example-word",
+    "note": "베틀에서 천을 짜는 직조 과정이에요. 실을 뽑는 방적 과정은 나타내지 않아요."
+  },
+  "hsk3-07107": {
+    "character": "湖",
+    "src": "/images/characters/6e56.webp",
+    "caption": "陆地包围的一大片积水：湖泊。",
+    "relation": "same-meaning"
+  },
+  "hsk3-07138": {
+    "character": "抱",
+    "src": "/images/characters/62b1.webp",
+    "caption": "用双臂围住对方：拥抱。",
+    "relation": "example-word",
+    "note": "두 팔로 안는 실제 동작·품의 뜻만 보여 줘요. 뜻이나 꿈을 품는 비유는 나타내지 않아요."
+  },
+  "hsk3-07493": {
+    "character": "净",
+    "src": "/images/characters/51c0.webp",
+    "caption": "净：洗过的玻璃和干净台面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-07526": {
+    "character": "借",
+    "src": "/images/characters/501f.webp",
+    "caption": "暂时拿来使用、之后归还：借书。",
+    "relation": "example-word",
+    "note": "책을 잠시 빌려 쓰는 구체적인 예시예요."
+  },
+  "hsk3-07553": {
+    "character": "经",
+    "src": "/images/characters/7ecf.webp",
+    "caption": "从拱门中经过：只示意“经过”里的经，其他词义按词语学习。",
+    "relation": "example-word",
+    "note": "문을 지나가는 예시예요. 경전·경제 등의 뜻은 나타내지 않아요."
+  },
+  "hsk3-07571": {
+    "character": "精",
+    "src": "/images/characters/7cbe.webp",
+    "caption": "精：这里用精细调整小零件来说明“细致”。",
+    "relation": "example-word",
+    "note": "작은 부품을 정교하게 다루는 예시예요. “매우”의 뜻은 나타내지 않아요."
+  },
+  "hsk3-07677": {
+    "character": "绝",
+    "src": "/images/characters/7edd.webp",
+    "caption": "剪断丝绳、两端分开：对应“断绝”，不直接解释所有绝的词义。",
+    "relation": "example-word",
+    "note": "실을 끊는 예시예요. “뛰어나다/절대로”의 뜻은 나타내지 않아요."
+  },
+  "hsk3-07843": {
+    "character": "矿",
+    "src": "/images/characters/77ff.webp",
+    "caption": "矿：含矿物的矿石。",
+    "relation": "example-word",
+    "note": "광석 표본이에요. 광산 현장 사진은 아니에요."
+  },
+  "hsk3-07860": {
+    "character": "拉",
+    "src": "/images/characters/62c9.webp",
+    "caption": "把物体朝自己方向用力带过来：拉。",
+    "relation": "example-word",
+    "note": "밧줄로 상자를 당기는 실제 동작만 보여 줘요. 경제를 견인한다는 비유는 아니에요."
+  },
+  "hsk3-07982": {
+    "character": "脸",
+    "src": "/images/characters/8138.webp",
+    "caption": "脸：从额头到下巴的面部",
+    "relation": "example-word",
+    "note": "얼굴 사진에서 뺨 부분을 가리켜요. 얼굴 전체와 뺨을 구분해 보세요."
+  },
+  "hsk3-07988": {
+    "character": "凉",
+    "src": "/images/characters/51c9.webp",
+    "caption": "凉：扇子带来舒适的凉意。",
+    "relation": "same-meaning"
+  },
+  "hsk3-08066": {
+    "character": "柳",
+    "src": "/images/restored-new/67f3.jpg",
+    "caption": "柳树",
+    "relation": "same-meaning"
+  },
+  "hsk3-08344": {
+    "character": "泥",
+    "src": "/images/restored-new/6ce5.jpg",
+    "caption": "湿泥",
+    "relation": "example-word",
+    "note": "비에 젖어 질퍽한 진흙의 상태예요. 추상적 비유는 아니에요."
+  },
+  "hsk3-08346": {
+    "character": "泥",
+    "src": "/images/restored-new/6ce5.jpg",
+    "caption": "湿泥",
+    "relation": "example-word",
+    "note": "젖은 흙의 구체적인 예시예요. 모든 흙이 진흙처럼 젖어 있는 것은 아니에요."
+  },
+  "hsk3-08707": {
+    "character": "清",
+    "src": "/images/characters/6e05.webp",
+    "caption": "透过清水，仍能看清后面的物体：清澈。",
+    "relation": "same-meaning"
+  },
+  "hsk3-09273": {
+    "character": "松",
+    "src": "/images/characters/677e.webp",
+    "caption": "针状叶和球果帮助辨认松树：松。",
+    "relation": "same-meaning"
+  },
+  "hsk3-09451": {
+    "character": "跳",
+    "src": "/images/characters/8df3.webp",
+    "caption": "跳：跃起时双脚离开地面。",
+    "relation": "same-meaning"
+  },
+  "hsk3-09454": {
+    "character": "铁",
+    "src": "/images/characters/94c1.webp",
+    "caption": "铁：原色铁条和铁块，常见的坚硬金属。",
+    "relation": "example-word",
+    "note": "금속인 철의 예시예요. 확고하다는 비유는 나타내지 않아요."
+  },
+  "hsk3-09590": {
+    "character": "玩",
+    "src": "/images/characters/73a9.webp",
+    "caption": "玩：孩子玩玩具。",
+    "relation": "example-word",
+    "note": "장난감을 가지고 노는 예시예요."
+  },
+  "hsk3-09681": {
+    "character": "蚊",
+    "src": "/images/characters/868a.webp",
+    "caption": "蚊：细脚、长口器的蚊子。",
+    "relation": "same-meaning"
+  },
+  "hsk3-09848": {
+    "character": "现",
+    "src": "/images/characters/73b0.webp",
+    "caption": "现：揭开布后，物品显现出来。",
+    "relation": "example-word",
+    "note": "천을 걷어 물건이 드러나는 구체적인 예시예요."
+  },
+  "hsk3-09968": {
+    "character": "信",
+    "src": "/images/characters/4fe1.webp",
+    "caption": "从信封中取出纸页：信件；这是“信”的一个常用义。",
+    "relation": "same-meaning"
+  },
+  "hsk3-10000": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "姓氏的情境：同一家族的成员",
+    "relation": "example-word",
+    "note": "한 가족의 성씨를 설명하는 상황의 예시예요. 사진만으로 성씨를 확인할 수는 없어요."
+  },
+  "hsk3-10052": {
+    "character": "续",
+    "src": "/images/characters/7eed.webp",
+    "caption": "接起两段线：示意接续、继续；卖形右部不表示买卖。",
+    "relation": "example-word",
+    "note": "떨어진 실을 이어 다시 계속하는 예시예요."
+  },
+  "hsk3-10174": {
+    "character": "样",
+    "src": "/images/characters/6837.webp",
+    "caption": "摆在一起供比较的不同材料样品：样。",
+    "relation": "example-word",
+    "note": "천·나무·종이 등 물건의 견본을 보여 줘요. 생물·통계 표본은 아니에요."
+  },
+  "hsk3-10175": {
+    "character": "样",
+    "src": "/images/characters/6837.webp",
+    "caption": "摆在一起供比较的不同材料样品：样。",
+    "relation": "example-word",
+    "note": "천·나무·종이 등 실제 재료 견본이에요."
+  },
+  "hsk3-10689": {
+    "character": "织",
+    "src": "/images/characters/7ec7.webp",
+    "caption": "把纬线穿过经线，交织成布；看清织机、梭子和正在形成的布。",
+    "relation": "example-word",
+    "note": "베틀에서 씨실과 날실을 엮어 천을 짜는 모습이에요."
+  },
+  "hsk3-10811": {
+    "character": "住",
+    "src": "/images/characters/4f4f.webp",
+    "caption": "把生活用品搬进家中，在这里生活：居住。",
+    "relation": "example-word",
+    "note": "생활용품을 들여놓는 집을 거처의 예로 보여 줘요."
+  },
+  "hsk-5": {
+    "character": "杯",
+    "src": "/images/characters/676f.webp",
+    "caption": "有杯口、杯身，可盛饮料的器具：杯。",
+    "relation": "same-meaning"
+  },
+  "hsk-12": {
+    "character": "吃",
+    "src": "/images/characters/5403.webp",
+    "caption": "把食物送入口中：吃饭。",
+    "relation": "same-meaning"
+  },
+  "hsk-23": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "专注阅读一本书",
+    "relation": "example-word"
+  },
+  "hsk-35": {
+    "character": "狗",
+    "src": "/images/characters/72d7.webp",
+    "caption": "狗：家犬的体形、耳朵和尾巴。",
+    "relation": "same-meaning"
+  },
+  "hsk-37": {
+    "character": "好",
+    "src": "/images/characters/597d.webp",
+    "caption": "做得好、令人满意的现代情境",
+    "relation": "example-word",
+    "note": "그릇을 잘 만든 “좋다/잘하다”의 예시예요. hào(좋아하다)는 아니에요."
+  },
+  "hsk-39": {
+    "character": "喝",
+    "src": "/images/characters/559d.webp",
+    "caption": "饮用杯中的水：喝水，读hē。",
+    "relation": "same-meaning"
+  },
+  "hsk-47": {
+    "character": "叫",
+    "src": "/images/characters/53eb.webp",
+    "caption": "张口呼喊，叫住远处的人：叫。",
+    "relation": "example-word",
+    "note": "멀리 있는 사람을 소리 내어 부르는 뜻이에요. 이름을 말하는 용법은 아니에요."
+  },
+  "hsk-57": {
+    "character": "冷",
+    "src": "/images/characters/51b7.webp",
+    "caption": "冷：穿厚衣的人在寒风中缩起身体。",
+    "relation": "same-meaning"
+  },
+  "hsk-60": {
+    "character": "妈",
+    "src": "/images/characters/5988.webp",
+    "caption": "母亲和孩子的亲情",
+    "relation": "same-meaning"
+  },
+  "hsk-61": {
+    "character": "吗",
+    "src": "/images/characters/5417.webp",
+    "caption": "“这是你的吗？”：句末的“吗”提示疑问，照片须配合句子。",
+    "relation": "example-word",
+    "note": "“이것은 배인가요?”라고 묻는 대화의 예시예요. 문장과 함께 보세요."
+  },
+  "hsk-63": {
+    "character": "猫",
+    "src": "/images/characters/732b.webp",
+    "caption": "猫：家猫的体形和毛发。",
+    "relation": "same-meaning"
+  },
+  "hsk-66": {
+    "character": "饭",
+    "src": "/images/characters/996d.webp",
+    "caption": "饭：一碗热米饭。",
+    "relation": "same-meaning"
+  },
+  "hsk-72": {
+    "character": "呢",
+    "src": "/images/characters/5462.webp",
+    "caption": "“我喜欢茶，你呢？”：用轮流回应的情境理解“呢”。",
+    "relation": "example-word",
+    "note": "“나는 차를 좋아해요. 당신은요?”라고 이어 묻는 대화의 예시예요."
+  },
+  "hsk-74": {
+    "character": "你",
+    "src": "/images/characters/4f60.webp",
+    "caption": "对话者正在称呼面前的对方：“你”；须结合对话理解。",
+    "relation": "example-word",
+    "note": "말하는 사람이 마주한 상대를 “你”라고 부르는 상황이에요. 대명사는 문장과 함께 보세요."
+  },
+  "hsk-82": {
+    "character": "钱",
+    "src": "/images/characters/94b1.webp",
+    "caption": "货币：叠起的硬币和储钱罐。",
+    "relation": "same-meaning"
+  },
+  "hsk-83": {
+    "character": "请",
+    "src": "/images/characters/8bf7.webp",
+    "caption": "礼貌邀请客人入座",
+    "relation": "example-word",
+    "note": "손님에게 앉으라고 정중히 권하는 상황의 예시예요."
+  },
+  "hsk-101": {
+    "character": "睡",
+    "src": "/images/characters/7761.webp",
+    "caption": "睡：闭眼进入睡眠",
+    "relation": "same-meaning"
+  },
+  "hsk-102": {
+    "character": "说",
+    "src": "/images/characters/8bf4.webp",
+    "caption": "对听众说话、说明",
+    "relation": "example-word"
+  },
+  "hsk-105": {
+    "character": "他",
+    "src": "/images/characters/4ed6.webp",
+    "caption": "说话人提到另一位男性：“他”；照片仅作指代情境。",
+    "relation": "example-word",
+    "note": "대화 중 다른 남성을 “他”라고 가리키는 상황이에요. 대명사는 문장과 함께 보세요."
+  },
+  "hsk-106": {
+    "character": "她",
+    "src": "/images/characters/5979.webp",
+    "caption": "代词情境：“她”指那位女性",
+    "relation": "example-word",
+    "note": "대화 중 다른 여성을 “她”라고 가리키는 상황이에요. 대명사는 문장과 함께 보세요."
+  },
+  "hsk-109": {
+    "character": "听",
+    "src": "/images/characters/542c.webp",
+    "caption": "侧耳留意声音：听。",
+    "relation": "same-meaning"
+  },
+  "hsk-130": {
+    "character": "校",
+    "src": "/images/characters/6821.webp",
+    "caption": "师生进入上课的校园：学校；这是“校”的现代用法。",
+    "relation": "same-meaning"
+  },
+  "hsk-146": {
+    "character": "住",
+    "src": "/images/characters/4f4f.webp",
+    "caption": "把生活用品搬进家中，在这里生活：居住。",
+    "relation": "same-meaning"
+  },
+  "hsk-152": {
+    "character": "吧",
+    "src": "/images/characters/5427.webp",
+    "caption": "“我们一起走吧”：用邀请、建议的情境理解“吧”。",
+    "relation": "example-word",
+    "note": "함께 가자고 제안하는 대화의 예시예요. 사진만으로 조사의 뜻을 알 수는 없어요."
+  },
+  "hsk-161": {
+    "character": "唱",
+    "src": "/images/characters/5531.webp",
+    "caption": "用声音发出旋律：唱歌。",
+    "relation": "same-meaning"
+  },
+  "hsk-166": {
+    "character": "错",
+    "src": "/images/characters/9519.webp",
+    "caption": "错：方形积木放不进圆孔，表示搭配不正确。",
+    "relation": "same-meaning"
+  },
+  "hsk-174": {
+    "character": "懂",
+    "src": "/images/characters/61c2.webp",
+    "caption": "理解了拼图规则，找到正确拼法",
+    "relation": "same-meaning"
+  },
+  "hsk-182": {
+    "character": "给",
+    "src": "/images/characters/7ed9.webp",
+    "caption": "把书交给另一人：对应“给予、交付”的动作。",
+    "relation": "example-word",
+    "note": "책을 건네주는 “주다”의 예시예요. 개사 용법은 나타내지 않아요."
+  },
+  "hsk-191": {
+    "character": "红",
+    "src": "/images/characters/7ea2.webp",
+    "caption": "红色丝束：用颜色理解“红”；工是声旁，图片不解释工。",
+    "relation": "example-word",
+    "note": "빨간 실의 색이에요. “인기 있다”는 나타내지 않아요."
+  },
+  "hsk-197": {
+    "character": "姐",
+    "src": "/images/characters/59d0.webp",
+    "caption": "姐姐：年龄较长的女性手足",
+    "relation": "example-word",
+    "note": "나이가 많은 여자 형제라는 관계는 문장과 함께 확인하세요."
+  },
+  "hsk-204": {
+    "character": "始",
+    "src": "/images/characters/59cb.webp",
+    "caption": "开始：跑者即将起跑",
+    "relation": "example-word",
+    "note": "달리기 출발 직전의 시작 장면을 예로 들어요."
+  },
+  "hsk-208": {
+    "character": "课",
+    "src": "/images/characters/8bfe.webp",
+    "caption": "正在进行的一堂课",
+    "relation": "example-word",
+    "note": "교실 수업의 한 장면이에요. 과의 순서·교재 단원은 나타내지 않아요."
+  },
+  "hsk-209": {
+    "character": "快",
+    "src": "/images/characters/5feb.webp",
+    "caption": "速度很快的跑步动作",
+    "relation": "example-word",
+    "note": "빨리 달리는 모습이에요. “곧”이라는 시간 부사는 나타내지 않아요."
+  },
+  "hsk-215": {
+    "character": "路",
+    "src": "/images/characters/8def.webp",
+    "caption": "路：可以通行的道路。",
+    "relation": "same-meaning"
+  },
+  "hsk-218": {
+    "character": "慢",
+    "src": "/images/characters/6162.webp",
+    "caption": "慢慢爬行的蜗牛",
+    "relation": "same-meaning"
+  },
+  "hsk-219": {
+    "character": "忙",
+    "src": "/images/characters/5fd9.webp",
+    "caption": "事情多、无暇休息的忙碌情境",
+    "relation": "same-meaning"
+  },
+  "hsk-221": {
+    "character": "妹",
+    "src": "/images/characters/59b9.webp",
+    "caption": "妹妹：年龄较小的女性手足",
+    "relation": "example-word",
+    "note": "나이가 어린 여자 형제라는 관계는 문장과 함께 확인하세요."
+  },
+  "hsk-229": {
+    "character": "跑",
+    "src": "/images/characters/8dd1.webp",
+    "caption": "跑：人的双腿交替向前奔跑。",
+    "relation": "same-meaning"
+  },
+  "hsk-236": {
+    "character": "晴",
+    "src": "/images/characters/6674.webp",
+    "caption": "晴天：天空少云、阳光明亮",
+    "relation": "same-meaning"
+  },
+  "hsk-241": {
+    "character": "体",
+    "src": "/images/characters/4f53.webp",
+    "caption": "从头、躯干到四肢组成的整体：身体。",
+    "relation": "example-word",
+    "note": "머리·몸통·팔다리로 이뤄진 몸이에요. 건강 상태의 뜻을 모두 나타내지는 않아요."
+  },
+  "hsk-244": {
+    "character": "时",
+    "src": "/images/characters/65f6.webp",
+    "caption": "沙漏帮助观察时间流逝",
+    "relation": "example-word",
+    "note": "모래시계로 시간의 흐름을 보여 줘요."
+  },
+  "hsk-248": {
+    "character": "说",
+    "src": "/images/characters/8bf4.webp",
+    "caption": "对听众说话、说明",
+    "relation": "same-meaning"
+  },
+  "hsk-252": {
+    "character": "踢",
+    "src": "/images/characters/8e22.webp",
+    "caption": "踢：用脚踢球。",
+    "relation": "same-meaning"
+  },
+  "hsk-257": {
+    "character": "玩",
+    "src": "/images/characters/73a9.webp",
+    "caption": "玩：孩子玩玩具。",
+    "relation": "example-word"
+  },
+  "hsk-265": {
+    "character": "洗",
+    "src": "/images/characters/6d17.webp",
+    "caption": "用流水和肥皂去掉手上的污物：洗手。",
+    "relation": "example-word"
+  },
+  "hsk-269": {
+    "character": "姓",
+    "src": "/images/characters/59d3.webp",
+    "caption": "姓氏的情境：同一家族的成员",
+    "relation": "example-word",
+    "note": "한 가족이 성씨를 함께 쓰는 상황의 예시예요. 사진만으로 성씨를 확인할 수는 없어요."
+  },
+  "hsk-270": {
+    "character": "休",
+    "src": "/images/characters/4f11.webp",
+    "caption": "人在树旁放松，暂停活动：休息。",
+    "relation": "same-meaning"
+  },
+  "hsk-273": {
+    "character": "眼",
+    "src": "/images/characters/773c.webp",
+    "caption": "眼：人的双眼与眼部轮廓",
+    "relation": "same-meaning"
+  },
+  "hsk-284": {
+    "character": "泳",
+    "src": "/images/characters/6cf3.webp",
+    "caption": "人在水中划臂、前进：游泳。",
+    "relation": "same-meaning"
+  },
+  "hsk-292": {
+    "character": "找",
+    "src": "/images/characters/627e.webp",
+    "caption": "翻看物品，寻找不见的钥匙：找。",
+    "relation": "same-meaning"
+  },
+  "hsk-315": {
+    "character": "饱",
+    "src": "/images/characters/9971.webp",
+    "caption": "饱：吃过一餐后满足地放下筷子。",
+    "relation": "same-meaning"
+  },
+  "hsk-336": {
+    "character": "城",
+    "src": "/images/characters/57ce.webp",
+    "caption": "城：城墙、城门及城内建筑",
+    "relation": "example-word",
+    "note": "성벽이 있는 옛 도시의 예시예요. 모든 현대 도시가 이런 형태는 아니에요."
+  },
+  "hsk-350": {
+    "character": "灯",
+    "src": "/images/characters/706f.webp",
+    "caption": "灯：发光照明的台灯。",
+    "relation": "same-meaning"
+  },
+  "hsk-363": {
+    "character": "饿",
+    "src": "/images/characters/997f.webp",
+    "caption": "饿：碗里没有食物，人想吃东西。",
+    "relation": "same-meaning"
+  },
+  "hsk-374": {
+    "character": "净",
+    "src": "/images/characters/51c0.webp",
+    "caption": "净：洗过的玻璃和干净台面。",
+    "relation": "same-meaning"
+  },
+  "hsk-394": {
+    "character": "怕",
+    "src": "/images/characters/6015.webp",
+    "caption": "面对高处时害怕的表情",
+    "relation": "same-meaning"
+  },
+  "hsk-401": {
+    "character": "坏",
+    "src": "/images/characters/574f.webp",
+    "caption": "坏：物品损坏，不能按原样使用",
+    "relation": "example-word",
+    "note": "물건이 망가진 뜻의 예시예요. 사람의 성품을 뜻하지 않아요."
+  },
+  "hsk-419": {
+    "character": "讲",
+    "src": "/images/characters/8bb2.webp",
+    "caption": "教师借助地球仪讲解",
+    "relation": "example-word",
+    "note": "교사가 지구본을 설명하는 예시예요."
+  },
+  "hsk-430": {
+    "character": "借",
+    "src": "/images/characters/501f.webp",
+    "caption": "暂时拿来使用、之后归还：借书。",
+    "relation": "example-word",
+    "note": "책을 잠시 빌려 쓰고 돌려주는 상황의 예시예요."
+  },
+  "hsk-432": {
+    "character": "经",
+    "src": "/images/characters/7ecf.webp",
+    "caption": "从拱门中经过：只示意“经过”里的经，其他词义按词语学习。",
+    "relation": "example-word",
+    "note": "문을 지나가는 동작의 뜻만 보여 줘요. 사건의 과정은 나타내지 않아요."
+  },
+  "hsk-445": {
+    "character": "裤",
+    "src": "/images/characters/88e4.webp",
+    "caption": "裤：有两条裤腿的裤子。",
+    "relation": "same-meaning"
+  },
+  "hsk-452": {
+    "character": "脸",
+    "src": "/images/characters/8138.webp",
+    "caption": "脸：从额头到下巴的面部",
+    "relation": "same-meaning"
+  },
+  "hsk-453": {
+    "character": "练",
+    "src": "/images/characters/7ec3.webp",
+    "caption": "重复画圈练习：对应今天的“反复学习或训练”；古义炼丝另作说明。",
+    "relation": "example-word",
+    "note": "원을 반복해서 그리는 연습의 예시예요."
+  },
+  "hsk-454": {
+    "character": "辆",
+    "src": "/images/characters/8f86.webp",
+    "caption": "辆：数汽车时用的量词，如三辆车。",
+    "relation": "example-word",
+    "note": "자동차 세 대로 양사 辆의 쓰임을 보여 줘요."
+  },
+  "hsk-460": {
+    "character": "绿",
+    "src": "/images/characters/7eff.webp",
+    "caption": "绿色丝绸：用颜色理解“绿”；录形右部不能按“记录”解释。",
+    "relation": "same-meaning"
+  },
+  "hsk-479": {
+    "character": "胖",
+    "src": "/images/characters/80d6.webp",
+    "caption": "胖：描述体型，图片保持尊重",
+    "relation": "same-meaning"
+  },
+  "hsk-485": {
+    "character": "怪",
+    "src": "/images/characters/602a.webp",
+    "caption": "“奇怪”的例子：形状少见的胡萝卜",
+    "relation": "same-meaning"
+  },
+  "hsk-492": {
+    "character": "裙",
+    "src": "/images/characters/88d9.webp",
+    "caption": "裙：下摆展开的裙子。",
+    "relation": "same-meaning"
+  },
+  "hsk-508": {
+    "character": "树",
+    "src": "/images/characters/6811.webp",
+    "caption": "一株有树干、树枝和树叶的植物：树。",
+    "relation": "same-meaning"
+  },
+  "hsk-526": {
+    "character": "腿",
+    "src": "/images/characters/817f.webp",
+    "caption": "腿：人体下肢与行走",
+    "relation": "same-meaning"
+  },
+  "hsk-613": {
+    "character": "抱",
+    "src": "/images/characters/62b1.webp",
+    "caption": "用双臂围住对方：拥抱。",
+    "relation": "same-meaning"
+  },
+  "hsk-635": {
+    "character": "猜",
+    "src": "/images/characters/731c.webp",
+    "caption": "猜：玩找小球的游戏，根据线索推测。",
+    "relation": "example-word"
+  },
+  "hsk-655": {
+    "character": "现",
+    "src": "/images/characters/73b0.webp",
+    "caption": "现：揭开布后，物品显现出来。",
+    "relation": "example-word",
+    "note": "천을 걷어 물건이 눈에 나타나는 구체적인 예시예요."
+  },
+  "hsk-698": {
+    "character": "肚",
+    "src": "/images/characters/809a.webp",
+    "caption": "肚：双手指示腹部的位置",
+    "relation": "same-meaning"
+  },
+  "hsk-735": {
+    "character": "情",
+    "src": "/images/characters/60c5.webp",
+    "caption": "重逢时表达的感情",
+    "relation": "example-word",
+    "note": "오랜만에 만난 친구들이 포옹하며 감정을 표현하는 예시예요."
+  },
+  "hsk-765": {
+    "character": "洋",
+    "src": "/images/characters/6d0b.webp",
+    "caption": "远离海岸的开阔水域：海洋；与海的意思有关联。",
+    "relation": "same-meaning"
+  },
+  "hsk-768": {
+    "character": "汗",
+    "src": "/images/restored-new/6c57.jpg",
+    "caption": "汗珠",
+    "relation": "same-meaning"
+  },
+  "hsk-797": {
+    "character": "续",
+    "src": "/images/characters/7eed.webp",
+    "caption": "接起两段线：示意接续、继续；卖形右部不表示买卖。",
+    "relation": "example-word",
+    "note": "끊긴 실을 이어 계속하는 구체적인 비유 예시예요."
+  },
+  "hsk-817": {
+    "character": "饺",
+    "src": "/images/characters/997a.webp",
+    "caption": "饺：饺子的折叠面皮包着馅。",
+    "relation": "same-meaning"
+  },
+  "hsk-839": {
+    "character": "镜",
+    "src": "/images/characters/955c.webp",
+    "caption": "镜：光滑镜面映出面前的树枝。",
+    "relation": "same-meaning"
+  },
+  "hsk-854": {
+    "character": "咳",
+    "src": "/images/restored-new/54b3.jpg",
+    "caption": "咳嗽",
+    "relation": "same-meaning"
+  },
+  "hsk-868": {
+    "character": "拉",
+    "src": "/images/characters/62c9.webp",
+    "caption": "把物体朝自己方向用力带过来：拉。",
+    "relation": "same-meaning"
+  },
+  "hsk-933": {
+    "character": "破",
+    "src": "/images/characters/7834.webp",
+    "caption": "破：石板断裂，成为几块。",
+    "relation": "same-meaning"
+  },
+  "hsk-943": {
+    "character": "桥",
+    "src": "/images/characters/6865.webp",
+    "caption": "架在水道上、连接两岸的建筑：桥。",
+    "relation": "same-meaning"
+  },
+  "hsk-1025": {
+    "character": "糖",
+    "src": "/images/characters/7cd6.webp",
+    "caption": "糖：方糖和白砂糖。",
+    "relation": "example-word",
+    "note": "설탕과 각설탕이에요. 포장된 사탕 사진은 아니에요."
+  },
+  "hsk-1031": {
+    "character": "提",
+    "src": "/images/characters/63d0.webp",
+    "caption": "手抓住提手，把袋子向上拿起：提。",
+    "relation": "example-word",
+    "note": "가방을 손에 들어 올리는 뜻이에요. “언급하다”는 나타내지 않아요."
+  },
+  "hsk-1043": {
+    "character": "推",
+    "src": "/images/characters/63a8.webp",
+    "caption": "手向外用力，使物体离自己更远：推。",
+    "relation": "same-meaning"
+  },
+  "hsk-1061": {
+    "character": "西红柿",
+    "src": "/images/restored-new/tomato.jpg",
+    "caption": "西红柿",
+    "relation": "same-meaning"
+  },
+  "hsk-1139": {
+    "character": "语",
+    "src": "/images/characters/8bed.webp",
+    "caption": "语言学习：听音和练习发音",
+    "relation": "example-word",
+    "note": "언어를 듣고 말하는 연습 상황의 예시예요."
+  },
+  "hsk-1145": {
+    "character": "读",
+    "src": "/images/characters/8bfb.webp",
+    "caption": "专注阅读一本书",
+    "relation": "same-meaning"
+  },
+  "hsk-1151": {
+    "character": "脏",
+    "src": "/images/characters/810f.webp",
+    "caption": "脏 zāng：手和衣袖沾上泥土，不干净",
+    "relation": "same-meaning"
+  },
+  "hsk-1158": {
+    "character": "理",
+    "src": "/images/characters/7406.webp",
+    "caption": "理：整理书本，使物品有条理。",
+    "relation": "example-word",
+    "note": "책을 가지런히 정리하는 예시예요."
+  },
+  "hsk-1185": {
+    "character": "转",
+    "src": "/images/characters/8f6c.webp",
+    "caption": "转：转动把手，改变它的方向。",
+    "relation": "example-word",
+    "note": "문손잡이를 돌리는 동작의 예시예요. 이전·환승 등 다른 뜻은 나타내지 않아요."
+  },
+  "hsk-1215": {
+    "character": "晚",
+    "src": "/images/characters/665a.webp",
+    "caption": "傍晚：日落前后的光线",
+    "relation": "same-meaning"
+  },
+  "hsk-1234": {
+    "character": "被",
+    "src": "/images/characters/88ab.webp",
+    "caption": "被：床上蓬松的被子。",
+    "relation": "same-meaning"
+  },
+  "hsk-1302": {
+    "character": "炒",
+    "src": "/images/characters/7092.webp",
+    "caption": "炒：锅中用少量油翻动蔬菜。",
+    "relation": "same-meaning"
+  },
+  "hsk-1326": {
+    "character": "池",
+    "src": "/images/restored-new/6c60.jpg",
+    "caption": "池塘",
+    "relation": "same-meaning"
+  },
+  "hsk-1357": {
+    "character": "吹",
+    "src": "/images/restored-new/5439.jpg",
+    "caption": "吹风车",
+    "relation": "example-word",
+    "note": "입으로 바람개비를 부는 동작의 예시예요."
+  },
+  "hsk-1428": {
+    "character": "冻",
+    "src": "/images/characters/51bb.webp",
+    "caption": "冻：桶里的水结成了冰。",
+    "relation": "example-word",
+    "note": "통 안의 물이 얼어 있는 예시예요. 추워하는 사람의 모습은 아니에요."
+  },
+  "hsk-1564": {
+    "character": "明",
+    "src": "/images/characters/660e.webp",
+    "caption": "明亮：充足光线照进房间",
+    "relation": "example-word",
+    "note": "방에 빛이 들어 밝은 실제 상태의 뜻만 보여 줘요. 희망·정의 같은 비유는 나타내지 않아요."
+  },
+  "hsk-1611": {
+    "character": "蝴",
+    "src": "/images/characters/8774.webp",
+    "caption": "蝴：蝴蝶张开有花纹的翅膀。",
+    "relation": "same-meaning"
+  },
+  "hsk-1635": {
+    "character": "伙",
+    "src": "/images/characters/4f19.webp",
+    "caption": "一起做事、共同生活的人：伙伴、同伙；使用情境示意。",
+    "relation": "example-word",
+    "note": "함께 요리하는 동료들의 예시예요."
+  },
+  "hsk-1649": {
+    "character": "记",
+    "src": "/images/characters/8bb0.webp",
+    "caption": "把观察到的内容记录下来",
+    "relation": "example-word",
+    "note": "관찰한 내용을 노트에 적는 구체적인 예시예요."
+  },
+  "hsk-1809": {
+    "character": "铃",
+    "src": "/images/restored-new/94c3.jpg",
+    "caption": "手铃",
+    "relation": "example-word",
+    "note": "손으로 흔들어 울리는 작은 금속 종의 예시예요."
+  },
+  "hsk-1816": {
+    "character": "泪",
+    "src": "/images/characters/6cea.webp",
+    "caption": "从眼睛流到脸颊的水滴：眼泪。",
+    "relation": "example-word",
+    "note": "눈에서 눈물이 흘러내리는 모습이에요. 물이 흐르는 流 사진을 쓰지 않아요."
+  },
+  "hsk-1892": {
+    "character": "拍",
+    "src": "/images/characters/62cd.webp",
+    "caption": "两手掌相击：拍手；这是“拍”的一种常用动作。",
+    "relation": "example-word",
+    "note": "손뼉을 치는 뜻의 예시예요. 사진 촬영이나 라켓은 아니에요."
+  },
+  "hsk-1975": {
+    "character": "烧",
+    "src": "/images/characters/70e7.webp",
+    "caption": "烧：木柴正在燃烧。",
+    "relation": "same-meaning"
+  },
+  "hsk-1997": {
+    "character": "软",
+    "src": "/images/characters/8f6f.webp",
+    "caption": "软：海绵被手指按下后变形。",
+    "relation": "example-word"
+  },
+  "hsk-2007": {
+    "character": "晒",
+    "src": "/images/characters/6652.webp",
+    "caption": "晒：让衣物受到阳光照射",
+    "relation": "example-word",
+    "note": "옷을 햇볕에 말리는 예시예요. 일광욕·햇볕에 타는 피부는 아니에요."
+  },
+  "hsk-2018": {
+    "character": "蛇",
+    "src": "/images/characters/86c7.webp",
+    "caption": "蛇：没有腿、身体细长的爬行动物。",
+    "relation": "same-meaning"
+  },
+  "hsk-2042": {
+    "character": "诗",
+    "src": "/images/characters/8bd7.webp",
+    "caption": "朗诵诗歌的情境",
+    "relation": "same-meaning"
+  },
+  "hsk-2120": {
+    "character": "桃",
+    "src": "/images/restored-new/6843.jpg",
+    "caption": "桃子",
+    "relation": "example-word",
+    "note": "복숭아 열매의 뜻이에요."
+  },
+  "hsk-2325": {
+    "character": "银",
+    "src": "/images/characters/94f6.webp",
+    "caption": "银：银白色的金属，抛光银锭。",
+    "relation": "same-meaning"
+  },
+  "hsk-2335": {
+    "character": "硬",
+    "src": "/images/characters/786c.webp",
+    "caption": "硬：石头不易变形，与旁边柔软海绵作比较。",
+    "relation": "example-word",
+    "note": "돌과 눌리는 스펀지를 비교한 물리적 단단함이에요."
+  },
+  "hsk-2337": {
+    "character": "抱",
+    "src": "/images/characters/62b1.webp",
+    "caption": "用双臂围住对方：拥抱。",
+    "relation": "same-meaning"
+  },
+  "hsk-2360": {
+    "character": "料",
+    "src": "/images/characters/6599.webp",
+    "caption": "料：准备烹饪的原料，是材料的一种。",
+    "relation": "example-word",
+    "note": "요리에 쓰는 재료의 예시예요. 다른 산업 원료의 사진은 아니에요."
+  },
+  "hsk-2427": {
+    "character": "作",
+    "src": "/images/characters/4f5c.webp",
+    "caption": "动手制作物品、进行工作：作。",
+    "relation": "example-word",
+    "note": "나무 물건을 손으로 만드는 구체적인 예시예요."
+  },
+  "hsk-2438": {
+    "character": "猪",
+    "src": "/images/characters/732a.webp",
+    "caption": "猪：常见的家畜，圆鼻盘很明显。",
+    "relation": "same-meaning"
+  },
+  "hsk-2491": {
+    "character": "组",
+    "src": "/images/characters/7ec4.webp",
+    "caption": "三位学生组成一组：对应现代的“一组、组成”。",
+    "relation": "example-word",
+    "note": "함께 공부하는 세 사람을 한 조로 보는 예시예요."
+  }
+}

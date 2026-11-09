@@ -1,0 +1,1100 @@
+{
+  "油": {
+    "src": "/images/characters/6cb9.webp",
+    "caption": "食用油从瓶中倒入锅里：油脂。",
+    "alt": "油：食用油从瓶中倒入锅里：油脂。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "泳": {
+    "src": "/images/characters/6cf3.webp",
+    "caption": "人在水中划臂、前进：游泳。",
+    "alt": "泳：人在水中划臂、前进：游泳。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "清": {
+    "src": "/images/characters/6e05.webp",
+    "caption": "透过清水，仍能看清后面的物体：清澈。",
+    "alt": "清：透过清水，仍能看清后面的物体：清澈。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "河": {
+    "src": "/images/characters/6cb3.webp",
+    "caption": "两岸之间不断流动的长水道：河流。",
+    "alt": "河：两岸之间不断流动的长水道：河流。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "海": {
+    "src": "/images/characters/6d77.webp",
+    "caption": "从海岸望向大片咸水水域：大海。",
+    "alt": "海：从海岸望向大片咸水水域：大海。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "洋": {
+    "src": "/images/characters/6d0b.webp",
+    "caption": "远离海岸的开阔水域：海洋；与海的意思有关联。",
+    "alt": "洋：远离海岸的开阔水域：海洋；与海的意思有关联。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "洗": {
+    "src": "/images/characters/6d17.webp",
+    "caption": "用流水和肥皂去掉手上的污物：洗手。",
+    "alt": "洗：用流水和肥皂去掉手上的污物：洗手。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "沙": {
+    "src": "/images/characters/6c99.webp",
+    "caption": "细小的石粒从指间落下：沙。",
+    "alt": "沙：细小的石粒从指间落下：沙。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "汉": {
+    "src": "/images/characters/6c49.webp",
+    "caption": "汉语课堂的使用情境；照片不能独立表示“汉”或证明人物民族。",
+    "alt": "汉：汉语课堂的使用情境；照片不能独立表示“汉”或证明人物民族。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "酒": {
+    "src": "/images/characters/9152.webp",
+    "caption": "杯中的红酒：一种含酒精的饮料。",
+    "alt": "酒：杯中的红酒：一种含酒精的饮料。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "汽": {
+    "src": "/images/characters/6c7d.webp",
+    "caption": "热水壶口冒出的水蒸气：汽。",
+    "alt": "汽：热水壶口冒出的水蒸气：汽。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "泪": {
+    "src": "/images/characters/6cea.webp",
+    "caption": "从眼睛流到脸颊的水滴：眼泪。",
+    "alt": "泪：从眼睛流到脸颊的水滴：眼泪。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "湖": {
+    "src": "/images/characters/6e56.webp",
+    "caption": "陆地包围的一大片积水：湖泊。",
+    "alt": "湖：陆地包围的一大片积水：湖泊。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "波": {
+    "src": "/images/characters/6ce2.webp",
+    "caption": "水面一圈圈向外起伏：波纹。",
+    "alt": "波：水面一圈圈向外起伏：波纹。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "休": {
+    "src": "/images/characters/4f11.webp",
+    "caption": "人在树旁放松，暂停活动：休息。",
+    "alt": "休：人在树旁放松，暂停活动：休息。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "你": {
+    "src": "/images/characters/4f60.webp",
+    "caption": "对话者正在称呼面前的对方：“你”；须结合对话理解。",
+    "alt": "你：对话者正在称呼面前的对方：“你”；须结合对话理解。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "他": {
+    "src": "/images/characters/4ed6.webp",
+    "caption": "说话人提到另一位男性：“他”；照片仅作指代情境。",
+    "alt": "他：说话人提到另一位男性：“他”；照片仅作指代情境。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "们": {
+    "src": "/images/characters/4eec.webp",
+    "caption": "一组人可称“他们”或“我们”；“们”表示复数，须结合词语。",
+    "alt": "们：一组人可称“他们”或“我们”；“们”表示复数，须结合词语。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "住": {
+    "src": "/images/characters/4f4f.webp",
+    "caption": "把生活用品搬进家中，在这里生活：居住。",
+    "alt": "住：把生活用品搬进家中，在这里生活：居住。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "作": {
+    "src": "/images/characters/4f5c.webp",
+    "caption": "动手制作物品、进行工作：作。",
+    "alt": "作：动手制作物品、进行工作：作。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "体": {
+    "src": "/images/characters/4f53.webp",
+    "caption": "从头、躯干到四肢组成的整体：身体。",
+    "alt": "体：从头、躯干到四肢组成的整体：身体。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "信": {
+    "src": "/images/characters/4fe1.webp",
+    "caption": "从信封中取出纸页：信件；这是“信”的一个常用义。",
+    "alt": "信：从信封中取出纸页：信件；这是“信”的一个常用义。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "借": {
+    "src": "/images/characters/501f.webp",
+    "caption": "暂时拿来使用、之后归还：借书。",
+    "alt": "借：暂时拿来使用、之后归还：借书。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "位": {
+    "src": "/images/characters/4f4d.webp",
+    "caption": "一张留给人的空座位：位置；“位”也可作人的量词。",
+    "alt": "位：一张留给人的空座位：位置；“位”也可作人的量词。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "但": {
+    "src": "/images/characters/4f46.webp",
+    "caption": "“想骑车，但下雨了”：用反差情境理解转折，不是物体字源。",
+    "alt": "但：“想骑车，但下雨了”：用反差情境理解转折，不是物体字源。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "伴": {
+    "src": "/images/characters/4f34.webp",
+    "caption": "两个人一同走、互相陪着：陪伴。",
+    "alt": "伴：两个人一同走、互相陪着：陪伴。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "伙": {
+    "src": "/images/characters/4f19.webp",
+    "caption": "一起做事、共同生活的人：伙伴、同伙；使用情境示意。",
+    "alt": "伙：一起做事、共同生活的人：伙伴、同伙；使用情境示意。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "打": {
+    "src": "/images/characters/6253.webp",
+    "caption": "手敲击鼓面：打鼓。",
+    "alt": "打：手敲击鼓面：打鼓。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "把": {
+    "src": "/images/characters/628a.webp",
+    "caption": "手指围住把手并握牢：把握、握住；把字句须另结合句子。",
+    "alt": "把：手指围住把手并握牢：把握、握住；把字句须另结合句子。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "拉": {
+    "src": "/images/characters/62c9.webp",
+    "caption": "把物体朝自己方向用力带过来：拉。",
+    "alt": "拉：把物体朝自己方向用力带过来：拉。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "推": {
+    "src": "/images/characters/63a8.webp",
+    "caption": "手向外用力，使物体离自己更远：推。",
+    "alt": "推：手向外用力，使物体离自己更远：推。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "找": {
+    "src": "/images/characters/627e.webp",
+    "caption": "翻看物品，寻找不见的钥匙：找。",
+    "alt": "找：翻看物品，寻找不见的钥匙：找。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "拍": {
+    "src": "/images/characters/62cd.webp",
+    "caption": "两手掌相击：拍手；这是“拍”的一种常用动作。",
+    "alt": "拍：两手掌相击：拍手；这是“拍”的一种常用动作。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "抱": {
+    "src": "/images/characters/62b1.webp",
+    "caption": "用双臂围住对方：拥抱。",
+    "alt": "抱：用双臂围住对方：拥抱。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "提": {
+    "src": "/images/characters/63d0.webp",
+    "caption": "手抓住提手，把袋子向上拿起：提。",
+    "alt": "提：手抓住提手，把袋子向上拿起：提。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "吃": {
+    "src": "/images/characters/5403.webp",
+    "caption": "把食物送入口中：吃饭。",
+    "alt": "吃：把食物送入口中：吃饭。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "喝": {
+    "src": "/images/characters/559d.webp",
+    "caption": "饮用杯中的水：喝水，读hē。",
+    "alt": "喝：饮用杯中的水：喝水，读hē。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "吗": {
+    "src": "/images/characters/5417.webp",
+    "caption": "“这是你的吗？”：句末的“吗”提示疑问，照片须配合句子。",
+    "alt": "吗：“这是你的吗？”：句末的“吗”提示疑问，照片须配合句子。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "呢": {
+    "src": "/images/characters/5462.webp",
+    "caption": "“我喜欢茶，你呢？”：用轮流回应的情境理解“呢”。",
+    "alt": "呢：“我喜欢茶，你呢？”：用轮流回应的情境理解“呢”。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "吧": {
+    "src": "/images/characters/5427.webp",
+    "caption": "“我们一起走吧”：用邀请、建议的情境理解“吧”。",
+    "alt": "吧：“我们一起走吧”：用邀请、建议的情境理解“吧”。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "唱": {
+    "src": "/images/characters/5531.webp",
+    "caption": "用声音发出旋律：唱歌。",
+    "alt": "唱：用声音发出旋律：唱歌。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "听": {
+    "src": "/images/characters/542c.webp",
+    "caption": "侧耳留意声音：听。",
+    "alt": "听：侧耳留意声音：听。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "叫": {
+    "src": "/images/characters/53eb.webp",
+    "caption": "张口呼喊，叫住远处的人：叫。",
+    "alt": "叫：张口呼喊，叫住远处的人：叫。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "林": {
+    "src": "/images/characters/6797.webp",
+    "caption": "许多树木成片生长：林。",
+    "alt": "林：许多树木成片生长：林。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "树": {
+    "src": "/images/characters/6811.webp",
+    "caption": "一株有树干、树枝和树叶的植物：树。",
+    "alt": "树：一株有树干、树枝和树叶的植物：树。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "板": {
+    "src": "/images/characters/677f.webp",
+    "caption": "薄而平的木制硬片：木板。",
+    "alt": "板：薄而平的木制硬片：木板。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "松": {
+    "src": "/images/characters/677e.webp",
+    "caption": "针状叶和球果帮助辨认松树：松。",
+    "alt": "松：针状叶和球果帮助辨认松树：松。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "桥": {
+    "src": "/images/characters/6865.webp",
+    "caption": "架在水道上、连接两岸的建筑：桥。",
+    "alt": "桥：架在水道上、连接两岸的建筑：桥。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "校": {
+    "src": "/images/characters/6821.webp",
+    "caption": "师生进入上课的校园：学校；这是“校”的现代用法。",
+    "alt": "校：师生进入上课的校园：学校；这是“校”的现代用法。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "样": {
+    "src": "/images/characters/6837.webp",
+    "caption": "摆在一起供比较的不同材料样品：样。",
+    "alt": "样：摆在一起供比较的不同材料样品：样。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "杯": {
+    "src": "/images/characters/676f.webp",
+    "caption": "有杯口、杯身，可盛饮料的器具：杯。",
+    "alt": "杯：有杯口、杯身，可盛饮料的器具：杯。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "机": {
+    "src": "/images/characters/673a.webp",
+    "caption": "由多个部件配合工作的缝纫机器：机；不是机会义的图。",
+    "alt": "机：由多个部件配合工作的缝纫机器：机；不是机会义的图。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "请": {
+    "src": "/images/characters/8bf7.webp",
+    "caption": "礼貌邀请客人入座",
+    "alt": "一位主人用张开的手掌邀请客人入座",
+    "kind": "AI生成实物或动作示意"
+  },
+  "语": {
+    "src": "/images/characters/8bed.webp",
+    "caption": "语言学习：听音和练习发音",
+    "alt": "戴耳机练习语言发音的学习者",
+    "kind": "AI生成实物或动作示意"
+  },
+  "话": {
+    "src": "/images/characters/8bdd.webp",
+    "caption": "电话里说出的话语",
+    "alt": "正在用电话交谈的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "说": {
+    "src": "/images/characters/8bf4.webp",
+    "caption": "对听众说话、说明",
+    "alt": "面向他人清楚说话的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "读": {
+    "src": "/images/characters/8bfb.webp",
+    "caption": "专注阅读一本书",
+    "alt": "低头专注读书的成人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "认": {
+    "src": "/images/characters/8ba4.webp",
+    "caption": "认出熟人并挥手相认",
+    "alt": "在街头认出熟人后挥手的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "讲": {
+    "src": "/images/characters/8bb2.webp",
+    "caption": "教师借助地球仪讲解",
+    "alt": "用地球仪讲解的教师",
+    "kind": "AI生成实物或动作示意"
+  },
+  "课": {
+    "src": "/images/characters/8bfe.webp",
+    "caption": "正在进行的一堂课",
+    "alt": "正在进行的一堂成人小班课程",
+    "kind": "AI生成实物或动作示意"
+  },
+  "记": {
+    "src": "/images/characters/8bb0.webp",
+    "caption": "把观察到的内容记录下来",
+    "alt": "用笔记录观察的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "诗": {
+    "src": "/images/characters/8bd7.webp",
+    "caption": "朗诵诗歌的情境",
+    "alt": "在小型朗诵会上读诗的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "情": {
+    "src": "/images/characters/60c5.webp",
+    "caption": "重逢时表达的感情",
+    "alt": "久别重逢的朋友拥抱表达感情",
+    "kind": "AI生成实物或动作示意"
+  },
+  "快": {
+    "src": "/images/characters/5feb.webp",
+    "caption": "速度很快的跑步动作",
+    "alt": "正在快速奔跑的跑步者",
+    "kind": "AI生成实物或动作示意"
+  },
+  "忙": {
+    "src": "/images/characters/5fd9.webp",
+    "caption": "事情多、无暇休息的忙碌情境",
+    "alt": "同时处理多项工作的忙碌职员",
+    "kind": "AI生成实物或动作示意"
+  },
+  "怕": {
+    "src": "/images/characters/6015.webp",
+    "caption": "面对高处时害怕的表情",
+    "alt": "站在高处紧握栏杆、神情害怕的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "性": {
+    "src": "/images/characters/6027.webp",
+    "caption": "性格情境：耐心、平和地倾听",
+    "alt": "耐心倾听朋友说话的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "怪": {
+    "src": "/images/characters/602a.webp",
+    "caption": "“奇怪”的例子：形状少见的胡萝卜",
+    "alt": "形状奇特的分叉胡萝卜",
+    "kind": "AI生成实物或动作示意"
+  },
+  "懂": {
+    "src": "/images/characters/61c2.webp",
+    "caption": "理解了拼图规则，找到正确拼法",
+    "alt": "拼好几何拼图后恍然明白的学习者",
+    "kind": "AI生成实物或动作示意"
+  },
+  "慢": {
+    "src": "/images/characters/6162.webp",
+    "caption": "慢慢爬行的蜗牛",
+    "alt": "正在叶面缓慢爬行的蜗牛",
+    "kind": "AI生成实物或动作示意"
+  },
+  "惊": {
+    "src": "/images/characters/60ca.webp",
+    "caption": "意外惊喜带来的吃惊表情",
+    "alt": "看到朋友惊喜礼物时吃惊的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "好": {
+    "src": "/images/characters/597d.webp",
+    "caption": "做得好、令人满意的现代情境",
+    "alt": "对完成的陶艺作品竖起拇指的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "妈": {
+    "src": "/images/characters/5988.webp",
+    "caption": "母亲和孩子的亲情",
+    "alt": "母亲温柔拥抱孩子的家庭场景",
+    "kind": "AI生成实物或动作示意"
+  },
+  "她": {
+    "src": "/images/characters/5979.webp",
+    "caption": "代词情境：“她”指那位女性",
+    "alt": "被同伴指向的一位女性朋友",
+    "kind": "AI生成实物或动作示意"
+  },
+  "姐": {
+    "src": "/images/characters/59d0.webp",
+    "caption": "姐姐：年龄较长的女性手足",
+    "alt": "年长姐姐陪年幼手足阅读",
+    "kind": "AI生成实物或动作示意"
+  },
+  "妹": {
+    "src": "/images/characters/59b9.webp",
+    "caption": "妹妹：年龄较小的女性手足",
+    "alt": "年幼妹妹与年长手足一起拍照",
+    "kind": "AI生成实物或动作示意"
+  },
+  "如": {
+    "src": "/images/characters/5982.webp",
+    "caption": "如同：两个杯子的形状相似",
+    "alt": "放在一起便于比较的两个相似杯子",
+    "kind": "AI生成实物或动作示意"
+  },
+  "姓": {
+    "src": "/images/characters/59d3.webp",
+    "caption": "姓氏的情境：同一家族的成员",
+    "alt": "三代家庭成员共同看家庭相册",
+    "kind": "AI生成实物或动作示意"
+  },
+  "始": {
+    "src": "/images/characters/59cb.webp",
+    "caption": "开始：跑者即将起跑",
+    "alt": "跑者准备从起跑器开始比赛",
+    "kind": "AI生成实物或动作示意"
+  },
+  "红": {
+    "src": "/images/characters/7ea2.webp",
+    "caption": "红色丝束：用颜色理解“红”；工是声旁，图片不解释工。",
+    "alt": "红：红色的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "绿": {
+    "src": "/images/characters/7eff.webp",
+    "caption": "绿色丝绸：用颜色理解“绿”；录形右部不能按“记录”解释。",
+    "alt": "绿：绿色的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "级": {
+    "src": "/images/characters/7ea7.webp",
+    "caption": "三级台阶：现代“等级、级别”的意义示意，台阶不是该字古形。",
+    "alt": "级：等级；级别的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "结": {
+    "src": "/images/characters/7ed3.webp",
+    "caption": "双手把丝绳打成结：对应“打结”的动作。",
+    "alt": "结：打结；形成某种关系或结果的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "练": {
+    "src": "/images/characters/7ec3.webp",
+    "caption": "重复画圈练习：对应今天的“反复学习或训练”；古义炼丝另作说明。",
+    "alt": "练：反复学习或训练的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "组": {
+    "src": "/images/characters/7ec4.webp",
+    "caption": "三位学生组成一组：对应现代的“一组、组成”。",
+    "alt": "组：组成；一组的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "经": {
+    "src": "/images/characters/7ecf.webp",
+    "caption": "从拱门中经过：只示意“经过”里的经，其他词义按词语学习。",
+    "alt": "经：经过；经常等词中的经的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "细": {
+    "src": "/images/characters/7ec6.webp",
+    "caption": "细丝与粗绳对照：突出“细小”，田形右部不表示田地。",
+    "alt": "细：细小；细致的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "线": {
+    "src": "/images/characters/7ebf.webp",
+    "caption": "线轴拉出一根丝线：对应细长的线。",
+    "alt": "线：细长的丝或绳的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "续": {
+    "src": "/images/characters/7eed.webp",
+    "caption": "接起两段线：示意接续、继续；卖形右部不表示买卖。",
+    "alt": "续：接着；继续的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "纪": {
+    "src": "/images/characters/7eaa.webp",
+    "caption": "在本子上记下活动：示意现代“记录”义，己主要作声旁。",
+    "alt": "纪：纪年；记录等词中的纪的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "约": {
+    "src": "/images/characters/7ea6.webp",
+    "caption": "握手约定：示意“约定”，不直接解释“大约”的词义。",
+    "alt": "约：约定；大约的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "织": {
+    "src": "/images/characters/7ec7.webp",
+    "caption": "把纬线穿过经线，交织成布；看清织机、梭子和正在形成的布。",
+    "alt": "织：交错编成布或物品的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "给": {
+    "src": "/images/characters/7ed9.webp",
+    "caption": "把书交给另一人：对应“给予、交付”的动作。",
+    "alt": "给：交付；给予的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "绝": {
+    "src": "/images/characters/7edd.webp",
+    "caption": "剪断丝绳、两端分开：对应“断绝”，不直接解释所有绝的词义。",
+    "alt": "绝：断绝；绝对或拒绝中的绝的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "纸": {
+    "src": "/images/characters/7eb8.webp",
+    "caption": "轻薄的纤维纸张：对应可书写或印刷的材料。",
+    "alt": "纸：可书写或印刷的薄片材料的物体或动作参考",
+    "kind": "AI生成实物或动作示意"
+  },
+  "晴": {
+    "src": "/images/characters/6674.webp",
+    "caption": "晴天：天空少云、阳光明亮",
+    "alt": "少云的晴朗蓝天与日光下的草地",
+    "kind": "AI生成实物或动作示意"
+  },
+  "时": {
+    "src": "/images/characters/65f6.webp",
+    "caption": "沙漏帮助观察时间流逝",
+    "alt": "沙漏中的沙显示时间流逝",
+    "kind": "AI生成实物或动作示意"
+  },
+  "明": {
+    "src": "/images/characters/660e.webp",
+    "caption": "明亮：充足光线照进房间",
+    "alt": "窗光照亮整间房间的明亮场景",
+    "kind": "AI生成实物或动作示意"
+  },
+  "晚": {
+    "src": "/images/characters/665a.webp",
+    "caption": "傍晚：日落前后的光线",
+    "alt": "太阳将落时的傍晚河岸",
+    "kind": "AI生成实物或动作示意"
+  },
+  "昨": {
+    "src": "/images/characters/6628.webp",
+    "caption": "昨天：用已经过去的野餐作时间情境，需结合文字理解",
+    "alt": "已经结束的一天留下的野餐痕迹",
+    "kind": "AI生成实物或动作示意"
+  },
+  "晒": {
+    "src": "/images/characters/6652.webp",
+    "caption": "晒：让衣物受到阳光照射",
+    "alt": "挂在阳光下晾晒的白衬衫",
+    "kind": "AI生成实物或动作示意"
+  },
+  "睛": {
+    "src": "/images/characters/775b.webp",
+    "caption": "睛：突出眼珠、瞳孔与虹膜",
+    "alt": "清楚显示瞳孔和虹膜的眼睛特写",
+    "kind": "AI生成实物或动作示意"
+  },
+  "眼": {
+    "src": "/images/characters/773c.webp",
+    "caption": "眼：人的双眼与眼部轮廓",
+    "alt": "可以看清双眼的成人面部局部",
+    "kind": "AI生成实物或动作示意"
+  },
+  "睡": {
+    "src": "/images/characters/7761.webp",
+    "caption": "睡：闭眼进入睡眠",
+    "alt": "在床上安静入睡的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "胖": {
+    "src": "/images/characters/80d6.webp",
+    "caption": "胖：描述体型，图片保持尊重",
+    "alt": "体型丰盈的成人自然站立",
+    "kind": "AI生成实物或动作示意"
+  },
+  "肚": {
+    "src": "/images/characters/809a.webp",
+    "caption": "肚：双手指示腹部的位置",
+    "alt": "衣着整齐的人轻放手于腹部",
+    "kind": "AI生成实物或动作示意"
+  },
+  "脸": {
+    "src": "/images/characters/8138.webp",
+    "caption": "脸：从额头到下巴的面部",
+    "alt": "清楚显示完整脸部的正面肖像",
+    "kind": "AI生成实物或动作示意"
+  },
+  "腿": {
+    "src": "/images/characters/817f.webp",
+    "caption": "腿：人体下肢与行走",
+    "alt": "走路时可以看清双腿的局部",
+    "kind": "AI生成实物或动作示意"
+  },
+  "脏": {
+    "src": "/images/characters/810f.webp",
+    "caption": "脏 zāng：手和衣袖沾上泥土，不干净",
+    "alt": "沾满泥土的手和衣袖",
+    "kind": "AI生成实物或动作示意"
+  },
+  "地": {
+    "src": "/images/characters/5730.webp",
+    "caption": "地：脚下的土地和地面",
+    "alt": "脚边坚实的泥土地面",
+    "kind": "AI生成实物或动作示意"
+  },
+  "坏": {
+    "src": "/images/characters/574f.webp",
+    "caption": "坏：物品损坏，不能按原样使用",
+    "alt": "杯柄断裂的损坏瓷杯",
+    "kind": "AI生成实物或动作示意"
+  },
+  "城": {
+    "src": "/images/characters/57ce.webp",
+    "caption": "城：城墙、城门及城内建筑",
+    "alt": "有古城墙和城门的城市远景",
+    "kind": "AI生成实物或动作示意"
+  },
+  "块": {
+    "src": "/images/characters/5757.webp",
+    "caption": "块：可以单独分开的成块物体",
+    "alt": "彼此分开的三块方形泥土块",
+    "kind": "AI生成实物或动作示意"
+  },
+  "钱": {
+    "src": "/images/characters/94b1.webp",
+    "caption": "货币：叠起的硬币和储钱罐。",
+    "alt": "钱：储钱罐旁的硬币",
+    "kind": "AI生成实物或动作示意"
+  },
+  "铁": {
+    "src": "/images/characters/94c1.webp",
+    "caption": "铁：原色铁条和铁块，常见的坚硬金属。",
+    "alt": "铁：灰黑色铁块和铁条",
+    "kind": "AI生成实物或动作示意"
+  },
+  "银": {
+    "src": "/images/characters/94f6.webp",
+    "caption": "银：银白色的金属，抛光银锭。",
+    "alt": "银：抛光的银白色金属锭",
+    "kind": "AI生成实物或动作示意"
+  },
+  "镜": {
+    "src": "/images/characters/955c.webp",
+    "caption": "镜：光滑镜面映出面前的树枝。",
+    "alt": "镜：映出一片绿叶的圆镜",
+    "kind": "AI生成实物或动作示意"
+  },
+  "错": {
+    "src": "/images/characters/9519.webp",
+    "caption": "错：方形积木放不进圆孔，表示搭配不正确。",
+    "alt": "错：方块与圆孔不匹配",
+    "kind": "AI生成实物或动作示意"
+  },
+  "针": {
+    "src": "/images/characters/9488.webp",
+    "caption": "针：细长尖锐、有针眼的缝纫工具。",
+    "alt": "针：穿着细线的缝纫针",
+    "kind": "AI生成实物或动作示意"
+  },
+  "饭": {
+    "src": "/images/characters/996d.webp",
+    "caption": "饭：一碗热米饭。",
+    "alt": "饭：瓷碗中的米饭",
+    "kind": "AI生成实物或动作示意"
+  },
+  "饼": {
+    "src": "/images/characters/997c.webp",
+    "caption": "饼：扁圆形的烙饼。",
+    "alt": "饼：金黄扁圆的面饼",
+    "kind": "AI生成实物或动作示意"
+  },
+  "饺": {
+    "src": "/images/characters/997a.webp",
+    "caption": "饺：饺子的折叠面皮包着馅。",
+    "alt": "饺：一盘有褶子的饺子",
+    "kind": "AI生成实物或动作示意"
+  },
+  "馆": {
+    "src": "/images/characters/9986.webp",
+    "caption": "馆：这里用饭馆的用餐空间作例子。",
+    "alt": "馆：供人用餐的饭馆",
+    "kind": "AI生成实物或动作示意"
+  },
+  "饿": {
+    "src": "/images/characters/997f.webp",
+    "caption": "饿：碗里没有食物，人想吃东西。",
+    "alt": "饿：看着空碗、手放腹部的学习者",
+    "kind": "AI生成实物或动作示意"
+  },
+  "饱": {
+    "src": "/images/characters/9971.webp",
+    "caption": "饱：吃过一餐后满足地放下筷子。",
+    "alt": "饱：吃完后满足地靠坐的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "猫": {
+    "src": "/images/characters/732b.webp",
+    "caption": "猫：家猫的体形和毛发。",
+    "alt": "猫：坐着的橘白家猫",
+    "kind": "AI生成实物或动作示意"
+  },
+  "狗": {
+    "src": "/images/characters/72d7.webp",
+    "caption": "狗：家犬的体形、耳朵和尾巴。",
+    "alt": "狗：草地上的家犬",
+    "kind": "AI生成实物或动作示意"
+  },
+  "猪": {
+    "src": "/images/characters/732a.webp",
+    "caption": "猪：常见的家畜，圆鼻盘很明显。",
+    "alt": "猪：农场里的粉色家猪",
+    "kind": "AI生成实物或动作示意"
+  },
+  "猜": {
+    "src": "/images/characters/731c.webp",
+    "caption": "猜：玩找小球的游戏，根据线索推测。",
+    "alt": "猜：猜小球藏在哪个杯子下",
+    "kind": "AI生成实物或动作示意"
+  },
+  "冰": {
+    "src": "/images/characters/51b0.webp",
+    "caption": "冰：水凝固成透明冰块。",
+    "alt": "冰：透明的冰块",
+    "kind": "AI生成实物或动作示意"
+  },
+  "冷": {
+    "src": "/images/characters/51b7.webp",
+    "caption": "冷：穿厚衣的人在寒风中缩起身体。",
+    "alt": "冷：冬天裹紧围巾的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "冻": {
+    "src": "/images/characters/51bb.webp",
+    "caption": "冻：桶里的水结成了冰。",
+    "alt": "冻：室外水桶中冻结的水",
+    "kind": "AI生成实物或动作示意"
+  },
+  "净": {
+    "src": "/images/characters/51c0.webp",
+    "caption": "净：洗过的玻璃和干净台面。",
+    "alt": "净：清洗后透亮的玻璃杯",
+    "kind": "AI生成实物或动作示意"
+  },
+  "凉": {
+    "src": "/images/characters/51c9.webp",
+    "caption": "凉：扇子带来舒适的凉意。",
+    "alt": "凉：树荫下扇扇子纳凉的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "灯": {
+    "src": "/images/characters/706f.webp",
+    "caption": "灯：发光照明的台灯。",
+    "alt": "灯：点亮的台灯",
+    "kind": "AI生成实物或动作示意"
+  },
+  "炒": {
+    "src": "/images/characters/7092.webp",
+    "caption": "炒：锅中用少量油翻动蔬菜。",
+    "alt": "炒：用锅铲翻炒蔬菜",
+    "kind": "AI生成实物或动作示意"
+  },
+  "烧": {
+    "src": "/images/characters/70e7.webp",
+    "caption": "烧：木柴正在燃烧。",
+    "alt": "烧：炉中燃烧的木柴",
+    "kind": "AI生成实物或动作示意"
+  },
+  "烤": {
+    "src": "/images/characters/70e4.webp",
+    "caption": "烤：食物在烤箱里受热变金黄。",
+    "alt": "烤：烤箱中正在烘烤的面包",
+    "kind": "AI生成实物或动作示意"
+  },
+  "烟": {
+    "src": "/images/characters/70df.webp",
+    "caption": "烟：木材燃烧后升起灰色烟雾。",
+    "alt": "烟：余烬上方升起的烟",
+    "kind": "AI生成实物或动作示意"
+  },
+  "精": {
+    "src": "/images/characters/7cbe.webp",
+    "caption": "精：这里用精细调整小零件来说明“细致”。",
+    "alt": "精：用镊子精细调整齿轮",
+    "kind": "AI生成实物或动作示意"
+  },
+  "料": {
+    "src": "/images/characters/6599.webp",
+    "caption": "料：准备烹饪的原料，是材料的一种。",
+    "alt": "料：备好的蔬菜等烹饪原料",
+    "kind": "AI生成实物或动作示意"
+  },
+  "粗": {
+    "src": "/images/characters/7c97.webp",
+    "caption": "粗：粗麻布的纤维厚而不细。",
+    "alt": "粗：粗糙的麻布纤维",
+    "kind": "AI生成实物或动作示意"
+  },
+  "糖": {
+    "src": "/images/characters/7cd6.webp",
+    "caption": "糖：方糖和白砂糖。",
+    "alt": "糖：白砂糖和方糖",
+    "kind": "AI生成实物或动作示意"
+  },
+  "视": {
+    "src": "/images/characters/89c6.webp",
+    "caption": "视：通过双筒望远镜向远处看。",
+    "alt": "视：举起望远镜观看的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "祝": {
+    "src": "/images/characters/795d.webp",
+    "caption": "祝：生日时许下祝愿。",
+    "alt": "祝：生日蜡烛前许愿的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "神": {
+    "src": "/images/characters/795e.webp",
+    "caption": "神：寺庙中的神像，用于说明神灵这一义项。",
+    "alt": "神：寺庙中供奉的神像",
+    "kind": "AI生成实物或动作示意"
+  },
+  "社": {
+    "src": "/images/characters/793e.webp",
+    "caption": "社：社区成员共同种植，表示社会中的协作。",
+    "alt": "社：社区居民合作种花",
+    "kind": "AI生成实物或动作示意"
+  },
+  "被": {
+    "src": "/images/characters/88ab.webp",
+    "caption": "被：床上蓬松的被子。",
+    "alt": "被：铺在床上的厚被子",
+    "kind": "AI生成实物或动作示意"
+  },
+  "裙": {
+    "src": "/images/characters/88d9.webp",
+    "caption": "裙：下摆展开的裙子。",
+    "alt": "裙：挂着的一条裙子",
+    "kind": "AI生成实物或动作示意"
+  },
+  "裤": {
+    "src": "/images/characters/88e4.webp",
+    "caption": "裤：有两条裤腿的裤子。",
+    "alt": "裤：完整展开的牛仔裤",
+    "kind": "AI生成实物或动作示意"
+  },
+  "初": {
+    "src": "/images/characters/521d.webp",
+    "caption": "初：开始裁布的第一剪，画面说明开始这个意思。",
+    "alt": "初：裁缝开始剪开一整块布",
+    "kind": "AI生成实物或动作示意"
+  },
+  "路": {
+    "src": "/images/characters/8def.webp",
+    "caption": "路：可以通行的道路。",
+    "alt": "路：延伸到远处的道路",
+    "kind": "AI生成实物或动作示意"
+  },
+  "跑": {
+    "src": "/images/characters/8dd1.webp",
+    "caption": "跑：人的双腿交替向前奔跑。",
+    "alt": "跑：正在慢跑的运动者",
+    "kind": "AI生成实物或动作示意"
+  },
+  "跳": {
+    "src": "/images/characters/8df3.webp",
+    "caption": "跳：跃起时双脚离开地面。",
+    "alt": "跳：双脚离地跃过小水洼的人",
+    "kind": "AI生成实物或动作示意"
+  },
+  "踢": {
+    "src": "/images/characters/8e22.webp",
+    "caption": "踢：用脚踢球。",
+    "alt": "踢：鞋尖正踢向足球",
+    "kind": "AI生成实物或动作示意"
+  },
+  "理": {
+    "src": "/images/characters/7406.webp",
+    "caption": "理：整理书本，使物品有条理。",
+    "alt": "理：把书本整理整齐的手",
+    "kind": "AI生成实物或动作示意"
+  },
+  "玩": {
+    "src": "/images/characters/73a9.webp",
+    "caption": "玩：孩子玩玩具。",
+    "alt": "玩：坐在地毯上玩积木的孩子",
+    "kind": "AI生成实物或动作示意"
+  },
+  "球": {
+    "src": "/images/characters/7403.webp",
+    "caption": "球：圆球形的运动用具。",
+    "alt": "球：一只篮球",
+    "kind": "AI生成实物或动作示意"
+  },
+  "现": {
+    "src": "/images/characters/73b0.webp",
+    "caption": "现：揭开布后，物品显现出来。",
+    "alt": "现：手揭开布显露一只花瓶",
+    "kind": "AI生成实物或动作示意"
+  },
+  "蛇": {
+    "src": "/images/characters/86c7.webp",
+    "caption": "蛇：没有腿、身体细长的爬行动物。",
+    "alt": "蛇：盘在石头上的绿蛇",
+    "kind": "AI生成实物或动作示意"
+  },
+  "蝴": {
+    "src": "/images/characters/8774.webp",
+    "caption": "蝴：蝴蝶张开有花纹的翅膀。",
+    "alt": "蝴：停在花上的蝴蝶",
+    "kind": "AI生成实物或动作示意"
+  },
+  "蚁": {
+    "src": "/images/characters/8681.webp",
+    "caption": "蚁：蚂蚁搬运一小块食物。",
+    "alt": "蚁：搬着面包屑的蚂蚁",
+    "kind": "AI生成实物或动作示意"
+  },
+  "蚊": {
+    "src": "/images/characters/868a.webp",
+    "caption": "蚊：细脚、长口器的蚊子。",
+    "alt": "蚊：停在绿叶上的蚊子",
+    "kind": "AI生成实物或动作示意"
+  },
+  "转": {
+    "src": "/images/characters/8f6c.webp",
+    "caption": "转：转动把手，改变它的方向。",
+    "alt": "转：手正在转动圆门把手",
+    "kind": "AI生成实物或动作示意"
+  },
+  "轮": {
+    "src": "/images/characters/8f6e.webp",
+    "caption": "轮：车轮的外圈、轮辐和中心轴。",
+    "alt": "轮：一只完整的自行车车轮",
+    "kind": "AI生成实物或动作示意"
+  },
+  "辆": {
+    "src": "/images/characters/8f86.webp",
+    "caption": "辆：数汽车时用的量词，如三辆车。",
+    "alt": "辆：整齐停着的三辆汽车",
+    "kind": "AI生成实物或动作示意"
+  },
+  "软": {
+    "src": "/images/characters/8f6f.webp",
+    "caption": "软：海绵被手指按下后变形。",
+    "alt": "软：被手指按凹的海绵",
+    "kind": "AI生成实物或动作示意"
+  },
+  "破": {
+    "src": "/images/characters/7834.webp",
+    "caption": "破：石板断裂，成为几块。",
+    "alt": "破：碎裂成几块的石板",
+    "kind": "AI生成实物或动作示意"
+  },
+  "硬": {
+    "src": "/images/characters/786c.webp",
+    "caption": "硬：石头不易变形，与旁边柔软海绵作比较。",
+    "alt": "硬：手指按着不变形的石块",
+    "kind": "AI生成实物或动作示意"
+  },
+  "矿": {
+    "src": "/images/characters/77ff.webp",
+    "caption": "矿：含矿物的矿石。",
+    "alt": "矿：带绿色铜矿脉的矿石",
+    "kind": "AI生成实物或动作示意"
+  },
+  "码": {
+    "src": "/images/characters/7801.webp",
+    "caption": "码：包装上的条码，是代码的一种。",
+    "alt": "码：纸盒上的无文字条码",
+    "kind": "AI生成实物或动作示意"
+  },
+  "汗": {
+    "src": "/images/restored-new/6c57.jpg",
+    "caption": "汗珠",
+    "alt": "运动后额头上的汗珠，表现现代字义“汗”。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "流": {
+    "src": "/images/restored-new/6d41.jpg",
+    "caption": "流动的水",
+    "alt": "水从壶口连续流入杯中，表现“流动”，不是该字的字源证据。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "池": {
+    "src": "/images/restored-new/6c60.jpg",
+    "caption": "池塘",
+    "alt": "边岸清楚的小池塘，表现现代字义“池”。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "泥": {
+    "src": "/images/restored-new/6ce5.jpg",
+    "caption": "湿泥",
+    "alt": "雨靴与湿泥土的近景，表现现代字义“泥”。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "吹": {
+    "src": "/images/restored-new/5439.jpg",
+    "caption": "吹风车",
+    "alt": "真人向纸风车吹气，表现现代动作“吹”。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "咳": {
+    "src": "/images/restored-new/54b3.jpg",
+    "caption": "咳嗽",
+    "alt": "真人屈肘遮挡咳嗽，表现“咳 ké”的现代义，不用于“咳 hāi”叹词。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "桃": {
+    "src": "/images/restored-new/6843.jpg",
+    "caption": "桃子",
+    "alt": "完整桃果与剖开的桃子，表现桃果实。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "柳": {
+    "src": "/images/restored-new/67f3.jpg",
+    "caption": "柳树",
+    "alt": "下垂细枝与狭长叶片清楚的柳树。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "坡": {
+    "src": "/images/restored-new/5761.jpg",
+    "caption": "斜坡",
+    "alt": "侧面可见坡度的草坡与向上延伸的小路。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "塔": {
+    "src": "/images/restored-new/5854.jpg",
+    "caption": "多层塔",
+    "alt": "完整的多层砖石塔，表现塔形建筑。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "铃": {
+    "src": "/images/restored-new/94c3.jpg",
+    "caption": "手铃",
+    "alt": "带手柄、铃口及铃舌的小型金属铃，不当作钟表。",
+    "kind": "AI生成实物或动作示意"
+  },
+  "饮": {
+    "src": "/images/restored-new/996e.jpg",
+    "caption": "饮水",
+    "alt": "真人正用玻璃杯喝清水，表现“饮 yǐn”的现代义。",
+    "kind": "AI生成实物或动作示意"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "version": "18.0.0",
+  "sources": {
+    "unihan": {
+      "title": "Unicode 18.0.0 Unihan kRSUnicode",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/Unihan.zip",
+      "archiveSha256": "4c93ea9c1f636451729a840978f1667a53886af37ba854fdcce109721c63d43e",
+      "archiveBytes": 8340649,
+      "archiveMember": "Unihan_IRGSources.txt",
+      "memberSha256": "e2c484cd22b54f7e0ce896ebb02f33e092b92325accf0fd55e0e14e3863869eb",
+      "memberBytes": 13379351,
+      "property": "kRSUnicode",
+      "exportPath": "/sources/unicode18/Unihan_kRSUnicode.txt",
+      "exportSha256": "10ba7c97f0a4648ecf90af5a15effb609654e97f360d468ff4e62cbc664ecd72",
+      "exportRows": 102999
+    },
+    "cjkRadicals": {
+      "title": "Unicode 18.0.0 CJKRadicals.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/CJKRadicals.txt",
+      "sha256": "689e2e5852699e7115823dc0b6d3e615eb767c7f477b615678f4f989d1f06105",
+      "bytes": 5491,
+      "localPath": "/sources/unicode18/CJKRadicals.txt"
+    },
+    "documentation": {
+      "title": "UAX #38, Unicode Han Database (Unihan), Revision 41",
+      "url": "https://www.unicode.org/reports/tr38/tr38-41.html"
+    },
+    "crossCheck": {
+      "title": "Unicode 18.0.0 Radical-Stroke Index Collation Data",
+      "url": "https://www.unicode.org/Public/18.0.0/charts/RSIndex.txt",
+      "sha256": "57430287e03c56b3fdc8ad0c3324490b6688abf330c988ff43dd772df3eac128",
+      "bytes": 1265937,
+      "policy": "All indexed character values cross-checked; negative residues normalized to zero only for the collation comparison, as documented in UAX #38 section 2.1.2."
+    },
+    "license": {
+      "title": "Unicode License V3",
+      "url": "https://www.unicode.org/license.txt",
+      "sha256": "e7a93b009565cfce55919a381437ac4db883e9da2126fa28b91d12732bc53d96",
+      "localPath": "/sources/unicode18/Unicode-LICENSE.txt"
+    }
+  },
+  "inputs": {
+    "officialVocabularySha256": "e4e4586656732044900208042050cb45643b9b2db8479f5ea76718eb8034735a",
+    "legacyVocabularySha256": "931fcb2471f101e1e624d56827d1866ecdd63d3a5e719d23c8afb322124ec6c8"
+  },
+  "classification": "Kangxi 214 numbering; not a Chinese national-standard 201-radical list",
+  "groupPolicy": "Group by base radical number, retaining all kRSUnicode assignments and source variant values in the audit.",
+  "wordPolicy": "A word is indexed under each dictionary radical assigned to any of its characters. Cross-group overlap is intentional.",
+  "formPolicy": "Chinese simplified standalone form is displayed only when the source variant occurs in the indexed vocabulary; otherwise the CJKRadicals base form is used.",
+  "noInference": "Dictionary lookup classification is not proof of etymology, semantic role, phonetic role, or a valid component-combination game rule.",
+  "coverage": {
+    "officialEntries": 11000,
+    "officialCharacters": 3088,
+    "coveredCharacters": 3088,
+    "missing": [],
+    "indexedOfficialEntries": 11000,
+    "groupCount": 206,
+    "multipleRadicalCharacters": 70,
+    "simplifiedRadicalVariantCount": 24,
+    "legacyEntries": 2500,
+    "legacyCharacters": 1685,
+    "legacyCoveredCharacters": 1685,
+    "legacyOnlyCharacters": [
+      "桔"
+    ],
+    "allCharacters": 3089,
+    "allCoveredCharacters": 3089,
+    "illustratedFamilies": 26,
+    "additionalDictionaryGroups": 180,
+    "illustratedRadicalNumbers": [
+      9,
+      15,
+      30,
+      32,
+      38,
+      61,
+      64,
+      72,
+      75,
+      85,
+      86,
+      94,
+      96,
+      109,
+      112,
+      113,
+      119,
+      120,
+      130,
+      142,
+      145,
+      149,
+      157,
+      159,
+      167,
+      184
+    ],
+    "unusedKangxiRadicalNumbers": [
+      45,
+      179,
+      191,
+      192,
+      193,
+      204,
+      205,
+      214
+    ],
+    "officialLevelStats": [
+      {
+        "level": 1,
+        "entries": 300,
+        "characters": 248,
+        "groupCount": 97
+      },
+      {
+        "level": 2,
+        "entries": 200,
+        "characters": 200,
+        "groupCount": 96
+      },
+      {
+        "level": 3,
+        "entries": 500,
+        "characters": 480,
+        "groupCount": 145
+      },
+      {
+        "level": 4,
+        "entries": 1000,
+        "characters": 803,
+        "groupCount": 165
+      },
+      {
+        "level": 5,
+        "entries": 1600,
+        "characters": 1130,
+        "groupCount": 181
+      },
+      {
+        "level": 6,
+        "entries": 1800,
+        "characters": 1342,
+        "groupCount": 178
+      },
+      {
+        "level": 7,
+        "entries": 5600,
+        "characters": 2745,
+        "groupCount": 204
+      }
+    ]
+  }
+}

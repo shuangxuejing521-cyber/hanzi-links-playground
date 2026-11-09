@@ -1,0 +1,20 @@
+Unicode 18.0.0 dictionary radical index
+Copyright © 2026 Unicode, Inc.
+Unicode and the Unicode Logo are registered trademarks of Unicode, Inc.
+Distributed under the Unicode License V3. See Unicode-LICENSE.txt.
+
+CJKRadicals.txt is copied verbatim from the official Unicode 18.0.0 UCD.
+Unihan_kRSUnicode.txt preserves the source header and every kRSUnicode line
+from Unihan_IRGSources.txt, with other property lines omitted.
+character-radicals-audit.json is the relevant vocabulary subset with all
+original kRSUnicode values, including simplified variants and multiple
+classifications. See provenance.json for source URLs and SHA-256 hashes.
+
+This is a dictionary lookup index using Kangxi 214 radical numbering.
+It is not an etymological analysis or the modern Chinese 201-radical standard.
+月 (74) and 肉 (130), and 阜 (170) and 邑 (163), remain distinct.
+All source lookup assignments are retained; no historical images, semantic
+functions, phonetics, or component-combination rules are inferred.
+Existing illustrated families and combination cards are not altered.
+
+사전 부수는 한자를 찾기 위한 분류입니다. 글자의 뜻이나 자원 풀이와 다를 수 있어요.

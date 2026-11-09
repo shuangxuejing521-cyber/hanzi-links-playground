@@ -1,0 +1,1273 @@
+[
+  {
+    "key": "oil",
+    "characters": [
+      "油"
+    ],
+    "meaningZh": "油脂；食用油或燃油"
+  },
+  {
+    "key": "swim",
+    "characters": [
+      "泳"
+    ],
+    "meaningZh": "游泳；在水中活动"
+  },
+  {
+    "key": "clear",
+    "characters": [
+      "清"
+    ],
+    "meaningZh": "清澈；清楚"
+  },
+  {
+    "key": "river",
+    "characters": [
+      "河"
+    ],
+    "meaningZh": "河流"
+  },
+  {
+    "key": "sea",
+    "characters": [
+      "海"
+    ],
+    "meaningZh": "海洋；大海"
+  },
+  {
+    "key": "ocean",
+    "characters": [
+      "洋"
+    ],
+    "meaningZh": "海洋；广大水域"
+  },
+  {
+    "key": "wash",
+    "characters": [
+      "洗"
+    ],
+    "meaningZh": "用水等去掉污物"
+  },
+  {
+    "key": "sand",
+    "characters": [
+      "沙"
+    ],
+    "meaningZh": "细小石粒"
+  },
+  {
+    "key": "chinese",
+    "characters": [
+      "汉"
+    ],
+    "meaningZh": "汉族；汉语中的汉"
+  },
+  {
+    "key": "wine",
+    "characters": [
+      "酒"
+    ],
+    "meaningZh": "含酒精的饮料"
+  },
+  {
+    "key": "steam",
+    "characters": [
+      "汽"
+    ],
+    "meaningZh": "蒸汽；汽油中的汽"
+  },
+  {
+    "key": "tear",
+    "characters": [
+      "泪"
+    ],
+    "meaningZh": "眼泪"
+  },
+  {
+    "key": "lake",
+    "characters": [
+      "湖"
+    ],
+    "meaningZh": "陆地中的大片水域"
+  },
+  {
+    "key": "wave",
+    "characters": [
+      "波"
+    ],
+    "meaningZh": "水面起伏的波纹"
+  },
+  {
+    "key": "rest",
+    "characters": [
+      "休"
+    ],
+    "meaningZh": "休息；停止工作"
+  },
+  {
+    "key": "you",
+    "characters": [
+      "你"
+    ],
+    "meaningZh": "称呼对方"
+  },
+  {
+    "key": "he",
+    "characters": [
+      "他"
+    ],
+    "meaningZh": "指男性第三人称"
+  },
+  {
+    "key": "people",
+    "characters": [
+      "们"
+    ],
+    "meaningZh": "表示人的复数"
+  },
+  {
+    "key": "live",
+    "characters": [
+      "住"
+    ],
+    "meaningZh": "居住；停留"
+  },
+  {
+    "key": "work",
+    "characters": [
+      "作"
+    ],
+    "meaningZh": "做；进行活动"
+  },
+  {
+    "key": "body",
+    "characters": [
+      "体"
+    ],
+    "meaningZh": "身体；体格"
+  },
+  {
+    "key": "letter",
+    "characters": [
+      "信"
+    ],
+    "meaningZh": "信件；相信"
+  },
+  {
+    "key": "borrow",
+    "characters": [
+      "借"
+    ],
+    "meaningZh": "暂时取用或给人使用"
+  },
+  {
+    "key": "place",
+    "characters": [
+      "位"
+    ],
+    "meaningZh": "位置；人的量词"
+  },
+  {
+    "key": "turning-point",
+    "characters": [
+      "但"
+    ],
+    "meaningZh": "但是；表示转折"
+  },
+  {
+    "key": "partner",
+    "characters": [
+      "伴"
+    ],
+    "meaningZh": "同伴；陪伴"
+  },
+  {
+    "key": "firewood",
+    "characters": [
+      "伙"
+    ],
+    "meaningZh": "伙伴；共同的人"
+  },
+  {
+    "key": "hit",
+    "characters": [
+      "打"
+    ],
+    "meaningZh": "击打；做某种动作"
+  },
+  {
+    "key": "hold",
+    "characters": [
+      "把"
+    ],
+    "meaningZh": "握住；把字句的把"
+  },
+  {
+    "key": "pull",
+    "characters": [
+      "拉"
+    ],
+    "meaningZh": "向自己方向用力"
+  },
+  {
+    "key": "push",
+    "characters": [
+      "推"
+    ],
+    "meaningZh": "向外用力"
+  },
+  {
+    "key": "find",
+    "characters": [
+      "找"
+    ],
+    "meaningZh": "寻找"
+  },
+  {
+    "key": "clap",
+    "characters": [
+      "拍"
+    ],
+    "meaningZh": "拍打；拍照"
+  },
+  {
+    "key": "hug",
+    "characters": [
+      "抱"
+    ],
+    "meaningZh": "用手臂围住"
+  },
+  {
+    "key": "lift",
+    "characters": [
+      "提"
+    ],
+    "meaningZh": "用手向上拿"
+  },
+  {
+    "key": "eat",
+    "characters": [
+      "吃"
+    ],
+    "meaningZh": "把食物送入口中咽下"
+  },
+  {
+    "key": "drink",
+    "characters": [
+      "喝"
+    ],
+    "meaningZh": "饮用液体"
+  },
+  {
+    "key": "question",
+    "characters": [
+      "吗",
+      "呢"
+    ],
+    "meaningZh": "表示疑问的语气词"
+  },
+  {
+    "key": "suggestion",
+    "characters": [
+      "吧"
+    ],
+    "meaningZh": "表示建议等语气"
+  },
+  {
+    "key": "sing",
+    "characters": [
+      "唱"
+    ],
+    "meaningZh": "发声歌唱"
+  },
+  {
+    "key": "listen",
+    "characters": [
+      "听"
+    ],
+    "meaningZh": "用耳朵感受声音"
+  },
+  {
+    "key": "call",
+    "characters": [
+      "叫"
+    ],
+    "meaningZh": "呼叫；名字是"
+  },
+  {
+    "key": "forest",
+    "characters": [
+      "林"
+    ],
+    "meaningZh": "成片的树木"
+  },
+  {
+    "key": "tree",
+    "characters": [
+      "树"
+    ],
+    "meaningZh": "树木"
+  },
+  {
+    "key": "board",
+    "characters": [
+      "板"
+    ],
+    "meaningZh": "片状较硬的材料"
+  },
+  {
+    "key": "pine",
+    "characters": [
+      "松"
+    ],
+    "meaningZh": "松树；不紧"
+  },
+  {
+    "key": "bridge",
+    "characters": [
+      "桥"
+    ],
+    "meaningZh": "跨越水域或道路的建筑"
+  },
+  {
+    "key": "school",
+    "characters": [
+      "校"
+    ],
+    "meaningZh": "学校的校"
+  },
+  {
+    "key": "sample",
+    "characters": [
+      "样"
+    ],
+    "meaningZh": "样子；种类"
+  },
+  {
+    "key": "cup",
+    "characters": [
+      "杯"
+    ],
+    "meaningZh": "盛饮料的器具"
+  },
+  {
+    "key": "machine",
+    "characters": [
+      "机"
+    ],
+    "meaningZh": "机器；机会的机"
+  },
+  {
+    "key": "ask-politely",
+    "characters": [
+      "请"
+    ],
+    "meaningZh": "礼貌请求；邀请"
+  },
+  {
+    "key": "language",
+    "characters": [
+      "语"
+    ],
+    "meaningZh": "语言；话语"
+  },
+  {
+    "key": "speech",
+    "characters": [
+      "话"
+    ],
+    "meaningZh": "说出的话"
+  },
+  {
+    "key": "speak",
+    "characters": [
+      "说"
+    ],
+    "meaningZh": "说话；说明"
+  },
+  {
+    "key": "read",
+    "characters": [
+      "读"
+    ],
+    "meaningZh": "阅读；读出声音"
+  },
+  {
+    "key": "recognize",
+    "characters": [
+      "认"
+    ],
+    "meaningZh": "认出；认识"
+  },
+  {
+    "key": "explain",
+    "characters": [
+      "讲"
+    ],
+    "meaningZh": "讲述；讲解"
+  },
+  {
+    "key": "lesson",
+    "characters": [
+      "课"
+    ],
+    "meaningZh": "课程；教学时间"
+  },
+  {
+    "key": "write",
+    "characters": [
+      "记"
+    ],
+    "meaningZh": "记住；记录"
+  },
+  {
+    "key": "poem",
+    "characters": [
+      "诗"
+    ],
+    "meaningZh": "诗歌"
+  },
+  {
+    "key": "feeling",
+    "characters": [
+      "情"
+    ],
+    "meaningZh": "感情；情况"
+  },
+  {
+    "key": "fast",
+    "characters": [
+      "快"
+    ],
+    "meaningZh": "速度高；快乐"
+  },
+  {
+    "key": "busy",
+    "characters": [
+      "忙"
+    ],
+    "meaningZh": "事情多；没有空闲"
+  },
+  {
+    "key": "afraid",
+    "characters": [
+      "怕"
+    ],
+    "meaningZh": "害怕；担心"
+  },
+  {
+    "key": "personality",
+    "characters": [
+      "性"
+    ],
+    "meaningZh": "性质；性格"
+  },
+  {
+    "key": "strange",
+    "characters": [
+      "怪"
+    ],
+    "meaningZh": "奇怪；责怪"
+  },
+  {
+    "key": "understand",
+    "characters": [
+      "懂"
+    ],
+    "meaningZh": "明白；理解"
+  },
+  {
+    "key": "slow",
+    "characters": [
+      "慢"
+    ],
+    "meaningZh": "速度低"
+  },
+  {
+    "key": "surprised",
+    "characters": [
+      "惊"
+    ],
+    "meaningZh": "吃惊；受到惊动"
+  },
+  {
+    "key": "good",
+    "characters": [
+      "好"
+    ],
+    "meaningZh": "良好；使人满意"
+  },
+  {
+    "key": "mother",
+    "characters": [
+      "妈"
+    ],
+    "meaningZh": "妈妈；母亲"
+  },
+  {
+    "key": "she",
+    "characters": [
+      "她"
+    ],
+    "meaningZh": "指女性第三人称"
+  },
+  {
+    "key": "sister",
+    "characters": [
+      "姐"
+    ],
+    "meaningZh": "姐姐；年长的女性"
+  },
+  {
+    "key": "younger-sister",
+    "characters": [
+      "妹"
+    ],
+    "meaningZh": "妹妹；年幼的女性"
+  },
+  {
+    "key": "alike",
+    "characters": [
+      "如"
+    ],
+    "meaningZh": "如同；如果中的如"
+  },
+  {
+    "key": "family-name",
+    "characters": [
+      "姓"
+    ],
+    "meaningZh": "姓氏"
+  },
+  {
+    "key": "begin",
+    "characters": [
+      "始"
+    ],
+    "meaningZh": "开始"
+  },
+  {
+    "key": "red",
+    "characters": [
+      "红"
+    ],
+    "meaningZh": "红色"
+  },
+  {
+    "key": "green",
+    "characters": [
+      "绿"
+    ],
+    "meaningZh": "绿色"
+  },
+  {
+    "key": "level",
+    "characters": [
+      "级"
+    ],
+    "meaningZh": "等级；级别"
+  },
+  {
+    "key": "knot",
+    "characters": [
+      "结"
+    ],
+    "meaningZh": "打结；形成某种关系或结果"
+  },
+  {
+    "key": "practice",
+    "characters": [
+      "练"
+    ],
+    "meaningZh": "反复学习或训练"
+  },
+  {
+    "key": "group",
+    "characters": [
+      "组"
+    ],
+    "meaningZh": "组成；一组"
+  },
+  {
+    "key": "pass-through",
+    "characters": [
+      "经"
+    ],
+    "meaningZh": "经过；经常等词中的经"
+  },
+  {
+    "key": "thin",
+    "characters": [
+      "细"
+    ],
+    "meaningZh": "细小；细致"
+  },
+  {
+    "key": "thread",
+    "characters": [
+      "线"
+    ],
+    "meaningZh": "细长的丝或绳"
+  },
+  {
+    "key": "continue",
+    "characters": [
+      "续"
+    ],
+    "meaningZh": "接着；继续"
+  },
+  {
+    "key": "calendar",
+    "characters": [
+      "纪"
+    ],
+    "meaningZh": "纪年；记录等词中的纪"
+  },
+  {
+    "key": "appointment",
+    "characters": [
+      "约"
+    ],
+    "meaningZh": "约定；大约"
+  },
+  {
+    "key": "weave",
+    "characters": [
+      "织"
+    ],
+    "meaningZh": "交错编成布或物品"
+  },
+  {
+    "key": "give",
+    "characters": [
+      "给"
+    ],
+    "meaningZh": "交付；给予"
+  },
+  {
+    "key": "cut-thread",
+    "characters": [
+      "绝"
+    ],
+    "meaningZh": "断绝；绝对或拒绝中的绝"
+  },
+  {
+    "key": "paper",
+    "characters": [
+      "纸"
+    ],
+    "meaningZh": "可书写或印刷的薄片材料"
+  },
+  {
+    "key": "sunny",
+    "characters": [
+      "晴"
+    ],
+    "meaningZh": "天空少云或无云"
+  },
+  {
+    "key": "time",
+    "characters": [
+      "时"
+    ],
+    "meaningZh": "时间；时刻"
+  },
+  {
+    "key": "bright",
+    "characters": [
+      "明"
+    ],
+    "meaningZh": "明亮；明白"
+  },
+  {
+    "key": "evening",
+    "characters": [
+      "晚"
+    ],
+    "meaningZh": "傍晚；时间较迟"
+  },
+  {
+    "key": "yesterday",
+    "characters": [
+      "昨"
+    ],
+    "meaningZh": "昨天；前一天"
+  },
+  {
+    "key": "sun-dry",
+    "characters": [
+      "晒"
+    ],
+    "meaningZh": "让阳光照射"
+  },
+  {
+    "key": "eye",
+    "characters": [
+      "睛"
+    ],
+    "meaningZh": "眼睛中的睛"
+  },
+  {
+    "key": "eyes",
+    "characters": [
+      "眼"
+    ],
+    "meaningZh": "眼睛"
+  },
+  {
+    "key": "sleep",
+    "characters": [
+      "睡"
+    ],
+    "meaningZh": "睡觉"
+  },
+  {
+    "key": "plump",
+    "characters": [
+      "胖"
+    ],
+    "meaningZh": "身体脂肪较多"
+  },
+  {
+    "key": "belly",
+    "characters": [
+      "肚"
+    ],
+    "meaningZh": "腹部；肚子"
+  },
+  {
+    "key": "face",
+    "characters": [
+      "脸"
+    ],
+    "meaningZh": "面部"
+  },
+  {
+    "key": "leg",
+    "characters": [
+      "腿"
+    ],
+    "meaningZh": "人体下肢"
+  },
+  {
+    "key": "dirty",
+    "characters": [
+      "脏"
+    ],
+    "meaningZh": "不干净"
+  },
+  {
+    "key": "earth",
+    "characters": [
+      "地"
+    ],
+    "meaningZh": "地面；土地"
+  },
+  {
+    "key": "broken",
+    "characters": [
+      "坏"
+    ],
+    "meaningZh": "不好；损坏"
+  },
+  {
+    "key": "city",
+    "characters": [
+      "城"
+    ],
+    "meaningZh": "城市"
+  },
+  {
+    "key": "block",
+    "characters": [
+      "块"
+    ],
+    "meaningZh": "成块的东西；量词"
+  },
+  {
+    "key": "money",
+    "characters": [
+      "钱"
+    ],
+    "meaningZh": "货币"
+  },
+  {
+    "key": "iron",
+    "characters": [
+      "铁"
+    ],
+    "meaningZh": "一种常见金属"
+  },
+  {
+    "key": "silver",
+    "characters": [
+      "银"
+    ],
+    "meaningZh": "一种银白色金属"
+  },
+  {
+    "key": "mirror",
+    "characters": [
+      "镜"
+    ],
+    "meaningZh": "可以映像的器具"
+  },
+  {
+    "key": "wrong",
+    "characters": [
+      "错"
+    ],
+    "meaningZh": "错误；不正确"
+  },
+  {
+    "key": "needle",
+    "characters": [
+      "针"
+    ],
+    "meaningZh": "细长而尖的工具"
+  },
+  {
+    "key": "meal",
+    "characters": [
+      "饭"
+    ],
+    "meaningZh": "米饭；一餐食物"
+  },
+  {
+    "key": "pancake",
+    "characters": [
+      "饼"
+    ],
+    "meaningZh": "扁圆形面食等"
+  },
+  {
+    "key": "dumpling",
+    "characters": [
+      "饺"
+    ],
+    "meaningZh": "饺子中的饺"
+  },
+  {
+    "key": "restaurant",
+    "characters": [
+      "馆"
+    ],
+    "meaningZh": "供特定活动使用的场所"
+  },
+  {
+    "key": "hungry",
+    "characters": [
+      "饿"
+    ],
+    "meaningZh": "想吃东西；饥饿"
+  },
+  {
+    "key": "full",
+    "characters": [
+      "饱"
+    ],
+    "meaningZh": "吃够了；充足"
+  },
+  {
+    "key": "cat",
+    "characters": [
+      "猫"
+    ],
+    "meaningZh": "一种常见宠物"
+  },
+  {
+    "key": "dog",
+    "characters": [
+      "狗"
+    ],
+    "meaningZh": "一种常见宠物"
+  },
+  {
+    "key": "pig",
+    "characters": [
+      "猪"
+    ],
+    "meaningZh": "一种常见家畜"
+  },
+  {
+    "key": "guess",
+    "characters": [
+      "猜"
+    ],
+    "meaningZh": "根据线索推测"
+  },
+  {
+    "key": "ice",
+    "characters": [
+      "冰"
+    ],
+    "meaningZh": "水凝固形成的固体"
+  },
+  {
+    "key": "cold",
+    "characters": [
+      "冷"
+    ],
+    "meaningZh": "温度低；感到寒冷"
+  },
+  {
+    "key": "frozen",
+    "characters": [
+      "冻"
+    ],
+    "meaningZh": "受冷凝固；感到冷"
+  },
+  {
+    "key": "clean",
+    "characters": [
+      "净"
+    ],
+    "meaningZh": "干净；洁净"
+  },
+  {
+    "key": "cool",
+    "characters": [
+      "凉"
+    ],
+    "meaningZh": "温度较低而舒适"
+  },
+  {
+    "key": "lamp",
+    "characters": [
+      "灯"
+    ],
+    "meaningZh": "照明器具"
+  },
+  {
+    "key": "stir-fry",
+    "characters": [
+      "炒"
+    ],
+    "meaningZh": "用少量油翻动加热食物"
+  },
+  {
+    "key": "burn",
+    "characters": [
+      "烧"
+    ],
+    "meaningZh": "燃烧；加热烹饪"
+  },
+  {
+    "key": "roast",
+    "characters": [
+      "烤"
+    ],
+    "meaningZh": "用火或热气加热"
+  },
+  {
+    "key": "smoke",
+    "characters": [
+      "烟"
+    ],
+    "meaningZh": "燃烧时产生的气体和微粒；香烟"
+  },
+  {
+    "key": "energy",
+    "characters": [
+      "精"
+    ],
+    "meaningZh": "细致；精力或精神中的精"
+  },
+  {
+    "key": "ingredients",
+    "characters": [
+      "料"
+    ],
+    "meaningZh": "材料；原料"
+  },
+  {
+    "key": "coarse",
+    "characters": [
+      "粗"
+    ],
+    "meaningZh": "不细；不精细"
+  },
+  {
+    "key": "sugar",
+    "characters": [
+      "糖"
+    ],
+    "meaningZh": "有甜味的食品或物质"
+  },
+  {
+    "key": "look",
+    "characters": [
+      "视"
+    ],
+    "meaningZh": "看；视线"
+  },
+  {
+    "key": "blessing",
+    "characters": [
+      "祝"
+    ],
+    "meaningZh": "祝愿"
+  },
+  {
+    "key": "spirit",
+    "characters": [
+      "神"
+    ],
+    "meaningZh": "神灵；精神中的神"
+  },
+  {
+    "key": "community",
+    "characters": [
+      "社"
+    ],
+    "meaningZh": "社会；团体中的社"
+  },
+  {
+    "key": "quilt",
+    "characters": [
+      "被"
+    ],
+    "meaningZh": "被子；被动句的被"
+  },
+  {
+    "key": "skirt",
+    "characters": [
+      "裙"
+    ],
+    "meaningZh": "裙子"
+  },
+  {
+    "key": "trousers",
+    "characters": [
+      "裤"
+    ],
+    "meaningZh": "裤子"
+  },
+  {
+    "key": "first",
+    "characters": [
+      "初"
+    ],
+    "meaningZh": "最早；开始的"
+  },
+  {
+    "key": "road",
+    "characters": [
+      "路"
+    ],
+    "meaningZh": "道路"
+  },
+  {
+    "key": "run",
+    "characters": [
+      "跑"
+    ],
+    "meaningZh": "跑步"
+  },
+  {
+    "key": "jump",
+    "characters": [
+      "跳"
+    ],
+    "meaningZh": "向上或向前跃起"
+  },
+  {
+    "key": "kick",
+    "characters": [
+      "踢"
+    ],
+    "meaningZh": "用脚使劲触物"
+  },
+  {
+    "key": "organize",
+    "characters": [
+      "理"
+    ],
+    "meaningZh": "道理；管理"
+  },
+  {
+    "key": "play",
+    "characters": [
+      "玩"
+    ],
+    "meaningZh": "游戏；玩耍"
+  },
+  {
+    "key": "ball",
+    "characters": [
+      "球"
+    ],
+    "meaningZh": "球体；球类运动用具"
+  },
+  {
+    "key": "appear",
+    "characters": [
+      "现"
+    ],
+    "meaningZh": "出现；现在的现"
+  },
+  {
+    "key": "snake",
+    "characters": [
+      "蛇"
+    ],
+    "meaningZh": "一种无足的爬行动物"
+  },
+  {
+    "key": "butterfly",
+    "characters": [
+      "蝴"
+    ],
+    "meaningZh": "蝴蝶中的蝴"
+  },
+  {
+    "key": "ant",
+    "characters": [
+      "蚁"
+    ],
+    "meaningZh": "蚂蚁中的蚁"
+  },
+  {
+    "key": "mosquito",
+    "characters": [
+      "蚊"
+    ],
+    "meaningZh": "蚊子；一种昆虫"
+  },
+  {
+    "key": "turn",
+    "characters": [
+      "转"
+    ],
+    "meaningZh": "改变方向；转动"
+  },
+  {
+    "key": "wheel",
+    "characters": [
+      "轮"
+    ],
+    "meaningZh": "轮子"
+  },
+  {
+    "key": "vehicle",
+    "characters": [
+      "辆"
+    ],
+    "meaningZh": "车辆的量词"
+  },
+  {
+    "key": "soft",
+    "characters": [
+      "软"
+    ],
+    "meaningZh": "不硬；柔软"
+  },
+  {
+    "key": "broken-stone",
+    "characters": [
+      "破"
+    ],
+    "meaningZh": "破损；使损坏"
+  },
+  {
+    "key": "hard",
+    "characters": [
+      "硬"
+    ],
+    "meaningZh": "坚硬；不软"
+  },
+  {
+    "key": "mineral",
+    "characters": [
+      "矿"
+    ],
+    "meaningZh": "矿物；矿藏"
+  },
+  {
+    "key": "code",
+    "characters": [
+      "码"
+    ],
+    "meaningZh": "号码；代码"
+  },
+  {
+    "key": "water",
+    "characters": [],
+    "meaningZh": "水滴、河流、液体：先看三点水，再联系清水、海水或油等具体画面。"
+  },
+  {
+    "key": "person",
+    "characters": [],
+    "meaningZh": "人、人的动作与关系：把站立的人和休息、居住等场景联系起来。"
+  },
+  {
+    "key": "hand",
+    "characters": [],
+    "meaningZh": "手部动作：拉、推、抱等动作可以亲手做一遍。"
+  },
+  {
+    "key": "mouth",
+    "characters": [],
+    "meaningZh": "嘴巴、说话和发声：联系吃、喝、唱的动作。"
+  },
+  {
+    "key": "sun",
+    "characters": [],
+    "meaningZh": "太阳、光线和时间：晴天、早晚、昨天等可放在一天的画面中。"
+  },
+  {
+    "key": "metal",
+    "characters": [],
+    "meaningZh": "金属与金属制品：钱、铁、针等可放进工具盒联想。"
+  },
+  {
+    "key": "food",
+    "characters": [],
+    "meaningZh": "食物与进食状态：饭、饼、饺和饿、饱。"
+  },
+  {
+    "key": "animal",
+    "characters": [],
+    "meaningZh": "猫、狗、猪等动物；猜的现代字义另记。"
+  },
+  {
+    "key": "fire",
+    "characters": [],
+    "meaningZh": "火焰、灯火与加热：炒、烧、烤的动作可放在厨房里。"
+  },
+  {
+    "key": "rice",
+    "characters": [],
+    "meaningZh": "米粒、食物和颗粒画面；精、料等字也有引申义，要联系具体词语。"
+  },
+  {
+    "key": "ritual",
+    "characters": [],
+    "meaningZh": "祭礼、祝福与社会中的礼仪场景；字义不能只靠偏旁猜。"
+  },
+  {
+    "key": "clothes",
+    "characters": [],
+    "meaningZh": "衣物、被子和裙裤：联系穿着、布料、裁衣场景。"
+  },
+  {
+    "key": "foot",
+    "characters": [],
+    "meaningZh": "脚、道路和脚部动作：走路、跑、跳、踢。"
+  },
+  {
+    "key": "jade",
+    "characters": [],
+    "meaningZh": "王形左部常用于玉石、珠宝等字；玩、现等现代含义另记。"
+  },
+  {
+    "key": "insect",
+    "characters": [],
+    "meaningZh": "昆虫与一些动物名称：蚂蚁、蚊子、蛇等一起辨认。"
+  },
+  {
+    "key": "stone",
+    "characters": [],
+    "meaningZh": "石头、矿物、坚硬和破碎：联系岩石、工具和石块。"
+  }
+]

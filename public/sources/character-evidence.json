@@ -1,0 +1,3803 @@
+{
+  "油": {
+    "hanzi": "油",
+    "traditional": "油",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "由",
+    "historicalNote": "早期字形以水作形旁、由作声旁，曾用作水名；油脂是后来常用义。",
+    "modernNote": "现代字形：氵＋由＝油。食用油瓶表示今天的油脂义，并不是由字的古代图画。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·油",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B2%B9",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "食用油瓶表示今天的油脂义，并不是由字的古代图画。"
+  },
+  "泳": {
+    "hanzi": "泳",
+    "traditional": "泳",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "永",
+    "historicalNote": "《说文》以水表义、永表声，解释为潜行水中。",
+    "modernNote": "现代字形：氵＋永＝泳。永与泳在现代普通话声调不同；不要把永远解释成泳的造字义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·泳",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B3%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "永与泳在现代普通话声调不同；不要把永远解释成泳的造字义。"
+  },
+  "清": {
+    "hanzi": "清",
+    "traditional": "清",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "早期清字以水表义、青表声，原义与水清澈有关。",
+    "modernNote": "现代字形：氵＋青＝清。可以画清水；青主要提示读音，不是水加蓝色的意义相加。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·清",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B8%85",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "可以画清水；青主要提示读音，不是水加蓝色的意义相加。"
+  },
+  "河": {
+    "hanzi": "河",
+    "traditional": "河",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "可（早期丂、何等）",
+    "historicalNote": "早期字形以水表义，声旁有丂、何等形体；后世写作可。",
+    "modernNote": "现代字形：氵＋可＝河。现代可为声旁；可以的独立义不能解释河流。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·河",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B2%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代可为声旁；可以的独立义不能解释河流。"
+  },
+  "海": {
+    "hanzi": "海",
+    "traditional": "海",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "每",
+    "historicalNote": "金文海字从水、每声，用水旁提示水域。",
+    "modernNote": "现代字形：氵＋每＝海。海洋图对应整字；不是每一滴水相加的确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·海",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B5%B7",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "海洋图对应整字；不是每一滴水相加的确定字源。"
+  },
+  "洋": {
+    "hanzi": "洋",
+    "traditional": "洋",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "羊",
+    "historicalNote": "洋从水、羊声，早期有众多之义，后有海洋等用法。",
+    "modernNote": "现代字形：氵＋羊＝洋。羊在这里主要提示读音；海里有羊只能算自创联想。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·洋",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B4%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "羊在这里主要提示读音；海里有羊只能算自创联想。"
+  },
+  "洗": {
+    "hanzi": "洗",
+    "traditional": "洗",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "先（后起字形）",
+    "historicalNote": "字库将早期洗字联系到在桶中洗脚的图形；后起洗字采用水、先的结构。",
+    "modernNote": "现代字形：氵＋先＝洗。现代右边先是声旁；先洗手是学习故事，不是已证实的造字句。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·洗",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B4%97",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代右边先是声旁；先洗手是学习故事，不是已证实的造字句。"
+  },
+  "沙": {
+    "hanzi": "沙",
+    "traditional": "沙",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "水",
+      "细点（小形）"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "甲骨文沙字有水和细点，字库解释为水边的细沙；现代右边写作少。",
+    "modernNote": "现代字形：氵＋少＝沙。沙粒与水边图形可说明早期构形；不要解成水很少才有沙。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·沙",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B2%99",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "沙粒与水边图形可说明早期构形；不要解成水很少才有沙。"
+  },
+  "汉": {
+    "hanzi": "汉",
+    "traditional": "漢",
+    "kind": "simplified",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "漢字右部（古声符）",
+    "historicalNote": "漢的早期字形有水旁和古声符，用作汉水之名；简体汉把右部改成又。",
+    "modernNote": "现代字形：氵＋又＝汉。又在汉里是简化后的部件，不能用手的动作解释汉水或汉语的起源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·漢",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%BC%A2",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "又在汉里是简化后的部件，不能用手的动作解释汉水或汉语的起源。"
+  },
+  "酒": {
+    "hanzi": "酒",
+    "traditional": "酒",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "水",
+      "酉"
+    ],
+    "phoneticPart": "酉（亦声）",
+    "historicalNote": "酉的早期形体像酒器，酒在酉旁加水点；酉也有表声作用。",
+    "modernNote": "现代字形：氵＋酉＝酒。酒器与液体能对应构形；不要只画普通水杯而忽略酉的器形。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·酒",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%85%92",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "酒器与液体能对应构形；不要只画普通水杯而忽略酉的器形。"
+  },
+  "汽": {
+    "hanzi": "汽",
+    "traditional": "汽",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "气",
+    "historicalNote": "汽从水、气声，字库列早期水干涸义，后有水蒸气义。",
+    "modernNote": "现代字形：氵＋气＝汽。今天画蒸汽是现代义示意；不是汽车图本身的字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·汽",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B1%BD",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "今天画蒸汽是现代义示意；不是汽车图本身的字源。"
+  },
+  "泪": {
+    "hanzi": "泪",
+    "traditional": "淚",
+    "kind": "simplified",
+    "semanticParts": [
+      "水（淚）",
+      "水与目（泪形）"
+    ],
+    "phoneticPart": "戾（淚）",
+    "historicalNote": "淚从水、戾声；现在使用的泪形为水旁配目形，可用眼中流出水滴认形。",
+    "modernNote": "现代字形：氵＋目＝泪。眼睛和泪滴适合解释泪的现代字形；不能把这幅图说成淚唯一的原始字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·淚",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B7%9A",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "眼睛和泪滴适合解释泪的现代字形；不能把这幅图说成淚唯一的原始字源。"
+  },
+  "湖": {
+    "hanzi": "湖",
+    "traditional": "湖",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "胡",
+    "historicalNote": "湖从水、胡声，指陆地上大范围的积水。",
+    "modernNote": "现代字形：氵＋胡＝湖。湖泊图帮助记整字，胡须不是湖的造字意义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·湖",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B9%96",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "湖泊图帮助记整字，胡须不是湖的造字意义。"
+  },
+  "波": {
+    "hanzi": "波",
+    "traditional": "波",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "皮",
+    "historicalNote": "金文、小篆以水表义、皮表声，用来表示水面起伏。",
+    "modernNote": "现代字形：氵＋皮＝波。波浪图对应字义；皮不是水面皮肤的确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·波",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B3%A2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "波浪图对应字义；皮不是水面皮肤的确定字源。"
+  },
+  "休": {
+    "hanzi": "休",
+    "traditional": "休",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "人",
+      "木"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "早期休字由人和木组成，字库解释为人在树荫下休息。",
+    "modernNote": "现代字形：亻＋木＝休。人靠树的动作与两个部件位置可直接对照。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·休",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BC%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "人靠树的动作与两个部件位置可直接对照。"
+  },
+  "你": {
+    "hanzi": "你",
+    "traditional": "你",
+    "kind": "uncertain",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "你是后起代词，字库记作第二人称单数；本次检索未取得足够古文字证据解释尔的起源作用。",
+    "modernNote": "现代字形：亻＋尔＝你。先认亻和尔的现代位置；图画表现对话中的你，不把尔硬画成造字物件。",
+    "confidence": "modern-only",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·你",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BD%A0",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "先认亻和尔的现代位置；图画表现对话中的你，不把尔硬画成造字物件。"
+  },
+  "他": {
+    "hanzi": "他",
+    "traditional": "他",
+    "kind": "uncertain",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "他是后起代词，早期可指别的或第三人称；本次不把也的独立义当作构形解释。",
+    "modernNote": "现代字形：亻＋也＝他。人物指代图表示语法用法；现代右边为也，不能证明整字来自某个物体轮廓。",
+    "confidence": "modern-only",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·他",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BB%96",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "人物指代图表示语法用法；现代右边为也，不能证明整字来自某个物体轮廓。"
+  },
+  "们": {
+    "hanzi": "们",
+    "traditional": "們",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": "門",
+    "historicalNote": "們从人、门声，作为人称等词后的复数后缀；简体写作们。",
+    "modernNote": "现代字形：亻＋门＝们。一组人物说明复数，不表示人站在门口就造出了这个词缀。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·們",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%80%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "一组人物说明复数，不表示人站在门口就造出了这个词缀。"
+  },
+  "住": {
+    "hanzi": "住",
+    "traditional": "住",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": "主",
+    "historicalNote": "住从人、主声，早期有停止义，后常表示居住或停留。",
+    "modernNote": "现代字形：亻＋主＝住。房屋场景对应现在的居住义；主人的独立义不能直接加进来。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·住",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BD%8F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "房屋场景对应现在的居住义；主人的独立义不能直接加进来。"
+  },
+  "作": {
+    "hanzi": "作",
+    "traditional": "作",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": "乍",
+    "historicalNote": "《说文》解释作有起身义，段注按人表义、乍表声分析。",
+    "modernNote": "现代字形：亻＋乍＝作。工作动作对应常用引申义；不能把乍画成任意工具来解释工作。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "教育部《异体字字典》·作",
+        "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=1109&la=1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "工作动作对应常用引申义；不能把乍画成任意工具来解释工作。"
+  },
+  "体": {
+    "hanzi": "体",
+    "traditional": "體",
+    "kind": "simplified",
+    "semanticParts": [
+      "骨（體）"
+    ],
+    "phoneticPart": "豊（體）",
+    "historicalNote": "體按《说文》从骨、豊声；现代体采用人和本的俗体、简体写法。",
+    "modernNote": "现代字形：亻＋本＝体。人加本只说明现行字形，人的根本不是體的确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "教育部《异体字字典》·體",
+        "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=51691&q=1",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "人加本只说明现行字形，人的根本不是體的确定字源。"
+  },
+  "信": {
+    "hanzi": "信",
+    "traditional": "信",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "人",
+      "言"
+    ],
+    "phoneticPart": "人／身（古异体亦有声用）",
+    "historicalNote": "战国信字有人和言的结构，也有身形异体；字库指出人、身还可能参与表声。",
+    "modernNote": "现代字形：亻＋言＝信。人说话可以作构形示意，但不能宣称所有古字形只有人言有信一种解释。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·信",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BF%A1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "人说话可以作构形示意，但不能宣称所有古字形只有人言有信一种解释。"
+  },
+  "借": {
+    "hanzi": "借",
+    "traditional": "借",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": "昔",
+    "historicalNote": "借从人、昔声，本义与暂时取用别人的钱物有关。",
+    "modernNote": "现代字形：亻＋昔＝借。借物动作表示字义；昔日不是借的意义组成部分。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·借",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%80%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "借物动作表示字义；昔日不是借的意义组成部分。"
+  },
+  "位": {
+    "hanzi": "位",
+    "traditional": "位",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "人",
+      "立"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "早期立兼表站立和所立之处，后来加人旁写位，专表位置、地位。",
+    "modernNote": "现代字形：亻＋立＝位。站立的人和地面位置能帮助理解；不要把位画成随意的座椅才算字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·位",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BD%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "站立的人和地面位置能帮助理解；不要把位画成随意的座椅才算字源。"
+  },
+  "但": {
+    "hanzi": "但",
+    "traditional": "但",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": "旦",
+    "historicalNote": "但从人、旦声，字库列早期袒胸之义，后多用于转折。",
+    "modernNote": "现代字形：亻＋旦＝但。转折箭头是现在但是的语法图，不是古代人在日出时的图画。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·但",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BD%86",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "转折箭头是现在但是的语法图，不是古代人在日出时的图画。"
+  },
+  "伴": {
+    "hanzi": "伴",
+    "traditional": "伴",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": "半",
+    "historicalNote": "伴从人、半声，用于伴侣、同伴。",
+    "modernNote": "现代字形：亻＋半＝伴。两人同行可以记义；另一半是学习联想，不应说成唯一造字依据。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·伴",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BC%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "两人同行可以记义；另一半是学习联想，不应说成唯一造字依据。"
+  },
+  "伙": {
+    "hanzi": "伙",
+    "traditional": "伙",
+    "kind": "uncertain",
+    "semanticParts": [
+      "人"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "伙在字典中有伙食、同伴等义，也可对应夥的部分用法；现代结构确为人和火。",
+    "modernNote": "现代字形：亻＋火＝伙。共餐、同伴可分别画出；本次不把围火的人确定为最初字源。",
+    "confidence": "modern-only",
+    "sources": [
+      {
+        "title": "教育部《异体字字典》·伙",
+        "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=915&la=0&powerMode=2",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "共餐、同伴可分别画出；本次不把围火的人确定为最初字源。"
+  },
+  "打": {
+    "hanzi": "打",
+    "traditional": "打",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "丁",
+    "historicalNote": "打从手、丁声，常用来表示敲击、撞击。",
+    "modernNote": "现代字形：扌＋丁＝打。手的动作是意义线索，丁不是这里必定要画的一颗钉子。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·打",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%89%93",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "手的动作是意义线索，丁不是这里必定要画的一颗钉子。"
+  },
+  "把": {
+    "hanzi": "把",
+    "traditional": "把",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "巴",
+    "historicalNote": "把从手、巴声，原义与握持有关。",
+    "modernNote": "现代字形：扌＋巴＝把。用握住物件的手对照扌；不要把巴的独立义拼成握持。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·把",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8A%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "用握住物件的手对照扌；不要把巴的独立义拼成握持。"
+  },
+  "拉": {
+    "hanzi": "拉",
+    "traditional": "拉",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "立",
+    "historicalNote": "拉从手、立声，字库记早期折断义，后来常用于牵引。",
+    "modernNote": "现代字形：扌＋立＝拉。拉绳是常用义动作；站立的立在此主要表声。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·拉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8B%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "拉绳是常用义动作；站立的立在此主要表声。"
+  },
+  "推": {
+    "hanzi": "推",
+    "traditional": "推",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "隹",
+    "historicalNote": "推从手、隹声，表示手向外用力使物体前移。",
+    "modernNote": "现代字形：扌＋隹＝推。手推出物体适合记义；隹在此不表示被推的一只鸟。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·推",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8E%A8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "手推出物体适合记义；隹在此不表示被推的一只鸟。"
+  },
+  "找": {
+    "hanzi": "找",
+    "traditional": "找",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "戈",
+    "historicalNote": "字库按手表义、戈表声分析找，表示寻觅。",
+    "modernNote": "现代字形：扌＋戈＝找。寻物图说明常用义；手拿戈寻找只可作为额外联想。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·找",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%89%BE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "寻物图说明常用义；手拿戈寻找只可作为额外联想。"
+  },
+  "拍": {
+    "hanzi": "拍",
+    "traditional": "拍",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "白",
+    "historicalNote": "金文拍字从手、白声；字库明确说构形初义不明，疑与手掌拍打有关。",
+    "modernNote": "现代字形：扌＋白＝拍。拍手动作可画出现代义，但不把它说成已经证实的唯一原义。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·拍",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8B%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "拍手动作可画出现代义，但不把它说成已经证实的唯一原义。"
+  },
+  "抱": {
+    "hanzi": "抱",
+    "traditional": "抱",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "包",
+    "historicalNote": "抱从手、包声；字库还说明抱与古代捊、袌等字的关系。",
+    "modernNote": "现代字形：扌＋包＝抱。双手抱物能记常用义；包不是此处必须抱的一个包。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·抱",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8A%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "双手抱物能记常用义；包不是此处必须抱的一个包。"
+  },
+  "提": {
+    "hanzi": "提",
+    "traditional": "提",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "手"
+    ],
+    "phoneticPart": "是",
+    "historicalNote": "提从手、是声，本义与悬持、拎起有关。",
+    "modernNote": "现代字形：扌＋是＝提。手向上提起物件，准确表现动作；是作为声旁不表示正确。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·提",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8F%90",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "手向上提起物件，准确表现动作；是作为声旁不表示正确。"
+  },
+  "吃": {
+    "hanzi": "吃",
+    "traditional": "吃",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "气（古字形）",
+    "historicalNote": "吃早期从口、气声，本义为口吃；后来广泛用于进食义，现代右边写乞。",
+    "modernNote": "现代字形：口＋乞＝吃。进食图表示今天常用义，不能用乞讨食物当作确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·吃",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "进食图表示今天常用义，不能用乞讨食物当作确定字源。"
+  },
+  "喝": {
+    "hanzi": "喝",
+    "traditional": "喝",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "曷",
+    "historicalNote": "喝从口、曷声，早期与口渴有关，后来有喝水、呼喝等读音和义项。",
+    "modernNote": "现代字形：口＋曷＝喝。本课程hē画饮水，hè呼喊须分开，不能混在同一韩语释义里。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·喝",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%96%9D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "本课程hē画饮水，hè呼喊须分开，不能混在同一韩语释义里。"
+  },
+  "吗": {
+    "hanzi": "吗",
+    "traditional": "嗎",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "馬",
+    "historicalNote": "嗎从口、马声，在现代语言中常作疑问语气词；简体写吗。",
+    "modernNote": "现代字形：口＋马＝吗。疑问号表示语气用法；马不是疑问句中的动物意义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·嗎",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%97%8E",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "疑问号表示语气用法；马不是疑问句中的动物意义。"
+  },
+  "呢": {
+    "hanzi": "呢",
+    "traditional": "呢",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "尼",
+    "historicalNote": "呢从口、尼声，现代常作语气助词，可用于疑问句。",
+    "modernNote": "现代字形：口＋尼＝呢。对话中的呢要用句子记忆；尼在这里不是尼姑的图画。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·呢",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%91%A2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "对话中的呢要用句子记忆；尼在这里不是尼姑的图画。"
+  },
+  "吧": {
+    "hanzi": "吧",
+    "traditional": "吧",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "巴",
+    "historicalNote": "吧从口、巴声，现代常作语气助词。",
+    "modernNote": "现代字形：口＋巴＝吧。用建议或商量的对话画面；巴的独立义不参与语气意义相加。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·吧",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%A7",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "用建议或商量的对话画面；巴的独立义不参与语气意义相加。"
+  },
+  "唱": {
+    "hanzi": "唱",
+    "traditional": "唱",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "昌",
+    "historicalNote": "唱从口、昌声，字库列领唱、领奏等早期用法。",
+    "modernNote": "现代字形：口＋昌＝唱。开口唱歌对应常用义，两个日形不是两个太阳在唱歌的字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·唱",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%94%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "开口唱歌对应常用义，两个日形不是两个太阳在唱歌的字源。"
+  },
+  "听": {
+    "hanzi": "听",
+    "traditional": "聽",
+    "kind": "simplified",
+    "semanticParts": [
+      "耳",
+      "口（聽早期形）"
+    ],
+    "phoneticPart": "聽的后期构形另有变化",
+    "historicalNote": "聽的早期字形含耳、口，表示听闻；现行简体听由口、斤两个形体组成。",
+    "modernNote": "现代字形：口＋斤＝听。听声音的耳朵可解释聽；口加斤只作现代拆形，斤不是听觉声旁的直接历史证明。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·聽",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%81%BD",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "听声音的耳朵可解释聽；口加斤只作现代拆形，斤不是听觉声旁的直接历史证明。"
+  },
+  "叫": {
+    "hanzi": "叫",
+    "traditional": "叫",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "丩",
+    "historicalNote": "叫从口、丩声，本义为呼喊。",
+    "modernNote": "现代字形：口＋丩＝叫。张口呼喊表示动作；丩主要表声，不必虚构一个能发声的钩子。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·叫",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "张口呼喊表示动作；丩主要表声，不必虚构一个能发声的钩子。"
+  },
+  "林": {
+    "hanzi": "林",
+    "traditional": "林",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "木",
+      "木"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "早期林字由两棵树的形体并列，表示树木丛生。",
+    "modernNote": "现代字形：木＋木＝林。两棵树的位置可以直接与两个木对照。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·林",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9E%97",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "两棵树的位置可以直接与两个木对照。"
+  },
+  "树": {
+    "hanzi": "树",
+    "traditional": "樹",
+    "kind": "simplified",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "尌（樹）",
+    "historicalNote": "樹按《说文》从木、尌声；现代树把右部简化成对。",
+    "modernNote": "现代字形：木＋对＝树。树木轮廓对应木；对在树里不能解释成一对树。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·樹",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A8%B9",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "树木轮廓对应木；对在树里不能解释成一对树。"
+  },
+  "板": {
+    "hanzi": "板",
+    "traditional": "板",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "反",
+    "historicalNote": "板从木、反声，本义为木板。",
+    "modernNote": "现代字形：木＋反＝板。木板图和材料提示相合；反不是反过来的木头这个造字句。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·板",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9D%BF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "木板图和材料提示相合；反不是反过来的木头这个造字句。"
+  },
+  "松": {
+    "hanzi": "松",
+    "traditional": "松",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "公",
+    "historicalNote": "松从木、公声，本义为松木；松树和松紧的鬆在简体中同写。",
+    "modernNote": "现代字形：木＋公＝松。松树图对应sōng的植物义，松开的意思需另配动作图。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·松",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9D%BE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "松树图对应sōng的植物义，松开的意思需另配动作图。"
+  },
+  "桥": {
+    "hanzi": "桥",
+    "traditional": "橋",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "喬",
+    "historicalNote": "橋从木、乔声，本义为架于水上或空中的通行建筑；简体写桥。",
+    "modernNote": "现代字形：木＋乔＝桥。木桥对应早期材料提示，乔不是桥的物体轮廓。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·橋",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A9%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "木桥对应早期材料提示，乔不是桥的物体轮廓。"
+  },
+  "校": {
+    "hanzi": "校",
+    "traditional": "校",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "交",
+    "historicalNote": "校从木、交声，《说文》列木制囚具义，后来有考校和学校等用法。",
+    "modernNote": "现代字形：木＋交＝校。学校图表示今天的学校义，不能说树木相交就是学校的字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·校",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A0%A1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "学校图表示今天的学校义，不能说树木相交就是学校的字源。"
+  },
+  "样": {
+    "hanzi": "样",
+    "traditional": "樣",
+    "kind": "simplified",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "羕（樣）",
+    "historicalNote": "樣从木、羕声，早期与栎果有关，后常表示样式；简体右部写羊。",
+    "modernNote": "现代字形：木＋羊＝样。式样图是现代义图，羊不是各种样子的意义来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·樣",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A8%A3",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "式样图是现代义图，羊不是各种样子的意义来源。"
+  },
+  "杯": {
+    "hanzi": "杯",
+    "traditional": "杯",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "不",
+    "historicalNote": "杯从木、不声，古代指盛羹或注酒器具。",
+    "modernNote": "现代字形：木＋不＝杯。古木杯能连到木旁，现代玻璃杯是词义示意；不不是没有水。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·杯",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9D%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "古木杯能连到木旁，现代玻璃杯是词义示意；不不是没有水。"
+  },
+  "机": {
+    "hanzi": "机",
+    "traditional": "機",
+    "kind": "simplified",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "幾（機）",
+    "historicalNote": "機从木、幾声，早期与器械机括有关；现代简体右部写几。",
+    "modernNote": "现代字形：木＋几＝机。机器图帮助记现代义；不能把茶几外形说成機字原来的声旁。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·機",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A9%9F",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "机器图帮助记现代义；不能把茶几外形说成機字原来的声旁。"
+  },
+  "请": {
+    "hanzi": "请",
+    "traditional": "請",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "請早期含言和青，青是声符；早期有朝见义，后用于请求等。",
+    "modernNote": "现代字形：讠＋青＝请。请的交流动作说明现代义，青色不是礼貌的造字意义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·請",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%AB%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "请的交流动作说明现代义，青色不是礼貌的造字意义。"
+  },
+  "语": {
+    "hanzi": "语",
+    "traditional": "語",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "吾",
+    "historicalNote": "語的早期字形以言表义、吾或五表声，表示言谈。",
+    "modernNote": "现代字形：讠＋吾＝语。说话场景对应言；我的话只可作记忆句，不能代替形声分析。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·語",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/searchExplain.php?andor=and&explain=%E4%B8%AD&h=&page=115",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "说话场景对应言；我的话只可作记忆句，不能代替形声分析。"
+  },
+  "话": {
+    "hanzi": "话",
+    "traditional": "話",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "𠯑（后世讹作舌）",
+    "historicalNote": "字库将話分析为言表义、𠯑表声；现代右部写作舌。",
+    "modernNote": "现代字形：讠＋舌＝话。舌头可辅助现代认形，但不能把现代舌形当作从来都是纯表义的证明。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·話",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A9%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "舌头可辅助现代认形，但不能把现代舌形当作从来都是纯表义的证明。"
+  },
+  "说": {
+    "hanzi": "说",
+    "traditional": "說",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言",
+      "兌"
+    ],
+    "phoneticPart": "兌（亦声）",
+    "historicalNote": "說从言、兑，兑也参与表声；古代和讲述有关。",
+    "modernNote": "现代字形：讠＋兑＝说。用交流图记shuō；兑的其他独立义不必加入现代说话释义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·說",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%AA%AA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "用交流图记shuō；兑的其他独立义不必加入现代说话释义。"
+  },
+  "读": {
+    "hanzi": "读",
+    "traditional": "讀",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "賣（𧸇）",
+    "historicalNote": "讀从言、古賣形声，字库特标该声符为𧸇。",
+    "modernNote": "现代字形：讠＋卖＝读。读书图表现用法，不能讲成卖东西时说话就是读的确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·讀",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%AE%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "读书图表现用法，不能讲成卖东西时说话就是读的确定字源。"
+  },
+  "认": {
+    "hanzi": "认",
+    "traditional": "認",
+    "kind": "simplified",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "忍（認）",
+    "historicalNote": "認从言、忍声，表示识别、辨明；简体认把右部换成人形。",
+    "modernNote": "现代字形：讠＋人＝认。识认人物可记现代义；人只作现行右部，不能取代历史忍声。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·認",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%AA%8D",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "识认人物可记现代义；人只作现行右部，不能取代历史忍声。"
+  },
+  "讲": {
+    "hanzi": "讲",
+    "traditional": "講",
+    "kind": "simplified",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "冓（講）",
+    "historicalNote": "講从言、冓声，早期有和解义；现代右部简化成井。",
+    "modernNote": "现代字形：讠＋井＝讲。讲解图对应现代用法；井旁讲话是自创故事，不能当作字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·講",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%AC%9B",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "讲解图对应现代用法；井旁讲话是自创故事，不能当作字源。"
+  },
+  "课": {
+    "hanzi": "课",
+    "traditional": "課",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "果",
+    "historicalNote": "課从言、果声，早期有检验义，后来常用于功课、课程等。",
+    "modernNote": "现代字形：讠＋果＝课。上课图是现代义示意，果实不构成课程的字源意义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·課",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%AA%B2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "上课图是现代义示意，果实不构成课程的字源意义。"
+  },
+  "记": {
+    "hanzi": "记",
+    "traditional": "記",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "己",
+    "historicalNote": "記的早期字形以言表义、己表声，后来常指记述。",
+    "modernNote": "现代字形：讠＋己＝记。记笔记的动作记常用义；不是自己说的话才叫记。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·記",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A8%98",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "记笔记的动作记常用义；不是自己说的话才叫记。"
+  },
+  "诗": {
+    "hanzi": "诗",
+    "traditional": "詩",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "言"
+    ],
+    "phoneticPart": "寺",
+    "historicalNote": "詩从言、寺声，言提示语言文字的范围。",
+    "modernNote": "现代字形：讠＋寺＝诗。诗句图对应词义；寺庙是寺的独立义，不能硬解释所有诗的来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·詩",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A9%A9",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "诗句图对应词义；寺庙是寺的独立义，不能硬解释所有诗的来源。"
+  },
+  "情": {
+    "hanzi": "情",
+    "traditional": "情",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "情从心、青声，本义与感情有关。",
+    "modernNote": "现代字形：忄＋青＝情。感情场景对应心旁；青不是情绪颜色的确定来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·情",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%83%85",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "感情场景对应心旁；青不是情绪颜色的确定来源。"
+  },
+  "快": {
+    "hanzi": "快",
+    "traditional": "快",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "夬",
+    "historicalNote": "快从心、夬声，早期有喜悦义，后来也有迅速义。",
+    "modernNote": "现代字形：忄＋夬＝快。笑脸与速度是不同现代义；不要用单一跑步图宣称原始造字动作。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·快",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%BF%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "笑脸与速度是不同现代义；不要用单一跑步图宣称原始造字动作。"
+  },
+  "忙": {
+    "hanzi": "忙",
+    "traditional": "忙",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "亡",
+    "historicalNote": "忙从心、亡声，本义与内心急迫有关。",
+    "modernNote": "现代字形：忄＋亡＝忙。忙碌场景能联想心理状态；心死了只是民间拆字，不是此字字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·忙",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%BF%99",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "忙碌场景能联想心理状态；心死了只是民间拆字，不是此字字源。"
+  },
+  "怕": {
+    "hanzi": "怕",
+    "traditional": "怕",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "白",
+    "historicalNote": "怕从心、白声；字库列早期淡泊义，今日畏惧义的来源有不同解释。",
+    "modernNote": "现代字形：忄＋白＝怕。害怕表情是现代义图；脸变白只能算记忆联想，不能当作定论。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·怕",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%80%95",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "害怕表情是现代义图；脸变白只能算记忆联想，不能当作定论。"
+  },
+  "性": {
+    "hanzi": "性",
+    "traditional": "性",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "生",
+    "historicalNote": "性从心、生声，常与本性、性质有关。",
+    "modernNote": "现代字形：忄＋生＝性。人物特点可表示词义，生在这里有声旁作用，不宜只讲心生出来。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·性",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%80%A7",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "人物特点可表示词义，生在这里有声旁作用，不宜只讲心生出来。"
+  },
+  "怪": {
+    "hanzi": "怪",
+    "traditional": "怪",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "圣（古读kū，不是聖义）",
+    "historicalNote": "怪从心、圣声，常用于奇异、罕见。",
+    "modernNote": "现代字形：忄＋圣＝怪。右部是古圣形，不能按圣人的聖之简体意义解释奇怪。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·怪",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%80%AA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "右部是古圣形，不能按圣人的聖之简体意义解释奇怪。"
+  },
+  "懂": {
+    "hanzi": "懂",
+    "traditional": "懂",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "董",
+    "historicalNote": "懂从心、董声，表示明白、了解。",
+    "modernNote": "现代字形：忄＋董＝懂。理解的灯泡或领会动作是记义图；董不是一件表示理解的古代物体。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·懂",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%87%82",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "理解的灯泡或领会动作是记义图；董不是一件表示理解的古代物体。"
+  },
+  "慢": {
+    "hanzi": "慢",
+    "traditional": "慢",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "心"
+    ],
+    "phoneticPart": "曼",
+    "historicalNote": "慢从心、曼声，早期有怠惰、懈怠义，后有缓慢义。",
+    "modernNote": "现代字形：忄＋曼＝慢。慢走可记现代义，不能把曼的其他释义机械加入字义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·慢",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%85%A2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "慢走可记现代义，不能把曼的其他释义机械加入字义。"
+  },
+  "惊": {
+    "hanzi": "惊",
+    "traditional": "驚",
+    "kind": "simplified",
+    "semanticParts": [
+      "馬（驚）"
+    ],
+    "phoneticPart": "敬（驚）",
+    "historicalNote": "驚从马、敬声，原与马受刺激而失常有关；现代惊采用心旁和京形。",
+    "modernNote": "现代字形：忄＋京＝惊。受惊表情能记现代义，忄加京只说明现行简体，不是驚的原始拆解。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·驚",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A9%9A",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "受惊表情能记现代义，忄加京只说明现行简体，不是驚的原始拆解。"
+  },
+  "好": {
+    "hanzi": "好",
+    "traditional": "好",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "女",
+      "子"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "好早期由女、子构成，但字库列有多种本义解释，并提醒古文用例不能证明只有母子相亲之义。",
+    "modernNote": "现代字形：女＋子＝好。母子相亲可作为一种构形解释示意，须标为有不同解释，不作唯一字源。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·好",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A5%BD",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "母子相亲可作为一种构形解释示意，须标为有不同解释，不作唯一字源。"
+  },
+  "妈": {
+    "hanzi": "妈",
+    "traditional": "媽",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "女"
+    ],
+    "phoneticPart": "馬",
+    "historicalNote": "媽从女、马声，表示母亲。",
+    "modernNote": "现代字形：女＋马＝妈。母亲人物对应字义；马在这里表声，不是妈妈像马的图画。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·媽",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AA%BD",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "母亲人物对应字义；马在这里表声，不是妈妈像马的图画。"
+  },
+  "她": {
+    "hanzi": "她",
+    "traditional": "她",
+    "kind": "uncertain",
+    "semanticParts": [
+      "女"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "她在现代书面语中作为女性第三人称代词；本次资料不足以认定也在该用法中的历史声义作用。",
+    "modernNote": "现代字形：女＋也＝她。女旁提示女性指代；也的独立意义不相加，图片用对话箭头说明她。",
+    "confidence": "modern-only",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·她",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A5%B9",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "女旁提示女性指代；也的独立意义不相加，图片用对话箭头说明她。"
+  },
+  "姐": {
+    "hanzi": "姐",
+    "traditional": "姐",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "女"
+    ],
+    "phoneticPart": "且",
+    "historicalNote": "姐从女、且声，早期可称母亲，现代多称年长的同胞女子。",
+    "modernNote": "现代字形：女＋且＝姐。按现代姐姐义画年长姐妹；且是声旁，不是桌子或祭器参与亲属义相加。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·姐",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A7%90",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "按现代姐姐义画年长姐妹；且是声旁，不是桌子或祭器参与亲属义相加。"
+  },
+  "妹": {
+    "hanzi": "妹",
+    "traditional": "妹",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "女"
+    ],
+    "phoneticPart": "未",
+    "historicalNote": "妹早期从女、未声，金文可表示妹妹，也有通假用法。",
+    "modernNote": "现代字形：女＋未＝妹。妹妹人物记现代义；未成年只是学习联想，不能当作确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·妹",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A6%B9",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "妹妹人物记现代义；未成年只是学习联想，不能当作确定字源。"
+  },
+  "如": {
+    "hanzi": "如",
+    "traditional": "如",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "女",
+      "口"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "如早期从女、口，字库按顺从、跟随解释，后有如同、如果等用法。",
+    "modernNote": "现代字形：女＋口＝如。比较图表示现代如同义；历史结构不应转为对女性的现实评价。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·如",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A6%82",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "比较图表示现代如同义；历史结构不应转为对女性的现实评价。"
+  },
+  "姓": {
+    "hanzi": "姓",
+    "traditional": "姓",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "女",
+      "生"
+    ],
+    "phoneticPart": "生（亦声）",
+    "historicalNote": "姓的早期字形含女和生，生也表声，后来专表姓氏。",
+    "modernNote": "现代字形：女＋生＝姓。出生与家族可辅助理解；不能据此简单断言所有古代姓氏制度的起因。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·姓",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A7%93",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "出生与家族可辅助理解；不能据此简单断言所有古代姓氏制度的起因。"
+  },
+  "始": {
+    "hanzi": "始",
+    "traditional": "始",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "女"
+    ],
+    "phoneticPart": "台",
+    "historicalNote": "始早期从女、台声，字库认为本义可能与女姓有关；《说文》另解为女子初出生。",
+    "modernNote": "现代字形：女＋台＝始。起点箭头表示现代开始义，须保留早期本义有异说。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·始",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A7%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "起点箭头表示现代开始义，须保留早期本义有异说。"
+  },
+  "红": {
+    "hanzi": "红",
+    "traditional": "紅",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "工",
+    "historicalNote": "紅从糸、工声，早期指浅红色的丝织物，后泛指红色。",
+    "modernNote": "现代字形：纟＋工＝红。红色丝帛能连到糸的意义，工不是工人染红布的造字证明。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·紅",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B4%85",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "红色丝帛能连到糸的意义，工不是工人染红布的造字证明。"
+  },
+  "绿": {
+    "hanzi": "绿",
+    "traditional": "綠",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "彔（今录形）",
+    "historicalNote": "綠从糸、彔声，早期用于颜色；简体右部写录。",
+    "modernNote": "现代字形：纟＋录＝绿。绿色丝织物可联系糸，录不是录像或记录的意义来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·綠",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B6%A0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "绿色丝织物可联系糸，录不是录像或记录的意义来源。"
+  },
+  "级": {
+    "hanzi": "级",
+    "traditional": "級",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "及",
+    "historicalNote": "級从糸、及声，《说文》以丝的次第解释，后来有等级、台阶等用法。",
+    "modernNote": "现代字形：纟＋及＝级。层级图为引申义；不能把追上一个人画成这个字的全部字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·級",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B4%9A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "层级图为引申义；不能把追上一个人画成这个字的全部字源。"
+  },
+  "结": {
+    "hanzi": "结",
+    "traditional": "結",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "吉",
+    "historicalNote": "結从糸、吉声，本义是打结。",
+    "modernNote": "现代字形：纟＋吉＝结。丝线打结能对应糸；吉利是吉的独立义，不等于结的构形意义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·結",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B5%90",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "丝线打结能对应糸；吉利是吉的独立义，不等于结的构形意义。"
+  },
+  "练": {
+    "hanzi": "练",
+    "traditional": "練",
+    "kind": "simplified",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "柬（練）",
+    "historicalNote": "練从糸、柬声，本义与煮炼丝或织品使其柔白有关，后有熟练、练习等义。",
+    "modernNote": "现代字形：纟＋𫠣＝练。现代练的右部为𫠣，既不是东也不是完整柬；练习图是引申义示意。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·練",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B7%B4",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代练的右部为𫠣，既不是东也不是完整柬；练习图是引申义示意。"
+  },
+  "组": {
+    "hanzi": "组",
+    "traditional": "組",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "且",
+    "historicalNote": "組早期从糸、且声，与编织的带绶有关，后有组合、组织等用法。",
+    "modernNote": "现代字形：纟＋且＝组。编织带可解释旧义，一组人物表示现代引申义，两者须区分。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·組",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B5%84",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "编织带可解释旧义，一组人物表示现代引申义，两者须区分。"
+  },
+  "经": {
+    "hanzi": "经",
+    "traditional": "經",
+    "kind": "simplified",
+    "semanticParts": [
+      "糸",
+      "巠（兼义）"
+    ],
+    "phoneticPart": "巠（經）",
+    "historicalNote": "經早期从糸、巠，巠像织机上垂直的丝线，也表声；与经线有关。",
+    "modernNote": "现代字形：纟＋𢀖＝经。现代右部是𢀖；路径、经过等是引申用法，不能只画一条路就声称是原始字形。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·經",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B6%93",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "CJKVI/CHISE IDS · 现代结构核对",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代右部是𢀖；路径、经过等是引申用法，不能只画一条路就声称是原始字形。"
+  },
+  "细": {
+    "hanzi": "细",
+    "traditional": "細",
+    "kind": "simplified",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "囟",
+    "historicalNote": "旧字的糸与细丝相关，历史声旁是囟，后来写得像田。",
+    "modernNote": "现在可拆成纟和田；田形不能据此解释为田地，图宜用细丝与粗绳对照。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·細",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B4%B0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "田不是本字历史声旁的准确原形。"
+  },
+  "线": {
+    "hanzi": "线",
+    "traditional": "線",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "戔",
+    "historicalNote": "綫用糸表丝缕、戔表音；線与綫同义。",
+    "modernNote": "纟是糸旁简化，戋对应戔；画细线，不能画成两把戈形成线。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·線",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B7%9A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "应同时解释線与綫的关系。"
+  },
+  "续": {
+    "hanzi": "续",
+    "traditional": "續",
+    "kind": "simplified",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "𧷏（后写賣）",
+    "historicalNote": "旧形用糸联系接续，另一部件用来表音，楷书后来写作賣。",
+    "modernNote": "现代右部写卖，仅是简化对应，不能用买卖来推出继续。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "教育部《异体字字典》·續",
+        "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=34138&la=0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "历史声旁并非“卖东西”的意义相加。"
+  },
+  "纪": {
+    "hanzi": "纪",
+    "traditional": "紀",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "己",
+    "historicalNote": "篆文由糸与声旁己组成，早期指编结、约束丝缕的绳。",
+    "modernNote": "纟保留丝线联系，己在这里作声旁；记年、纪律等须结合整词。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·紀",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B4%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不要用“自己的丝线”当作字源。"
+  },
+  "约": {
+    "hanzi": "约",
+    "traditional": "約",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "勺",
+    "historicalNote": "糸联系缠束，勺承担表音作用，后有约束、约定等义。",
+    "modernNote": "纟与勺仍可辨认；勺形不是约会中使用的勺子。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·約",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B4%84",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "用绳束联想本义，约会图只说明现代词义。"
+  },
+  "织": {
+    "hanzi": "织",
+    "traditional": "織",
+    "kind": "simplified",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "戠（更早金文另有写法）",
+    "historicalNote": "旧字与制作布帛有关，糸指丝线，戠在篆文作声旁。",
+    "modernNote": "现代右部只替代复杂旧部件，不应说只有一根线就织成布。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·織",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B9%94",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代只不能直接认作历史声旁。"
+  },
+  "给": {
+    "hanzi": "给",
+    "traditional": "給",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "合",
+    "historicalNote": "糸为形符，合为声符；早期有充足、丰裕义，后来有供应、交付义。",
+    "modernNote": "交付物品的图片对应给gěi的现代用法；合在此不解释成把手合拢。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·給",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B5%A6",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "古今读音和义项均须分清。"
+  },
+  "绝": {
+    "hanzi": "绝",
+    "traditional": "絕",
+    "kind": "simplified",
+    "semanticParts": [
+      "刀",
+      "幺（丝线）"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "早期字形表现用刀切断丝线，后有断绝等引申义。",
+    "modernNote": "现代可拆纟和色，但色不是颜色义，也不能机械当历史声旁。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·絕",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B5%95",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "宜画切断丝线；绝对须另按整词解释。"
+  },
+  "纸": {
+    "hanzi": "纸",
+    "traditional": "紙",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "糸"
+    ],
+    "phoneticPart": "氏",
+    "historicalNote": "糸为形符，氏为声符，表示纸张。",
+    "modernNote": "画纸张可以说明字义；氏作表音部件，不能讲成氏族制造纸。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·紙",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B4%99",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "图片不必强迫完整字形像纸。"
+  },
+  "晴": {
+    "hanzi": "晴",
+    "traditional": "晴",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "日"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "日联系天光，青与晴形成读音联系；教学资料将它列入青声旁字族。",
+    "modernNote": "左日表天光线索，右青提示音；并非蓝色天空与太阳直接画成晴。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "教育部《异体字字典》·晴",
+        "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=19986",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "香港教育局·读写乐青字歌",
+        "url": "https://sense.edb.gov.hk/uploads/tc/content/Fun_with_reading_and_writing_s.pdf",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "未把晴称为甲骨文象形字。"
+  },
+  "时": {
+    "hanzi": "时",
+    "traditional": "時",
+    "kind": "simplified",
+    "semanticParts": [
+      "日"
+    ],
+    "phoneticPart": "之（早期），寺（后形）",
+    "historicalNote": "早期旹由日联系时日、之表音；后来的時使用寺部件。",
+    "modernNote": "现代时拆日寸，寸是简化后的字形，不能讲成一寸太阳就是时间。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·時",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%99%82",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "需要古今层次。"
+  },
+  "明": {
+    "hanzi": "明",
+    "traditional": "明",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "日",
+      "月"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "古文字有日月并列和月与窗形等多种形体；天明、明亮的解释并存。",
+    "modernNote": "当前字形是日加月，可用日月之光助记，但须说明这不是唯一古形。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·明",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%98%8E",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "字源有多说，不能只宣称太阳加月亮是唯一来源。"
+  },
+  "晚": {
+    "hanzi": "晚",
+    "traditional": "晚",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "日"
+    ],
+    "phoneticPart": "免",
+    "historicalNote": "日联系日暮，免承担表音作用，后引申时间迟。",
+    "modernNote": "画日落说明晚；免不等于免除太阳或兔子。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·晚",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%99%9A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "免作为声旁，不能加上独立免除义。"
+  },
+  "昨": {
+    "hanzi": "昨",
+    "traditional": "昨",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "日"
+    ],
+    "phoneticPart": "乍",
+    "historicalNote": "日联系时间，乍提示音，表示前一天及过去。",
+    "modernNote": "可用昨日标记的日历说明字义；乍不画成突然发生的动作来拼义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·昨",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%98%A8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "图片须区别今天、昨天、晚间。"
+  },
+  "晒": {
+    "hanzi": "晒",
+    "traditional": "曬",
+    "kind": "simplified",
+    "semanticParts": [
+      "日"
+    ],
+    "phoneticPart": "麗",
+    "historicalNote": "曬以日联系日照、麗表音，晒与曬有通用关系。",
+    "modernNote": "现代右西只是当前对应形状，不能据此说太阳西下产生晒。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·曬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9B%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代简体换部件后，不能把西当旧声旁。"
+  },
+  "睛": {
+    "hanzi": "睛",
+    "traditional": "睛",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "目"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "目表示眼的意义范围，青承担表音作用。",
+    "modernNote": "宜突出眼珠或视线，青只作读音线索；不要将绿色眼睛当字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·睛",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9D%9B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "睛多在眼睛中使用。"
+  },
+  "眼": {
+    "hanzi": "眼",
+    "traditional": "眼",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "目"
+    ],
+    "phoneticPart": "艮",
+    "historicalNote": "目是眼的形符，艮是声符，字义为眼睛。",
+    "modernNote": "画睁开的眼，目与眼轮廓可对照，艮不承担现代眼义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·眼",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9C%BC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不要伪造艮表示回头看的字源。"
+  },
+  "睡": {
+    "hanzi": "睡",
+    "traditional": "睡",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "目"
+    ],
+    "phoneticPart": "垂",
+    "historicalNote": "目联系眼睛，垂作声旁，早期指坐着打盹。",
+    "modernNote": "可画坐着闭眼打盹；垂也有下垂义，可作辅助联想但不能代替声旁说明。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·睡",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9D%A1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不是所有现代联想都是原始会意。"
+  },
+  "胖": {
+    "hanzi": "胖",
+    "traditional": "胖",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "肉",
+      "半"
+    ],
+    "phoneticPart": "半",
+    "historicalNote": "說文所记的结构是半与肉，半也兼表音；早期指祭祀用半边牲肉。",
+    "modernNote": "现代月形来自肉；肥胖是后来的常用义，不是半个月亮使人胖。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·胖",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%83%96",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "CUHK略说“肉亦声”与其引用說文“半亦声”矛盾，依所引原文标半。"
+  },
+  "肚": {
+    "hanzi": "肚",
+    "traditional": "肚",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "肉"
+    ],
+    "phoneticPart": "土",
+    "historicalNote": "肉联系身体，土提示音，指腹部或胃。",
+    "modernNote": "月形为肉旁，画腹部；土不是肚子里装泥土。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·肚",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%82%9A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "肚dù与猪肚dǔ读音须另分。"
+  },
+  "脸": {
+    "hanzi": "脸",
+    "traditional": "臉",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "肉"
+    ],
+    "phoneticPart": "僉",
+    "historicalNote": "肉联系人体，僉为声符，早期指两颊。",
+    "modernNote": "现代佥对应僉；图突出脸颊与面部，不按佥的独立字义拼凑。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·臉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%87%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "本义两颊与现代整个面部有范围变化。"
+  },
+  "腿": {
+    "hanzi": "腿",
+    "traditional": "腿",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "肉"
+    ],
+    "phoneticPart": "退",
+    "historicalNote": "月形部件联系肉身，退为声符，指支撑身体、行走的下肢。",
+    "modernNote": "画完整腿部，退可联想后退动作，但此联想不能代替声旁作用。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·腿",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%85%BF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "月是肉旁，不是月亮。"
+  },
+  "脏": {
+    "hanzi": "脏",
+    "traditional": "髒",
+    "kind": "simplified",
+    "semanticParts": [
+      "骨"
+    ],
+    "phoneticPart": "葬",
+    "historicalNote": "zāng“不干净”对应髒，旧字从骨、葬表音。",
+    "modernNote": "简化后的月加庄不能解释为肉旁加庄园；此字也合并臟zàng，须按读音分别学。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·髒",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%AB%92",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "当前归入月形是现代字形分类，非本义身体分类。"
+  },
+  "地": {
+    "hanzi": "地",
+    "traditional": "地",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "土"
+    ],
+    "phoneticPart": "也",
+    "historicalNote": "土表示地面意义范围，也作声旁，与天相对。",
+    "modernNote": "画土地和地面，右也在此不表示“也一样”。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·地",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9C%B0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不能把独立也义加进地。"
+  },
+  "坏": {
+    "hanzi": "坏",
+    "traditional": "壞",
+    "kind": "simplified",
+    "semanticParts": [
+      "土"
+    ],
+    "phoneticPart": "褱",
+    "historicalNote": "壞以土作形符，褱作声符，表示败坏等。",
+    "modernNote": "现代右不只是简化后的形状，不是“不好的土”这一确定字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·壞",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A3%9E",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "坏原也有坯的用法，不应与现代huài混成一个起源故事。"
+  },
+  "城": {
+    "hanzi": "城",
+    "traditional": "城",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "𩫖（城郭形），后为土"
+    ],
+    "phoneticPart": "成",
+    "historicalNote": "较早字形含城郭形与成，成亦为声符，指城邑。",
+    "modernNote": "现代土联系城墙建筑，成提示音；宜画城墙围城而非一栋楼。",
+    "modernRoles": {
+      "left": {
+        "label": "意义线索",
+        "detail": "土联系夯土城墙；较早的城郭形后来写作土。"
+      }
+    },
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·城",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9F%8E",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "成的军事解释是资料中的具体解释，不必强行画现代“成功”。"
+  },
+  "块": {
+    "hanzi": "块",
+    "traditional": "塊",
+    "kind": "simplified",
+    "semanticParts": [
+      "土"
+    ],
+    "phoneticPart": "鬼",
+    "historicalNote": "塊用土联系土块，鬼作声旁。",
+    "modernNote": "现代夬是简化后的部件，不是切开或决断的动作给出块义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·塊",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A1%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "图画独立土块，不能当夬形图源。"
+  },
+  "钱": {
+    "hanzi": "钱",
+    "traditional": "錢",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "戔",
+    "historicalNote": "金为形符，戔为声符；早期曾指铲形农具，后来多指货币。",
+    "modernNote": "现代钅与戋承接旧形；钱币图说明今天的钱义，非整个字的象形来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·錢",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%8C%A2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不把两把戈等于钱当作字源。"
+  },
+  "铁": {
+    "hanzi": "铁",
+    "traditional": "鐵",
+    "kind": "simplified",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "𢧤",
+    "historicalNote": "鐵用金联系金属，复杂右部𢧤作声旁，表示铁。",
+    "modernNote": "现代铁右写失，是简化后的部件，不能解释成失去金属或丢铁。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·鐵",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%90%B5",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "失不是传统鐵的完整声符。"
+  },
+  "银": {
+    "hanzi": "银",
+    "traditional": "銀",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "艮",
+    "historicalNote": "金是金属意义线索，艮是声符，指银这种金属。",
+    "modernNote": "画银锭与银色金属，艮不表示银的性质。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·銀",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%8A%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "银色场景应区别钱和铁。"
+  },
+  "镜": {
+    "hanzi": "镜",
+    "traditional": "鏡",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "竟",
+    "historicalNote": "金表示古代铜镜的材料范围，竟提示读音。",
+    "modernNote": "宜画能映出人像的镜面，右竟不等于竞赛获胜。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·鏡",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%8F%A1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代玻璃镜不改变历史金属线索。"
+  },
+  "错": {
+    "hanzi": "错",
+    "traditional": "錯",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "昔",
+    "historicalNote": "金为形符，昔为声符，早期与磨玉石的工具有关。",
+    "modernNote": "错误符号只解释现代错义；昔不是昨天犯错的造字故事。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·錯",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%8C%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代错误义与古工具义应分开。"
+  },
+  "针": {
+    "hanzi": "针",
+    "traditional": "針",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "十",
+    "historicalNote": "金联系金属，十在传统分析中作声旁，指缝纫针。",
+    "modernNote": "画针眼和针尖；十不能简单解释为十根针。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·針",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%87%9D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "古音与现代普通话差异大，注明历史声旁。"
+  },
+  "饭": {
+    "hanzi": "饭",
+    "traditional": "飯",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "反",
+    "historicalNote": "食是进食意义线索，反是声符。",
+    "modernNote": "现代饣来自食旁；饭碗对应现代饭义，不用翻饭的动作来冒充本义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·飯",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A3%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "反作声旁。"
+  },
+  "饼": {
+    "hanzi": "饼",
+    "traditional": "餅",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "并",
+    "historicalNote": "食表示食物，并提示音，早期泛指蒸烤的面食，后来多为扁圆食品。",
+    "modernNote": "画扁圆饼，右并不解释成必须把两个饼合并。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·餅",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A4%85",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代音与声旁并有变化。"
+  },
+  "饺": {
+    "hanzi": "饺",
+    "traditional": "餃",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "交",
+    "historicalNote": "食联系食品，交为声符，表示薄面皮包馅的食品。",
+    "modernNote": "画有折褶的饺子，交不解释成两人交朋友吃饺子。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·餃",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A4%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "饺通常在饺子一词中使用。"
+  },
+  "馆": {
+    "hanzi": "馆",
+    "traditional": "館",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "官",
+    "historicalNote": "食为形符，官为声符，早期指招待宾客住宿的房舍。",
+    "modernNote": "现代馆已用于图书馆等多类场所，图片应标明具体词例。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·館",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A4%A8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "食旁并不要求今天所有馆都提供食物。"
+  },
+  "饿": {
+    "hanzi": "饿",
+    "traditional": "餓",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "我",
+    "historicalNote": "食表示进食范围，我作声旁，表示饥饿。",
+    "modernNote": "画想吃饭的人，只说明现代字义；我不表示只有“我”会饿。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·餓",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A4%93",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "避免把第一人称义加进构字解释。"
+  },
+  "饱": {
+    "hanzi": "饱",
+    "traditional": "飽",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "包",
+    "historicalNote": "食联系吃，包提示音，表示吃够了。",
+    "modernNote": "画吃饱状态，包不等于吃包子才能饱。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·飽",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A3%BD",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "包有独立包裹义，在此主要按声旁说明。"
+  },
+  "猫": {
+    "hanzi": "猫",
+    "traditional": "貓",
+    "kind": "simplified",
+    "semanticParts": [
+      "豸（旧形），犬（猫字形）"
+    ],
+    "phoneticPart": "苗",
+    "historicalNote": "貓以豸表兽类范围、苗表音；现代猫改用犭形。",
+    "modernNote": "犭作动物线索，苗提示音；不要画猫藏在秧苗里并称为字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·貓",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B2%93",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "豸与犬类形符在传统、现代形体有变化。"
+  },
+  "狗": {
+    "hanzi": "狗",
+    "traditional": "狗",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "犬"
+    ],
+    "phoneticPart": "句",
+    "historicalNote": "古字从犬、句表音，表示狗类。",
+    "modernNote": "犭是犬的偏旁形，句不是句子义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·狗",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8B%97",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "图应表现犬而不以整字外形像狗作断言。"
+  },
+  "猪": {
+    "hanzi": "猪",
+    "traditional": "豬",
+    "kind": "simplified",
+    "semanticParts": [
+      "豕（旧形），犬（猪字形）"
+    ],
+    "phoneticPart": "者",
+    "historicalNote": "豬从豕，者为声旁，指猪。",
+    "modernNote": "现代左部犭是动物类偏旁，右者提示音，不能说猪由犬演化。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·豬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B1%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "传统豕与简体犭需要说明。"
+  },
+  "猜": {
+    "hanzi": "猜",
+    "traditional": "猜",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "犬"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "犬为形符、青为声符，早期有嫉恨义。",
+    "modernNote": "推测答案的画面对应现代猜义；不能把动物看青色当作猜的来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·猜",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8C%9C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代意义不能直接从犬旁推断。"
+  },
+  "冰": {
+    "hanzi": "冰",
+    "traditional": "冰",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "水",
+      "仌（冰块形）"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "古字把水形与表示冰块的粗点组合，表示结冰。",
+    "modernNote": "冫对应冰的偏旁形，与水并列；图片应是凝固冰块与水的对照。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·冰",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%86%B0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "此例可讲古形物象组合，不必说右水是声旁。"
+  },
+  "冷": {
+    "hanzi": "冷",
+    "traditional": "冷",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "仌"
+    ],
+    "phoneticPart": "令",
+    "historicalNote": "仌联系寒冰，令为声符，表示低温寒冷。",
+    "modernNote": "左冫是冰旁，右令提示音；画低温和发冷。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·冷",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%86%B7",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不能把命令使人冷当字源。"
+  },
+  "冻": {
+    "hanzi": "冻",
+    "traditional": "凍",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "仌"
+    ],
+    "phoneticPart": "東",
+    "historicalNote": "仌表示冰的范围，東作声旁，早期有厚冰义。",
+    "modernNote": "现代东对应東；不能解释为东方来的冰。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·凍",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%87%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "画冻结，与冰的名词场景区分。"
+  },
+  "净": {
+    "hanzi": "净",
+    "traditional": "淨",
+    "kind": "simplified",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "爭",
+    "historicalNote": "淨原以水为形符，爭为声符。",
+    "modernNote": "现代净是冫加争；冫形不能据此讲成由冰产生干净。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·淨",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B7%A8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "这是水旁简变为冫的例外。"
+  },
+  "凉": {
+    "hanzi": "凉",
+    "traditional": "涼",
+    "kind": "simplified",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "京",
+    "historicalNote": "涼从水，京作声符；资料还记有薄酒的早期义。",
+    "modernNote": "现代凉用冫形，凉爽画面说明常用义；不是京城冰水的组合故事。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·涼",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B6%BC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "水旁与冫形的演变要分清。"
+  },
+  "灯": {
+    "hanzi": "灯",
+    "traditional": "燈",
+    "kind": "simplified",
+    "semanticParts": [
+      "火"
+    ],
+    "phoneticPart": "登",
+    "historicalNote": "燈用火联系照明，登作声旁。",
+    "modernNote": "现代丁是简化后的右部，不能把火丁当传统原始结构。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·燈",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%87%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "丁与灯同韵可辅助记音，但须与登的历史区分。"
+  },
+  "炒": {
+    "hanzi": "炒",
+    "traditional": "炒",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "火"
+    ],
+    "phoneticPart": "少",
+    "historicalNote": "火是加热意义线索，少作声旁。",
+    "modernNote": "用锅铲翻动食物说明炒；“少量油”是烹饪知识助记，不是已证造字来源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·炒",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%82%92",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "少作声旁。"
+  },
+  "烧": {
+    "hanzi": "烧",
+    "traditional": "燒",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "火"
+    ],
+    "phoneticPart": "堯",
+    "historicalNote": "火联系着火燃烧，堯为声符。",
+    "modernNote": "现代尧对应堯；画燃烧或烧菜，不把尧的独立身份加入图源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·燒",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%87%92",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "火为形符。"
+  },
+  "烤": {
+    "hanzi": "烤",
+    "traditional": "烤",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "火"
+    ],
+    "phoneticPart": "考",
+    "historicalNote": "火联系加热，考提示音，指火烘干或烘熟。",
+    "modernNote": "画食物靠热源烤熟，考不解释成考试。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·烤",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%83%A4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "与炒的锅铲场景须区分。"
+  },
+  "烟": {
+    "hanzi": "烟",
+    "traditional": "煙",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "火"
+    ],
+    "phoneticPart": "因（烟），垔（煙）",
+    "historicalNote": "煙以火联系燃烧、垔表音，烟与煙古可通用。",
+    "modernNote": "当前烟字右部因是表音对应，不能解释成因果冒烟。",
+    "modernRoles": {
+      "right": {
+        "label": "历史声旁",
+        "detail": "烟以因表音，另一传统写法煙以垔表音；声旁提示历史读音。"
+      }
+    },
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·煙",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%85%99",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "别把古烟形当作纯粹现代任意替换。"
+  },
+  "精": {
+    "hanzi": "精",
+    "traditional": "精",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "米"
+    ],
+    "phoneticPart": "青",
+    "historicalNote": "說文分析为米形符、青声符，并以择取解释；可联系精米。",
+    "modernNote": "精神、精力等现代义须按词学，图若画精神状态应标作现代义图。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·精",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B2%BE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不可用青色米粒说明全部精义。"
+  },
+  "料": {
+    "hanzi": "料",
+    "traditional": "料",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "米",
+      "斗"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "古字从米与斗，表现用斗量米的动作。",
+    "modernNote": "斗是量粮器，配米粒和量斗图；现代材料是引申义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·料",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%96%99",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "此字适合实物与动作图源。"
+  },
+  "粗": {
+    "hanzi": "粗",
+    "traditional": "粗",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "米"
+    ],
+    "phoneticPart": "且",
+    "historicalNote": "米联系粗粮，且为声旁，早期有糙米、粗粮义。",
+    "modernNote": "粗绳或粗线图只说明粗细义；且不直接表示粗的形状。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·粗",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B2%97",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "与细需用有量级差别的图，不用同一个线图。"
+  },
+  "糖": {
+    "hanzi": "糖",
+    "traditional": "糖",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "米"
+    ],
+    "phoneticPart": "唐",
+    "historicalNote": "米为食物类形符，唐作声旁，表示糖类。",
+    "modernNote": "画糖块或制糖食物，唐不是唐朝人物的意义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·糖",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B3%96",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "精糖等应用需以词义为准。"
+  },
+  "视": {
+    "hanzi": "视",
+    "traditional": "視",
+    "kind": "simplified",
+    "semanticParts": [
+      "目",
+      "人（早形），見（后形）"
+    ],
+    "phoneticPart": "氏（部分金文）",
+    "historicalNote": "早形突出人的眼睛表示视看；部分金文又加氏为声旁，后成为視。",
+    "modernNote": "现代礻加见不能说祭祀生成视觉；见保留看见的联系，礻只按当前字形辨认。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·視（已另行全文核对）",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A6%96",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不是示旁所有字都祭祀表义的反例。"
+  },
+  "祝": {
+    "hanzi": "祝",
+    "traditional": "祝",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "示",
+      "口",
+      "卩（人形）"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "古字表现人在神主前张口祝祷，后来有祝愿义。",
+    "modernNote": "右兄形在早字中来自张口的人，不是兄长给祝福的故事。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·祝",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A5%9D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "此处不能机械按兄声解释。"
+  },
+  "神": {
+    "hanzi": "神",
+    "traditional": "神",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "示"
+    ],
+    "phoneticPart": "申（亦有相关意义）",
+    "historicalNote": "示联系祭祀、神祇，申兼有声符作用。",
+    "modernNote": "左礻承接示，右申提示音；精神等词中的神为现代引申。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·神",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A5%9E",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不可由整字轮廓硬说像人或闪电。"
+  },
+  "社": {
+    "hanzi": "社",
+    "traditional": "社",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "示",
+      "土"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "示与土组合，早期表示土地之神及有关祭祀。",
+    "modernNote": "社会、社团义是后续词义，图片须标现代词例；不说两栋房形成社会。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·社",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A4%BE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "示旁可追到祭祀，现代社会不是直接象形。"
+  },
+  "被": {
+    "hanzi": "被",
+    "traditional": "被",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "衣"
+    ],
+    "phoneticPart": "皮",
+    "historicalNote": "衣作形符、皮作声符，联系覆盖身体的衣被。",
+    "modernNote": "画被子以说明名词义；被动句的被另按语法学习。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·被",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A2%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "皮不等于必须用兽皮做被。"
+  },
+  "裙": {
+    "hanzi": "裙",
+    "traditional": "裙",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "巾（早形），衣（后形）"
+    ],
+    "phoneticPart": "君",
+    "historicalNote": "秦简与小篆有帬形，从巾、君声；后以衣旁写裙。",
+    "modernNote": "衤联系衣服，君提示音，裙摆图说明现代义。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·裙",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A3%99",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不可说君王的衣服就是裙。"
+  },
+  "裤": {
+    "hanzi": "裤",
+    "traditional": "褲",
+    "kind": "simplified",
+    "semanticParts": [
+      "糸（絝），衣（褲）"
+    ],
+    "phoneticPart": "夸（絝），庫（褲后形）",
+    "historicalNote": "早期絝从糸、夸声，后有袴、褲等形，表示腿部衣物。",
+    "modernNote": "当前裤的衤表示衣物，库与裤可对照读音，不能解释为装衣服的仓库。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "教育部《异体字字典》·褲",
+        "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=40844",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "早期形与后起褲形须分层。"
+  },
+  "初": {
+    "hanzi": "初",
+    "traditional": "初",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "衣",
+      "刀"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "衣与刀组合表现裁衣，后来引申开始、最初。",
+    "modernNote": "用刀裁布的动作图比日历上开始按钮更适合构形解释。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·初",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%88%9D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "刀在此是意义部件，并非声旁。"
+  },
+  "路": {
+    "hanzi": "路",
+    "traditional": "路",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "足"
+    ],
+    "phoneticPart": "各",
+    "historicalNote": "足联系行走，各在传统分析中作声符，表示道路。",
+    "modernNote": "画脚走在道路上，不能说“各自用脚走”是唯一确证字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·路",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B7%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "古今各与路读音差异，应标历史声旁。"
+  },
+  "跑": {
+    "hanzi": "跑",
+    "traditional": "跑",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "足"
+    ],
+    "phoneticPart": "包",
+    "historicalNote": "足为意义线索，包为声旁，后来常表示快步奔行。",
+    "modernNote": "画跑步动作，不用包着脚或背包跑来当原始解释。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·跑",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B7%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "跑也有刨地的旧用法，字形不能只按现代动作拼义。"
+  },
+  "跳": {
+    "hanzi": "跳",
+    "traditional": "跳",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "足"
+    ],
+    "phoneticPart": "兆",
+    "historicalNote": "足联系脚的动作，兆为声旁。",
+    "modernNote": "画双脚离地，右兆不代表一兆次跳跃。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·跳",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B7%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "与跑、踢需要动作轮廓差别。"
+  },
+  "踢": {
+    "hanzi": "踢",
+    "traditional": "踢",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "足"
+    ],
+    "phoneticPart": "易",
+    "historicalNote": "足为动作意义线索，易为声旁。",
+    "modernNote": "画脚触球的瞬间，易不表示踢球很容易。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·踢",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B8%A2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "可用现代动作图，不称整字是人体象形。"
+  },
+  "理": {
+    "hanzi": "理",
+    "traditional": "理",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "玉"
+    ],
+    "phoneticPart": "里",
+    "historicalNote": "玉作形符、里作声符，早期联系玉的纹理及治玉。",
+    "modernNote": "王形旁为玉旁；整理、道理是引申，里不表示内部与道理直接相加。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·理",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%90%86",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "宜以玉纹作构形图，再另附现代管理义。"
+  },
+  "玩": {
+    "hanzi": "玩",
+    "traditional": "玩",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "玉"
+    ],
+    "phoneticPart": "元",
+    "historicalNote": "玉为形符、元为声符，早期有把玩、玩赏义。",
+    "modernNote": "游戏或玩具图说明现代玩耍；元不是一元钱买玩具的字源。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·玩",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8E%A9",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不得以现代例子替代字源。"
+  },
+  "球": {
+    "hanzi": "球",
+    "traditional": "球",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "玉"
+    ],
+    "phoneticPart": "求",
+    "historicalNote": "玉为形符、求为声符，早期表示美玉。",
+    "modernNote": "球体与球类运动是后来的常用义；玉旁不意味着现代球都由玉制。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·球",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%90%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "玉与球的圆形联想只能作助记。"
+  },
+  "现": {
+    "hanzi": "现",
+    "traditional": "現",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "王（玉形）"
+    ],
+    "phoneticPart": "見",
+    "historicalNote": "現的王形左部与見组合，字库将見分析为声符，表示显露。",
+    "modernNote": "现代王加见，见也能帮助联想看得见，但不要解释成国王看到东西。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·現",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8F%BE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "独立王义与玉旁要区分。"
+  },
+  "蛇": {
+    "hanzi": "蛇",
+    "traditional": "蛇",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "虫"
+    ],
+    "phoneticPart": "它（兼为蛇的早期字）",
+    "historicalNote": "它本来描画蛇，后来加虫分化为蛇；它在此也保留读音历史关系。",
+    "modernNote": "虫和它均与蛇的早形有关，不能把现代代词它直接加成“虫子它”。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·它",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AE%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不必硬造一个完整蛇字像蛇的轮廓。"
+  },
+  "蝴": {
+    "hanzi": "蝴",
+    "traditional": "蝴",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "虫"
+    ],
+    "phoneticPart": "胡",
+    "historicalNote": "虫为形符、胡为声符，蝴是胡蝶一词后来增加虫旁形成的字。",
+    "modernNote": "画蝴蝶整体说明词义，胡在此不画胡须。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·蝴",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%9D%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "蝴应与蝶连词学习。"
+  },
+  "蚁": {
+    "hanzi": "蚁",
+    "traditional": "蟻",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "虫"
+    ],
+    "phoneticPart": "義",
+    "historicalNote": "虫为动物类形符、義为声符，指蚂蚁。",
+    "modernNote": "现代义对应義，不能讲成有义气的昆虫。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·蟻",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%9F%BB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "图要突出蚂蚁结构而非泛用蝴蝶或蚊子图。"
+  },
+  "蚊": {
+    "hanzi": "蚊",
+    "traditional": "蚊",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "虫"
+    ],
+    "phoneticPart": "文",
+    "historicalNote": "蚊是蟁的俗体，虫为形符，文为声符。",
+    "modernNote": "画细长口器和长腿，文不解释成文字写在虫身上。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·蚊",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%9A%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "与蚁、蝴有明显外形差别。"
+  },
+  "转": {
+    "hanzi": "转",
+    "traditional": "轉",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "車"
+    ],
+    "phoneticPart": "專",
+    "historicalNote": "車联系转运移动，專为声旁。",
+    "modernNote": "现代车专承接旧字；转向zhuǎn与旋转zhuàn须按词义区分。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·轉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%BD%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不能用专心开车作为确定字源。"
+  },
+  "轮": {
+    "hanzi": "轮",
+    "traditional": "輪",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "車"
+    ],
+    "phoneticPart": "侖",
+    "historicalNote": "車联系车辆，侖作声旁，指车轮。",
+    "modernNote": "轮的仑对应侖；宜画有轮轴的车轮而不使用整辆轿车图。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·輪",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%BC%AA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "与辆须区别单个轮和整车。"
+  },
+  "辆": {
+    "hanzi": "辆",
+    "traditional": "輛",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "車"
+    ],
+    "phoneticPart": "兩（兼相关意义）",
+    "historicalNote": "車与兩组合，兩表音；古车通常两轮，与车辆计量有联系。",
+    "modernNote": "现代辆用于车辆量词，图画一辆车并标计数；两形不等于两辆。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·輛",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%BC%9B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "历史两轮与现代量词“一辆”别混淆。"
+  },
+  "软": {
+    "hanzi": "软",
+    "traditional": "軟",
+    "kind": "uncertain",
+    "semanticParts": [],
+    "phoneticPart": null,
+    "historicalNote": "軟是柔软义字的一种俗写形，资料可确认車与欠的写法，但未据此证成“车加欠为何柔软”。",
+    "modernNote": "当前软可辨车欠，以软物弯曲的场景记完整字义；不把欠断言为声旁或身体疲软来源。",
+    "confidence": "modern-only",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·軟",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%BB%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "此字只提供现代形体与字义，不编造象形演化链。"
+  },
+  "破": {
+    "hanzi": "破",
+    "traditional": "破",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "石"
+    ],
+    "phoneticPart": "皮",
+    "historicalNote": "石为形符、皮为声符，早期表示石头碎裂。",
+    "modernNote": "画裂开的石块；皮不表示石头长皮。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·破",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A0%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "现代破损可引申到其他物品。"
+  },
+  "硬": {
+    "hanzi": "硬",
+    "traditional": "硬",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "石"
+    ],
+    "phoneticPart": "更",
+    "historicalNote": "石联系坚硬物体，更作声旁。",
+    "modernNote": "画硬石抗压或硬软对比；更不是“更硬”这一造字故事。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·硬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A1%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "声旁古音与现代读音不必完全相同。"
+  },
+  "矿": {
+    "hanzi": "矿",
+    "traditional": "礦",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "石"
+    ],
+    "phoneticPart": "廣",
+    "historicalNote": "石联系矿石，廣为声旁。",
+    "modernNote": "现代广对应廣，洞穴矿井图是开矿场景，不是广字的确定象形解释。",
+    "modernRoles": {
+      "right": {
+        "label": "历史声旁",
+        "detail": "现代广形对应旧字礦中的廣声，主要保留字形和读音联系。"
+      }
+    },
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·礦",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A4%A6",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "古今形声关系保留在简化对应中。"
+  },
+  "码": {
+    "hanzi": "码",
+    "traditional": "碼",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "石"
+    ],
+    "phoneticPart": "馬",
+    "historicalNote": "石为形符、馬为声符，后来常指表示数目的符号及工具。",
+    "modernNote": "现代马对应馬，号码牌或数字图说明现代用法，不说马变成石头产生代码。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·碼",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A2%BC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "reviewNote": "不要把现代代码图称为造字原始物象。"
+  },
+  "汗": {
+    "hanzi": "汗",
+    "traditional": "汗",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "干",
+    "historicalNote": "字库据早期字形释为从水、干声，表示身体排出的汗液。干在这里提示历史读音，不表示“干燥”。",
+    "modernNote": "现代字形为氵＋干。额头汗珠对应今天的“汗”；不要把右部干的独立意义拼进整字。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·汗",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B1%97",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "流": {
+    "hanzi": "流",
+    "traditional": "流",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "㐬",
+    "historicalNote": "字库把早期流分析为水与㐬相合，㐬联系毓的省形和产子的图像，同时指出㐬的表音作用。其历史不能简化为“右边也是流水”。",
+    "modernNote": "现代字形为氵＋㐬。流水照片只解释今天“流动”的意义；㐬的现代笔画不是这张照片的直接描摹。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·流",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B5%81",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "池": {
+    "hanzi": "池",
+    "traditional": "池",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "它",
+    "historicalNote": "字库追溯到从水、它声的沱字；隶变时它与也的形体混同，逐渐形成池，后来池与沱分化。不能直接断言今天的也就是原始声旁。",
+    "modernNote": "现代左右结构是氵＋也。池塘照片解释现代常用义；右部也作为今天认字的部件观察。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·池",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B1%A0",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。",
+    "modernRoles": {
+      "right": {
+        "label": "现代字形部件",
+        "detail": "今天写也；字库追溯早期声旁为它，经历隶变后才形成现形。"
+      }
+    }
+  },
+  "泥": {
+    "hanzi": "泥",
+    "traditional": "泥",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "水"
+    ],
+    "phoneticPart": "尼",
+    "historicalNote": "从水、尼声。字库指出早期用作河流水名；湿土是后来通行的意义，不能把本卡泥地照片当作最早造字现场。",
+    "modernNote": "现代字形为氵＋尼。湿泥的照片帮助记住现在常用的“泥土”义；尼是历史读音线索。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·泥",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B3%A5",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "吹": {
+    "hanzi": "吹",
+    "traditional": "吹",
+    "kind": "semantic-compound",
+    "semanticParts": [
+      "口",
+      "欠"
+    ],
+    "phoneticPart": null,
+    "historicalNote": "字库把早期字形释为口与欠相合：欠联系张口的人形，表示向外吐气。这一构形中两个部分联系动作意义。",
+    "modernNote": "现代字形为口＋欠。照片中的吹气是本卡的现代动作义；这里的欠不能机械标成声旁。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·吹",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%B9",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "咳": {
+    "hanzi": "咳",
+    "traditional": "咳",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "口"
+    ],
+    "phoneticPart": "亥",
+    "historicalNote": "从口、亥声。字库指出古代本义与婴儿的笑声有关；今天ké的“咳嗽”义须与古义及其他读音区分。",
+    "modernNote": "本卡只学习ké“咳嗽”。照片是现代咳嗽动作，不能当作古代婴儿笑声的字源图。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·咳",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%92%B3",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "桃": {
+    "hanzi": "桃",
+    "traditional": "桃",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "兆",
+    "historicalNote": "从木、兆声，表示桃树，并可指桃的果实。木联系树木，兆主要提示历史读音。",
+    "modernNote": "现代字形为木＋兆。桃子照片对应常用果实义；兆的独立意义不等于桃子。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·桃",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A1%83",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "柳": {
+    "hanzi": "柳",
+    "traditional": "柳",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "木"
+    ],
+    "phoneticPart": "卯",
+    "historicalNote": "早期字形与木、卯相合，字库列有卯声的解释；其得声关系有不同讨论，早期部件排列也不全同于今天。",
+    "modernNote": "现代字形为木＋卯。柳树长枝用于认出现代所指的树种；不要把卯的古形断言为垂柳枝。",
+    "confidence": "disputed",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·柳",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9F%B3",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "坡": {
+    "hanzi": "坡",
+    "traditional": "坡",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "土"
+    ],
+    "phoneticPart": "皮",
+    "historicalNote": "从土、皮声，表示倾斜的地形。土联系地面，皮提示历史读音。",
+    "modernNote": "现代字形为土＋皮。倾斜山坡的照片说明现代词义；右部皮不是山坡表皮的图画。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·坡",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9D%A1",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "塔": {
+    "hanzi": "塔",
+    "traditional": "塔",
+    "kind": "phonosemantic",
+    "semanticParts": [
+      "土"
+    ],
+    "phoneticPart": "荅",
+    "historicalNote": "从土、荅声。字库联系梵语stūpa的音译，先指佛教塔式建筑，后来也指其他高耸建筑物。",
+    "modernNote": "现代字形为土＋荅。佛塔照片对应现代建筑物意义；荅的独立“小豆”义不参与这张塔的解释。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·塔",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A1%94",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "铃": {
+    "hanzi": "铃",
+    "traditional": "鈴",
+    "kind": "simplified",
+    "semanticParts": [
+      "金"
+    ],
+    "phoneticPart": "令",
+    "historicalNote": "繁体鈴从金、令声，表示可发声的金属器具；现代简体把金字旁写作钅。",
+    "modernNote": "现代字形为钅＋令。金属小铃的照片说明现代常用义；令在这个字里主要提示历史读音。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·鈴",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%88%B4",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。"
+  },
+  "饮": {
+    "hanzi": "饮",
+    "traditional": "飲",
+    "kind": "simplified",
+    "semanticParts": [
+      "食"
+    ],
+    "phoneticPart": "欠",
+    "historicalNote": "字库释甲骨形为人俯身对酒器酉张口饮酒；金文人形改为欠，亦有表音作用，左部酓后来楷化为食。简体飲再写作饮。",
+    "modernNote": "现代字形为饣＋欠。本卡只学习yǐn“喝”；喝水照片是现代动作示意，不能把它解释成“食物加打哈欠”。",
+    "confidence": "supported",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·飲",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A3%B2",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "reviewNote": "照片仅说明本卡选取的现代常用义；不能据此反推全部字源。",
+    "modernRoles": {
+      "left": {
+        "label": "简化后字形",
+        "detail": "饣是食字旁的简体形。早期左部另有酉、酓等形体，不是从最早就写成食。"
+      },
+      "right": {
+        "label": "历史声旁",
+        "detail": "字库说明金文的人形改写为欠，并有表音作用；不能直接套用欠的“欠缺”义。"
+      }
+    }
+  }
+}

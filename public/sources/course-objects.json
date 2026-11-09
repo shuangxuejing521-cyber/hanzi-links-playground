@@ -1,0 +1,368 @@
+{
+  "宀": {
+    "form": "宀",
+    "baseForm": "宀",
+    "id": "roof",
+    "src": "/images/course-objects/roof.png",
+    "sha256": "4c67b0263415b78941bf51f7be0244356630b219fbab03fad17095f53bab5c45",
+    "sizeBytes": 2239936,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-9f98acc2-7f47-49a7-a7da-403c380d0e99.png",
+    "korean": "집·지붕",
+    "meaningZh": "有覆盖的深屋；覆盖。图片以覆盖房屋的屋顶作物象参考。",
+    "captionKo": "집 위를 덮는 지붕의 윤곽을 살펴요.",
+    "shapeNoteKo": "宀는 집의 덮개와 관련된 부수예요. 그림은 옛 집의 예시이며 특정 시대의 유물 복원도는 아니에요.",
+    "aliases": [],
+    "sources": [
+      {
+        "title": "汉典 · 宀",
+        "url": "https://zdic.net/hans/%E5%AE%80",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square, high-resolution photorealistic educational object-reference image. Subject: the clearly recognizable complete roof of a small ancient Chinese timber house, seen directly from the front, a shallow symmetrical pitched roof with a distinct small central ridge, two sloping roof faces and broad low eaves. Include only a little supporting timber wall below so the roof silhouette is unmistakable. Natural weathered wood and straw/thatch, physically plausible construction, sharp readable edges, soft natural light, clean warm ivory background, simple spacious composition, realistic texture. This is an AI reconstruction to help learners notice a covering roof, not an archaeological photograph. Do not draw a Chinese character, do not force the roof into lettering, no labels, no calligraphy, no symbols, no people, no watermark, no emoji, no cartoon. The roof must occupy most of the image and remain legible as a roof in a small teaching card.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "正面屋顶、中央脊部、两侧坡面与屋檐清楚；无汉字、标签或水印。"
+    }
+  },
+  "竹": {
+    "form": "竹",
+    "baseForm": "竹",
+    "id": "bamboo",
+    "src": "/images/course-objects/bamboo.png",
+    "sha256": "30e505ee7ebc87d2bbd3c8e5ed195e2a3af69e502feb9718385ed70409acb0ec",
+    "sizeBytes": 1631225,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-c07f1ca6-5dba-40ea-b94e-d587275487d4.png",
+    "korean": "대나무",
+    "meaningZh": "竹子：竹茎有节，叶片细长。⺮是竹作字头时的写法。",
+    "captionKo": "마디가 있는 두 대나무 줄기와 잎을 비교해요.",
+    "shapeNoteKo": "본자 竹와 위쪽 부수 ⺮를 구분해요.",
+    "aliases": [
+      "⺮"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 竹",
+        "url": "https://zdic.net/hans/%E7%AB%B9",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution lifelike botanical reference image on a clean warm ivory background. Exactly two upright green bamboo culms growing side by side, both fully framed from their small visible soil base to their complete leafy tops. Each thick bamboo culm has several unmistakable horizontal nodes and realistic joint rings. A few slender branching twigs carry narrow pointed drooping bamboo leaves near the upper nodes. Clear separation between the two culms, natural green color, realistic botanical proportions and fine surface texture, soft daylight, crisp silhouette, centered object with generous margins. It must be instantly recognizable as bamboo rather than ordinary grass or generic branches. No human, no panda, no pots, no text, no Chinese characters, no labels, no symbols, no watermark, no emoji or cartoon.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "两根竹秆、竹节与细长下垂叶片清晰；与草苗图不同；无字。"
+    }
+  },
+  "⺮": {
+    "form": "⺮",
+    "baseForm": "竹",
+    "id": "bamboo",
+    "src": "/images/course-objects/bamboo.png",
+    "sha256": "30e505ee7ebc87d2bbd3c8e5ed195e2a3af69e502feb9718385ed70409acb0ec",
+    "sizeBytes": 1631225,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-c07f1ca6-5dba-40ea-b94e-d587275487d4.png",
+    "korean": "대나무",
+    "meaningZh": "竹子：竹茎有节，叶片细长。⺮是竹作字头时的写法。",
+    "captionKo": "마디가 있는 두 대나무 줄기와 잎을 비교해요.",
+    "shapeNoteKo": "본자 竹와 위쪽 부수 ⺮를 구분해요.",
+    "aliases": [
+      "竹"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 竹",
+        "url": "https://zdic.net/hans/%E7%AB%B9",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution lifelike botanical reference image on a clean warm ivory background. Exactly two upright green bamboo culms growing side by side, both fully framed from their small visible soil base to their complete leafy tops. Each thick bamboo culm has several unmistakable horizontal nodes and realistic joint rings. A few slender branching twigs carry narrow pointed drooping bamboo leaves near the upper nodes. Clear separation between the two culms, natural green color, realistic botanical proportions and fine surface texture, soft daylight, crisp silhouette, centered object with generous margins. It must be instantly recognizable as bamboo rather than ordinary grass or generic branches. No human, no panda, no pots, no text, no Chinese characters, no labels, no symbols, no watermark, no emoji or cartoon.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "两根竹秆、竹节与细长下垂叶片清晰；与草苗图不同；无字。"
+    }
+  },
+  "艹": {
+    "form": "艹",
+    "baseForm": "艸",
+    "id": "grass",
+    "src": "/images/course-objects/grass.png",
+    "sha256": "b9978431cba045216b8bfe1526c7aa25b15141d17a6cf8ce52059763fc6db3da",
+    "sizeBytes": 1629477,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-57976f78-5721-4abb-94b2-60e75799cdf2.png",
+    "korean": "풀",
+    "meaningZh": "草木初生的草苗。艹同艸，用作偏旁；艸的传统分析为从二屮。",
+    "captionKo": "나란히 돋은 두 무리의 어린 풀을 살펴요.",
+    "shapeNoteKo": "옛 본자 艸와 오늘의 풀 머리 艹를 비교해요.",
+    "aliases": [
+      "艸"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 艹",
+        "url": "https://zdic.net/hans/%E8%89%B9",
+        "accessed": "2026-11-06"
+      },
+      {
+        "title": "汉典 · 艸",
+        "url": "https://zdic.net/hans/%E8%89%B8",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution photorealistic botanical reference image. Subject: two separate small clumps of newly sprouted ordinary green grass growing next to each other from a very thin small patch of natural brown soil. Each clump has a short upright stem and a few fresh narrow grass blades spreading upward and slightly outward; the two young plants and their complete leaves are clearly separated and fully visible. Clean warm ivory studio background, crisp natural textures, soft daylight, minimal composition, generous margins, grass occupies the center. The plants must read as young growing grass, not bamboo, not flowers, not a decorative leafy houseplant. This is a modern object reference, not an ancient inscription. No text, no Chinese characters, no glyph overlay, no labels, no arrows, no watermark, no emoji, no cartoon.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "两株初生草苗有清晰叶片与土面，不是竹或花卉；无文字或符号。"
+    }
+  },
+  "艸": {
+    "form": "艸",
+    "baseForm": "艸",
+    "id": "grass",
+    "src": "/images/course-objects/grass.png",
+    "sha256": "b9978431cba045216b8bfe1526c7aa25b15141d17a6cf8ce52059763fc6db3da",
+    "sizeBytes": 1629477,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-57976f78-5721-4abb-94b2-60e75799cdf2.png",
+    "korean": "풀",
+    "meaningZh": "草木初生的草苗。艹同艸，用作偏旁；艸的传统分析为从二屮。",
+    "captionKo": "나란히 돋은 두 무리의 어린 풀을 살펴요.",
+    "shapeNoteKo": "옛 본자 艸와 오늘의 풀 머리 艹를 비교해요.",
+    "aliases": [
+      "艹"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 艹",
+        "url": "https://zdic.net/hans/%E8%89%B9",
+        "accessed": "2026-11-06"
+      },
+      {
+        "title": "汉典 · 艸",
+        "url": "https://zdic.net/hans/%E8%89%B8",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution photorealistic botanical reference image. Subject: two separate small clumps of newly sprouted ordinary green grass growing next to each other from a very thin small patch of natural brown soil. Each clump has a short upright stem and a few fresh narrow grass blades spreading upward and slightly outward; the two young plants and their complete leaves are clearly separated and fully visible. Clean warm ivory studio background, crisp natural textures, soft daylight, minimal composition, generous margins, grass occupies the center. The plants must read as young growing grass, not bamboo, not flowers, not a decorative leafy houseplant. This is a modern object reference, not an ancient inscription. No text, no Chinese characters, no glyph overlay, no labels, no arrows, no watermark, no emoji, no cartoon.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "两株初生草苗有清晰叶片与土面，不是竹或花卉；无文字或符号。"
+    }
+  },
+  "雨": {
+    "form": "雨",
+    "baseForm": "雨",
+    "id": "rain",
+    "src": "/images/course-objects/rain.png",
+    "sha256": "49ec4cb81e2975b656f63eef99ac07a7e8bf8ed5269646776a1a857ca43b944a",
+    "sizeBytes": 1756014,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-7fd7b81e-fdcf-4010-8693-bccfc3387b10.png",
+    "korean": "비",
+    "meaningZh": "从云层降落的水滴；雨。",
+    "captionKo": "구름 아래로 떨어지는 빗방울을 관찰해요.",
+    "shapeNoteKo": "구름과 빗방울은 현재 뜻을 보여 주는 예시예요.",
+    "aliases": [],
+    "sources": [
+      {
+        "title": "汉典 · 雨",
+        "url": "https://zdic.net/hans/%E9%9B%A8",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution naturalistic explanatory illustration of actual rain, using realistic weather, cloud and water textures rather than a weather icon. One broad soft gray rain cloud in the upper third, with many small clearly separated rain droplets and thin vertical rain streaks descending straight beneath it to a narrow wet ground plane at the bottom, where a few subtle splashes show the action. Clean pale warm ivory atmospheric background, restrained gray-blue water, realistic droplet scale and natural lighting. Make cloud above and falling rain below immediately obvious at teaching-card size. Full scene fits with generous margins. No human faces on the cloud, no umbrella, no lightning, no rainbow, no text, no letters, no Chinese characters, no arrows, no symbols, no watermark, no emoji, no flat icon, no childish cartoon. This is a realistic modern meaning reference, not evidence for ancient glyph shape.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI naturalistic explanatory illustration",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "上方灰云、下方垂直落雨和底部水面清楚；自然写实说明图，无拟人云朵或天气图标。"
+    }
+  },
+  "门": {
+    "form": "门",
+    "baseForm": "門",
+    "id": "door",
+    "src": "/images/course-objects/door.png",
+    "sha256": "963de876685283f654d870bfddcca3385a70263e41e8dd9720cbba647185b284",
+    "sizeBytes": 2116029,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-1c44bbd5-e10f-41ce-a839-22acad7c739e.png",
+    "korean": "문",
+    "meaningZh": "双扇门；可开闭的建筑出入口。门是門的简体。",
+    "captionKo": "문틀 안의 두 문짝과 가운데 이음선을 살펴요.",
+    "shapeNoteKo": "두 문짝은 전통형 門와 비교하고, 门은 그 간체로 배워요.",
+    "aliases": [
+      "門"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 门",
+        "url": "https://zdic.net/hans/%E9%97%A8",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution photorealistic front-elevation object-reference image of a complete traditional Chinese double-leaf wooden doorway, isolated on clean warm ivory background. Two equal rectangular wooden door panels side by side inside a simple upright timber frame with a horizontal lintel and low threshold. Both leaves are closed with a clear narrow central seam; two small plain metal ring handles are at matching height. Natural warm brown wood with visible grain, restrained realistic wear, soft daylight, straight-on symmetrical camera with no perspective distortion. The entire outer frame and both panels are fully visible with generous margins. The two opening leaves and enclosing doorway silhouette should be unmistakable. No roof, no decorations, no red couplets, no plaques, no carvings of characters, no text, no labels, no Chinese characters, no watermark, no people, no emoji, no cartoon. Modern physical object reference, not a claimed archaeological artifact.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "正面双扇木门、完整门框、中缝与成对门环清晰；无对联或文字。"
+    }
+  },
+  "門": {
+    "form": "門",
+    "baseForm": "門",
+    "id": "door",
+    "src": "/images/course-objects/door.png",
+    "sha256": "963de876685283f654d870bfddcca3385a70263e41e8dd9720cbba647185b284",
+    "sizeBytes": 2116029,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-1c44bbd5-e10f-41ce-a839-22acad7c739e.png",
+    "korean": "문",
+    "meaningZh": "双扇门；可开闭的建筑出入口。门是門的简体。",
+    "captionKo": "문틀 안의 두 문짝과 가운데 이음선을 살펴요.",
+    "shapeNoteKo": "두 문짝은 전통형 門와 비교하고, 门은 그 간체로 배워요.",
+    "aliases": [
+      "门"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 门",
+        "url": "https://zdic.net/hans/%E9%97%A8",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution photorealistic front-elevation object-reference image of a complete traditional Chinese double-leaf wooden doorway, isolated on clean warm ivory background. Two equal rectangular wooden door panels side by side inside a simple upright timber frame with a horizontal lintel and low threshold. Both leaves are closed with a clear narrow central seam; two small plain metal ring handles are at matching height. Natural warm brown wood with visible grain, restrained realistic wear, soft daylight, straight-on symmetrical camera with no perspective distortion. The entire outer frame and both panels are fully visible with generous margins. The two opening leaves and enclosing doorway silhouette should be unmistakable. No roof, no decorations, no red couplets, no plaques, no carvings of characters, no text, no labels, no Chinese characters, no watermark, no people, no emoji, no cartoon. Modern physical object reference, not a claimed archaeological artifact.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "正面双扇木门、完整门框、中缝与成对门环清晰；无对联或文字。"
+    }
+  },
+  "贝": {
+    "form": "贝",
+    "baseForm": "貝",
+    "id": "shell",
+    "src": "/images/course-objects/shell.png",
+    "sha256": "8e8c66d6838c0c361271f4244b96219df80e8435aff13cd061c91011af522239",
+    "sizeBytes": 1560382,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-a74759f8-b7b9-4c52-a00b-bb86507704ab.png",
+    "korean": "조개껍데기",
+    "meaningZh": "海贝；贝壳；古代也用作货币。图片以宝螺腹面的壳口作现代物象参考。贝是貝的简体。",
+    "captionKo": "조개껍데기의 긴 입구와 양쪽 잔돌기를 관찰해요.",
+    "shapeNoteKo": "바다 조개를 전통형 貝와 비교하고, 贝는 그 간체로 배워요.",
+    "aliases": [
+      "貝"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 贝",
+        "url": "https://zdic.net/hans/%E8%B4%9D",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution photorealistic natural-history specimen image of a single cowrie sea shell, viewed directly from its VENTRAL underside. Show the complete smooth oval cream-colored shell with a long narrow dark central aperture running vertically and many distinct small toothlike ridges along BOTH edges of that opening. The aperture and toothed lip must be prominent, clear and anatomically plausible. Subtle natural pale beige markings near the shell edge, realistic glossy calcium-carbonate surface, soft diffuse macro photography lighting, sharp focus across the whole specimen, isolated on clean warm ivory background with a faint grounding shadow. Center the complete shell with generous margins. It must be recognizable as a cowrie underside, not a scallop, clam fan, snail spiral or cartoon mouth. No money, no coins, no hands, no labels, no Chinese characters, no text, no arrows, no watermark, no emoji, no cartoon. This is an AI modern shell reference rather than an excavated artifact.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "单枚宝螺腹面、纵向狭长壳口与两侧齿口清楚；不是扇贝或螺旋壳；无文字。"
+    }
+  },
+  "貝": {
+    "form": "貝",
+    "baseForm": "貝",
+    "id": "shell",
+    "src": "/images/course-objects/shell.png",
+    "sha256": "8e8c66d6838c0c361271f4244b96219df80e8435aff13cd061c91011af522239",
+    "sizeBytes": 1560382,
+    "width": 1254,
+    "height": 1254,
+    "generatorOutput": "exec-a74759f8-b7b9-4c52-a00b-bb86507704ab.png",
+    "korean": "조개껍데기",
+    "meaningZh": "海贝；贝壳；古代也用作货币。图片以宝螺腹面的壳口作现代物象参考。贝是貝的简体。",
+    "captionKo": "조개껍데기의 긴 입구와 양쪽 잔돌기를 관찰해요.",
+    "shapeNoteKo": "바다 조개를 전통형 貝와 비교하고, 贝는 그 간체로 배워요.",
+    "aliases": [
+      "贝"
+    ],
+    "sources": [
+      {
+        "title": "汉典 · 贝",
+        "url": "https://zdic.net/hans/%E8%B4%9D",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "prompt": "Use case: scientific-educational. Create ONE square high-resolution photorealistic natural-history specimen image of a single cowrie sea shell, viewed directly from its VENTRAL underside. Show the complete smooth oval cream-colored shell with a long narrow dark central aperture running vertically and many distinct small toothlike ridges along BOTH edges of that opening. The aperture and toothed lip must be prominent, clear and anatomically plausible. Subtle natural pale beige markings near the shell edge, realistic glossy calcium-carbonate surface, soft diffuse macro photography lighting, sharp focus across the whole specimen, isolated on clean warm ivory background with a faint grounding shadow. Center the complete shell with generous margins. It must be recognizable as a cowrie underside, not a scallop, clam fan, snail spiral or cartoon mouth. No money, no coins, no hands, no labels, no Chinese characters, no text, no arrows, no watermark, no emoji, no cartoon. This is an AI modern shell reference rather than an excavated artifact.",
+    "generatedDate": "2026-11-06",
+    "transparentBackground": false,
+    "imageKind": "AI photorealistic object reference",
+    "aiNoteKo": "AI 실물 참고 이미지 · 유물 사진 아님",
+    "isAncientSpecimen": false,
+    "inspection": {
+      "status": "visually-inspected",
+      "noteZh": "单枚宝螺腹面、纵向狭长壳口与两侧齿口清楚；不是扇贝或螺旋壳；无文字。"
+    }
+  }
+}

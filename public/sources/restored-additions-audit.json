@@ -1,0 +1,451 @@
+{
+  "accessed": "2026-11-07",
+  "cjkviSource": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+  "makeMeAHanziDictionary": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+  "makeMeAHanziGraphics": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/graphics.txt",
+  "sourceFileSha256": {
+    "cjkvi_ids.txt": "bfc70a8c09f9f5616ebf0543bd6681e67314e9f7ae2307e5ae8c6f15bdc5c6a6",
+    "makemeahanzi_dictionary.txt": "744bb05d5b0742e9ee35c37791f94d56a173349b3367569e7ca11e510364d203",
+    "graphics.txt": "a28c478b5178e98f67f510b2d52fde08a69dc664654ef43498253b9b764d46ee"
+  },
+  "characters": {
+    "汗": {
+      "ids": "⿰氵干",
+      "cjkviRawLine": "U+6C57\t汗\t⿰氵干",
+      "makeMeAHanziDecomposition": "⿰氵干",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "d52cda3b2245a7f21895a542af4e1703a5927d05e7b06cf5af446e0c0117e4ef",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B1%97"
+      ]
+    },
+    "流": {
+      "ids": "⿰氵㐬",
+      "cjkviRawLine": "U+6D41\t流\t⿰氵㐬",
+      "makeMeAHanziDecomposition": "⿰氵㐬",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "b91142508857c253636ae015a99196fb9b3ecaecdbdbe7c0a7b45ed87d6d085e",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B5%81"
+      ]
+    },
+    "池": {
+      "ids": "⿰氵也",
+      "cjkviRawLine": "U+6C60\t池\t⿰氵也",
+      "makeMeAHanziDecomposition": "⿰氵也",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "5f3afb13485848efb842414d7d3c122e2df33373c0cc33f8935a091cc5eaf87c",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B1%A0"
+      ]
+    },
+    "泥": {
+      "ids": "⿰氵尼",
+      "cjkviRawLine": "U+6CE5\t泥\t⿰氵尼",
+      "makeMeAHanziDecomposition": "⿰氵尼",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "8b1644878e71b3efb9aead40fbbadfa91185567b8d257aefdb19b95c22913f42",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B3%A5"
+      ]
+    },
+    "吹": {
+      "ids": "⿰口欠",
+      "cjkviRawLine": "U+5439\t吹\t⿰口欠",
+      "makeMeAHanziDecomposition": "⿰口欠",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "c03df2ed752577e185bc80a455dd3789ed57c4eba721ebab35f29dcb183e49f5",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%B9"
+      ]
+    },
+    "咳": {
+      "ids": "⿰口亥",
+      "cjkviRawLine": "U+54B3\t咳\t⿰口亥",
+      "makeMeAHanziDecomposition": "⿰口亥",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "175b7c94ccc15ea4f8d1bc8129c66f64f9fdd75d2015522165fbbf34d8dcb41d",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%92%B3"
+      ]
+    },
+    "桃": {
+      "ids": "⿰木兆",
+      "cjkviRawLine": "U+6843\t桃\t⿰木兆",
+      "makeMeAHanziDecomposition": "⿰木兆",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "283d3078b3e16732435038fe647038ec06b347ee335ab575a05e50b7ac8bbf30",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%A1%83"
+      ]
+    },
+    "柳": {
+      "ids": "⿰木卯",
+      "cjkviRawLine": "U+67F3\t柳\t⿰木卯",
+      "makeMeAHanziDecomposition": "⿰木卯",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "121f9b98c4cc5bb2d759e33b8379b7f54c6936e2a6afc1d86a9485d07b144a56",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9F%B3"
+      ]
+    },
+    "坡": {
+      "ids": "⿰土皮",
+      "cjkviRawLine": "U+5761\t坡\t⿰土皮",
+      "makeMeAHanziDecomposition": "⿰土皮",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "c209125bebcd1e8fcc4cb8aee70f14c2c812bde65826a8e1ff0963b17d8a6e47",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9D%A1"
+      ]
+    },
+    "塔": {
+      "ids": "⿰土荅",
+      "cjkviRawLine": "U+5854\t塔\t⿰土荅",
+      "makeMeAHanziDecomposition": "⿰土荅",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "22697fa77b462132fafe0ae6f7bd0e79cc928abd0896be1bd91d01324a4d17bc",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A1%94"
+      ]
+    },
+    "铃": {
+      "ids": "⿰钅令",
+      "cjkviRawLine": "U+94C3\t铃\t⿰钅令",
+      "makeMeAHanziDecomposition": "⿰钅令",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "4b91cdab433419d670ebbc63a16d5d82b219ebbeb7395a2c2a49fd1b01b87870",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%88%B4"
+      ]
+    },
+    "饮": {
+      "ids": "⿰饣欠",
+      "cjkviRawLine": "U+996E\t饮\t⿰饣欠",
+      "makeMeAHanziDecomposition": "⿰饣欠",
+      "makeMeAHanziMatches": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "photoSha256": "e0c46c3001ab20a065ddba6bd4dc6a607dad29ff8c565e6fcce3e70bb384e67e",
+      "sourceUrls": [
+        "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A3%B2"
+      ]
+    }
+  }
+}

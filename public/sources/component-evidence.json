@@ -1,0 +1,3372 @@
+{
+  "丁": {
+    "form": "丁",
+    "baseForm": "丁",
+    "traditional": "丁",
+    "pinyin": "dīng",
+    "korean": "천간의 넷째 글자; 성인 남자",
+    "meaningZh": "天干第四位；成年男子",
+    "originKind": "uncertain",
+    "originNote": "古字释形有多说，字库采用城邑说，并指出钉子、头顶等旧说缺少确证。不要把今天丁的笔形强画成钉子。",
+    "shapeNote": "识别现代“丁”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e01",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·丁",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B8%81",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "不": {
+    "form": "不",
+    "baseForm": "不",
+    "traditional": "不",
+    "pinyin": "bù",
+    "korean": "아니다; 않다",
+    "meaningZh": "否定；不是",
+    "originKind": "uncertain",
+    "originNote": "早期字形有花萼或植物根须等释形，否定义属于后来的用字。不能把否定直接画成一件物体。",
+    "shapeNote": "识别现代“不”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e0d",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·不",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B8%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "专": {
+    "form": "专",
+    "baseForm": "专",
+    "traditional": "專",
+    "pinyin": "zhuān",
+    "korean": "전문적이다; 집중하다",
+    "meaningZh": "专一；专门",
+    "originKind": "compound",
+    "originNote": "繁体專含叀和又，表现手转动纺轮；现代专是简化形，并不保留每个历史构件。",
+    "shapeNote": "识别现代“专”的实际笔画；独立字义不自动成为组合字的意思。 它是“專”的简化写法，须区别古字构形。",
+    "visualKey": "component-4e13",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·專",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B0%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "且": {
+    "form": "且",
+    "baseForm": "且",
+    "traditional": "且",
+    "pinyin": "qiě",
+    "korean": "또한; 잠시",
+    "meaningZh": "而且；暂且",
+    "originKind": "uncertain",
+    "originNote": "字库采用俎面即祭祀案板的释形，后借用于祖及连词；不把现代连词义当作图画本义。",
+    "shapeNote": "识别现代“且”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e14",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·且",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B8%94",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "东": {
+    "form": "东",
+    "baseForm": "东",
+    "traditional": "東",
+    "pinyin": "dōng",
+    "korean": "동쪽",
+    "meaningZh": "东方",
+    "originKind": "pictograph",
+    "originNote": "繁体東的古形取袋子，后来借作东方；“太阳在树中”不是可靠的古形解释。",
+    "shapeNote": "识别现代“东”的实际笔画；独立字义不自动成为组合字的意思。 它是“東”的简化写法，须区别古字构形。",
+    "visualKey": "component-4e1c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·東",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9D%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "两": {
+    "form": "两",
+    "baseForm": "两",
+    "traditional": "兩",
+    "pinyin": "liǎng",
+    "korean": "둘; 양쪽",
+    "meaningZh": "数词二；一对",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“两”的实际笔画；独立字义不自动成为组合字的意思。 它是“兩”的简化写法，须区别古字构形。",
+    "visualKey": "component-4e24",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "丩": {
+    "form": "丩",
+    "baseForm": "丩",
+    "traditional": "丩",
+    "pinyin": "jiū",
+    "korean": "얽히다; 부품 이름",
+    "meaningZh": "纠缠；交结的古字形",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“丩”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e29",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "主": {
+    "form": "主",
+    "baseForm": "主",
+    "traditional": "主",
+    "pinyin": "zhǔ",
+    "korean": "주인; 중심",
+    "meaningZh": "主人；主要",
+    "originKind": "uncertain",
+    "originNote": "字库采用神主牌位的解释，与示有分化关系；不是简单的“王头上一点”。",
+    "shapeNote": "识别现代“主”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e3b",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·主",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B8%BB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "义": {
+    "form": "义",
+    "baseForm": "义",
+    "traditional": "義",
+    "pinyin": "yì",
+    "korean": "의로움; 뜻",
+    "meaningZh": "道义；意义",
+    "originKind": "phonetic-carrier",
+    "originNote": "繁体義从羊、我声，羊有美善关联，现代义为简化字，不是三笔义气故事。",
+    "shapeNote": "识别现代“义”的实际笔画；独立字义不自动成为组合字的意思。 它是“義”的简化写法，须区别古字构形。",
+    "visualKey": "component-4e49",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·義",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%BE%A9",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "乍": {
+    "form": "乍",
+    "baseForm": "乍",
+    "traditional": "乍",
+    "pinyin": "zhà",
+    "korean": "갑자기; 막",
+    "meaningZh": "忽然；刚刚",
+    "originKind": "compound",
+    "originNote": "字库解释早期字形与用刀砍木或斩草有关，后来表示突然、暂时等义。",
+    "shapeNote": "识别现代“乍”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e4d",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·乍",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B9%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "乔": {
+    "form": "乔",
+    "baseForm": "乔",
+    "traditional": "喬",
+    "pinyin": "qiáo",
+    "korean": "높다; 성씨 교",
+    "meaningZh": "高；姓氏乔",
+    "originKind": "phonetic-carrier",
+    "originNote": "繁体喬与高有分化、表音关系，现代乔为简化字，不把其两笔当桥梁图。",
+    "shapeNote": "识别现代“乔”的实际笔画；独立字义不自动成为组合字的意思。 它是“喬”的简化写法，须区别古字构形。",
+    "visualKey": "component-4e54",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·喬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%96%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "乞": {
+    "form": "乞",
+    "baseForm": "乞",
+    "traditional": "乞",
+    "pinyin": "qǐ",
+    "korean": "청하다; 구걸하다",
+    "meaningZh": "请求；讨取",
+    "originKind": "pictograph",
+    "originNote": "乞来自气的省变，早期形体与云气有关；乞求是借用义，不能把古形画成伸手要饭。",
+    "shapeNote": "识别现代“乞”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e5e",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·乞",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B9%9E",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "也": {
+    "form": "也",
+    "baseForm": "也",
+    "traditional": "也",
+    "pinyin": "yě",
+    "korean": "~도; 역시",
+    "meaningZh": "也；句末语气词",
+    "originKind": "uncertain",
+    "originNote": "字库列口中出气等解释，历史释形有分歧；现代多为虚词，不为它指定唯一物体。",
+    "shapeNote": "识别现代“也”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e5f",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·也",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%B9%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "争": {
+    "form": "争",
+    "baseForm": "争",
+    "traditional": "爭",
+    "pinyin": "zhēng",
+    "korean": "다투다; 얻으려 애쓰다",
+    "meaningZh": "争取；争斗",
+    "originKind": "uncertain",
+    "originNote": "字库采用两手拉犁耕作的解释，并非已确定的“两人争夺一物”；现代争为简化形。",
+    "shapeNote": "识别现代“争”的实际笔画；独立字义不自动成为组合字的意思。 它是“爭”的简化写法，须区别古字构形。",
+    "visualKey": "component-4e89",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·爭",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/oraclePiece.php?piece=%E5%8F%88&start=20",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "井": {
+    "form": "井",
+    "baseForm": "井",
+    "traditional": "井",
+    "pinyin": "jǐng",
+    "korean": "우물",
+    "meaningZh": "水井",
+    "originKind": "pictograph",
+    "originNote": "早期字形像井口或相交的井栏，两纵两横围出中间井口。",
+    "shapeNote": "识别现代“井”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4e95",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·井",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%95",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "亡": {
+    "form": "亡",
+    "baseForm": "亡",
+    "traditional": "亡",
+    "pinyin": "wáng",
+    "korean": "잃다; 죽다; 달아나다",
+    "meaningZh": "失去；死亡；逃亡",
+    "originKind": "uncertain",
+    "originNote": "关于早期形体有刀锋等说法；本条不把逃亡或死亡场景当成已确定的取形原物。",
+    "shapeNote": "识别现代“亡”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4ea1",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "交": {
+    "form": "交",
+    "baseForm": "交",
+    "traditional": "交",
+    "pinyin": "jiāo",
+    "korean": "사귀다; 건네다",
+    "meaningZh": "交叉；交往",
+    "originKind": "pictograph",
+    "originNote": "古形是人的双腿交叉，现代交叉、交往义可沿这一动作联想。",
+    "shapeNote": "识别现代“交”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4ea4",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·交",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%A4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "京": {
+    "form": "京",
+    "baseForm": "京",
+    "traditional": "京",
+    "pinyin": "jīng",
+    "korean": "수도",
+    "meaningZh": "京城；首都",
+    "originKind": "pictograph",
+    "originNote": "古形取高大台观，上为建筑，下为支柱；今天的京城义需另外联系。",
+    "shapeNote": "识别现代“京”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4eac",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·京",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "人": {
+    "form": "人",
+    "baseForm": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "korean": "사람인변 · 사람",
+    "meaningZh": "人",
+    "originKind": "pictograph",
+    "originNote": "人的古文字取侧身站立、手向下垂的人形；亻是作左部时的写法。",
+    "shapeNote": "亻为两笔；忄为三笔，中间一竖。",
+    "visualKey": "person",
+    "visualCaption": "侧面站立的人：头身、垂手与腿形成轮廓。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·人",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "亻": {
+    "form": "亻",
+    "baseForm": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "korean": "사람인변 · 사람",
+    "meaningZh": "人作左旁的变体",
+    "originKind": "pictograph",
+    "originNote": "人的古文字取侧身站立、手向下垂的人形；亻是作左部时的写法。",
+    "shapeNote": "亻为两笔；忄为三笔，中间一竖。",
+    "visualKey": "person",
+    "visualCaption": "侧面站立的人：头身、垂手与腿形成轮廓。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·人",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "仑": {
+    "form": "仑",
+    "baseForm": "仑",
+    "traditional": "侖",
+    "pinyin": "lún",
+    "korean": "조리; 주로 구성 요소로 사용",
+    "meaningZh": "条理；主要用作部件",
+    "originKind": "compound",
+    "originNote": "繁体侖含册等部件，字库列组织条理与言说等释形；现代仑为简化形。",
+    "shapeNote": "识别现代“仑”的实际笔画；独立字义不自动成为组合字的意思。 它是“侖”的简化写法，须区别古字构形。",
+    "visualKey": "component-4ed1",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·侖",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BE%96",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "令": {
+    "form": "令",
+    "baseForm": "令",
+    "traditional": "令",
+    "pinyin": "lìng",
+    "korean": "명령; ~하게 하다",
+    "meaningZh": "命令；使",
+    "originKind": "compound",
+    "originNote": "古形表示上位者发令、下位者跪坐受命的关系；不是单件物体的摹画。",
+    "shapeNote": "识别现代“令”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-4ee4",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·令",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BB%A4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "佥": {
+    "form": "佥",
+    "baseForm": "佥",
+    "traditional": "僉",
+    "pinyin": "qiān",
+    "korean": "모두",
+    "meaningZh": "全部；都",
+    "originKind": "compound",
+    "originNote": "繁体僉的构形与众人张口同说有关，引申出皆、都；现代佥是简化形。",
+    "shapeNote": "识别现代“佥”的实际笔画；独立字义不自动成为组合字的意思。 它是“僉”的简化写法，须区别古字构形。",
+    "visualKey": "component-4f65",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·僉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%83%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "元": {
+    "form": "元",
+    "baseForm": "元",
+    "traditional": "元",
+    "pinyin": "yuán",
+    "korean": "으뜸; 화폐 단위 위안",
+    "meaningZh": "开始；首位；元",
+    "originKind": "ideograph",
+    "originNote": "早期在人形头部增加标记，突出头，后来表示开始、首位。",
+    "shapeNote": "识别现代“元”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5143",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·元",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%85%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "兄": {
+    "form": "兄",
+    "baseForm": "兄",
+    "traditional": "兄",
+    "pinyin": "xiōng",
+    "korean": "형; 오빠",
+    "meaningZh": "兄长",
+    "originKind": "compound",
+    "originNote": "古形突出人的口，字库联系兄长说话与督率的职责；不是“嘴加双腿”的字义加法。",
+    "shapeNote": "识别现代“兄”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5144",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·兄",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%85%84",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "兆": {
+    "form": "兆",
+    "baseForm": "兆",
+    "traditional": "兆",
+    "pinyin": "zhào",
+    "korean": "조짐; 큰 수의 단위",
+    "meaningZh": "征兆；大数单位",
+    "originKind": "uncertain",
+    "originNote": "兆在现代可指征兆或大数；本条未将卜兆图确定为唯一字源图。",
+    "shapeNote": "识别现代“兆”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5146",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "先": {
+    "form": "先",
+    "baseForm": "先",
+    "traditional": "先",
+    "pinyin": "xiān",
+    "korean": "먼저",
+    "meaningZh": "在前；先行",
+    "originKind": "compound",
+    "originNote": "早期以人和向前的脚形相配，表现脚先于人而前行，表示先行。",
+    "shapeNote": "识别现代“先”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5148",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·先",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%85%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "免": {
+    "form": "免",
+    "baseForm": "免",
+    "traditional": "免",
+    "pinyin": "miǎn",
+    "korean": "면하다; 없애다",
+    "meaningZh": "免除；避免",
+    "originKind": "compound",
+    "originNote": "字库采用人戴冠冕的释形，是冕的初文；避免、免除是今义。",
+    "shapeNote": "识别现代“免”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-514d",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·免",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%85%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "兑": {
+    "form": "兑",
+    "baseForm": "兑",
+    "traditional": "兌",
+    "pinyin": "duì",
+    "korean": "교환하다",
+    "meaningZh": "兑换",
+    "originKind": "compound",
+    "originNote": "繁体兌与张口说话或喜悦的解释相关，字库列有不同说法；现代兑换义不直接等于古图。",
+    "shapeNote": "识别现代“兑”的实际笔画；独立字义不自动成为组合字的意思。 它是“兌”的简化写法，须区别古字构形。",
+    "visualKey": "component-5151",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·兌",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%85%8C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "公": {
+    "form": "公",
+    "baseForm": "公",
+    "traditional": "公",
+    "pinyin": "gōng",
+    "korean": "공공의; 공평하다",
+    "meaningZh": "公共；公正",
+    "originKind": "uncertain",
+    "originNote": "字库疑古形为瓮器，同时列分物为公等异说；不能画成八个人分东西的确定故事。",
+    "shapeNote": "识别现代“公”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-516c",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·公",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%85%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "冫": {
+    "form": "冫",
+    "baseForm": "仌",
+    "traditional": "仌",
+    "pinyin": "bīng",
+    "korean": "이수변 · 얼음",
+    "meaningZh": "冰的古字旁；寒冷",
+    "originKind": "pictograph",
+    "originNote": "仌是古冰字，早期点块形表示冰块；后世用作偏旁时写成冫。",
+    "shapeNote": "冫只有两笔；氵有三笔。",
+    "visualKey": "ice",
+    "visualCaption": "凝结冰块→早期点块→两点冫；不是三点水漏掉一点。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·仌",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BB%8C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "几": {
+    "form": "几",
+    "baseForm": "几",
+    "traditional": "几",
+    "pinyin": "jī（桌几） / jǐ（多少）",
+    "korean": "몇; 얼마",
+    "meaningZh": "小桌几；几（疑问或数量）",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“几”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-51e0",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "教育部国语辞典 · 本字读音核对",
+        "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=21156&la=0&powerMode=0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "刀": {
+    "form": "刀",
+    "baseForm": "刀",
+    "traditional": "刀",
+    "pinyin": "dāo",
+    "korean": "칼",
+    "meaningZh": "刀具",
+    "originKind": "pictograph",
+    "originNote": "古形描出刀具的刀身与柄，刀是可对照实物轮廓的部件。",
+    "shapeNote": "识别现代“刀”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5200",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·刀",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%88%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "勺": {
+    "form": "勺",
+    "baseForm": "勺",
+    "traditional": "勺",
+    "pinyin": "sháo",
+    "korean": "숟가락; 한 술",
+    "meaningZh": "舀取食物的勺子",
+    "originKind": "pictograph",
+    "originNote": "古形描绘舀取食物的器具，圆曲部分对应勺头，长笔对应柄。",
+    "shapeNote": "识别现代“勺”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-52fa",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·勺",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8B%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "包": {
+    "form": "包",
+    "baseForm": "包",
+    "traditional": "包",
+    "pinyin": "bāo",
+    "korean": "싸다; 꾸러미",
+    "meaningZh": "包裹；包容",
+    "originKind": "compound",
+    "originNote": "古形与胎儿被胎衣包裹有关，后来引申为包容、包裹；普通包裹是现代意义图。",
+    "shapeNote": "识别现代“包”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5305",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·包",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8C%85",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "十": {
+    "form": "十",
+    "baseForm": "十",
+    "traditional": "十",
+    "pinyin": "shí",
+    "korean": "열",
+    "meaningZh": "数词十",
+    "originKind": "uncertain",
+    "originNote": "古形本为竖画，构形有不同解释；字库列针形记数说，不能只以十字架作确证字源。",
+    "shapeNote": "识别现代“十”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5341",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·十",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8D%81",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "半": {
+    "form": "半",
+    "baseForm": "半",
+    "traditional": "半",
+    "pinyin": "bàn",
+    "korean": "반",
+    "meaningZh": "一半",
+    "originKind": "compound",
+    "originNote": "字库解释早期构形为把牛分作两半，后来用作一半；今天一分为二的图是意义示意。",
+    "shapeNote": "识别现代“半”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-534a",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·半",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8D%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "卖": {
+    "form": "卖",
+    "baseForm": "卖",
+    "traditional": "賣",
+    "pinyin": "mài",
+    "korean": "팔다",
+    "meaningZh": "出售",
+    "originKind": "compound",
+    "originNote": "繁体賣含出和買，表示货物售出；现代卖的十、买形不等于原始每部分。",
+    "shapeNote": "识别现代“卖”的实际笔画；独立字义不自动成为组合字的意思。 它是“賣”的简化写法，须区别古字构形。",
+    "visualKey": "component-5356",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·賣",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B3%A3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "又": {
+    "form": "又",
+    "baseForm": "又",
+    "traditional": "又",
+    "pinyin": "yòu",
+    "korean": "또",
+    "meaningZh": "再；又",
+    "originKind": "pictograph",
+    "originNote": "早期是右手的侧形，后借作再次、又等词；同形部件在简化字中不一定仍表示手。",
+    "shapeNote": "识别现代“又”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53c8",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·又",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "及": {
+    "form": "及",
+    "baseForm": "及",
+    "traditional": "及",
+    "pinyin": "jí",
+    "korean": "미치다; 및",
+    "meaningZh": "到达；和",
+    "originKind": "compound",
+    "originNote": "古形一人在前、一手在后追及抓住，后来表示到达与和。",
+    "shapeNote": "识别现代“及”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53ca",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·及",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "反": {
+    "form": "反",
+    "baseForm": "反",
+    "traditional": "反",
+    "pinyin": "fǎn",
+    "korean": "반대; 뒤집다",
+    "meaningZh": "相反；返回",
+    "originKind": "uncertain",
+    "originNote": "字库采用手攀山崖的释形，后有返回、相反等用法；不单凭今形断为“反手”。",
+    "shapeNote": "识别现代“反”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53cd",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·反",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "口": {
+    "form": "口",
+    "baseForm": "口",
+    "traditional": "口",
+    "pinyin": "kǒu",
+    "korean": "입구변 · 입",
+    "meaningZh": "嘴；开口",
+    "originKind": "pictograph",
+    "originNote": "口的早期字形像张开的嘴；后来轮廓写成方框。",
+    "shapeNote": "口通常较小；囗是包围其他部件的大框。",
+    "visualKey": "oral",
+    "visualCaption": "张开的嘴的外轮廓→方形口，不是一个容器。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·口",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%A3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "句": {
+    "form": "句",
+    "baseForm": "句",
+    "traditional": "句",
+    "pinyin": "jù / gōu",
+    "korean": "문장",
+    "meaningZh": "句子；语句",
+    "originKind": "compound",
+    "originNote": "古形与勾连有关，口和丩也有表音关系；语句义不等于画一个嘴的轮廓。",
+    "shapeNote": "识别现代“句”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53e5",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·句",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%A5",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "只": {
+    "form": "只",
+    "baseForm": "只",
+    "traditional": "只",
+    "pinyin": "zhī",
+    "korean": "오직; 마리 단위",
+    "meaningZh": "仅仅；量词只",
+    "originKind": "compound",
+    "originNote": "旧字从口，下面为出气的示意，用作语气词；现代仅仅、量词只的用法另学。",
+    "shapeNote": "识别现代“只”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53ea",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·只",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%AA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "可": {
+    "form": "可",
+    "baseForm": "可",
+    "traditional": "可",
+    "pinyin": "kě",
+    "korean": "가능하다; ~할 만하다",
+    "meaningZh": "可以；可行",
+    "originKind": "uncertain",
+    "originNote": "古形含口和丂，构形初义未定；不要把可以、许可强解释成固定物体。",
+    "shapeNote": "识别现代“可”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53ef",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·可",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "台": {
+    "form": "台",
+    "baseForm": "台",
+    "traditional": "台",
+    "pinyin": "tái",
+    "korean": "대; 무대",
+    "meaningZh": "台（古字）；现代亦为臺等的简化字",
+    "originKind": "phonetic-carrier",
+    "originNote": "古台从口、㠯声，与以有音义关系；它在始等组合里不能直接理解为现代舞台。",
+    "shapeNote": "识别现代“台”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-53f0",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·台",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%B0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "各": {
+    "form": "各",
+    "baseForm": "各",
+    "traditional": "各",
+    "pinyin": "gè",
+    "korean": "각각",
+    "meaningZh": "各个；每个",
+    "originKind": "compound",
+    "originNote": "古形取脚朝向洞穴，表示到来；今天各个的词义属于借用后的用法。",
+    "shapeNote": "识别现代“各”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5404",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·各",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%84",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "合": {
+    "form": "合",
+    "baseForm": "合",
+    "traditional": "合",
+    "pinyin": "hé",
+    "korean": "합치다; 맞다",
+    "meaningZh": "合拢；结合",
+    "originKind": "uncertain",
+    "originNote": "字库以器盖与器皿相合解释，同时说明有不同说法；合拢图只能作这一路释形示意。",
+    "shapeNote": "识别现代“合”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5408",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·合",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "吉": {
+    "form": "吉",
+    "baseForm": "吉",
+    "traditional": "吉",
+    "pinyin": "jí",
+    "korean": "길하다",
+    "meaningZh": "吉祥",
+    "originKind": "uncertain",
+    "originNote": "早期上部形体有兵器、玉圭等多种解释；吉祥意义不等于“士兵开口”。",
+    "shapeNote": "识别现代“吉”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5409",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·吉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "君": {
+    "form": "君",
+    "baseForm": "君",
+    "traditional": "君",
+    "pinyin": "jūn",
+    "korean": "군주; 상대방을 높이는 말",
+    "meaningZh": "君主；对人的敬称",
+    "originKind": "compound",
+    "originNote": "古形含尹和口，尹也有表音作用；与发号施令的官长有关。",
+    "shapeNote": "识别现代“君”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-541b",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·君",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%90%9B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "吾": {
+    "form": "吾",
+    "baseForm": "吾",
+    "traditional": "吾",
+    "pinyin": "wú",
+    "korean": "나",
+    "meaningZh": "我",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“吾”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-543e",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "唐": {
+    "form": "唐",
+    "baseForm": "唐",
+    "traditional": "唐",
+    "pinyin": "táng",
+    "korean": "당나라; 성씨 당",
+    "meaningZh": "唐朝；姓氏唐",
+    "originKind": "phonetic-carrier",
+    "originNote": "古形从口、庚声；现代唐朝或姓氏的含义不能逐笔转成实物图。",
+    "shapeNote": "识别现代“唐”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5510",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·唐",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%94%90",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "因": {
+    "form": "因",
+    "baseForm": "因",
+    "traditional": "因",
+    "pinyin": "yīn",
+    "korean": "원인; ~때문에",
+    "meaningZh": "原因；因为",
+    "originKind": "compound",
+    "originNote": "字库采用人被衣物包裹的释形；因为的因是后来的虚词用法。",
+    "shapeNote": "识别现代“因”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-56e0",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·因",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9B%A0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "土": {
+    "form": "土",
+    "baseForm": "土",
+    "traditional": "土",
+    "pinyin": "tǔ",
+    "korean": "흙토변 · 흙",
+    "meaningZh": "泥土；土地",
+    "originKind": "pictograph",
+    "originNote": "土可解为地面堆起的土块；字库同时列出祭土地神主等不同说法。",
+    "shapeNote": "土上横短、下横长；士上横长、下横短。",
+    "visualKey": "earth",
+    "visualCaption": "地面上的土堆轮廓；这是主要释形之一，不是唯一无争议结论。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·土",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9C%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "圣": {
+    "form": "圣",
+    "baseForm": "圣",
+    "traditional": "圣",
+    "pinyin": "shèng",
+    "korean": "성스럽다; 성인",
+    "meaningZh": "圣明；神圣（亦有古字圣）",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“圣”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5723",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "垂": {
+    "form": "垂",
+    "baseForm": "垂",
+    "traditional": "垂",
+    "pinyin": "chuí",
+    "korean": "드리우다",
+    "meaningZh": "下垂；接近",
+    "originKind": "phonetic-carrier",
+    "originNote": "字库解释土是意符、𠂹是声符，本有边界义；下垂是相关后起用法，不能按今形编树枝垂落。",
+    "shapeNote": "识别现代“垂”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5782",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·垂",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9E%82",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "夬": {
+    "form": "夬",
+    "baseForm": "夬",
+    "traditional": "夬",
+    "pinyin": "guài",
+    "korean": "결단하다; 괘 이름",
+    "meaningZh": "决断；卦名",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“夬”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-592c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "失": {
+    "form": "失",
+    "baseForm": "失",
+    "traditional": "失",
+    "pinyin": "shī",
+    "korean": "잃다; 그르치다",
+    "meaningZh": "失去",
+    "originKind": "phonetic-carrier",
+    "originNote": "字库把手作为意符、乙作为声符；不要把现代某一点画成丢下的物品而称为定论。",
+    "shapeNote": "识别现代“失”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5931",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·失",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A4%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "女": {
+    "form": "女",
+    "baseForm": "女",
+    "traditional": "女",
+    "pinyin": "nǚ",
+    "korean": "계집녀변 · 여자",
+    "meaningZh": "女子",
+    "originKind": "pictograph",
+    "originNote": "甲骨文、金文取女子双膝着地、坐在脚跟上、双手交叠的人形；目前核查资料未将织布动作列为直接取形依据。",
+    "shapeNote": "女作左部时形体收窄；不要把右边子认成了。",
+    "visualKey": "woman",
+    "visualCaption": "跪坐人形的手臂与屈膝轮廓；不把现代裙子当作女字字源。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·女",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A5%B3",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "中央研究院《汉字古今字资料库》·女字形演变",
+        "url": "https://chardb.iis.sinica.edu.tw/evolution.jsp?cid=9595",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "子": {
+    "form": "子",
+    "baseForm": "子",
+    "traditional": "子",
+    "pinyin": "zǐ",
+    "korean": "아이; 씨앗",
+    "meaningZh": "孩子；儿子",
+    "originKind": "pictograph",
+    "originNote": "早期形体突出婴儿的大头与双臂，某些字形也表现腿脚，是可对照婴儿轮廓的字。",
+    "shapeNote": "识别现代“子”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5b50",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·子",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AD%90",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "教育部国语辞典 · 本字读音核对",
+        "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=36691&la=0&powerMode=0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "它": {
+    "form": "它",
+    "baseForm": "它",
+    "traditional": "它",
+    "pinyin": "tā",
+    "korean": "그것",
+    "meaningZh": "指事物的第三人称代词",
+    "originKind": "pictograph",
+    "originNote": "古它取蛇形，是蛇的初文；现代第三人称代词的意思是后来的用法。",
+    "shapeNote": "识别现代“它”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5b83",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·它",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AE%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "官": {
+    "form": "官",
+    "baseForm": "官",
+    "traditional": "官",
+    "pinyin": "guān",
+    "korean": "관리; 벼슬",
+    "meaningZh": "官员；官署",
+    "originKind": "uncertain",
+    "originNote": "古形有宀与𠂤，字库列众人在馆舍等解释；官员的现代场景不是它的逐笔原图。",
+    "shapeNote": "识别现代“官”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5b98",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·官",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AE%98",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "寸": {
+    "form": "寸",
+    "baseForm": "寸",
+    "traditional": "寸",
+    "pinyin": "cùn",
+    "korean": "길이의 단위 촌",
+    "meaningZh": "长度单位；寸",
+    "originKind": "ideograph",
+    "originNote": "早期手形边加标记，指示腕后约一寸的位置；今天长度单位可用尺作意义示意。",
+    "shapeNote": "识别现代“寸”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5bf8",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·寸",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AF%B8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "对": {
+    "form": "对",
+    "baseForm": "对",
+    "traditional": "對",
+    "pinyin": "duì",
+    "korean": "맞다; 마주하다",
+    "meaningZh": "正对；正确；一对",
+    "originKind": "compound",
+    "originNote": "繁体對与手持工具开辟土地的解释有关，现代对是简化写法，右寸不代表所有古形。",
+    "shapeNote": "识别现代“对”的实际笔画；独立字义不自动成为组合字的意思。 它是“對”的简化写法，须区别古字构形。",
+    "visualKey": "component-5bf9",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·對",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B0%8D",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "寺": {
+    "form": "寺",
+    "baseForm": "寺",
+    "traditional": "寺",
+    "pinyin": "sì",
+    "korean": "절; 옛 관청",
+    "meaningZh": "寺庙；古官署",
+    "originKind": "phonetic-carrier",
+    "originNote": "古寺从手形又、之声，表示握持；寺庙是后来的意义，不能用庙宇推断诗的构字。",
+    "shapeNote": "识别现代“寺”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5bfa",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·寺",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%AF%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "少": {
+    "form": "少",
+    "baseForm": "少",
+    "traditional": "少",
+    "pinyin": "shǎo",
+    "korean": "적다; 젊다",
+    "meaningZh": "数量少；年少",
+    "originKind": "ideograph",
+    "originNote": "早期以少数小点表示少，与小有分化关系；用少量颗粒可作指示图。",
+    "shapeNote": "识别现代“少”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5c11",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·少",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B0%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "尔": {
+    "form": "尔",
+    "baseForm": "尔",
+    "traditional": "爾",
+    "pinyin": "ěr",
+    "korean": "너; 그러하다",
+    "meaningZh": "你；如此",
+    "originKind": "pictograph",
+    "originNote": "繁体爾在字库中释为绕丝纺线的架子，后借作第二人称；简体尔省去部分原形。",
+    "shapeNote": "识别现代“尔”的实际笔画；独立字义不自动成为组合字的意思。 它是“爾”的简化写法，须区别古字构形。",
+    "visualKey": "component-5c14",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·爾",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%88%BE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "尧": {
+    "form": "尧",
+    "baseForm": "尧",
+    "traditional": "堯",
+    "pinyin": "yáo",
+    "korean": "옛 임금 요",
+    "meaningZh": "古帝名尧；古有高义",
+    "originKind": "compound",
+    "originNote": "繁体堯上部为叠土，下部兀表高平，字库解释为高土丘；现代尧为简化形。",
+    "shapeNote": "识别现代“尧”的实际笔画；独立字义不自动成为组合字的意思。 它是“堯”的简化写法，须区别古字构形。",
+    "visualKey": "component-5c27",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·堯",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A0%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "尼": {
+    "form": "尼",
+    "baseForm": "尼",
+    "traditional": "尼",
+    "pinyin": "ní",
+    "korean": "비구니; 성씨 니",
+    "meaningZh": "尼姑；姓氏尼",
+    "originKind": "phonetic-carrier",
+    "originNote": "字库解释从尸、匕声，曾表示安定平和；在呢中主要看它的表音关系。",
+    "shapeNote": "识别现代“尼”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5c3c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·尼",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B0%BC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "工": {
+    "form": "工",
+    "baseForm": "工",
+    "traditional": "工",
+    "pinyin": "gōng",
+    "korean": "일; 기술",
+    "meaningZh": "工作；工匠",
+    "originKind": "uncertain",
+    "originNote": "早期像某种工具，具体工具尚不宜固定成现代工字钢或木工尺。",
+    "shapeNote": "识别现代“工”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5de5",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·工",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B7%A5",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "己": {
+    "form": "己",
+    "baseForm": "己",
+    "traditional": "己",
+    "pinyin": "jǐ",
+    "korean": "자기",
+    "meaningZh": "自己；天干第六位",
+    "originKind": "pictograph",
+    "originNote": "字库采用弯曲回环的丝绳解释，是纪的早期相关字形；自己为后来的借用义。",
+    "shapeNote": "识别现代“己”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5df1",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·己",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B7%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "巴": {
+    "form": "巴",
+    "baseForm": "巴",
+    "traditional": "巴",
+    "pinyin": "bā",
+    "korean": "바라다; 붙어 있다",
+    "meaningZh": "巴望；黏附；姓氏巴",
+    "originKind": "pictograph",
+    "originNote": "字库采用大蛇的释形，现代巴望、姓氏等不宜直接按蛇义相加。",
+    "shapeNote": "识别现代“巴”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5df4",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·巴",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B7%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "并": {
+    "form": "并",
+    "baseForm": "并",
+    "traditional": "并",
+    "pinyin": "bìng",
+    "korean": "나란히 하다; 아울러",
+    "meaningZh": "合并；并且",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“并”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5e76",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "广": {
+    "form": "广",
+    "baseForm": "广",
+    "traditional": "广",
+    "pinyin": "guǎng",
+    "korean": "넓다",
+    "meaningZh": "房屋的形旁（读yǎn）；亦为廣的简化字（guǎng）",
+    "originKind": "pictograph",
+    "originNote": "独立的广（yǎn）取房屋形；现代廣简为广时的广阔义另属简化关系。",
+    "shapeNote": "识别现代“广”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-5e7f",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·广",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B9%BF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "庄": {
+    "form": "庄",
+    "baseForm": "庄",
+    "traditional": "莊",
+    "pinyin": "zhuāng",
+    "korean": "마을; 장중하다",
+    "meaningZh": "村庄；庄重",
+    "originKind": "phonetic-carrier",
+    "originNote": "繁体莊从艹、壯声，现代庄为简化字；脏的庄形右部不能直接推出村庄字义。",
+    "shapeNote": "识别现代“庄”的实际笔画；独立字义不自动成为组合字的意思。 它是“莊”的简化写法，须区别古字构形。",
+    "visualKey": "component-5e84",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·莊",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%8E%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "库": {
+    "form": "库",
+    "baseForm": "库",
+    "traditional": "庫",
+    "pinyin": "kù",
+    "korean": "창고",
+    "meaningZh": "仓库",
+    "originKind": "compound",
+    "originNote": "繁体庫表示屋中存放车辆，现代库为简化字；可用车库场景理解构形。",
+    "shapeNote": "识别现代“库”的实际笔画；独立字义不自动成为组合字的意思。 它是“庫”的简化写法，须区别古字构形。",
+    "visualKey": "component-5e93",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·庫",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%BA%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "录": {
+    "form": "录",
+    "baseForm": "录",
+    "traditional": "錄",
+    "pinyin": "lù",
+    "korean": "기록하다",
+    "meaningZh": "记录；录取",
+    "originKind": "phonetic-carrier",
+    "originNote": "繁体錄从金、彔声，现代录是简化形；绿的右部录与古綠的彔相关，不能按记录义相加。",
+    "shapeNote": "识别现代“录”的实际笔画；独立字义不自动成为组合字的意思。 它是“錄”的简化写法，须区别古字构形。",
+    "visualKey": "component-5f55",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·錄",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%8C%84",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "忄": {
+    "form": "忄",
+    "baseForm": "心",
+    "traditional": "心",
+    "pinyin": "xīn",
+    "korean": "심방변 · 마음",
+    "meaningZh": "心作左旁的变体",
+    "originKind": "pictograph",
+    "originNote": "心的早期字形来自心脏形状，随后用来表示心理活动；忄是侧旁变体。",
+    "shapeNote": "忄中间一竖，两旁是点；不要看成亻。",
+    "visualKey": "heart",
+    "visualCaption": "先看身体器官的心脏轮廓，再看心→忄；爱心符号只属现代联想。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·心",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%BF%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "戈": {
+    "form": "戈",
+    "baseForm": "戈",
+    "traditional": "戈",
+    "pinyin": "gē",
+    "korean": "고대의 자루 달린 창",
+    "meaningZh": "古代横刃兵器",
+    "originKind": "pictograph",
+    "originNote": "古形取有长柄、横向刃的兵器，不等同现代剑。",
+    "shapeNote": "识别现代“戈”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6208",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·戈",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%88%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "戋": {
+    "form": "戋",
+    "baseForm": "戋",
+    "traditional": "戔",
+    "pinyin": "jiān",
+    "korean": "작다; 구성 요소로 사용",
+    "meaningZh": "少；微小（主要用于部件）",
+    "originKind": "compound",
+    "originNote": "繁体戔是两戈相向，表示残害的古字；简体戋主要作部件，不是写浅的浅字。",
+    "shapeNote": "识别现代“戋”的实际笔画；独立字义不自动成为组合字的意思。 它是“戔”的简化写法，须区别古字构形。",
+    "visualKey": "component-620b",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·戔",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%88%94",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "成": {
+    "form": "成",
+    "baseForm": "成",
+    "traditional": "成",
+    "pinyin": "chéng",
+    "korean": "이루다; 되다",
+    "meaningZh": "成功；完成",
+    "originKind": "compound",
+    "originNote": "字库采用兵器守城的释形，丁也作声符；现代完成义不是每一笔独立的图画。",
+    "shapeNote": "识别现代“成”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6210",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·成",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%88%90",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "我": {
+    "form": "我",
+    "baseForm": "我",
+    "traditional": "我",
+    "pinyin": "wǒ",
+    "korean": "나",
+    "meaningZh": "第一人称代词我",
+    "originKind": "pictograph",
+    "originNote": "字库认为古形像锯形兵器，后来借作第一人称代词；“我”字不能画成指自己而称原形。",
+    "shapeNote": "识别现代“我”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6211",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·我",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%88%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "扌": {
+    "form": "扌",
+    "baseForm": "手",
+    "traditional": "手",
+    "pinyin": "shǒu",
+    "korean": "재방변 · 손",
+    "meaningZh": "手作左旁的变体",
+    "originKind": "pictograph",
+    "originNote": "手的金文描出五指连着手臂；更早又形也表示手。扌是手作偏旁的变体。",
+    "shapeNote": "扌右边有一提；才和扌不是同一个部件。",
+    "visualKey": "hand",
+    "visualCaption": "手掌、手指与手腕的轮廓，不把扌三笔说成完整五指图。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·手",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%89%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "文": {
+    "form": "文",
+    "baseForm": "文",
+    "traditional": "文",
+    "pinyin": "wén",
+    "korean": "글; 문화",
+    "meaningZh": "文字；文章；文饰",
+    "originKind": "pictograph",
+    "originNote": "早期取身上有纹饰的人形，后来发展出文饰、文字等义。",
+    "shapeNote": "识别现代“文”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6587",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·文",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%96%87",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "斗": {
+    "form": "斗",
+    "baseForm": "斗",
+    "traditional": "斗",
+    "pinyin": "dǒu",
+    "korean": "싸우다; 부피 단위 말",
+    "meaningZh": "容量单位；斗形舀器（dǒu）",
+    "originKind": "pictograph",
+    "originNote": "古形像舀水的长柄斗勺；料中的斗不是打斗的鬥。",
+    "shapeNote": "识别现代“斗”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6597",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·斗",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%96%97",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "教育部国语辞典 · 本字读音核对",
+        "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=7786",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "斤": {
+    "form": "斤",
+    "baseForm": "斤",
+    "traditional": "斤",
+    "pinyin": "jīn",
+    "korean": "무게 단위 근",
+    "meaningZh": "质量单位；古为斧",
+    "originKind": "pictograph",
+    "originNote": "古形取曲柄斧的形状，本为伐木工具；今天斤的质量单位义另学。",
+    "shapeNote": "识别现代“斤”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-65a4",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·斤",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%96%A4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "日": {
+    "form": "日",
+    "baseForm": "日",
+    "traditional": "日",
+    "pinyin": "rì",
+    "korean": "날일변 · 해",
+    "meaningZh": "太阳；日子",
+    "originKind": "pictograph",
+    "originNote": "日的早期轮廓为太阳，圆或近方的外框中加点，逐步成为今日的日。",
+    "shapeNote": "日里面一横；目里面两横。",
+    "visualKey": "sun",
+    "visualCaption": "太阳的圆形与中心标记→方框中的短横。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·日",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%97%A5",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "旦": {
+    "form": "旦",
+    "baseForm": "旦",
+    "traditional": "旦",
+    "pinyin": "dàn",
+    "korean": "아침",
+    "meaningZh": "早晨；天明",
+    "originKind": "uncertain",
+    "originNote": "古形与日和丁有关，字库指出丁作声符的证据；日出地平线图可助记，不能断言一横最初就是地面。",
+    "shapeNote": "识别现代“旦”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-65e6",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·旦",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%97%A6",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "昌": {
+    "form": "昌",
+    "baseForm": "昌",
+    "traditional": "昌",
+    "pinyin": "chāng",
+    "korean": "번창하다",
+    "meaningZh": "兴盛",
+    "originKind": "compound",
+    "originNote": "早期含日与口，字库联系日出时呼唤的声音；今形两日不代表两个太阳照得旺。",
+    "shapeNote": "识别现代“昌”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-660c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·昌",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%98%8C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "易": {
+    "form": "易",
+    "baseForm": "易",
+    "traditional": "易",
+    "pinyin": "yì",
+    "korean": "쉽다; 바꾸다",
+    "meaningZh": "容易；交换；改变",
+    "originKind": "uncertain",
+    "originNote": "字库采用由益省变并与赐予相关的解释；古形不宜简单讲成蜥蜴或太阳月亮。",
+    "shapeNote": "识别现代“易”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6613",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·易",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%98%93",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "昔": {
+    "form": "昔",
+    "baseForm": "昔",
+    "traditional": "昔",
+    "pinyin": "xī",
+    "korean": "옛날",
+    "meaningZh": "往昔；过去",
+    "originKind": "compound",
+    "originNote": "早期含日及洪水相关形体，字库联系水灾而引申往昔；今天过去的意义图是引申图。",
+    "shapeNote": "识别现代“昔”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6614",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·昔",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%98%94",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "是": {
+    "form": "是",
+    "baseForm": "是",
+    "traditional": "是",
+    "pinyin": "shì",
+    "korean": "~이다; 옳다",
+    "meaningZh": "是；正确",
+    "originKind": "uncertain",
+    "originNote": "古形含早与止声，构形初义不明，今天很早已用作虚词；不强配实物。",
+    "shapeNote": "识别现代“是”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-662f",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·是",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%98%AF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "更": {
+    "form": "更",
+    "baseForm": "更",
+    "traditional": "更",
+    "pinyin": "gèng",
+    "korean": "더; 바꾸다",
+    "meaningZh": "更加（gèng）；改变（gēng）",
+    "originKind": "uncertain",
+    "originNote": "早期含丙与攴，构形初义不明；现代改变、更加不能从某件实物直接描出。",
+    "shapeNote": "识别现代“更”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-66f4",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·更",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9B%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "曷": {
+    "form": "曷",
+    "baseForm": "曷",
+    "traditional": "曷",
+    "pinyin": "hé",
+    "korean": "어찌; 무엇",
+    "meaningZh": "何；为什么（古语）",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“曷”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-66f7",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "曼": {
+    "form": "曼",
+    "baseForm": "曼",
+    "traditional": "曼",
+    "pinyin": "màn",
+    "korean": "길다; 부드럽다",
+    "meaningZh": "长；柔美",
+    "originKind": "uncertain",
+    "originNote": "字库列双手张目或覆于眉上远望的解释；现代柔长义不等于一条长线的古形。",
+    "shapeNote": "识别现代“曼”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-66fc",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·曼",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9B%BC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "月": {
+    "form": "月",
+    "baseForm": "月",
+    "traditional": "月",
+    "pinyin": "yuè",
+    "korean": "달; 월",
+    "meaningZh": "月亮；月份；部分组合字中同形部件来自肉",
+    "originKind": "pictograph",
+    "originNote": "独立月的古形取半月；胖、肚等字的同形左旁通常来自肉，二者须按具体字区分。",
+    "shapeNote": "识别现代“月”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6708",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·月",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9C%88",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "contextVariants": [
+      {
+        "form": "月",
+        "baseForm": "肉",
+        "traditional": "肉",
+        "pinyin": "ròu",
+        "korean": "육달월변 · 몸",
+        "meaningZh": "肉；身体组织",
+        "originKind": "pictograph",
+        "originNote": "这一类月形左旁通常来自肉，肉与月的写法在历史中相近而混用。明的月才是月亮，不能统一解释成月光。",
+        "shapeNote": "这里按现代月形部件归类；它与表示月亮的月同形，字义要逐字辨认。",
+        "visualKey": "meat",
+        "visualCaption": "肉的肌理作线条提示→肉旁月形；与月亮分开对照。",
+        "sources": [
+          {
+            "title": "香港中文大学《汉语多功能字库》·肉",
+            "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%82%89",
+            "accessed": "2026-11-05"
+          }
+        ],
+        "confidence": "supported",
+        "radicalId": "body"
+      }
+    ]
+  },
+  "木": {
+    "form": "木",
+    "baseForm": "木",
+    "traditional": "木",
+    "pinyin": "mù",
+    "korean": "나무목변 · 나무",
+    "meaningZh": "树木；木材",
+    "originKind": "pictograph",
+    "originNote": "木的古文字描绘树木：上为枝叶，中为树干，下为根。",
+    "shapeNote": "木中间一竖穿过横画；禾上面多一撇。",
+    "visualKey": "tree",
+    "visualCaption": "枝、干、根分别对照木的斜笔、竖笔和下部。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·木",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9C%A8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "未": {
+    "form": "未",
+    "baseForm": "未",
+    "traditional": "未",
+    "pinyin": "wèi",
+    "korean": "아직 ~않다",
+    "meaningZh": "尚未；地支第八位",
+    "originKind": "pictograph",
+    "originNote": "早期在木形上画重叠枝叶；尚未是后来借用义，不是未长大的树的定论。",
+    "shapeNote": "识别现代“未”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-672a",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·未",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9C%AA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "本": {
+    "form": "本",
+    "baseForm": "本",
+    "traditional": "本",
+    "pinyin": "běn",
+    "korean": "근본; 책의 단위",
+    "meaningZh": "根本；本来；书本",
+    "originKind": "ideograph",
+    "originNote": "从木而在下部增加标记，指树木的根；这是一种指示部位的构字方式。",
+    "shapeNote": "识别现代“本”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-672c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·本",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/searchExplain.php?andor=and&explain=%E4%B8%AD&h=&page=15",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "果": {
+    "form": "果",
+    "baseForm": "果",
+    "traditional": "果",
+    "pinyin": "guǒ",
+    "korean": "열매; 결과",
+    "meaningZh": "果实；结果",
+    "originKind": "pictograph",
+    "originNote": "古形树枝上有果实状小圈，描出树上结果；不是田加木的字义相加。",
+    "shapeNote": "识别现代“果”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-679c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·果",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9E%9C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "欠": {
+    "form": "欠",
+    "baseForm": "欠",
+    "traditional": "欠",
+    "pinyin": "qiàn",
+    "korean": "빚지다; 모자라다",
+    "meaningZh": "欠缺；欠债；打哈欠",
+    "originKind": "pictograph",
+    "originNote": "早期取人张口出气的动作，欠缺、欠债是后来的用法。",
+    "shapeNote": "识别现代“欠”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6b20",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·欠",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%AC%A0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "每": {
+    "form": "每",
+    "baseForm": "每",
+    "traditional": "每",
+    "pinyin": "měi",
+    "korean": "매번; ~마다",
+    "meaningZh": "每一",
+    "originKind": "uncertain",
+    "originNote": "字库采用女子头上有发簪的释形，并列与母的关系异说；每一个是借用义。",
+    "shapeNote": "识别现代“每”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6bcf",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·每",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%AF%8F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "氏": {
+    "form": "氏",
+    "baseForm": "氏",
+    "traditional": "氏",
+    "pinyin": "shì",
+    "korean": "씨족; 성씨",
+    "meaningZh": "氏族；姓氏",
+    "originKind": "uncertain",
+    "originNote": "字库采用匙的早期字形解释，并记载其他旧说；不把氏族直接画成家谱而称古形。",
+    "shapeNote": "识别现代“氏”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6c0f",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·氏",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B0%8F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "气": {
+    "form": "气",
+    "baseForm": "气",
+    "traditional": "气",
+    "pinyin": "qì",
+    "korean": "공기; 기운",
+    "meaningZh": "气体；气息",
+    "originKind": "pictograph",
+    "originNote": "古气像天上的云气；今天作为部件可以联系气体，但不能简单当作乞。",
+    "shapeNote": "识别现代“气”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6c14",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·气",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B0%94",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "水": {
+    "form": "水",
+    "baseForm": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "korean": "삼수변 · 물",
+    "meaningZh": "水；液体",
+    "originKind": "pictograph",
+    "originNote": "水的早期字形以中线表示水流，两侧短笔表示水滴；氵是现代左旁写法。",
+    "shapeNote": "氵有三笔，冫有两笔；油是液体，但不是水。",
+    "visualKey": "water",
+    "visualCaption": "流水和两旁水滴，先对照水，再认识氵。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·水",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B0%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "氵": {
+    "form": "氵",
+    "baseForm": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "korean": "삼수변 · 물",
+    "meaningZh": "水作左旁的变体",
+    "originKind": "pictograph",
+    "originNote": "水的早期字形以中线表示水流，两侧短笔表示水滴；氵是现代左旁写法。",
+    "shapeNote": "氵有三笔，冫有两笔；油是液体，但不是水。",
+    "visualKey": "water",
+    "visualCaption": "流水和两旁水滴，先对照水，再认识氵。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·水",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B0%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "永": {
+    "form": "永",
+    "baseForm": "永",
+    "traditional": "永",
+    "pinyin": "yǒng",
+    "korean": "영원하다",
+    "meaningZh": "永久；长久",
+    "originKind": "uncertain",
+    "originNote": "字库采用河流绵长有支流的解释，同时列人在水中游泳说；不能把其中一说断为唯一。",
+    "shapeNote": "识别现代“永”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6c38",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·永",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B0%B8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "求": {
+    "form": "求",
+    "baseForm": "求",
+    "traditional": "求",
+    "pinyin": "qiú",
+    "korean": "구하다; 요청하다",
+    "meaningZh": "请求；寻求",
+    "originKind": "pictograph",
+    "originNote": "字库采用多足虫的释形，是蛷的早期字形，并反对直接视为裘的古字；请求是后来的用法。",
+    "shapeNote": "识别现代“求”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-6c42",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·求",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B1%82",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "火": {
+    "form": "火",
+    "baseForm": "火",
+    "traditional": "火",
+    "pinyin": "huǒ",
+    "korean": "불화변 · 불",
+    "meaningZh": "火焰",
+    "originKind": "pictograph",
+    "originNote": "火的古文字像燃烧的一团火焰，后来变为中间与两侧的笔画。",
+    "shapeNote": "火作左部时捺常变点；灬是另一种常见火部件形态。",
+    "visualKey": "fire",
+    "visualCaption": "向上燃烧的焰尖与两侧火舌→火。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·火",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%81%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "犭": {
+    "form": "犭",
+    "baseForm": "犬",
+    "traditional": "犬",
+    "pinyin": "quǎn",
+    "korean": "개사슴록변 · 동물",
+    "meaningZh": "犬作左旁的变体",
+    "originKind": "pictograph",
+    "originNote": "犬的古文字描绘狗的形体，犭是犬作左偏旁的变体。",
+    "shapeNote": "犭右侧弯钩是主要轮廓；扌的横和提不同。",
+    "visualKey": "dog",
+    "visualCaption": "狗的头、身、腿与尾的侧影→犬→犭；不用猫代替犬的原形。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·犬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8A%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "王": {
+    "form": "王",
+    "baseForm": "王",
+    "traditional": "王",
+    "pinyin": "wáng",
+    "korean": "왕",
+    "meaningZh": "君王；玉旁写成王形时表示玉",
+    "originKind": "pictograph",
+    "originNote": "独立王的古形像刃朝下的斧钺，借以象征王权；理、玩等的王形旁实际来自玉。",
+    "shapeNote": "识别现代“王”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-738b",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·王",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8E%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "contextVariants": [
+      {
+        "form": "王",
+        "baseForm": "玉",
+        "traditional": "玉",
+        "pinyin": "yù",
+        "korean": "구슬옥변 · 옥",
+        "meaningZh": "玉石；珠玉",
+        "originKind": "pictograph",
+        "originNote": "玉的早期字形像以线串起的数块玉片，后来加点与王区别。玉作左旁通常保留王形。",
+        "shapeNote": "这里是玉字旁的王形写法；与土的横画数不同。",
+        "visualKey": "jade",
+        "visualCaption": "线穿数块玉片→玉→王形玉旁；与君王的王分开。",
+        "sources": [
+          {
+            "title": "香港中文大学《汉语多功能字库》·玉",
+            "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8E%89",
+            "accessed": "2026-11-05"
+          }
+        ],
+        "confidence": "supported",
+        "radicalId": "jade"
+      }
+    ]
+  },
+  "生": {
+    "form": "生",
+    "baseForm": "生",
+    "traditional": "生",
+    "pinyin": "shēng",
+    "korean": "나다; 삶",
+    "meaningZh": "生长；出生",
+    "originKind": "compound",
+    "originNote": "古形取草木从土地中长出，表现生长与产生。",
+    "shapeNote": "识别现代“生”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-751f",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·生",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%94%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "田": {
+    "form": "田",
+    "baseForm": "田",
+    "traditional": "田",
+    "pinyin": "tián",
+    "korean": "밭",
+    "meaningZh": "农田",
+    "originKind": "pictograph",
+    "originNote": "早期形体画出成块的田地，中间界线可作田埂理解。",
+    "shapeNote": "识别现代“田”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-7530",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·田",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%94%B0",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "由": {
+    "form": "由",
+    "baseForm": "由",
+    "traditional": "由",
+    "pinyin": "yóu",
+    "korean": "~로 말미암다; ~에 따르다",
+    "meaningZh": "由；经过；原因",
+    "originKind": "uncertain",
+    "originNote": "早期口形加竖或圆形，构形本义没有定论；不采用“油滴进瓶口”的确定字源故事。",
+    "shapeNote": "识别现代“由”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-7531",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·由",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%94%B1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "申": {
+    "form": "申",
+    "baseForm": "申",
+    "traditional": "申",
+    "pinyin": "shēn",
+    "korean": "알리다; 신청하다",
+    "meaningZh": "申述；地支第九位",
+    "originKind": "pictograph",
+    "originNote": "古形像闪电曲折闪烁，是电的早期字形；今天申述等义属于后来的用法。",
+    "shapeNote": "识别现代“申”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-7533",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·申",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%94%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "白": {
+    "form": "白",
+    "baseForm": "白",
+    "traditional": "白",
+    "pinyin": "bái",
+    "korean": "희다; 헛되이",
+    "meaningZh": "白色；明白",
+    "originKind": "uncertain",
+    "originNote": "字库采用拇指形、借作白色的解释；不把一撇太阳光或一粒米断为唯一字源。",
+    "shapeNote": "识别现代“白”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-767d",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·白",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%99%BD",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "皮": {
+    "form": "皮",
+    "baseForm": "皮",
+    "traditional": "皮",
+    "pinyin": "pí",
+    "korean": "가죽; 껍질",
+    "meaningZh": "皮肤；皮革",
+    "originKind": "compound",
+    "originNote": "古形有手剥取兽皮的动作，本指剥皮或兽皮。",
+    "shapeNote": "识别现代“皮”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-76ae",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·皮",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9A%AE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "目": {
+    "form": "目",
+    "baseForm": "目",
+    "traditional": "目",
+    "pinyin": "mù",
+    "korean": "눈목변 · 눈",
+    "meaningZh": "眼睛",
+    "originKind": "pictograph",
+    "originNote": "目取眼睛形，早期可横置，后来多竖写。内外线条逐渐成为目。",
+    "shapeNote": "目里两横，比日多一横。",
+    "visualKey": "eye",
+    "visualCaption": "眼的外轮廓、瞳孔→竖写目的框与内横。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·目",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9B%AE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "石": {
+    "form": "石",
+    "baseForm": "石",
+    "traditional": "石",
+    "pinyin": "shí",
+    "korean": "돌석변 · 돌",
+    "meaningZh": "石头；石材",
+    "originKind": "uncertain",
+    "originNote": "字库采用“早期厂形象石磬，后加口作饰笔”的解释，并指出《说文》崖下石块说与古文字不合；不宜强称唯一字源。",
+    "shapeNote": "石由上部横撇与口形组成；与右不同。",
+    "visualKey": "stone",
+    "visualCaption": "石磬/石器的取形学说→石；同时标注释形分歧，口不表示嘴。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·石",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9F%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "礻": {
+    "form": "礻",
+    "baseForm": "示",
+    "traditional": "示",
+    "pinyin": "shì",
+    "korean": "보일시변 · 제사",
+    "meaningZh": "示作左旁的变体；祭祀",
+    "originKind": "uncertain",
+    "originNote": "示与祭祀神主有关，字库列神主牌位、祭杆等不同释形，尚无定论；礻为现代偏旁写法。",
+    "shapeNote": "礻四笔；衤五笔，右边多一撇。",
+    "visualKey": "altar",
+    "visualCaption": "祭祀神主的场景是学说示意→示→礻，不作已确证的单一古图。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·示",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A4%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "立": {
+    "form": "立",
+    "baseForm": "立",
+    "traditional": "立",
+    "pinyin": "lì",
+    "korean": "서다; 세우다",
+    "meaningZh": "站立；建立",
+    "originKind": "ideograph",
+    "originNote": "早期以正面站立人形下加一横表示地面，表示站立。",
+    "shapeNote": "识别现代“立”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-7acb",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·立",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%AB%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "竟": {
+    "form": "竟",
+    "baseForm": "竟",
+    "traditional": "竟",
+    "pinyin": "jìng",
+    "korean": "뜻밖에; 마침내",
+    "meaningZh": "终结；居然",
+    "originKind": "uncertain",
+    "originNote": "早期有言与人等构形，字库列多种解释；终结、居然义不宜套同一件物体图。",
+    "shapeNote": "识别现代“竟”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-7adf",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·竟",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%AB%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "米": {
+    "form": "米",
+    "baseForm": "米",
+    "traditional": "米",
+    "pinyin": "mǐ",
+    "korean": "쌀미변 · 쌀",
+    "meaningZh": "米；谷粒",
+    "originKind": "pictograph",
+    "originNote": "米的早期字形以小点表示谷粒，中间一画的解释有筛子或谷梗等说法。",
+    "shapeNote": "米有四个斜向笔画；木只有两条主要斜笔。",
+    "visualKey": "rice",
+    "visualCaption": "谷粒围绕中线分布→米；不把现代交叉六笔说成六颗确定的稻米。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·米",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B1%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "纟": {
+    "form": "纟",
+    "baseForm": "糸",
+    "traditional": "糸",
+    "pinyin": "mì",
+    "korean": "실사변 · 실",
+    "meaningZh": "糸的简化偏旁；丝线",
+    "originKind": "pictograph",
+    "originNote": "糸的古文字像束起的丝线，末端可有丝绪；简体绞丝旁写作纟。",
+    "shapeNote": "简体纟对应繁体糹/糸相关形体；纟不是氵。",
+    "visualKey": "thread",
+    "visualCaption": "丝束的弯曲、捆扎与细丝→糸→纟；现代纟不是一张原始象形照片。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·糸",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B3%B8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "羊": {
+    "form": "羊",
+    "baseForm": "羊",
+    "traditional": "羊",
+    "pinyin": "yáng",
+    "korean": "양",
+    "meaningZh": "羊",
+    "originKind": "pictograph",
+    "originNote": "古形突出羊头上两只弯角，羊头的正面轮廓可帮助辨形。",
+    "shapeNote": "识别现代“羊”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-7f8a",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·羊",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%BE%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "考": {
+    "form": "考",
+    "baseForm": "考",
+    "traditional": "考",
+    "pinyin": "kǎo",
+    "korean": "시험하다; 살피다",
+    "meaningZh": "考察；考试；古称亡父",
+    "originKind": "phonetic-carrier",
+    "originNote": "古考与老相关，并用丂作声符，曾表示父亲；考试是后来义项。",
+    "shapeNote": "识别现代“考”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-8003",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·考",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%80%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "者": {
+    "form": "者",
+    "baseForm": "者",
+    "traditional": "者",
+    "pinyin": "zhě",
+    "korean": "~하는 사람",
+    "meaningZh": "表示人或事物的助词",
+    "originKind": "uncertain",
+    "originNote": "本条保留现代字形和独立字义；现有核查尚不足以指定唯一的实物或动作字源，因此不绘造字原图。",
+    "shapeNote": "识别现代“者”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-8005",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "Make Me a Hanzi · 已核对的现代字形与释义快照",
+        "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "胡": {
+    "form": "胡",
+    "baseForm": "胡",
+    "traditional": "胡",
+    "pinyin": "hú",
+    "korean": "함부로; 수염",
+    "meaningZh": "古有牛颈垂肉义；胡乱；姓氏",
+    "originKind": "phonetic-carrier",
+    "originNote": "古胡从肉、古声，本指牛颈下垂肉；在湖、蝴中要先识别它的表音作用。",
+    "shapeNote": "识别现代“胡”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-80e1",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·胡",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%83%A1",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "舌": {
+    "form": "舌",
+    "baseForm": "舌",
+    "traditional": "舌",
+    "pinyin": "shé",
+    "korean": "혀",
+    "meaningZh": "舌头",
+    "originKind": "pictograph",
+    "originNote": "古形取口中伸出的舌头，字库特别联系蛇的分叉舌；现代可用舌头轮廓帮助辨认。",
+    "shapeNote": "识别现代“舌”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-820c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·舌",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/oraclePiece.php?piece=%E8%88%8C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "艮": {
+    "form": "艮",
+    "baseForm": "艮",
+    "traditional": "艮",
+    "pinyin": "gèn（卦名） / gěn（硬、不爽快）",
+    "korean": "괘 이름; 단단하다",
+    "meaningZh": "卦名；硬；不爽快（依读音）",
+    "originKind": "uncertain",
+    "originNote": "早期有目与匕等构形，释义有怒目相对等说法；本条不为它指定唯一表象。",
+    "shapeNote": "识别现代“艮”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-826e",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·艮",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%89%AE",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "教育部国语辞典 · 本字读音核对",
+        "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=4082&ver=4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "色": {
+    "form": "色",
+    "baseForm": "色",
+    "traditional": "色",
+    "pinyin": "sè",
+    "korean": "색; 기색",
+    "meaningZh": "颜色；脸色",
+    "originKind": "uncertain",
+    "originNote": "字库联系印、抑的古形和音近借用；颜色不是由现代色的各笔直接描出的物体。",
+    "shapeNote": "识别现代“色”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-8272",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·色",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%89%B2",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "苗": {
+    "form": "苗",
+    "baseForm": "苗",
+    "traditional": "苗",
+    "pinyin": "miáo",
+    "korean": "싹; 모종",
+    "meaningZh": "禾苗；幼苗",
+    "originKind": "compound",
+    "originNote": "古形取禾苗在田地生长，艹与田在这里都有意义关联；猫中苗主要表音。",
+    "shapeNote": "识别现代“苗”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-82d7",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·苗",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%8B%97",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "董": {
+    "form": "董",
+    "baseForm": "董",
+    "traditional": "董",
+    "pinyin": "dǒng",
+    "korean": "감독하다; 성씨 동",
+    "meaningZh": "监督；姓氏董",
+    "originKind": "phonetic-carrier",
+    "originNote": "古董从艹、重声，表示督察监督；懂中董作声旁，不能理解为“董事的心”。",
+    "shapeNote": "识别现代“董”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-8463",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·董",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%91%A3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "虫": {
+    "form": "虫",
+    "baseForm": "虫",
+    "traditional": "虫",
+    "pinyin": "chóng",
+    "korean": "벌레충변 · 벌레",
+    "meaningZh": "古蛇形字；今常指昆虫",
+    "originKind": "pictograph",
+    "originNote": "虫的早期形体像蛇，原指毒蛇；作偏旁后来泛指昆虫及若干动物。",
+    "shapeNote": "虫下部有提和点；不要看成中。",
+    "visualKey": "worm",
+    "visualCaption": "蛇的头和弯曲身躯→虫；甲虫图片只能解释今义，不能解释原形。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·虫",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%99%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "衤": {
+    "form": "衤",
+    "baseForm": "衣",
+    "traditional": "衣",
+    "pinyin": "yī",
+    "korean": "옷의변 · 옷",
+    "meaningZh": "衣作左旁的变体",
+    "originKind": "pictograph",
+    "originNote": "衣的古文字像上衣，可辨衣领、两袖与相叠衣襟；衤是作左偏旁时的变体。",
+    "shapeNote": "衤比礻多一撇；二者不能互换。",
+    "visualKey": "cloth",
+    "visualCaption": "衣领、左右袖与衣襟→衣→衤。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·衣",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A1%A3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "西": {
+    "form": "西",
+    "baseForm": "西",
+    "traditional": "西",
+    "pinyin": "xī",
+    "korean": "서쪽",
+    "meaningZh": "西方",
+    "originKind": "uncertain",
+    "originNote": "字库采用鸟巢形解释，后作方位；西方不是把夕阳强画成西的轮廓。",
+    "shapeNote": "识别现代“西”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-897f",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·西",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A5%BF",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "见": {
+    "form": "见",
+    "baseForm": "见",
+    "traditional": "見",
+    "pinyin": "jiàn",
+    "korean": "보다; 만나다",
+    "meaningZh": "看见；见面",
+    "originKind": "compound",
+    "originNote": "繁体見突出人的眼睛，表示看见；现代见是简化形。",
+    "shapeNote": "识别现代“见”的实际笔画；独立字义不自动成为组合字的意思。 它是“見”的简化写法，须区别古字构形。",
+    "visualKey": "component-89c1",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·見",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A6%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "言": {
+    "form": "言",
+    "baseForm": "言",
+    "traditional": "言",
+    "pinyin": "yán",
+    "korean": "말씀언변 · 말",
+    "meaningZh": "言语；说话",
+    "originKind": "compound",
+    "originNote": "言的早期构形与舌和一有关，表示言语出于舌；讠是言的简化偏旁，不能把两笔直接当成说话气泡的古图。",
+    "shapeNote": "讠两笔；冫两笔但第二笔方向和结构不同。",
+    "visualKey": "speech",
+    "visualCaption": "口舌发声作意义提示，再对照言→讠的字形变化。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·言",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A8%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "讠": {
+    "form": "讠",
+    "baseForm": "言",
+    "traditional": "言",
+    "pinyin": "yán",
+    "korean": "말씀언변 · 말",
+    "meaningZh": "言的简化偏旁",
+    "originKind": "compound",
+    "originNote": "言的早期构形与舌和一有关，表示言语出于舌；讠是言的简化偏旁，不能把两笔直接当成说话气泡的古图。",
+    "shapeNote": "讠两笔；冫两笔但第二笔方向和结构不同。",
+    "visualKey": "speech",
+    "visualCaption": "口舌发声作意义提示，再对照言→讠的字形变化。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·言",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A8%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "足": {
+    "form": "足",
+    "baseForm": "足",
+    "traditional": "足",
+    "pinyin": "zú",
+    "korean": "발족변 · 발",
+    "meaningZh": "脚；足够",
+    "originKind": "pictograph",
+    "originNote": "足的早期构形取腿脚形，与表示脚趾的止有关；上部口形在这里不是嘴。",
+    "shapeNote": "足作左部时下部收窄；不要看成口加止的随意拼法。",
+    "visualKey": "foot",
+    "visualCaption": "腿到脚底的轮廓→足；不将足解释为“嘴＋停止”。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·足",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B6%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "车": {
+    "form": "车",
+    "baseForm": "車",
+    "traditional": "車",
+    "pinyin": "chē",
+    "korean": "수레거변 · 수레",
+    "meaningZh": "车辆",
+    "originKind": "pictograph",
+    "originNote": "車的古文字画出车轮、轴和车身等部分，后来竖写并简化为车。",
+    "shapeNote": "车是简体部件；不要把中间一竖省掉。",
+    "visualKey": "cart",
+    "visualCaption": "古代两轮车的轮、轴、车身→車→车；现代汽车只是应用图。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·車",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%BB%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "退": {
+    "form": "退",
+    "baseForm": "退",
+    "traditional": "退",
+    "pinyin": "tuì",
+    "korean": "물러나다",
+    "meaningZh": "后退；退出",
+    "originKind": "compound",
+    "originNote": "字库采用饮食完毕离席的释形，含食器与离开的脚形；现代退的艮不宜直接套入眼睛说。",
+    "shapeNote": "识别现代“退”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-9000",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·退",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%80%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "酉": {
+    "form": "酉",
+    "baseForm": "酉",
+    "traditional": "酉",
+    "pinyin": "yǒu",
+    "korean": "십이지의 열째; 옛 술그릇",
+    "meaningZh": "地支第十位；古为酒器",
+    "originKind": "pictograph",
+    "originNote": "早期形体取大口酒尊，酒器轮廓与酉相联系，不是鸡的图片。",
+    "shapeNote": "识别现代“酉”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-9149",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·酉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%85%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "里": {
+    "form": "里",
+    "baseForm": "里",
+    "traditional": "里",
+    "pinyin": "lǐ",
+    "korean": "안; 거리 단위 리",
+    "meaningZh": "里面；里程单位；古为聚落",
+    "originKind": "compound",
+    "originNote": "古里含田和土，本指聚居地；里面、里程是现代要按词语学习的用法。",
+    "shapeNote": "识别现代“里”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-91cc",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·里",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%87%8C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "钅": {
+    "form": "钅",
+    "baseForm": "金",
+    "traditional": "金",
+    "pinyin": "jīn",
+    "korean": "쇠금변 · 금속",
+    "meaningZh": "金的简化偏旁；金属",
+    "originKind": "compound",
+    "originNote": "金的早期构形有金属形体和声符今的省形；不是简单画一块金子。最初多指铜，后泛指金属。",
+    "shapeNote": "钅来自金的偏旁写法；与饣的笔画不同。",
+    "visualKey": "metal",
+    "visualCaption": "金属块是意义图，金→钅是字形变体；图不声称每笔都是金块。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·金",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%87%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "门": {
+    "form": "门",
+    "baseForm": "门",
+    "traditional": "門",
+    "pinyin": "mén",
+    "korean": "문",
+    "meaningZh": "门；门类",
+    "originKind": "pictograph",
+    "originNote": "繁体門像两扇门，简化后为门；图形应先对应双扇门再看简体。",
+    "shapeNote": "识别现代“门”的实际笔画；独立字义不自动成为组合字的意思。 它是“門”的简化写法，须区别古字构形。",
+    "visualKey": "component-95e8",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·門",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%96%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "隹": {
+    "form": "隹",
+    "baseForm": "隹",
+    "traditional": "隹",
+    "pinyin": "zhuī",
+    "korean": "새를 나타내는 한자 부품",
+    "meaningZh": "古表示鸟；现常作部件",
+    "originKind": "pictograph",
+    "originNote": "古隹取鸟的形体，不能把它独立解释为“推”动作；它在推中主要作声符。",
+    "shapeNote": "识别现代“隹”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-96b9",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·隹",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%9A%B9",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "青": {
+    "form": "青",
+    "baseForm": "青",
+    "traditional": "青",
+    "pinyin": "qīng",
+    "korean": "푸르다; 젊다",
+    "meaningZh": "青色；蓝绿一类颜色",
+    "originKind": "uncertain",
+    "originNote": "古青含生、丹，构形初义未明，字库列草木青色等说法；右部青主要作声符时不把青草义强加进去。",
+    "shapeNote": "识别现代“青”的实际笔画；独立字义不自动成为组合字的意思。",
+    "visualKey": "component-9752",
+    "visualCaption": "现代部件轮廓；字源有不同解释，图形不强配单一实物。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·青",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%9D%92",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "饣": {
+    "form": "饣",
+    "baseForm": "食",
+    "traditional": "食",
+    "pinyin": "shí",
+    "korean": "밥식변 · 음식",
+    "meaningZh": "食的简化偏旁；饮食",
+    "originKind": "compound",
+    "originNote": "食的古文字包含食器及其上部形体；有就食之口或器盖等解释，细部释形存在分歧。",
+    "shapeNote": "饣三笔；不要和钅或讠混淆。",
+    "visualKey": "foodbowl",
+    "visualCaption": "食器与进食提示食义，再看食→饣；标明细部有异说。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·食",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A3%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "马": {
+    "form": "马",
+    "baseForm": "马",
+    "traditional": "馬",
+    "pinyin": "mǎ",
+    "korean": "말",
+    "meaningZh": "马匹",
+    "originKind": "pictograph",
+    "originNote": "繁体馬的古形描绘马的身体，现代马是简化形；在妈、码等字中主要作声旁。",
+    "shapeNote": "识别现代“马”的实际笔画；独立字义不自动成为组合字的意思。 它是“馬”的简化写法，须区别古字构形。",
+    "visualKey": "component-9a6c",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·馬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A6%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "𢀖": {
+    "form": "𢀖",
+    "baseForm": "𢀖",
+    "traditional": "𢀖",
+    "pinyin": "部件不单独标读音",
+    "korean": "经의 오른쪽 간체 구성 요소",
+    "meaningZh": "现代经字右部；巠的简化形体",
+    "originKind": "simplified-shape",
+    "originNote": "这是现代简体组合中的右部形体，不把它命名成一个独立物体，也不据它倒推古文字。",
+    "shapeNote": "用实际整字中提取的右部轮廓显示，避免把异体字或近形字当作同一部件。",
+    "visualKey": "component-22016",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "CJKVI/CHISE · 现代字形拆分",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "𫠣": {
+    "form": "𫠣",
+    "baseForm": "𫠣",
+    "traditional": "𫠣",
+    "pinyin": "部件不单独标读音",
+    "korean": "练의 오른쪽 간체 구성 요소",
+    "meaningZh": "现代练字右部；不作独立实物义解释",
+    "originKind": "simplified-shape",
+    "originNote": "这是现代简体组合中的右部形体，不把它命名成一个独立物体，也不据它倒推古文字。",
+    "shapeNote": "用实际整字中提取的右部轮廓显示，避免把异体字或近形字当作同一部件。",
+    "visualKey": "component-2b823",
+    "visualCaption": "现代部件轮廓；先认笔形，再查看它在当前字中的意义或读音作用。",
+    "sources": [
+      {
+        "title": "CJKVI/CHISE · 现代字形拆分",
+        "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "modern-only"
+  },
+  "干": {
+    "form": "干",
+    "baseForm": "干",
+    "traditional": "干",
+    "pinyin": "gān",
+    "korean": "방패; 천간",
+    "meaningZh": "古义有盾牌；也用于天干等",
+    "originKind": "uncertain",
+    "originNote": "字库把早期形体联系有装饰的盾牌，并介绍其他解释。不能把古形直接画成“晒干”的物体。",
+    "shapeNote": "观察现代两横一竖；在汗中主要是历史声旁，不把“干燥”套入汗字。",
+    "visualKey": "component-5e72",
+    "visualCaption": "本图只对照现代部件的真实笔画；历史释形以来源说明为准。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·干",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%B9%B2",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "㐬": {
+    "form": "㐬",
+    "baseForm": "㐬",
+    "traditional": "㐬",
+    "pinyin": "liú",
+    "korean": "옛 글자의 구성 요소",
+    "meaningZh": "见于流等字的古构形部件",
+    "originKind": "phonetic-carrier",
+    "originNote": "字库在流条下联系毓的省形、倒子与产子图像，并指出其表音作用；这里不另造一个确定的现代实物义。",
+    "shapeNote": "按真实㐬字形观察上部与下部三笔；流水照片属于整字流的现代义。",
+    "visualKey": "component-342c",
+    "visualCaption": "本图只对照现代部件的真实笔画；历史释形以来源说明为准。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·流",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B5%81",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "confidence": "supported"
+  },
+  "亥": {
+    "form": "亥",
+    "baseForm": "亥",
+    "traditional": "亥",
+    "pinyin": "hài",
+    "korean": "지지의 열두째 글자, 해",
+    "meaningZh": "地支第十二位",
+    "originKind": "uncertain",
+    "originNote": "早期形体的解释有分歧，字库列举草根、猪等不同说法；本卡不把任一说法当作已经定论的实物图。",
+    "shapeNote": "保留现代亥的真实轮廓；在咳中联系历史读音，不等于咳嗽的动作。",
+    "visualKey": "component-4ea5",
+    "visualCaption": "本图只对照现代部件的真实笔画；历史释形以来源说明为准。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·亥",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%A5",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "卯": {
+    "form": "卯",
+    "baseForm": "卯",
+    "traditional": "卯",
+    "pinyin": "mǎo",
+    "korean": "지지의 넷째 글자, 묘",
+    "meaningZh": "地支第四位",
+    "originKind": "uncertain",
+    "originNote": "字库记录对早期形体有双刀、门等不同解释，字源未形成一致结论。不可因柳字而把卯画成柳枝。",
+    "shapeNote": "观察现代卯左右两个部分的实际笔形；在柳中按来源理解历史声音关系。",
+    "visualKey": "component-536f",
+    "visualCaption": "本图只对照现代部件的真实笔画；历史释形以来源说明为准。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·卯",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8D%AF",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "confidence": "disputed"
+  },
+  "荅": {
+    "form": "荅",
+    "baseForm": "荅",
+    "traditional": "荅",
+    "pinyin": "dá",
+    "korean": "팥; 대답하다",
+    "meaningZh": "小豆；古书中也可通答",
+    "originKind": "compound",
+    "originNote": "《说文》释小豆，从艸、合声。荅有自己的构形与字义；作为塔的右部时主要提示历史读音。",
+    "shapeNote": "现代荅为艹在上、合在下；塔的建筑物照片不是荅字的独立象形图。",
+    "visualKey": "component-8345",
+    "visualCaption": "本图只对照现代部件的真实笔画；历史释形以来源说明为准。",
+    "sources": [
+      {
+        "title": "汉典·荅（含《说文》原文）",
+        "url": "https://zdic.net/hans/%E8%8D%85",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "confidence": "supported"
+  }
+}

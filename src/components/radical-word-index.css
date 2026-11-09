@@ -1,0 +1,46 @@
+.radical-word-index{min-width:0;padding:16px 18px;border-top:1px solid #e7e2e6;color:#29272d}
+.radical-index-toolbar,.radical-word-filter{display:flex;align-items:center;gap:12px;min-width:0;font-size:12px;color:#666168}
+.radical-index-toolbar{margin-bottom:12px}
+.radical-index-search{display:flex;align-items:center;gap:8px;min-width:0;flex:1;max-width:430px;border:1px solid #e7e2e6;border-radius:7px;padding:8px 11px;background:#fff}
+.radical-index-search input{min-width:0;width:100%;border:0;outline:none;background:none;font:inherit;color:#29272d}
+.radical-index-search button{display:flex;align-items:center;justify-content:center;padding:2px;color:#666168}
+.radical-index-toolbar>span,.radical-word-filter>span{white-space:nowrap}
+.radical-index-all{margin-left:auto;flex:none;font-size:12px;padding:7px 13px;border:1px solid #c8e7d9;border-radius:6px;background:#fff;color:#24765e}
+.radical-index-all.selected{background:#d9f1e5;border-color:#91cdb4}
+.dictionary-radical-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:7px;max-height:218px;overflow-y:auto;overscroll-behavior:contain;scrollbar-color:#aacdbb transparent;padding:2px 5px 2px 2px}
+.dictionary-radical-grid>button{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-width:0;min-height:72px;padding:7px 8px 6px;border:1px solid #e7e2e6;border-radius:7px;background:#fff;color:#29272d}
+.dictionary-radical-grid>button:hover:not(:disabled){background:#fff4ed;border-color:#edb4bf}
+.dictionary-radical-grid>button.selected{background:#fff0f3;border-color:#cb3e58;box-shadow:0 0 0 1px #edb4bf}
+.dictionary-radical-grid>button:disabled{opacity:.38;cursor:default}
+.dictionary-radical-grid>button>small{position:absolute;left:6px;top:4px;font-size:9px;font-weight:400;line-height:1.3;color:#666168}
+.dictionary-radical-grid>button>strong{font-size:30px;line-height:1.3;font-weight:500;color:#b6314b}
+.dictionary-radical-grid>button>span{font-size:10px;line-height:1.3;color:#666168;font-variant-numeric:tabular-nums}
+.radical-index-selection{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;padding:12px 14px;border:1px solid #c8e7d9;border-radius:8px;background:#f0faf5;min-width:0}
+.radical-index-selection>div{display:flex;align-items:center;gap:14px;min-width:0}
+.radical-index-selected-form{flex:none;font-size:45px;font-weight:500;line-height:1.25;color:#24765e}
+.radical-index-selection h3{margin:0;font-size:16px;line-height:1.5;font-weight:600;overflow-wrap:anywhere}
+.radical-index-selection h3 small{margin-left:8px;font-size:10px;font-weight:400;color:#666168;white-space:nowrap}
+.radical-index-variants{font-size:19px;line-height:1.5;margin:4px 0 0;color:#24765e;overflow-wrap:anywhere}
+.radical-index-selection>span{font-size:12px;white-space:nowrap;color:#666168}
+.radical-index-selection>span b{font-size:16px;font-weight:600;color:#24765e;margin-right:4px;font-variant-numeric:tabular-nums}
+.radical-index-note{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px 14px;margin:8px 0 15px;font-size:11px;color:#666168;line-height:1.7}
+.radical-index-note p{margin:0}
+.radical-index-note a{display:inline-flex;align-items:center;gap:4px;color:#24765e}
+.radical-word-filter{margin-bottom:12px}
+.radical-index-word-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px 15px}
+.radical-index-word-row{display:grid;grid-template-columns:minmax(65px,.8fr) minmax(75px,1fr) minmax(100px,1.5fr) auto 14px;align-items:center;gap:9px;padding:11px 10px;border:1px solid #eee8e9;border-radius:7px;background:#fff;text-align:left;min-width:0}
+.radical-index-word-row:hover{background:#fff4ed;border-color:#edb4bf}
+.radical-index-word-row strong{font-size:21px;line-height:1.4;font-weight:600;overflow-wrap:anywhere}
+.radical-index-word-row mark{color:#24765e;background:#d9f1e5;border-radius:3px;font:inherit}
+.radical-index-pinyin,.radical-index-meaning{font-size:12px;line-height:1.6;color:#666168;overflow-wrap:anywhere;min-width:0}
+.radical-index-word-row small{font-size:10px;color:#666168;white-space:nowrap}
+.radical-index-word-row>svg{color:#b6314b}
+.radical-index-word-row.without-korean{grid-template-columns:minmax(65px,1fr) minmax(75px,1.5fr) auto 14px}
+.radical-index-pagination{display:flex;align-items:center;justify-content:center;gap:20px;margin-top:15px;font-size:12px;color:#666168}
+.radical-index-pagination button{display:inline-flex;align-items:center;justify-content:center;gap:5px;background:#fff;border:1px solid #e7e2e6;border-radius:6px;padding:7px 10px;color:#b6314b;font-size:12px}
+.radical-index-pagination button:disabled{opacity:.4;cursor:default}
+.radical-index-empty{padding:15px 0;text-align:center;font-size:13px;color:#666168}
+@media(max-width:1100px){.radical-index-word-list{grid-template-columns:1fr}.radical-index-word-row{grid-template-columns:minmax(75px,.8fr) minmax(90px,1fr) minmax(130px,2fr) auto 14px}}
+@media(max-width:760px){.radical-word-index{padding:13px}.radical-index-toolbar,.radical-word-filter{gap:8px;font-size:11px}.radical-index-search{padding:8px;gap:6px}.radical-index-all{padding:7px 10px;font-size:11px}.dictionary-radical-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;max-height:216px;padding-right:3px}.dictionary-radical-grid>button{min-height:67px;padding:8px 6px 5px}.dictionary-radical-grid>button>strong{font-size:29px}.dictionary-radical-grid>button>small{font-size:8px;left:4px;top:3px}.dictionary-radical-grid>button>span{font-size:9px}.radical-index-selection{padding:10px;gap:8px;margin-top:13px}.radical-index-selection>div{gap:10px}.radical-index-selected-form{font-size:39px}.radical-index-selection h3{font-size:14px}.radical-index-selection h3 small{font-size:9px;margin-left:6px}.radical-index-variants{font-size:17px}.radical-index-selection>span{font-size:10px}.radical-index-selection>span b{font-size:14px}.radical-index-note{font-size:10px;margin-bottom:12px}.radical-index-word-list{gap:7px}.radical-index-word-row{grid-template-columns:minmax(60px,1fr) minmax(85px,1.2fr) auto 12px;gap:3px 8px;padding:10px}.radical-index-word-row strong{font-size:23px;grid-row:1/3}.radical-index-pinyin{grid-column:2;grid-row:1}.radical-index-meaning{grid-column:2/4;grid-row:2;font-size:11px}.radical-index-word-row small{grid-column:3;grid-row:1;font-size:9px}.radical-index-word-row>svg{grid-column:4;grid-row:1/3}.radical-index-word-row.without-korean{grid-template-columns:minmax(60px,1fr) minmax(85px,1.2fr) auto 12px}.radical-index-word-row.without-korean strong{grid-row:1}.radical-index-word-row.without-korean>svg{grid-row:1}.radical-index-pagination{gap:14px}}
+
+.dictionary-radical-grid>button>.dictionary-radical-korean{font-size:9px;line-height:1.5;white-space:normal;overflow-wrap:anywhere;word-break:keep-all;min-height:2.8em;color:#59535c}.radical-selected-korean{font-size:13px;line-height:1.7;margin:4px 0 0;color:#24765e}@media(max-width:760px){.dictionary-radical-grid>button>.dictionary-radical-korean{font-size:8px;line-height:1.5}.radical-selected-korean{font-size:12px}}

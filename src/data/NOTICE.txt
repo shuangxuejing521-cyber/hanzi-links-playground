@@ -1,0 +1,60 @@
+汉字拼字学习数据说明
+
+字形结构：Copyright (c) 2014-2017 CJKVI Database，基于 CHISE IDS Database。
+https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt
+许可 GPL-2.0-or-later，全文见 GPL-2.0.txt。修改：仅选取本页收录字的两个可编码左右部件；优先中国大陆G字形，去掉区域标记。没有沿用原项目“练=纟+柬”等与现代简体字不符的拆分。
+
+拼音参考：Shaunak Kishore 及 Make Me a Hanzi 贡献者的 dictionary.txt，来自 Unihan 与 CJKlib，LGPL-3.0-or-later。
+https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt
+许可和版权说明随附。选择本页单字的教学读音；吧、呢、吗、脏等按本页实际用法编辑。
+
+词汇：保留原项目 src/data/lexicon.json 的全部2500条词表记录，字段精简但ID与同形词不合并。范围标签：旧版HSK（2015）一至五级累计2500词，1/2/3/4/5级新增150/150/300/600/1300条；不是对2026现行考试范围的承诺。官方历史来源：https://old.chinesetest.cn/userfiles/file/HSK/HSK-2015.xlsx
+
+韩语释义参考原项目 work/character-korean.json 与词库，中文义、图像联想和字形叙述为本次编辑。字形和图片用于现代字形识记，不自动等同于汉字字源或严谨造字学结论。
+
+scope=hsk：2500条中包含该字作为单字词；scope=extension：没有作为单字词收录。inHskVocabulary=true 表示该字至少出现在一个词中，例如油不是单字词，但关联加油站、酱油、汽油、油炸。
+所有组合只来自明确记录的字形拆分。暂未收录不是不存在的断言。
+
+完整词汇的拼音候选：HearMandarin，https://hearmandarin.com/datasets/hsk-3-0-words.json ，CC BY 4.0。本页沿用既有教学义与拼音修订。
+词汇韩语释义改编：Second Language，https://second-language.app/ko/tools/hsk-vocabulary ，上游CC-CEDICT https://www.mdbg.net/chinese/dictionary?page=cedict ，CC BY-SA 4.0。经选义、删减、改写、补充；韩语释义和编辑文字依CC BY-SA 4.0提供，未经韩语母语教师独立审校。
+教学线描图为原创SVG；实物图为AI生成参考图。古字形另依下述来源和许可提供。视频仅为教学方法参考，未复制其课程画面或转录。https://www.youtube.com/watch?v=0S1oUNGhEjs
+可编辑派生字形/词汇数据与当前页面一同提供：characters.json、radicals.json、lexicon.json、character-index.json；保留各字段及其上游对应许可，不对官方词表另行授予许可。
+
+2026-11-05 图解修订
+
+历史构形参考香港中文大学《汉语多功能字库》、教育部字典及中央研究院《汉字古今字资料库》。提供简短教学改述及逐字链接，不复制字库图像或全文。supported 表示本次取得资料支持；disputed 表示有异说或释形尚不明确；modern-only 表示仅确认现代拆形。这不是学界一致性评级。
+
+现代笔画轮廓：Make Me a Hanzi graphics.txt，固定提交 bddc96d41bef78427ed0e034e9f7e31d71fd1b92，源自 Arphic PL KaitiM GB / PL UKai 字体。本次增加笔画归属和罕见部件提取。图形数据依 Arphic Public License，见 licenses/ARPHIC-ARPHICPL.TXT；不将 dictionary.txt 的 LGPL 许可套用到 graphics.txt。
+https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/graphics.txt
+
+实物和动作参考图：内置 image_gen 逐图生成并按教学义项检查，不是文物实拍。完整字义场景与字源分层呈现。原创轮廓图是教学示意，不冒充甲骨、金文原件。提示词与资源清单见仓库 docs/image-prompts.json。
+
+字源演变图：汉典各字页“字源字形”栏目所列字例，保留出典和原图库链接。汉典现行条款第四节声明 CC0 1.0：https://zdic.net/terms/ 。本地SVG及逐图来源列于 radical-evolution.json；主界面只选择有资料的代表书体，缺图不据此断言某时代没有该字。
+补充古字形：Wikimedia Commons Ancient Chinese characters project 的26幅公开领域摹写；原文件均声明 Public domain / CC0，逐图来源见 ancient-forms.json。
+
+HSK 3.0 official vocabulary: see public/sources/hsk-official-source.json for the 2025-11 official syllabus PDF source and checksum. Korean meanings separately adapted from Second Language/CC-CEDICT under CC BY-SA 4.0; not official translations.
+
+2026-11-06 辞书部首索引
+
+原有26类图解部件与171个组合继续按各自的字形、字源依据用于教学。独立的“사전 부수”检索使用Unicode 18.0.0 Unihan kRSUnicode的康熙214部首编号，包含本词库实际出现的206类；这是辞书检字分类，与现代汉语201部首表的口径不同，不能直接当作字源、形旁/声旁或组字规则。
+
+官方11,000条词汇包含的3,088个汉字全部覆盖，无漏字；另覆盖旧版词表独有的“桔”，共3,089字。词语按任一组成汉字的检字部首进入相应类别，允许跨类重复。70个官方词表汉字的多重分类及所有原始kRSUnicode值均保留；月/肉、阜/邑分别归类。
+
+来源：https://www.unicode.org/Public/18.0.0/ucd/Unihan.zip 与 https://www.unicode.org/Public/18.0.0/ucd/CJKRadicals.txt 。逐字结果另与 https://www.unicode.org/Public/18.0.0/charts/RSIndex.txt 交叉核对；规则见 https://www.unicode.org/reports/tr38/tr38-41.html 。Copyright © 2026 Unicode, Inc.，依Unicode License V3提供。
+
+公开数据为dictionary-radicals.json；public/sources/unicode18/提供许可证、完整kRSUnicode属性导出、逐字原始多值审计、来源SHA-256及验证结果。下载上述版本源文件及https://www.unicode.org/license.txt 后，使用scripts/import-dictionary-radicals.py --source-dir /path/to/unicode18复现；脚本校验固定源文件哈希。
+
+
+2026-11-06 全词汇逐字课程
+
+官方HSK 1–6级及合并7–9级11,000条词汇中的3,088个汉字全部进入逐字课程；旧版五级词表另有“桔”，合计3,089字。每个目标字提供现代字形与源结构学习，不将统计覆盖等同于全部字均有实物照片、古文字或已独立核实的字源解释。
+
+全量现代结构：CJKVI/CHISE IDS，固定源提交86b4d16159f0079437870408f0ca186e529015db，GPL-2.0-or-later。现代笔画：Make Me a Hanzi graphics.txt，固定提交bddc96d41bef78427ed0e034e9f7e31d71fd1b92，依Arphic Public License；字典定义和读音来自同提交dictionary.txt，LGPL-3.0-or-later。原171字经审阅的现代拆分优先保留。course-characters.json、course-characters-audit.json、course-characters-provenance.json提供逐字数据、选择依据和输入哈希；scripts/build-course-characters.py可复现。不同字段保留各自上游许可，不把现代笔画数据误套字典的LGPL许可。
+
+新增973项韩语单字释义由AI根据基础字义及官方例词进行参考编辑，原始编辑文件为src/data/course-korean-a.json与course-korean-b.json。保留连绵词、音译、词义与读音歧义说明；未经韩语母语教师独立审校，不是官方译义。既有Second Language/CC-CEDICT韩语词义沿用CC BY-SA 4.0归属；新增教学编辑文字同依CC BY-SA 4.0提供。英文/中文源词典定义和来源说明另按原许可保留。课程层合并后，官方3,088字均有韩语参考义；8项读音修订与汉典来源在course-corrections.json。最终合并教学层的统计见course-teaching-coverage.json，原始生成报告中2,116项韩语覆盖仍为其生成时快照，不覆写源报告。
+
+古字例：依据汉典各目标字页实际链接的甲骨文、金文、《说文》小篆代表材料，按汉典现行条款第四节CC0 1.0声明使用。清单course-evolution.json检查3,089个字页；2,618字有本地可展示图（官方词表2,617字，另含旧版独有“桔”），共4,618份本地SVG，逐图记录来源及SHA-256。471字未列所选阶段，另9份源图未能镜像，只保留溯源，不伪称已经本地核图。来源字头、本字、相关字或传统形须按记录区分，不能把来源页的链接一律称为当前简体字的直接古形。
+
+实物与动作图片独立于字形数据：原26类部件、171字参考场景及新增常见部件取形图均为AI生成教学参考，不是考古实拍。新增部件图的提示词、来源、检查和哈希在course-objects.json。组件本字的图义不自动等于其在每个整字中的形旁作用；缺乏字源支持时只说明现代结构。补充现代组件SVG及可用性另见course-component-glyphs.json覆盖报告，不把字体字形当作实物照片或古文字原件。
+
+206类辞书部首的韩语名称参考国立国语院2016年《유니코드 표준을 고려한 점자·점형 체계 표준화 연구》表6及韩国高中汉文教材部首表；基本义为本网站简短教学改述，名称、基本义、别名分别保存，不把传统部首名当作唯一现代字义。逐项数据见 /sources/radical-korean.json，来源、报告页码及编辑说明见 /sources/radical-korean-source.json。

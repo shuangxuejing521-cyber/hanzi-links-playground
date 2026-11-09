@@ -1,0 +1,5841 @@
+[
+  {
+    "id": "char-6cb9",
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "meaningZh": "油脂；食用油或燃油",
+    "korean": "기름",
+    "radical": "water",
+    "otherPart": "由",
+    "firstPart": "氵",
+    "secondPart": "由",
+    "structure": "left-right",
+    "ids": "⿰氵由",
+    "shapeNarrative": "现代字形：左部“氵”，右部“由”。完整字形为“油”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "加油站",
+      "pinyin": "jiāyóuzhàn",
+      "korean": "주유소"
+    },
+    "wordIds": [
+      "hsk-800",
+      "hsk-1685",
+      "hsk-1932",
+      "hsk-2347"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "oil",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵由"
+    }
+  },
+  {
+    "id": "char-6cf3",
+    "hanzi": "泳",
+    "pinyin": "yǒng",
+    "meaningZh": "游泳；在水中活动",
+    "korean": "헤엄치다",
+    "radical": "water",
+    "otherPart": "永",
+    "firstPart": "氵",
+    "secondPart": "永",
+    "structure": "left-right",
+    "ids": "⿰氵永",
+    "shapeNarrative": "现代字形：左部“氵”，右部“永”。完整字形为“泳”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "游泳",
+      "pinyin": "yóuyǒng",
+      "korean": "수영하다"
+    },
+    "wordIds": [
+      "hsk-284"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "swim",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵永"
+    }
+  },
+  {
+    "id": "char-6e05",
+    "hanzi": "清",
+    "pinyin": "qīng",
+    "meaningZh": "清澈；清楚",
+    "korean": "맑다; 깨끗하다",
+    "radical": "water",
+    "otherPart": "青",
+    "firstPart": "氵",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰氵青",
+    "shapeNarrative": "现代字形：左部“氵”，右部“青”。完整字形为“清”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "清楚",
+      "pinyin": "qīngchu",
+      "korean": "분명하다; 분명히 알다"
+    },
+    "wordIds": [
+      "hsk-489",
+      "hsk-1956"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "clear",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵青"
+    }
+  },
+  {
+    "id": "char-6cb3",
+    "hanzi": "河",
+    "pinyin": "hé",
+    "meaningZh": "河流",
+    "korean": "강",
+    "radical": "water",
+    "otherPart": "可",
+    "firstPart": "氵",
+    "secondPart": "可",
+    "structure": "left-right",
+    "ids": "⿰氵可",
+    "shapeNarrative": "现代字形：左部“氵”，右部“可”。完整字形为“河”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "黄河",
+      "pinyin": "Huáng Hé",
+      "korean": "황허강"
+    },
+    "wordIds": [
+      "hsk-406"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "river",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵可"
+    }
+  },
+  {
+    "id": "char-6d77",
+    "hanzi": "海",
+    "pinyin": "hǎi",
+    "meaningZh": "海洋；大海",
+    "korean": "바다",
+    "radical": "water",
+    "otherPart": "每",
+    "firstPart": "氵",
+    "secondPart": "每",
+    "structure": "left-right",
+    "ids": "⿰氵每",
+    "shapeNarrative": "现代字形：左部“氵”，右部“每”。完整字形为“海”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "海洋",
+      "pinyin": "hǎiyáng",
+      "korean": "해양"
+    },
+    "wordIds": [
+      "hsk-765",
+      "hsk-1585",
+      "hsk-1586"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "sea",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵每"
+    }
+  },
+  {
+    "id": "char-6d0b",
+    "hanzi": "洋",
+    "pinyin": "yáng",
+    "meaningZh": "海洋；广大水域",
+    "korean": "큰 바다; 서양",
+    "radical": "water",
+    "otherPart": "羊",
+    "firstPart": "氵",
+    "secondPart": "羊",
+    "structure": "left-right",
+    "ids": "⿰氵羊",
+    "shapeNarrative": "现代字形：左部“氵”，右部“羊”。完整字形为“洋”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "海洋",
+      "pinyin": "hǎiyáng",
+      "korean": "해양"
+    },
+    "wordIds": [
+      "hsk-765"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "ocean",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵羊"
+    }
+  },
+  {
+    "id": "char-6d17",
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "meaningZh": "用水等去掉污物",
+    "korean": "씻다",
+    "radical": "water",
+    "otherPart": "先",
+    "firstPart": "氵",
+    "secondPart": "先",
+    "structure": "left-right",
+    "ids": "⿰氵先",
+    "shapeNarrative": "现代字形：左部“氵”，右部“先”。完整字形为“洗”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "洗手间",
+      "pinyin": "xǐshǒujiān",
+      "korean": "화장실"
+    },
+    "wordIds": [
+      "hsk-265",
+      "hsk-537",
+      "hsk-538"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "wash",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵先"
+    }
+  },
+  {
+    "id": "char-6c99",
+    "hanzi": "沙",
+    "pinyin": "shā",
+    "meaningZh": "细小石粒",
+    "korean": "모래",
+    "radical": "water",
+    "otherPart": "少",
+    "firstPart": "氵",
+    "secondPart": "少",
+    "structure": "left-right",
+    "ids": "⿰氵少",
+    "shapeNarrative": "现代字形：左部“氵”，右部“少”。完整字形为“沙”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "沙发",
+      "pinyin": "shāfā",
+      "korean": "소파"
+    },
+    "wordIds": [
+      "hsk-967",
+      "hsk-2004",
+      "hsk-2005"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "sand",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵少"
+    }
+  },
+  {
+    "id": "char-6c49",
+    "hanzi": "汉",
+    "pinyin": "hàn",
+    "meaningZh": "汉族；汉语中的汉",
+    "korean": "한족; 중국어",
+    "radical": "water",
+    "otherPart": "又",
+    "firstPart": "氵",
+    "secondPart": "又",
+    "structure": "left-right",
+    "ids": "⿰氵又",
+    "shapeNarrative": "现代字形：左部“氵”，右部“又”。完整字形为“汉”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "korean": "중국어"
+    },
+    "wordIds": [
+      "hsk-36"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "chinese",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵又"
+    }
+  },
+  {
+    "id": "char-9152",
+    "hanzi": "酒",
+    "pinyin": "jiǔ",
+    "meaningZh": "含酒精的饮料",
+    "korean": "술",
+    "radical": "water",
+    "otherPart": "酉",
+    "firstPart": "氵",
+    "secondPart": "酉",
+    "structure": "left-right",
+    "ids": "⿰氵酉",
+    "shapeNarrative": "现代字形：左部“氵”，右部“酉”。完整字形为“酒”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "啤酒",
+      "pinyin": "píjiǔ",
+      "korean": "맥주"
+    },
+    "wordIds": [
+      "hsk-481",
+      "hsk-1724"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "wine",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵酉"
+    }
+  },
+  {
+    "id": "char-6c7d",
+    "hanzi": "汽",
+    "pinyin": "qì",
+    "meaningZh": "蒸汽；汽油中的汽",
+    "korean": "증기",
+    "radical": "water",
+    "otherPart": "气",
+    "firstPart": "氵",
+    "secondPart": "气",
+    "structure": "left-right",
+    "ids": "⿰氵气",
+    "shapeNarrative": "现代字形：左部“氵”，右部“气”。完整字形为“汽”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "公共汽车",
+      "pinyin": "gōnggòngqìchē",
+      "korean": "버스"
+    },
+    "wordIds": [
+      "hsk-183",
+      "hsk-1932"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "steam",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵气"
+    }
+  },
+  {
+    "id": "char-6cea",
+    "hanzi": "泪",
+    "pinyin": "lèi",
+    "meaningZh": "眼泪",
+    "korean": "눈물",
+    "radical": "water",
+    "otherPart": "目",
+    "firstPart": "氵",
+    "secondPart": "目",
+    "structure": "left-right",
+    "ids": "⿰氵目",
+    "shapeNarrative": "现代字形：左部“氵”，右部“目”。完整字形为“泪”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "流泪",
+      "pinyin": "liúlèi",
+      "korean": "눈물을 흘리다"
+    },
+    "wordIds": [
+      "hsk-1816"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "tear",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵目"
+    }
+  },
+  {
+    "id": "char-6e56",
+    "hanzi": "湖",
+    "pinyin": "hú",
+    "meaningZh": "陆地中的大片水域",
+    "korean": "호수",
+    "radical": "water",
+    "otherPart": "胡",
+    "firstPart": "氵",
+    "secondPart": "胡",
+    "structure": "left-right",
+    "ids": "⿰氵胡",
+    "shapeNarrative": "现代字形：左部“氵”，右部“胡”。完整字形为“湖”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "湖水",
+      "pinyin": "húshuǐ",
+      "korean": "호숫물"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "lake",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵胡"
+    }
+  },
+  {
+    "id": "char-6ce2",
+    "hanzi": "波",
+    "pinyin": "bō",
+    "meaningZh": "水面起伏的波纹",
+    "korean": "물결; 파도",
+    "radical": "water",
+    "otherPart": "皮",
+    "firstPart": "氵",
+    "secondPart": "皮",
+    "structure": "left-right",
+    "ids": "⿰氵皮",
+    "shapeNarrative": "现代字形：左部“氵”，右部“皮”。完整字形为“波”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "波浪",
+      "pinyin": "bōlàng",
+      "korean": "물결; 파도"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "wave",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵皮"
+    }
+  },
+  {
+    "id": "char-4f11",
+    "hanzi": "休",
+    "pinyin": "xiū",
+    "meaningZh": "休息；停止工作",
+    "korean": "쉬다",
+    "radical": "person",
+    "otherPart": "木",
+    "firstPart": "亻",
+    "secondPart": "木",
+    "structure": "left-right",
+    "ids": "⿰亻木",
+    "shapeNarrative": "现代字形：左部“亻”，右部“木”。完整字形为“休”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "korean": "쉬다"
+    },
+    "wordIds": [
+      "hsk-270",
+      "hsk-2160",
+      "hsk-2276"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "rest",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻木"
+    }
+  },
+  {
+    "id": "char-4f60",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "meaningZh": "称呼对方",
+    "korean": "너",
+    "radical": "person",
+    "otherPart": "尔",
+    "firstPart": "亻",
+    "secondPart": "尔",
+    "structure": "left-right",
+    "ids": "⿰亻尔",
+    "shapeNarrative": "现代字形：左部“亻”，右部“尔”。完整字形为“你”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "korean": "너, 당신"
+    },
+    "wordIds": [
+      "hsk-74"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "you",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻尔"
+    }
+  },
+  {
+    "id": "char-4ed6",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "meaningZh": "指男性第三人称",
+    "korean": "그",
+    "radical": "person",
+    "otherPart": "也",
+    "firstPart": "亻",
+    "secondPart": "也",
+    "structure": "left-right",
+    "ids": "⿰亻也",
+    "shapeNarrative": "现代字形：左部“亻”，右部“也”。完整字形为“他”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "其他",
+      "pinyin": "qítā",
+      "korean": "기타, 그 밖의"
+    },
+    "wordIds": [
+      "hsk-105",
+      "hsk-484"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "he",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻也"
+    }
+  },
+  {
+    "id": "char-4eec",
+    "hanzi": "们",
+    "pinyin": "men",
+    "meaningZh": "表示人的复数",
+    "korean": "사람의 복수 표시",
+    "radical": "person",
+    "otherPart": "门",
+    "firstPart": "亻",
+    "secondPart": "门",
+    "structure": "left-right",
+    "ids": "⿰亻门",
+    "shapeNarrative": "现代字形：左部“亻”，右部“门”。完整字形为“们”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "korean": "우리"
+    },
+    "wordIds": [
+      "hsk-113",
+      "hsk-1149"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "people",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻门"
+    }
+  },
+  {
+    "id": "char-4f4f",
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "meaningZh": "居住；停留",
+    "korean": "살다; 멈추다",
+    "radical": "person",
+    "otherPart": "主",
+    "firstPart": "亻",
+    "secondPart": "主",
+    "structure": "left-right",
+    "ids": "⿰亻主",
+    "shapeNarrative": "现代字形：左部“亻”，右部“主”。完整字形为“住”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "忍不住",
+      "pinyin": "rěnbuzhù",
+      "korean": "참지 못하다, …하지 않을 수 없다"
+    },
+    "wordIds": [
+      "hsk-146",
+      "hsk-1988"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "live",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻主"
+    }
+  },
+  {
+    "id": "char-4f5c",
+    "hanzi": "作",
+    "pinyin": "zuò",
+    "meaningZh": "做；进行活动",
+    "korean": "하다; 만들다",
+    "radical": "person",
+    "otherPart": "乍",
+    "firstPart": "亻",
+    "secondPart": "乍",
+    "structure": "left-right",
+    "ids": "⿰亻乍",
+    "shapeNarrative": "现代字形：左部“亻”，右部“乍”。完整字形为“作”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "korean": "일하다; 일, 직업"
+    },
+    "wordIds": [
+      "hsk-34",
+      "hsk-601",
+      "hsk-696",
+      "hsk-1197",
+      "hsk-1198",
+      "hsk-1199",
+      "hsk-1596",
+      "hsk-2255",
+      "hsk-2427",
+      "hsk-2499",
+      "hsk-2500",
+      "hsk-2501"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "work",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻乍"
+    }
+  },
+  {
+    "id": "char-4f53",
+    "hanzi": "体",
+    "pinyin": "tǐ",
+    "meaningZh": "身体；体格",
+    "korean": "몸; 체계",
+    "radical": "person",
+    "otherPart": "本",
+    "firstPart": "亻",
+    "secondPart": "本",
+    "structure": "left-right",
+    "ids": "⿰亻本",
+    "shapeNarrative": "现代字形：左部“亻”，右部“本”。完整字形为“体”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "身体",
+      "pinyin": "shēntǐ",
+      "korean": "몸; 건강"
+    },
+    "wordIds": [
+      "hsk-241",
+      "hsk-518",
+      "hsk-1646",
+      "hsk-1732",
+      "hsk-1836",
+      "hsk-2132",
+      "hsk-2133",
+      "hsk-2134",
+      "hsk-2135",
+      "hsk-2408"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "body",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻本"
+    }
+  },
+  {
+    "id": "char-4fe1",
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "meaningZh": "信件；相信",
+    "korean": "믿다; 편지",
+    "radical": "person",
+    "otherPart": "言",
+    "firstPart": "亻",
+    "secondPart": "言",
+    "structure": "left-right",
+    "ids": "⿰亻言",
+    "shapeNarrative": "现代字形：左部“亻”，右部“言”。完整字形为“信”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "相信",
+      "pinyin": "xiāngxìn",
+      "korean": "믿다"
+    },
+    "wordIds": [
+      "hsk-541",
+      "hsk-549",
+      "hsk-699",
+      "hsk-1080",
+      "hsk-1081",
+      "hsk-1082",
+      "hsk-1191",
+      "hsk-2260",
+      "hsk-2261"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "letter",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻言"
+    }
+  },
+  {
+    "id": "char-501f",
+    "hanzi": "借",
+    "pinyin": "jiè",
+    "meaningZh": "暂时取用或给人使用",
+    "korean": "빌리다; 빌려주다",
+    "radical": "person",
+    "otherPart": "昔",
+    "firstPart": "亻",
+    "secondPart": "昔",
+    "structure": "left-right",
+    "ids": "⿰亻昔",
+    "shapeNarrative": "现代字形：左部“亻”，右部“昔”。完整字形为“借”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "借口",
+      "pinyin": "jièkǒu",
+      "korean": "핑계; 구실"
+    },
+    "wordIds": [
+      "hsk-430",
+      "hsk-1709"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "borrow",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻昔"
+    }
+  },
+  {
+    "id": "char-4f4d",
+    "hanzi": "位",
+    "pinyin": "wèi",
+    "meaningZh": "位置；人的量词",
+    "korean": "자리; 지위",
+    "radical": "person",
+    "otherPart": "立",
+    "firstPart": "亻",
+    "secondPart": "立",
+    "structure": "left-right",
+    "ids": "⿰亻立",
+    "shapeNarrative": "现代字形：左部“亻”，右部“立”。完整字形为“位”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "座位",
+      "pinyin": "zuòwèi",
+      "korean": "자리; 좌석"
+    },
+    "wordIds": [
+      "hsk-533",
+      "hsk-1201",
+      "hsk-1394",
+      "hsk-1419",
+      "hsk-2185",
+      "hsk-2186"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "place",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻立"
+    }
+  },
+  {
+    "id": "char-4f46",
+    "hanzi": "但",
+    "pinyin": "dàn",
+    "meaningZh": "但是；表示转折",
+    "korean": "그러나; 다만",
+    "radical": "person",
+    "otherPart": "旦",
+    "firstPart": "亻",
+    "secondPart": "旦",
+    "structure": "left-right",
+    "ids": "⿰亻旦",
+    "shapeNarrative": "现代字形：左部“亻”，右部“旦”。完整字形为“但”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "虽然……但是……",
+      "pinyin": "suīrán……dànshì……",
+      "korean": "비록 …이지만 …하다"
+    },
+    "wordIds": [
+      "hsk-250",
+      "hsk-326"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "turning-point",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻旦"
+    }
+  },
+  {
+    "id": "char-4f34",
+    "hanzi": "伴",
+    "pinyin": "bàn",
+    "meaningZh": "同伴；陪伴",
+    "korean": "동반하다; 짝",
+    "radical": "person",
+    "otherPart": "半",
+    "firstPart": "亻",
+    "secondPart": "半",
+    "structure": "left-right",
+    "ids": "⿰亻半",
+    "shapeNarrative": "现代字形：左部“亻”，右部“半”。完整字形为“伴”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "伙伴",
+      "pinyin": "huǒbàn",
+      "korean": "동료, 동반자"
+    },
+    "wordIds": [
+      "hsk-1635"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "partner",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻半"
+    }
+  },
+  {
+    "id": "char-4f19",
+    "hanzi": "伙",
+    "pinyin": "huǒ",
+    "meaningZh": "伙伴；共同的人",
+    "korean": "동료; 무리",
+    "radical": "person",
+    "otherPart": "火",
+    "firstPart": "亻",
+    "secondPart": "火",
+    "structure": "left-right",
+    "ids": "⿰亻火",
+    "shapeNarrative": "现代字形：左部“亻”，右部“火”。完整字形为“伙”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "小伙子",
+      "pinyin": "xiǎohuǒzi",
+      "korean": "젊은이; 청년"
+    },
+    "wordIds": [
+      "hsk-1074",
+      "hsk-1635"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "partner",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰亻火"
+    }
+  },
+  {
+    "id": "char-6253",
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "meaningZh": "击打；做某种动作",
+    "korean": "치다; 하다",
+    "radical": "hand",
+    "otherPart": "丁",
+    "firstPart": "扌",
+    "secondPart": "丁",
+    "structure": "left-right",
+    "ids": "⿰扌丁",
+    "shapeNarrative": "现代字形：左部“扌”，右部“丁”。完整字形为“打”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "korean": "전화를 걸다"
+    },
+    "wordIds": [
+      "hsk-14",
+      "hsk-167",
+      "hsk-343",
+      "hsk-344",
+      "hsk-665",
+      "hsk-666",
+      "hsk-667",
+      "hsk-668",
+      "hsk-669",
+      "hsk-670",
+      "hsk-1377",
+      "hsk-1378",
+      "hsk-1379",
+      "hsk-1380"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "hit",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌丁"
+    }
+  },
+  {
+    "id": "char-628a",
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "meaningZh": "握住；把字句的把",
+    "korean": "잡다; 손잡이",
+    "radical": "hand",
+    "otherPart": "巴",
+    "firstPart": "扌",
+    "secondPart": "巴",
+    "structure": "left-right",
+    "ids": "⿰扌巴",
+    "shapeNarrative": "现代字形：左部“扌”，右部“巴”。完整字形为“把”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "把握",
+      "pinyin": "bǎwò",
+      "korean": "기회를 잡다, 붙잡다"
+    },
+    "wordIds": [
+      "hsk-307",
+      "hsk-1212"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "hold",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌巴"
+    }
+  },
+  {
+    "id": "char-62c9",
+    "hanzi": "拉",
+    "pinyin": "lā",
+    "meaningZh": "向自己方向用力",
+    "korean": "당기다",
+    "radical": "hand",
+    "otherPart": "立",
+    "firstPart": "扌",
+    "secondPart": "立",
+    "structure": "left-right",
+    "ids": "⿰扌立",
+    "shapeNarrative": "现代字形：左部“扌”，右部“立”。完整字形为“拉”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "拉",
+      "pinyin": "lā",
+      "korean": "당기다, 끌다"
+    },
+    "wordIds": [
+      "hsk-868"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "pull",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌立"
+    }
+  },
+  {
+    "id": "char-63a8",
+    "hanzi": "推",
+    "pinyin": "tuī",
+    "meaningZh": "向外用力",
+    "korean": "밀다; 추천하다",
+    "radical": "hand",
+    "otherPart": "隹",
+    "firstPart": "扌",
+    "secondPart": "隹",
+    "structure": "left-right",
+    "ids": "⿰扌隹",
+    "shapeNarrative": "现代字形：左部“扌”，右部“隹”。完整字形为“推”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "推迟",
+      "pinyin": "tuīchí",
+      "korean": "연기하다; 미루다"
+    },
+    "wordIds": [
+      "hsk-1043",
+      "hsk-1044",
+      "hsk-2155",
+      "hsk-2156",
+      "hsk-2157"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "push",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌隹"
+    }
+  },
+  {
+    "id": "char-627e",
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "meaningZh": "寻找",
+    "korean": "찾다",
+    "radical": "hand",
+    "otherPart": "戈",
+    "firstPart": "扌",
+    "secondPart": "戈",
+    "structure": "left-right",
+    "ids": "⿰扌戈",
+    "shapeNarrative": "现代字形：左部“扌”，右部“戈”。完整字形为“找”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "寻找",
+      "pinyin": "xúnzhǎo",
+      "korean": "찾다"
+    },
+    "wordIds": [
+      "hsk-292",
+      "hsk-2285"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "find",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌戈"
+    }
+  },
+  {
+    "id": "char-62cd",
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "meaningZh": "拍打；拍照",
+    "korean": "두드리다; 촬영하다",
+    "radical": "hand",
+    "otherPart": "白",
+    "firstPart": "扌",
+    "secondPart": "白",
+    "structure": "left-right",
+    "ids": "⿰扌白",
+    "shapeNarrative": "现代字形：左部“扌”，右部“白”。完整字形为“拍”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "拍",
+      "pinyin": "pāi",
+      "korean": "가볍게 치다"
+    },
+    "wordIds": [
+      "hsk-1892"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "clap",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌白"
+    }
+  },
+  {
+    "id": "char-62b1",
+    "hanzi": "抱",
+    "pinyin": "bào",
+    "meaningZh": "用手臂围住",
+    "korean": "안다",
+    "radical": "hand",
+    "otherPart": "包",
+    "firstPart": "扌",
+    "secondPart": "包",
+    "structure": "left-right",
+    "ids": "⿰扌包",
+    "shapeNarrative": "现代字形：左部“扌”，右部“包”。完整字形为“抱”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "抱歉",
+      "pinyin": "bàoqiàn",
+      "korean": "미안하다, 죄송하다"
+    },
+    "wordIds": [
+      "hsk-613",
+      "hsk-614",
+      "hsk-1230",
+      "hsk-2337"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "hug",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌包"
+    }
+  },
+  {
+    "id": "char-63d0",
+    "hanzi": "提",
+    "pinyin": "tí",
+    "meaningZh": "用手向上拿",
+    "korean": "들다; 제기하다",
+    "radical": "hand",
+    "otherPart": "是",
+    "firstPart": "扌",
+    "secondPart": "是",
+    "structure": "left-right",
+    "ids": "⿰扌是",
+    "shapeNarrative": "现代字形：左部“扌”，右部“是”。完整字形为“提”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "korean": "높이다, 향상시키다"
+    },
+    "wordIds": [
+      "hsk-517",
+      "hsk-1031",
+      "hsk-1032",
+      "hsk-1033",
+      "hsk-1034",
+      "hsk-2128",
+      "hsk-2129",
+      "hsk-2130"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "lift",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰扌是"
+    }
+  },
+  {
+    "id": "char-5403",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "meaningZh": "把食物送入口中咽下",
+    "korean": "먹다",
+    "radical": "mouth",
+    "otherPart": "乞",
+    "firstPart": "口",
+    "secondPart": "乞",
+    "structure": "left-right",
+    "ids": "⿰口乞",
+    "shapeNarrative": "现代字形：左部“口”，右部“乞”。完整字形为“吃”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "好吃",
+      "pinyin": "hǎochī",
+      "korean": "맛있다"
+    },
+    "wordIds": [
+      "hsk-12",
+      "hsk-189",
+      "hsk-649",
+      "hsk-1073",
+      "hsk-1325"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "eat",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口乞"
+    }
+  },
+  {
+    "id": "char-559d",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "meaningZh": "饮用液体",
+    "korean": "마시다",
+    "radical": "mouth",
+    "otherPart": "曷",
+    "firstPart": "口",
+    "secondPart": "曷",
+    "structure": "left-right",
+    "ids": "⿰口曷",
+    "shapeNarrative": "现代字形：左部“口”，右部“曷”。完整字形为“喝”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "korean": "마시다"
+    },
+    "wordIds": [
+      "hsk-39"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "drink",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口曷"
+    }
+  },
+  {
+    "id": "char-5417",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "meaningZh": "表示疑问的语气词",
+    "korean": "의문문 끝의 어기",
+    "radical": "mouth",
+    "otherPart": "马",
+    "firstPart": "口",
+    "secondPart": "马",
+    "structure": "left-right",
+    "ids": "⿰口马",
+    "shapeNarrative": "现代字形：左部“口”，右部“马”。完整字形为“吗”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "korean": "(의문을 나타내는 조사)"
+    },
+    "wordIds": [
+      "hsk-61"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "question",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口马"
+    }
+  },
+  {
+    "id": "char-5462",
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "meaningZh": "表示疑问或持续等语气",
+    "korean": "의문·지속의 어기",
+    "radical": "mouth",
+    "otherPart": "尼",
+    "firstPart": "口",
+    "secondPart": "尼",
+    "structure": "left-right",
+    "ids": "⿰口尼",
+    "shapeNarrative": "现代字形：左部“口”，右部“尼”。完整字形为“呢”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "korean": "…는요? (이어 묻는 문장 끝 조사)"
+    },
+    "wordIds": [
+      "hsk-72"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "question",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口尼"
+    }
+  },
+  {
+    "id": "char-5427",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "meaningZh": "表示建议等语气",
+    "korean": "권유·추측의 어기",
+    "radical": "mouth",
+    "otherPart": "巴",
+    "firstPart": "口",
+    "secondPart": "巴",
+    "structure": "left-right",
+    "ids": "⿰口巴",
+    "shapeNarrative": "现代字形：左部“口”，右部“巴”。完整字形为“吧”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "korean": "(제안이나 추측을 나타내는 조사)"
+    },
+    "wordIds": [
+      "hsk-152",
+      "hsk-1724"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "suggestion",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口巴"
+    }
+  },
+  {
+    "id": "char-5531",
+    "hanzi": "唱",
+    "pinyin": "chàng",
+    "meaningZh": "发声歌唱",
+    "korean": "노래하다",
+    "radical": "mouth",
+    "otherPart": "昌",
+    "firstPart": "口",
+    "secondPart": "昌",
+    "structure": "left-right",
+    "ids": "⿰口昌",
+    "shapeNarrative": "现代字形：左部“口”，右部“昌”。完整字形为“唱”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "唱歌",
+      "pinyin": "chànggē",
+      "korean": "노래하다"
+    },
+    "wordIds": [
+      "hsk-161"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "sing",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口昌"
+    }
+  },
+  {
+    "id": "char-542c",
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "meaningZh": "用耳朵感受声音",
+    "korean": "듣다",
+    "radical": "mouth",
+    "otherPart": "斤",
+    "firstPart": "口",
+    "secondPart": "斤",
+    "structure": "left-right",
+    "ids": "⿰口斤",
+    "shapeNarrative": "现代字形：左部“口”，右部“斤”。完整字形为“听”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "打听",
+      "pinyin": "dǎting",
+      "korean": "물어보다, 알아보다"
+    },
+    "wordIds": [
+      "hsk-109",
+      "hsk-1380"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "listen",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口斤"
+    }
+  },
+  {
+    "id": "char-53eb",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "meaningZh": "呼叫；名字是",
+    "korean": "부르다; 외치다",
+    "radical": "mouth",
+    "otherPart": "丩",
+    "firstPart": "口",
+    "secondPart": "丩",
+    "structure": "left-right",
+    "ids": "⿰口丩",
+    "shapeNarrative": "现代字形：左部“口”，右部“丩”。完整字形为“叫”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "korean": "부르다; ~라고 하다"
+    },
+    "wordIds": [
+      "hsk-47"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "call",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口丩"
+    }
+  },
+  {
+    "id": "char-6797",
+    "hanzi": "林",
+    "pinyin": "lín",
+    "meaningZh": "成片的树木",
+    "korean": "숲",
+    "radical": "wood",
+    "otherPart": "木",
+    "firstPart": "木",
+    "secondPart": "木",
+    "structure": "left-right",
+    "ids": "⿰木木",
+    "shapeNarrative": "现代字形：左部“木”，右部“木”。完整字形为“林”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "森林",
+      "pinyin": "sēnlín",
+      "korean": "숲"
+    },
+    "wordIds": [
+      "hsk-966"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "forest",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木木"
+    }
+  },
+  {
+    "id": "char-6811",
+    "hanzi": "树",
+    "pinyin": "shù",
+    "meaningZh": "树木",
+    "korean": "나무; 세우다",
+    "radical": "wood",
+    "otherPart": "对",
+    "firstPart": "木",
+    "secondPart": "对",
+    "structure": "left-right",
+    "ids": "⿰木对",
+    "shapeNarrative": "现代字形：左部“木”，右部“对”。完整字形为“树”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "树",
+      "pinyin": "shù",
+      "korean": "나무"
+    },
+    "wordIds": [
+      "hsk-508"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "tree",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木对"
+    }
+  },
+  {
+    "id": "char-677f",
+    "hanzi": "板",
+    "pinyin": "bǎn",
+    "meaningZh": "片状较硬的材料",
+    "korean": "널빤지; 딱딱하다",
+    "radical": "wood",
+    "otherPart": "反",
+    "firstPart": "木",
+    "secondPart": "反",
+    "structure": "left-right",
+    "ids": "⿰木反",
+    "shapeNarrative": "现代字形：左部“木”，右部“反”。完整字形为“板”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "黑板",
+      "pinyin": "hēibǎn",
+      "korean": "칠판"
+    },
+    "wordIds": [
+      "hsk-395",
+      "hsk-1777"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "board",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木反"
+    }
+  },
+  {
+    "id": "char-677e",
+    "hanzi": "松",
+    "pinyin": "sōng",
+    "meaningZh": "松树；不紧",
+    "korean": "소나무; 느슨하다",
+    "radical": "wood",
+    "otherPart": "公",
+    "firstPart": "木",
+    "secondPart": "公",
+    "structure": "left-right",
+    "ids": "⿰木公",
+    "shapeNarrative": "现代字形：左部“木”，右部“公”。完整字形为“松”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "放松",
+      "pinyin": "fàngsōng",
+      "korean": "긴장을 풀다; 느슨하게 하다"
+    },
+    "wordIds": [
+      "hsk-718",
+      "hsk-947"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "pine",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木公"
+    }
+  },
+  {
+    "id": "char-6865",
+    "hanzi": "桥",
+    "pinyin": "qiáo",
+    "meaningZh": "跨越水域或道路的建筑",
+    "korean": "다리",
+    "radical": "wood",
+    "otherPart": "乔",
+    "firstPart": "木",
+    "secondPart": "乔",
+    "structure": "left-right",
+    "ids": "⿰木乔",
+    "shapeNarrative": "现代字形：左部“木”，右部“乔”。完整字形为“桥”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "桥",
+      "pinyin": "qiáo",
+      "korean": "다리"
+    },
+    "wordIds": [
+      "hsk-943"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "bridge",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木乔"
+    }
+  },
+  {
+    "id": "char-6821",
+    "hanzi": "校",
+    "pinyin": "xiào",
+    "meaningZh": "学校的校",
+    "korean": "학교",
+    "radical": "wood",
+    "otherPart": "交",
+    "firstPart": "木",
+    "secondPart": "交",
+    "structure": "left-right",
+    "ids": "⿰木交",
+    "shapeNarrative": "现代字形：左部“木”，右部“交”。完整字形为“校”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "korean": "학교"
+    },
+    "wordIds": [
+      "hsk-130",
+      "hsk-546"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "school",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木交"
+    }
+  },
+  {
+    "id": "char-6837",
+    "hanzi": "样",
+    "pinyin": "yàng",
+    "meaningZh": "样子；种类",
+    "korean": "모양; 견본",
+    "radical": "wood",
+    "otherPart": "羊",
+    "firstPart": "木",
+    "secondPart": "羊",
+    "structure": "left-right",
+    "ids": "⿰木羊",
+    "shapeNarrative": "现代字形：左部“木”，右部“羊”。完整字形为“样”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "korean": "어떻다, 어떠하다"
+    },
+    "wordIds": [
+      "hsk-142",
+      "hsk-561",
+      "hsk-1105",
+      "hsk-2297"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "sample",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木羊"
+    }
+  },
+  {
+    "id": "char-676f",
+    "hanzi": "杯",
+    "pinyin": "bēi",
+    "meaningZh": "盛饮料的器具",
+    "korean": "잔",
+    "radical": "wood",
+    "otherPart": "不",
+    "firstPart": "木",
+    "secondPart": "不",
+    "structure": "left-right",
+    "ids": "⿰木不",
+    "shapeNarrative": "现代字形：左部“木”，右部“不”。完整字形为“杯”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "korean": "컵, 잔"
+    },
+    "wordIds": [
+      "hsk-5",
+      "hsk-730"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "cup",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木不"
+    }
+  },
+  {
+    "id": "char-673a",
+    "hanzi": "机",
+    "pinyin": "jī",
+    "meaningZh": "机器；机会的机",
+    "korean": "기계; 기회",
+    "radical": "wood",
+    "otherPart": "几",
+    "firstPart": "木",
+    "secondPart": "几",
+    "structure": "left-right",
+    "ids": "⿰木几",
+    "shapeNarrative": "现代字形：左部“木”，右部“几”。完整字形为“机”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "korean": "비행기"
+    },
+    "wordIds": [
+      "hsk-30",
+      "hsk-193",
+      "hsk-247",
+      "hsk-411",
+      "hsk-513",
+      "hsk-584",
+      "hsk-686",
+      "hsk-1637"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "machine",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木几"
+    }
+  },
+  {
+    "id": "char-8bf7",
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "meaningZh": "礼貌请求；邀请",
+    "korean": "청하다; 초대하다",
+    "radical": "speech",
+    "otherPart": "青",
+    "firstPart": "讠",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰讠青",
+    "shapeNarrative": "现代字形：左部“讠”，右部“青”。完整字形为“请”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "请假",
+      "pinyin": "qǐngjià",
+      "korean": "휴가·결석을 신청하다"
+    },
+    "wordIds": [
+      "hsk-83",
+      "hsk-490",
+      "hsk-973",
+      "hsk-1106",
+      "hsk-1959"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "ask-politely",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠青"
+    }
+  },
+  {
+    "id": "char-8bed",
+    "hanzi": "语",
+    "pinyin": "yǔ",
+    "meaningZh": "语言；话语",
+    "korean": "말; 언어",
+    "radical": "speech",
+    "otherPart": "吾",
+    "firstPart": "讠",
+    "secondPart": "吾",
+    "structure": "left-right",
+    "ids": "⿰讠吾",
+    "shapeNarrative": "现代字形：左部“讠”，右部“吾”。完整字形为“语”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "korean": "중국어"
+    },
+    "wordIds": [
+      "hsk-36",
+      "hsk-659",
+      "hsk-1138",
+      "hsk-1139",
+      "hsk-1317",
+      "hsk-2353"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "language",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠吾"
+    }
+  },
+  {
+    "id": "char-8bdd",
+    "hanzi": "话",
+    "pinyin": "huà",
+    "meaningZh": "说出的话",
+    "korean": "말; 이야기",
+    "radical": "speech",
+    "otherPart": "舌",
+    "firstPart": "讠",
+    "secondPart": "舌",
+    "structure": "left-right",
+    "ids": "⿰讠舌",
+    "shapeNarrative": "现代字形：左部“讠”，右部“舌”。完整字形为“话”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "korean": "전화를 걸다"
+    },
+    "wordIds": [
+      "hsk-14",
+      "hsk-248",
+      "hsk-700",
+      "hsk-936",
+      "hsk-1076",
+      "hsk-1476",
+      "hsk-1618",
+      "hsk-2029",
+      "hsk-2052"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "speech",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠舌"
+    }
+  },
+  {
+    "id": "char-8bf4",
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "meaningZh": "说话；说明",
+    "korean": "말하다; 설명하다",
+    "radical": "speech",
+    "otherPart": "兑",
+    "firstPart": "讠",
+    "secondPart": "兑",
+    "structure": "left-right",
+    "ids": "⿰讠兑",
+    "shapeNarrative": "现代字形：左部“讠”，右部“兑”。完整字形为“说”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "说话",
+      "pinyin": "shuōhuà",
+      "korean": "이야기하다, 말하다"
+    },
+    "wordIds": [
+      "hsk-102",
+      "hsk-248",
+      "hsk-1009",
+      "hsk-1075",
+      "hsk-1352",
+      "hsk-1608",
+      "hsk-1734",
+      "hsk-2093",
+      "hsk-2094"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "speak",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠兑"
+    }
+  },
+  {
+    "id": "char-8bfb",
+    "hanzi": "读",
+    "pinyin": "dú",
+    "meaningZh": "阅读；读出声音",
+    "korean": "읽다",
+    "radical": "speech",
+    "otherPart": "卖",
+    "firstPart": "讠",
+    "secondPart": "卖",
+    "structure": "left-right",
+    "ids": "⿰讠卖",
+    "shapeNarrative": "现代字形：左部“讠”，右部“卖”。完整字形为“读”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "阅读",
+      "pinyin": "yuèdú",
+      "korean": "읽다; 독서"
+    },
+    "wordIds": [
+      "hsk-23",
+      "hsk-1145",
+      "hsk-1773"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "read",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠卖"
+    }
+  },
+  {
+    "id": "char-8ba4",
+    "hanzi": "认",
+    "pinyin": "rèn",
+    "meaningZh": "认出；认识",
+    "korean": "알아보다; 인정하다",
+    "radical": "speech",
+    "otherPart": "人",
+    "firstPart": "讠",
+    "secondPart": "人",
+    "structure": "left-right",
+    "ids": "⿰讠人",
+    "shapeNarrative": "现代字形：左部“讠”，右部“人”。完整字形为“认”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "认识",
+      "pinyin": "rènshi",
+      "korean": "알다, 알아보다"
+    },
+    "wordIds": [
+      "hsk-87",
+      "hsk-495",
+      "hsk-496",
+      "hsk-1321",
+      "hsk-1491",
+      "hsk-1973"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "recognize",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠人"
+    }
+  },
+  {
+    "id": "char-8bb2",
+    "hanzi": "讲",
+    "pinyin": "jiǎng",
+    "meaningZh": "讲述；讲解",
+    "korean": "말하다; 설명하다",
+    "radical": "speech",
+    "otherPart": "井",
+    "firstPart": "讠",
+    "secondPart": "井",
+    "structure": "left-right",
+    "ids": "⿰讠井",
+    "shapeNarrative": "现代字形：左部“讠”，右部“井”。完整字形为“讲”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "讲究",
+      "pinyin": "jiǎngjiu",
+      "korean": "신경 쓰다, 따지다"
+    },
+    "wordIds": [
+      "hsk-419",
+      "hsk-1683",
+      "hsk-1684",
+      "hsk-2293"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "explain",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠井"
+    }
+  },
+  {
+    "id": "char-8bfe",
+    "hanzi": "课",
+    "pinyin": "kè",
+    "meaningZh": "课程；教学时间",
+    "korean": "수업; 과",
+    "radical": "speech",
+    "otherPart": "果",
+    "firstPart": "讠",
+    "secondPart": "果",
+    "structure": "left-right",
+    "ids": "⿰讠果",
+    "shapeNarrative": "现代字形：左部“讠”，右部“果”。完整字形为“课”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "课程",
+      "pinyin": "kèchéng",
+      "korean": "교육과정, 커리큘럼"
+    },
+    "wordIds": [
+      "hsk-208",
+      "hsk-1759"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "lesson",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠果"
+    }
+  },
+  {
+    "id": "char-8bb0",
+    "hanzi": "记",
+    "pinyin": "jì",
+    "meaningZh": "记住；记录",
+    "korean": "기억하다; 기록하다",
+    "radical": "speech",
+    "otherPart": "己",
+    "firstPart": "讠",
+    "secondPart": "己",
+    "structure": "left-right",
+    "ids": "⿰讠己",
+    "shapeNarrative": "现代字形：左部“讠”，右部“己”。完整字形为“记”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "笔记本",
+      "pinyin": "bǐjìběn",
+      "korean": "노트, 공책"
+    },
+    "wordIds": [
+      "hsk-321",
+      "hsk-413",
+      "hsk-530",
+      "hsk-794",
+      "hsk-963",
+      "hsk-1409",
+      "hsk-1649",
+      "hsk-1650"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "write",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠己"
+    }
+  },
+  {
+    "id": "char-8bd7",
+    "hanzi": "诗",
+    "pinyin": "shī",
+    "meaningZh": "诗歌",
+    "korean": "시",
+    "radical": "speech",
+    "otherPart": "寺",
+    "firstPart": "讠",
+    "secondPart": "寺",
+    "structure": "left-right",
+    "ids": "⿰讠寺",
+    "shapeNarrative": "现代字形：左部“讠”，右部“寺”。完整字形为“诗”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "诗",
+      "pinyin": "shī",
+      "korean": "시"
+    },
+    "wordIds": [
+      "hsk-2042"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "poem",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰讠寺"
+    }
+  },
+  {
+    "id": "char-60c5",
+    "hanzi": "情",
+    "pinyin": "qíng",
+    "meaningZh": "感情；情况",
+    "korean": "감정; 사정",
+    "radical": "heart",
+    "otherPart": "青",
+    "firstPart": "忄",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰忄青",
+    "shapeNarrative": "现代字形：左部“忄”，右部“青”。完整字形为“情”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "事情",
+      "pinyin": "shìqing",
+      "korean": "일, 사건"
+    },
+    "wordIds": [
+      "hsk-245",
+      "hsk-494",
+      "hsk-602",
+      "hsk-735",
+      "hsk-948",
+      "hsk-1041",
+      "hsk-1078",
+      "hsk-1253",
+      "hsk-1957",
+      "hsk-1958"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "feeling",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄青"
+    }
+  },
+  {
+    "id": "char-5feb",
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "meaningZh": "速度高；快乐",
+    "korean": "빠르다; 유쾌하다",
+    "radical": "heart",
+    "otherPart": "夬",
+    "firstPart": "忄",
+    "secondPart": "夬",
+    "structure": "left-right",
+    "ids": "⿰忄夬",
+    "shapeNarrative": "现代字形：左部“忄”，右部“夬”。完整字形为“快”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "快乐",
+      "pinyin": "kuàilè",
+      "korean": "행복하다, 즐겁다"
+    },
+    "wordIds": [
+      "hsk-209",
+      "hsk-210",
+      "hsk-889",
+      "hsk-1135",
+      "hsk-1508",
+      "hsk-1711",
+      "hsk-2144"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "fast",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄夬"
+    }
+  },
+  {
+    "id": "char-5fd9",
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "meaningZh": "事情多；没有空闲",
+    "korean": "바쁘다",
+    "radical": "heart",
+    "otherPart": "亡",
+    "firstPart": "忄",
+    "secondPart": "亡",
+    "structure": "left-right",
+    "ids": "⿰忄亡",
+    "shapeNarrative": "现代字形：左部“忄”，右部“亡”。完整字形为“忙”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "帮忙",
+      "pinyin": "bāngmáng",
+      "korean": "돕다; 부탁을 들어주다"
+    },
+    "wordIds": [
+      "hsk-219",
+      "hsk-313",
+      "hsk-1363",
+      "hsk-1643",
+      "hsk-1798"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "busy",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄亡"
+    }
+  },
+  {
+    "id": "char-6015",
+    "hanzi": "怕",
+    "pinyin": "pà",
+    "meaningZh": "害怕；担心",
+    "korean": "무서워하다; 걱정하다",
+    "radical": "heart",
+    "otherPart": "白",
+    "firstPart": "忄",
+    "secondPart": "白",
+    "structure": "left-right",
+    "ids": "⿰忄白",
+    "shapeNarrative": "现代字形：左部“忄”，右部“白”。完整字形为“怕”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "害怕",
+      "pinyin": "hàipà",
+      "korean": "무서워하다, 두려워하다"
+    },
+    "wordIds": [
+      "hsk-394",
+      "hsk-862",
+      "hsk-1754",
+      "hsk-1870"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "afraid",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄白"
+    }
+  },
+  {
+    "id": "char-6027",
+    "hanzi": "性",
+    "pinyin": "xìng",
+    "meaningZh": "性质；性格",
+    "korean": "성질; 성별",
+    "radical": "heart",
+    "otherPart": "生",
+    "firstPart": "忄",
+    "secondPart": "生",
+    "structure": "left-right",
+    "ids": "⿰忄生",
+    "shapeNarrative": "现代字形：左部“忄”，右部“生”。完整字形为“性”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "性别",
+      "pinyin": "xìngbié",
+      "korean": "성별"
+    },
+    "wordIds": [
+      "hsk-1087",
+      "hsk-1088",
+      "hsk-1522",
+      "hsk-2273"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "personality",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄生"
+    }
+  },
+  {
+    "id": "char-602a",
+    "hanzi": "怪",
+    "pinyin": "guài",
+    "meaningZh": "奇怪；责怪",
+    "korean": "이상하다; 탓하다",
+    "radical": "heart",
+    "otherPart": "圣",
+    "firstPart": "忄",
+    "secondPart": "圣",
+    "structure": "left-right",
+    "ids": "⿰忄圣",
+    "shapeNarrative": "现代字形：左部“忄”，右部“圣”。完整字形为“怪”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "奇怪",
+      "pinyin": "qíguài",
+      "korean": "이상하다"
+    },
+    "wordIds": [
+      "hsk-485",
+      "hsk-1554",
+      "hsk-1871"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "strange",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄圣"
+    }
+  },
+  {
+    "id": "char-61c2",
+    "hanzi": "懂",
+    "pinyin": "dǒng",
+    "meaningZh": "明白；理解",
+    "korean": "알아듣다; 이해하다",
+    "radical": "heart",
+    "otherPart": "董",
+    "firstPart": "忄",
+    "secondPart": "董",
+    "structure": "left-right",
+    "ids": "⿰忄董",
+    "shapeNarrative": "现代字形：左部“忄”，右部“董”。完整字形为“懂”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "懂",
+      "pinyin": "dǒng",
+      "korean": "이해하다"
+    },
+    "wordIds": [
+      "hsk-174"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "understand",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄董"
+    }
+  },
+  {
+    "id": "char-6162",
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "meaningZh": "速度低",
+    "korean": "느리다",
+    "radical": "heart",
+    "otherPart": "曼",
+    "firstPart": "忄",
+    "secondPart": "曼",
+    "structure": "left-right",
+    "ids": "⿰忄曼",
+    "shapeNarrative": "现代字形：左部“忄”，右部“曼”。完整字形为“慢”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "korean": "느리다"
+    },
+    "wordIds": [
+      "hsk-218"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "slow",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄曼"
+    }
+  },
+  {
+    "id": "char-60ca",
+    "hanzi": "惊",
+    "pinyin": "jīng",
+    "meaningZh": "吃惊；受到惊动",
+    "korean": "놀라다",
+    "radical": "heart",
+    "otherPart": "京",
+    "firstPart": "忄",
+    "secondPart": "京",
+    "structure": "left-right",
+    "ids": "⿰忄京",
+    "shapeNarrative": "现代字形：左部“忄”，右部“京”。完整字形为“惊”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "吃惊",
+      "pinyin": "chījīng",
+      "korean": "놀라다"
+    },
+    "wordIds": [
+      "hsk-649"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "surprised",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰忄京"
+    }
+  },
+  {
+    "id": "char-597d",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "meaningZh": "良好；使人满意",
+    "korean": "좋다",
+    "radical": "woman",
+    "otherPart": "子",
+    "firstPart": "女",
+    "secondPart": "子",
+    "structure": "left-right",
+    "ids": "⿰女子",
+    "shapeNarrative": "现代字形：左部“女”，右部“子”。完整字形为“好”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "好吃",
+      "pinyin": "hǎochī",
+      "korean": "맛있다"
+    },
+    "wordIds": [
+      "hsk-37",
+      "hsk-189",
+      "hsk-305",
+      "hsk-770",
+      "hsk-771",
+      "hsk-1131",
+      "hsk-1160",
+      "hsk-1171",
+      "hsk-1194",
+      "hsk-1590",
+      "hsk-1591",
+      "hsk-1802"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "good",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女子"
+    }
+  },
+  {
+    "id": "char-5988",
+    "hanzi": "妈",
+    "pinyin": "mā",
+    "meaningZh": "妈妈；母亲",
+    "korean": "엄마",
+    "radical": "woman",
+    "otherPart": "马",
+    "firstPart": "女",
+    "secondPart": "马",
+    "structure": "left-right",
+    "ids": "⿰女马",
+    "shapeNarrative": "现代字形：左部“女”，右部“马”。完整字形为“妈”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "korean": "엄마, 어머니"
+    },
+    "wordIds": [
+      "hsk-60"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "mother",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女马"
+    }
+  },
+  {
+    "id": "char-5979",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "meaningZh": "指女性第三人称",
+    "korean": "그녀",
+    "radical": "woman",
+    "otherPart": "也",
+    "firstPart": "女",
+    "secondPart": "也",
+    "structure": "left-right",
+    "ids": "⿰女也",
+    "shapeNarrative": "现代字形：左部“女”，右部“也”。完整字形为“她”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "她",
+      "pinyin": "tā",
+      "korean": "그녀"
+    },
+    "wordIds": [
+      "hsk-106"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "she",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女也"
+    }
+  },
+  {
+    "id": "char-59d0",
+    "hanzi": "姐",
+    "pinyin": "jiě",
+    "meaningZh": "姐姐；年长的女性",
+    "korean": "누나; 언니",
+    "radical": "woman",
+    "otherPart": "且",
+    "firstPart": "女",
+    "secondPart": "且",
+    "structure": "left-right",
+    "ids": "⿰女且",
+    "shapeNarrative": "现代字形：左部“女”，右部“且”。完整字形为“姐”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "小姐",
+      "pinyin": "xiǎojiě",
+      "korean": "아가씨"
+    },
+    "wordIds": [
+      "hsk-123",
+      "hsk-197"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "sister",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女且"
+    }
+  },
+  {
+    "id": "char-59b9",
+    "hanzi": "妹",
+    "pinyin": "mèi",
+    "meaningZh": "妹妹；年幼的女性",
+    "korean": "여동생",
+    "radical": "woman",
+    "otherPart": "未",
+    "firstPart": "女",
+    "secondPart": "未",
+    "structure": "left-right",
+    "ids": "⿰女未",
+    "shapeNarrative": "现代字形：左部“女”，右部“未”。完整字形为“妹”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "妹妹",
+      "pinyin": "mèimei",
+      "korean": "여동생"
+    },
+    "wordIds": [
+      "hsk-221"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "younger-sister",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女未"
+    }
+  },
+  {
+    "id": "char-5982",
+    "hanzi": "如",
+    "pinyin": "rú",
+    "meaningZh": "如同；如果中的如",
+    "korean": "같다; 만일",
+    "radical": "woman",
+    "otherPart": "口",
+    "firstPart": "女",
+    "secondPart": "口",
+    "structure": "left-right",
+    "ids": "⿰女口",
+    "shapeNarrative": "现代字形：左部“女”，右部“口”。完整字形为“如”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "如果",
+      "pinyin": "rúguǒ",
+      "korean": "만약"
+    },
+    "wordIds": [
+      "hsk-498",
+      "hsk-618",
+      "hsk-885",
+      "hsk-1268",
+      "hsk-1662",
+      "hsk-1995",
+      "hsk-1996"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "alike",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女口"
+    }
+  },
+  {
+    "id": "char-59d3",
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "meaningZh": "姓氏",
+    "korean": "성씨",
+    "radical": "woman",
+    "otherPart": "生",
+    "firstPart": "女",
+    "secondPart": "生",
+    "structure": "left-right",
+    "ids": "⿰女生",
+    "shapeNarrative": "现代字形：左部“女”，右部“生”。完整字形为“姓”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "老百姓",
+      "pinyin": "lǎobǎixìng",
+      "korean": "서민, 일반 백성"
+    },
+    "wordIds": [
+      "hsk-269",
+      "hsk-1776"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "family-name",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女生"
+    }
+  },
+  {
+    "id": "char-59cb",
+    "hanzi": "始",
+    "pinyin": "shǐ",
+    "meaningZh": "开始",
+    "korean": "시작하다",
+    "radical": "woman",
+    "otherPart": "台",
+    "firstPart": "女",
+    "secondPart": "台",
+    "structure": "left-right",
+    "ids": "⿰女台",
+    "shapeNarrative": "现代字形：左部“女”，右部“台”。完整字形为“始”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "korean": "시작하다; 시작"
+    },
+    "wordIds": [
+      "hsk-204",
+      "hsk-2060"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "begin",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰女台"
+    }
+  },
+  {
+    "id": "char-7ea2",
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "meaningZh": "红色",
+    "korean": "빨갛다; 인기가 있다",
+    "radical": "thread",
+    "otherPart": "工",
+    "firstPart": "纟",
+    "secondPart": "工",
+    "structure": "left-right",
+    "ids": "⿰纟工",
+    "shapeNarrative": "现代字形：左部“纟”，右部“工”。完整字形为“红”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "西红柿",
+      "pinyin": "xīhóngshì",
+      "korean": "토마토"
+    },
+    "wordIds": [
+      "hsk-191",
+      "hsk-1061"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "red",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟工"
+    }
+  },
+  {
+    "id": "char-7eff",
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "meaningZh": "绿色",
+    "korean": "초록색",
+    "radical": "thread",
+    "otherPart": "录",
+    "firstPart": "纟",
+    "secondPart": "录",
+    "structure": "left-right",
+    "ids": "⿰纟录",
+    "shapeNarrative": "现代字形：左部“纟”，右部“录”。完整字形为“绿”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "绿",
+      "pinyin": "lǜ",
+      "korean": "푸르다, 초록색이다"
+    },
+    "wordIds": [
+      "hsk-460"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "green",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟录"
+    }
+  },
+  {
+    "id": "char-7ea7",
+    "hanzi": "级",
+    "pinyin": "jí",
+    "meaningZh": "等级；级别",
+    "korean": "등급",
+    "radical": "thread",
+    "otherPart": "及",
+    "firstPart": "纟",
+    "secondPart": "及",
+    "structure": "left-right",
+    "ids": "⿰纟及",
+    "shapeNarrative": "现代字形：左部“纟”，右部“及”。完整字形为“级”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "年级",
+      "pinyin": "niánjí",
+      "korean": "학년"
+    },
+    "wordIds": [
+      "hsk-473",
+      "hsk-1297",
+      "hsk-1346",
+      "hsk-1515"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "level",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟及"
+    }
+  },
+  {
+    "id": "char-7ed3",
+    "hanzi": "结",
+    "pinyin": "jié",
+    "meaningZh": "打结；形成某种关系或结果",
+    "korean": "맺다; 묶다",
+    "radical": "thread",
+    "otherPart": "吉",
+    "firstPart": "纟",
+    "secondPart": "吉",
+    "structure": "left-right",
+    "ids": "⿰纟吉",
+    "shapeNarrative": "现代字形：左部“纟”，右部“吉”。完整字形为“结”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "结婚",
+      "pinyin": "jiéhūn",
+      "korean": "결혼하다"
+    },
+    "wordIds": [
+      "hsk-427",
+      "hsk-428",
+      "hsk-824",
+      "hsk-1192",
+      "hsk-1697",
+      "hsk-1702",
+      "hsk-1703",
+      "hsk-1704",
+      "hsk-1705"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "knot",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟吉"
+    }
+  },
+  {
+    "id": "char-7ec3",
+    "hanzi": "练",
+    "pinyin": "liàn",
+    "meaningZh": "反复学习或训练",
+    "korean": "익히다; 연습하다",
+    "radical": "thread",
+    "otherPart": "𫠣",
+    "firstPart": "纟",
+    "secondPart": "𫠣",
+    "structure": "left-right",
+    "ids": "⿰纟𫠣",
+    "shapeNarrative": "现代字形：左部“纟”，右部“𫠣”。完整字形为“练”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "korean": "연습하다; 연습"
+    },
+    "wordIds": [
+      "hsk-453",
+      "hsk-1694",
+      "hsk-2083",
+      "hsk-2287"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "practice",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟𫠣"
+    }
+  },
+  {
+    "id": "char-7ec4",
+    "hanzi": "组",
+    "pinyin": "zǔ",
+    "meaningZh": "组成；一组",
+    "korean": "조; 구성하다",
+    "radical": "thread",
+    "otherPart": "且",
+    "firstPart": "纟",
+    "secondPart": "且",
+    "structure": "left-right",
+    "ids": "⿰纟且",
+    "shapeNarrative": "现代字形：左部“纟”，右部“且”。完整字形为“组”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "组成",
+      "pinyin": "zǔchéng",
+      "korean": "구성하다"
+    },
+    "wordIds": [
+      "hsk-2491",
+      "hsk-2492",
+      "hsk-2493",
+      "hsk-2494"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "group",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟且"
+    }
+  },
+  {
+    "id": "char-7ecf",
+    "hanzi": "经",
+    "pinyin": "jīng",
+    "meaningZh": "经过；经常等词中的经",
+    "korean": "지나다; 경서",
+    "radical": "thread",
+    "otherPart": "𢀖",
+    "firstPart": "纟",
+    "secondPart": "𢀖",
+    "structure": "left-right",
+    "ids": "⿰纟𢀖",
+    "shapeNarrative": "现代字形：左部“纟”，右部“𢀖”。完整字形为“经”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "korean": "이미, 벌써"
+    },
+    "wordIds": [
+      "hsk-280",
+      "hsk-431",
+      "hsk-432",
+      "hsk-433",
+      "hsk-831",
+      "hsk-832",
+      "hsk-833",
+      "hsk-1286",
+      "hsk-1719",
+      "hsk-1720",
+      "hsk-1721"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "pass-through",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟𢀖"
+    }
+  },
+  {
+    "id": "char-7ec6",
+    "hanzi": "细",
+    "pinyin": "xì",
+    "meaningZh": "细小；细致",
+    "korean": "가늘다; 자세하다",
+    "radical": "thread",
+    "otherPart": "田",
+    "firstPart": "纟",
+    "secondPart": "田",
+    "structure": "left-right",
+    "ids": "⿰纟田",
+    "shapeNarrative": "现代字形：左部“纟”，右部“田”。完整字形为“细”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "详细",
+      "pinyin": "xiángxì",
+      "korean": "상세하다; 자세하다"
+    },
+    "wordIds": [
+      "hsk-1069",
+      "hsk-1189",
+      "hsk-2216"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "thin",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟田"
+    }
+  },
+  {
+    "id": "char-7ebf",
+    "hanzi": "线",
+    "pinyin": "xiàn",
+    "meaningZh": "细长的丝或绳",
+    "korean": "실; 선",
+    "radical": "thread",
+    "otherPart": "戋",
+    "firstPart": "纟",
+    "secondPart": "戋",
+    "structure": "left-right",
+    "ids": "⿰纟戋",
+    "shapeNarrative": "现代字形：左部“纟”，右部“戋”。完整字形为“线”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "占线",
+      "pinyin": "zhànxiàn",
+      "korean": "통화 중이다"
+    },
+    "wordIds": [
+      "hsk-1154"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "thread",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟戋"
+    }
+  },
+  {
+    "id": "char-7eed",
+    "hanzi": "续",
+    "pinyin": "xù",
+    "meaningZh": "接着；继续",
+    "korean": "잇다; 계속하다",
+    "radical": "thread",
+    "otherPart": "卖",
+    "firstPart": "纟",
+    "secondPart": "卖",
+    "structure": "left-right",
+    "ids": "⿰纟卖",
+    "shapeNarrative": "现代字形：左部“纟”，右部“卖”。完整字形为“续”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "继续",
+      "pinyin": "jìxù",
+      "korean": "계속하다"
+    },
+    "wordIds": [
+      "hsk-797",
+      "hsk-1328",
+      "hsk-1799",
+      "hsk-1820",
+      "hsk-2073"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "continue",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟卖"
+    }
+  },
+  {
+    "id": "char-7eaa",
+    "hanzi": "纪",
+    "pinyin": "jì",
+    "meaningZh": "纪年；记录等词中的纪",
+    "korean": "기록하다; 규율",
+    "radical": "thread",
+    "otherPart": "己",
+    "firstPart": "纟",
+    "secondPart": "己",
+    "structure": "left-right",
+    "ids": "⿰纟己",
+    "shapeNarrative": "现代字形：左部“纟”，右部“己”。完整字形为“纪”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "世纪",
+      "pinyin": "shìjì",
+      "korean": "세기"
+    },
+    "wordIds": [
+      "hsk-989",
+      "hsk-1651",
+      "hsk-1652",
+      "hsk-1653",
+      "hsk-1881"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "calendar",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟己"
+    }
+  },
+  {
+    "id": "char-7ea6",
+    "hanzi": "约",
+    "pinyin": "yuē",
+    "meaningZh": "约定；大约",
+    "korean": "약속하다; 대략",
+    "radical": "thread",
+    "otherPart": "勺",
+    "firstPart": "纟",
+    "secondPart": "勺",
+    "structure": "left-right",
+    "ids": "⿰纟勺",
+    "shapeNarrative": "现代字形：左部“纟”，右部“勺”。完整字形为“约”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "大约",
+      "pinyin": "dàyuē",
+      "korean": "대략"
+    },
+    "wordIds": [
+      "hsk-673",
+      "hsk-823",
+      "hsk-1144"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "appointment",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟勺"
+    }
+  },
+  {
+    "id": "char-7ec7",
+    "hanzi": "织",
+    "pinyin": "zhī",
+    "meaningZh": "交错编成布或物品",
+    "korean": "짜다",
+    "radical": "thread",
+    "otherPart": "只",
+    "firstPart": "纟",
+    "secondPart": "只",
+    "structure": "left-right",
+    "ids": "⿰纟只",
+    "shapeNarrative": "现代字形：左部“纟”，右部“只”。完整字形为“织”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "组织",
+      "pinyin": "zǔzhī",
+      "korean": "조직하다; 조직"
+    },
+    "wordIds": [
+      "hsk-2494"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "weave",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟只"
+    }
+  },
+  {
+    "id": "char-7ed9",
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "meaningZh": "交付；给予",
+    "korean": "주다; ~에게",
+    "radical": "thread",
+    "otherPart": "合",
+    "firstPart": "纟",
+    "secondPart": "合",
+    "structure": "left-right",
+    "ids": "⿰纟合",
+    "shapeNarrative": "现代字形：左部“纟”，右部“合”。完整字形为“给”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "korean": "주다"
+    },
+    "wordIds": [
+      "hsk-182"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "give",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟合"
+    }
+  },
+  {
+    "id": "char-7edd",
+    "hanzi": "绝",
+    "pinyin": "jué",
+    "meaningZh": "断绝；绝对或拒绝中的绝",
+    "korean": "끊다; 극히",
+    "radical": "thread",
+    "otherPart": "色",
+    "firstPart": "纟",
+    "secondPart": "色",
+    "structure": "left-right",
+    "ids": "⿰纟色",
+    "shapeNarrative": "现代字形：左部“纟”，右部“色”。完整字形为“绝”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "拒绝",
+      "pinyin": "jùjué",
+      "korean": "거절하다"
+    },
+    "wordIds": [
+      "hsk-844",
+      "hsk-1739"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "cut-thread",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟色"
+    }
+  },
+  {
+    "id": "char-7eb8",
+    "hanzi": "纸",
+    "pinyin": "zhǐ",
+    "meaningZh": "可书写或印刷的薄片材料",
+    "korean": "종이",
+    "radical": "thread",
+    "otherPart": "氏",
+    "firstPart": "纟",
+    "secondPart": "氏",
+    "structure": "left-right",
+    "ids": "⿰纟氏",
+    "shapeNarrative": "现代字形：左部“纟”，右部“氏”。完整字形为“纸”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "报纸",
+      "pinyin": "bàozhǐ",
+      "korean": "신문"
+    },
+    "wordIds": [
+      "hsk-156"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "paper",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰纟氏"
+    }
+  },
+  {
+    "id": "char-6674",
+    "hanzi": "晴",
+    "pinyin": "qíng",
+    "meaningZh": "天空少云或无云",
+    "korean": "맑다",
+    "radical": "sun",
+    "otherPart": "青",
+    "firstPart": "日",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰日青",
+    "shapeNarrative": "现代字形：左部“日”，右部“青”。完整字形为“晴”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "晴",
+      "pinyin": "qíng",
+      "korean": "맑다"
+    },
+    "wordIds": [
+      "hsk-236"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "sunny",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰日青"
+    }
+  },
+  {
+    "id": "char-65f6",
+    "hanzi": "时",
+    "pinyin": "shí",
+    "meaningZh": "时间；时刻",
+    "korean": "때; 시간",
+    "radical": "sun",
+    "otherPart": "寸",
+    "firstPart": "日",
+    "secondPart": "寸",
+    "structure": "left-right",
+    "ids": "⿰日寸",
+    "shapeNarrative": "现代字形：左部“日”，右部“寸”。完整字形为“时”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "korean": "때, 시간"
+    },
+    "wordIds": [
+      "hsk-96",
+      "hsk-244",
+      "hsk-266",
+      "hsk-605",
+      "hsk-677",
+      "hsk-791",
+      "hsk-932",
+      "hsk-1042",
+      "hsk-1150",
+      "hsk-1188",
+      "hsk-1807",
+      "hsk-2046",
+      "hsk-2047",
+      "hsk-2048",
+      "hsk-2049",
+      "hsk-2050",
+      "hsk-2051",
+      "hsk-2105"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "time",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰日寸"
+    }
+  },
+  {
+    "id": "char-660e",
+    "hanzi": "明",
+    "pinyin": "míng",
+    "meaningZh": "明亮；明白",
+    "korean": "밝다; 분명하다",
+    "radical": "sun",
+    "otherPart": "月",
+    "firstPart": "日",
+    "secondPart": "月",
+    "structure": "left-right",
+    "ids": "⿰日月",
+    "shapeNarrative": "现代字形：左部“日”，右部“月”。完整字形为“明”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "korean": "내일"
+    },
+    "wordIds": [
+      "hsk-68",
+      "hsk-342",
+      "hsk-467",
+      "hsk-1009",
+      "hsk-1163",
+      "hsk-1252",
+      "hsk-1457",
+      "hsk-1564",
+      "hsk-1854",
+      "hsk-1855",
+      "hsk-1856",
+      "hsk-2148",
+      "hsk-2193"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "bright",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰日月"
+    }
+  },
+  {
+    "id": "char-665a",
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "meaningZh": "傍晚；时间较迟",
+    "korean": "저녁; 늦다",
+    "radical": "sun",
+    "otherPart": "免",
+    "firstPart": "日",
+    "secondPart": "免",
+    "structure": "left-right",
+    "ids": "⿰日免",
+    "shapeNarrative": "现代字形：左部“日”，右部“免”。完整字形为“晚”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "晚上",
+      "pinyin": "wǎnshang",
+      "korean": "저녁, 밤"
+    },
+    "wordIds": [
+      "hsk-258",
+      "hsk-1215"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "evening",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰日免"
+    }
+  },
+  {
+    "id": "char-6628",
+    "hanzi": "昨",
+    "pinyin": "zuó",
+    "meaningZh": "昨天；前一天",
+    "korean": "어제",
+    "radical": "sun",
+    "otherPart": "乍",
+    "firstPart": "日",
+    "secondPart": "乍",
+    "structure": "left-right",
+    "ids": "⿰日乍",
+    "shapeNarrative": "现代字形：左部“日”，右部“乍”。完整字形为“昨”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "korean": "어제"
+    },
+    "wordIds": [
+      "hsk-149"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "yesterday",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰日乍"
+    }
+  },
+  {
+    "id": "char-6652",
+    "hanzi": "晒",
+    "pinyin": "shài",
+    "meaningZh": "让阳光照射",
+    "korean": "햇볕에 쬐다",
+    "radical": "sun",
+    "otherPart": "西",
+    "firstPart": "日",
+    "secondPart": "西",
+    "structure": "left-right",
+    "ids": "⿰日西",
+    "shapeNarrative": "现代字形：左部“日”，右部“西”。完整字形为“晒”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "晒",
+      "pinyin": "shài",
+      "korean": "햇볕에 말리다"
+    },
+    "wordIds": [
+      "hsk-2007"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "sun-dry",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰日西"
+    }
+  },
+  {
+    "id": "char-775b",
+    "hanzi": "睛",
+    "pinyin": "jīng",
+    "meaningZh": "眼睛中的睛",
+    "korean": "눈동자",
+    "radical": "eye",
+    "otherPart": "青",
+    "firstPart": "目",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰目青",
+    "shapeNarrative": "现代字形：左部“目”，右部“青”。完整字形为“睛”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjing",
+      "korean": "눈"
+    },
+    "wordIds": [
+      "hsk-273"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "eye",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰目青"
+    }
+  },
+  {
+    "id": "char-773c",
+    "hanzi": "眼",
+    "pinyin": "yǎn",
+    "meaningZh": "眼睛",
+    "korean": "눈",
+    "radical": "eye",
+    "otherPart": "艮",
+    "firstPart": "目",
+    "secondPart": "艮",
+    "structure": "left-right",
+    "ids": "⿰目艮",
+    "shapeNarrative": "现代字形：左部“目”，右部“艮”。完整字形为“眼”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjing",
+      "korean": "눈"
+    },
+    "wordIds": [
+      "hsk-273",
+      "hsk-1100"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "eyes",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰目艮"
+    }
+  },
+  {
+    "id": "char-7761",
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "meaningZh": "睡觉",
+    "korean": "자다",
+    "radical": "eye",
+    "otherPart": "垂",
+    "firstPart": "目",
+    "secondPart": "垂",
+    "structure": "left-right",
+    "ids": "⿰目垂",
+    "shapeNarrative": "现代字形：左部“目”，右部“垂”。完整字形为“睡”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "korean": "잠자다, 자다"
+    },
+    "wordIds": [
+      "hsk-101"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "sleep",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰目垂"
+    }
+  },
+  {
+    "id": "char-80d6",
+    "hanzi": "胖",
+    "pinyin": "pàng",
+    "meaningZh": "身体脂肪较多",
+    "korean": "뚱뚱하다",
+    "radical": "body",
+    "otherPart": "半",
+    "firstPart": "月",
+    "secondPart": "半",
+    "structure": "left-right",
+    "ids": "⿰月半",
+    "shapeNarrative": "现代字形：左部“月”，右部“半”。完整字形为“胖”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "胖",
+      "pinyin": "pàng",
+      "korean": "뚱뚱하다"
+    },
+    "wordIds": [
+      "hsk-479"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "plump",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰月半"
+    }
+  },
+  {
+    "id": "char-809a",
+    "hanzi": "肚",
+    "pinyin": "dù",
+    "meaningZh": "腹部；肚子",
+    "korean": "배",
+    "radical": "body",
+    "otherPart": "土",
+    "firstPart": "月",
+    "secondPart": "土",
+    "structure": "left-right",
+    "ids": "⿰月土",
+    "shapeNarrative": "现代字形：左部“月”，右部“土”。完整字形为“肚”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "肚子",
+      "pinyin": "dùzi",
+      "korean": "배"
+    },
+    "wordIds": [
+      "hsk-698"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "belly",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰月土"
+    }
+  },
+  {
+    "id": "char-8138",
+    "hanzi": "脸",
+    "pinyin": "liǎn",
+    "meaningZh": "面部",
+    "korean": "얼굴",
+    "radical": "body",
+    "otherPart": "佥",
+    "firstPart": "月",
+    "secondPart": "佥",
+    "structure": "left-right",
+    "ids": "⿰月佥",
+    "shapeNarrative": "现代字形：左部“月”，右部“佥”。完整字形为“脸”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "korean": "얼굴"
+    },
+    "wordIds": [
+      "hsk-452"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "face",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰月佥"
+    }
+  },
+  {
+    "id": "char-817f",
+    "hanzi": "腿",
+    "pinyin": "tuǐ",
+    "meaningZh": "人体下肢",
+    "korean": "다리",
+    "radical": "body",
+    "otherPart": "退",
+    "firstPart": "月",
+    "secondPart": "退",
+    "structure": "left-right",
+    "ids": "⿰月退",
+    "shapeNarrative": "现代字形：左部“月”，右部“退”。完整字形为“腿”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "腿",
+      "pinyin": "tuǐ",
+      "korean": "다리"
+    },
+    "wordIds": [
+      "hsk-526"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "leg",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰月退"
+    }
+  },
+  {
+    "id": "char-810f",
+    "hanzi": "脏",
+    "pinyin": "zāng",
+    "meaningZh": "不干净",
+    "korean": "더럽다",
+    "radical": "body",
+    "otherPart": "庄",
+    "firstPart": "月",
+    "secondPart": "庄",
+    "structure": "left-right",
+    "ids": "⿰月庄",
+    "shapeNarrative": "现代字形：左部“月”，右部“庄”。完整字形为“脏”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "脏",
+      "pinyin": "zāng",
+      "korean": "더럽다"
+    },
+    "wordIds": [
+      "hsk-1151",
+      "hsk-2258"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "dirty",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰月庄"
+    }
+  },
+  {
+    "id": "char-5730",
+    "hanzi": "地",
+    "pinyin": "dì",
+    "meaningZh": "地面；土地",
+    "korean": "땅; 장소",
+    "radical": "earth",
+    "otherPart": "也",
+    "firstPart": "土",
+    "secondPart": "也",
+    "structure": "left-right",
+    "ids": "⿰土也",
+    "shapeNarrative": "现代字形：左部“土”，右部“也”。完整字形为“地”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "korean": "장소, 곳"
+    },
+    "wordIds": [
+      "hsk-349",
+      "hsk-351",
+      "hsk-352",
+      "hsk-353",
+      "hsk-690",
+      "hsk-691",
+      "hsk-692",
+      "hsk-1399",
+      "hsk-1415",
+      "hsk-1416",
+      "hsk-1417",
+      "hsk-1418",
+      "hsk-1419",
+      "hsk-1420",
+      "hsk-1819",
+      "hsk-2150"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "earth",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰土也"
+    }
+  },
+  {
+    "id": "char-574f",
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "meaningZh": "不好；损坏",
+    "korean": "나쁘다; 고장 나다",
+    "radical": "earth",
+    "otherPart": "不",
+    "firstPart": "土",
+    "secondPart": "不",
+    "structure": "left-right",
+    "ids": "⿰土不",
+    "shapeNarrative": "现代字形：左部“土”，右部“不”。完整字形为“坏”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "破坏",
+      "pinyin": "pòhuài",
+      "korean": "파괴하다"
+    },
+    "wordIds": [
+      "hsk-401",
+      "hsk-1924"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "broken",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰土不"
+    }
+  },
+  {
+    "id": "char-57ce",
+    "hanzi": "城",
+    "pinyin": "chéng",
+    "meaningZh": "城市",
+    "korean": "성; 도시",
+    "radical": "earth",
+    "otherPart": "成",
+    "firstPart": "土",
+    "secondPart": "成",
+    "structure": "left-right",
+    "ids": "⿰土成",
+    "shapeNarrative": "现代字形：左部“土”，右部“成”。完整字形为“城”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "城市",
+      "pinyin": "chéngshì",
+      "korean": "도시"
+    },
+    "wordIds": [
+      "hsk-336",
+      "hsk-641"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "city",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰土成"
+    }
+  },
+  {
+    "id": "char-5757",
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "meaningZh": "成块的东西；量词",
+    "korean": "덩어리; 위안의 구어 단위",
+    "radical": "earth",
+    "otherPart": "夬",
+    "firstPart": "土",
+    "secondPart": "夬",
+    "structure": "left-right",
+    "ids": "⿰土夬",
+    "shapeNarrative": "现代字形：左部“土”，右部“夬”。完整字形为“块”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "korean": "위안 (구어의 화폐 단위)"
+    },
+    "wordIds": [
+      "hsk-53"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "block",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰土夬"
+    }
+  },
+  {
+    "id": "char-94b1",
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "meaningZh": "货币",
+    "korean": "돈",
+    "radical": "metal",
+    "otherPart": "戋",
+    "firstPart": "钅",
+    "secondPart": "戋",
+    "structure": "left-right",
+    "ids": "⿰钅戋",
+    "shapeNarrative": "现代字形：左部“钅”，右部“戋”。完整字形为“钱”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "零钱",
+      "pinyin": "língqián",
+      "korean": "잔돈"
+    },
+    "wordIds": [
+      "hsk-82",
+      "hsk-890"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "money",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅戋"
+    }
+  },
+  {
+    "id": "char-94c1",
+    "hanzi": "铁",
+    "pinyin": "tiě",
+    "meaningZh": "一种常见金属",
+    "korean": "쇠; 철",
+    "radical": "metal",
+    "otherPart": "失",
+    "firstPart": "钅",
+    "secondPart": "失",
+    "structure": "left-right",
+    "ids": "⿰钅失",
+    "shapeNarrative": "现代字形：左部“钅”，右部“失”。完整字形为“铁”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "地铁",
+      "pinyin": "dìtiě",
+      "korean": "지하철"
+    },
+    "wordIds": [
+      "hsk-352",
+      "hsk-1513"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "iron",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅失"
+    }
+  },
+  {
+    "id": "char-94f6",
+    "hanzi": "银",
+    "pinyin": "yín",
+    "meaningZh": "一种银白色金属",
+    "korean": "은",
+    "radical": "metal",
+    "otherPart": "艮",
+    "firstPart": "钅",
+    "secondPart": "艮",
+    "structure": "left-right",
+    "ids": "⿰钅艮",
+    "shapeNarrative": "现代字形：左部“钅”，右部“艮”。完整字形为“银”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "korean": "은행"
+    },
+    "wordIds": [
+      "hsk-565",
+      "hsk-2325"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "silver",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅艮"
+    }
+  },
+  {
+    "id": "char-955c",
+    "hanzi": "镜",
+    "pinyin": "jìng",
+    "meaningZh": "可以映像的器具",
+    "korean": "거울; 렌즈",
+    "radical": "metal",
+    "otherPart": "竟",
+    "firstPart": "钅",
+    "secondPart": "竟",
+    "structure": "left-right",
+    "ids": "⿰钅竟",
+    "shapeNarrative": "现代字形：左部“钅”，右部“竟”。完整字形为“镜”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "镜子",
+      "pinyin": "jìngzi",
+      "korean": "거울"
+    },
+    "wordIds": [
+      "hsk-839",
+      "hsk-1100"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "mirror",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅竟"
+    }
+  },
+  {
+    "id": "char-9519",
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "meaningZh": "错误；不正确",
+    "korean": "틀리다; 잘못",
+    "radical": "metal",
+    "otherPart": "昔",
+    "firstPart": "钅",
+    "secondPart": "昔",
+    "structure": "left-right",
+    "ids": "⿰钅昔",
+    "shapeNarrative": "现代字形：左部“钅”，右部“昔”。完整字形为“错”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "错误",
+      "pinyin": "cuòwù",
+      "korean": "잘못, 실수; 틀리다"
+    },
+    "wordIds": [
+      "hsk-166",
+      "hsk-663"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "wrong",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅昔"
+    }
+  },
+  {
+    "id": "char-9488",
+    "hanzi": "针",
+    "pinyin": "zhēn",
+    "meaningZh": "细长而尖的工具",
+    "korean": "바늘",
+    "radical": "metal",
+    "otherPart": "十",
+    "firstPart": "钅",
+    "secondPart": "十",
+    "structure": "left-right",
+    "ids": "⿰钅十",
+    "shapeNarrative": "现代字形：左部“钅”，右部“十”。完整字形为“针”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "打针",
+      "pinyin": "dǎzhēn",
+      "korean": "주사를 맞다, 주사를 놓다"
+    },
+    "wordIds": [
+      "hsk-670",
+      "hsk-2396"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "needle",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅十"
+    }
+  },
+  {
+    "id": "char-996d",
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "meaningZh": "米饭；一餐食物",
+    "korean": "밥; 식사",
+    "radical": "food",
+    "otherPart": "反",
+    "firstPart": "饣",
+    "secondPart": "反",
+    "structure": "left-right",
+    "ids": "⿰饣反",
+    "shapeNarrative": "现代字形：左部“饣”，右部“反”。完整字形为“饭”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "korean": "식당"
+    },
+    "wordIds": [
+      "hsk-29",
+      "hsk-66"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "meal",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣反"
+    }
+  },
+  {
+    "id": "char-997c",
+    "hanzi": "饼",
+    "pinyin": "bǐng",
+    "meaningZh": "扁圆形面食等",
+    "korean": "납작한 떡·과자",
+    "radical": "food",
+    "otherPart": "并",
+    "firstPart": "饣",
+    "secondPart": "并",
+    "structure": "left-right",
+    "ids": "⿰饣并",
+    "shapeNarrative": "现代字形：左部“饣”，右部“并”。完整字形为“饼”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "饼干",
+      "pinyin": "bǐnggān",
+      "korean": "과자, 비스킷"
+    },
+    "wordIds": [
+      "hsk-626"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "pancake",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣并"
+    }
+  },
+  {
+    "id": "char-997a",
+    "hanzi": "饺",
+    "pinyin": "jiǎo",
+    "meaningZh": "饺子中的饺",
+    "korean": "만두",
+    "radical": "food",
+    "otherPart": "交",
+    "firstPart": "饣",
+    "secondPart": "交",
+    "structure": "left-right",
+    "ids": "⿰饣交",
+    "shapeNarrative": "现代字形：左部“饣”，右部“交”。完整字形为“饺”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "饺子",
+      "pinyin": "jiǎozi",
+      "korean": "만두, 교자"
+    },
+    "wordIds": [
+      "hsk-817"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "dumpling",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣交"
+    }
+  },
+  {
+    "id": "char-9986",
+    "hanzi": "馆",
+    "pinyin": "guǎn",
+    "meaningZh": "供特定活动使用的场所",
+    "korean": "관; 시설",
+    "radical": "food",
+    "otherPart": "官",
+    "firstPart": "饣",
+    "secondPart": "官",
+    "structure": "left-right",
+    "ids": "⿰饣官",
+    "shapeNarrative": "现代字形：左部“饣”，右部“官”。完整字形为“馆”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "宾馆",
+      "pinyin": "bīnguǎn",
+      "korean": "호텔, 여관"
+    },
+    "wordIds": [
+      "hsk-159",
+      "hsk-525",
+      "hsk-672",
+      "hsk-1260"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "restaurant",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣官"
+    }
+  },
+  {
+    "id": "char-997f",
+    "hanzi": "饿",
+    "pinyin": "è",
+    "meaningZh": "想吃东西；饥饿",
+    "korean": "배고프다",
+    "radical": "food",
+    "otherPart": "我",
+    "firstPart": "饣",
+    "secondPart": "我",
+    "structure": "left-right",
+    "ids": "⿰饣我",
+    "shapeNarrative": "现代字形：左部“饣”，右部“我”。完整字形为“饿”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "饿",
+      "pinyin": "è",
+      "korean": "배고프다"
+    },
+    "wordIds": [
+      "hsk-363"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "hungry",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣我"
+    }
+  },
+  {
+    "id": "char-9971",
+    "hanzi": "饱",
+    "pinyin": "bǎo",
+    "meaningZh": "吃够了；充足",
+    "korean": "배부르다",
+    "radical": "food",
+    "otherPart": "包",
+    "firstPart": "饣",
+    "secondPart": "包",
+    "structure": "left-right",
+    "ids": "⿰饣包",
+    "shapeNarrative": "现代字形：左部“饣”，右部“包”。完整字形为“饱”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "饱",
+      "pinyin": "bǎo",
+      "korean": "배부르다"
+    },
+    "wordIds": [
+      "hsk-315"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "full",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣包"
+    }
+  },
+  {
+    "id": "char-732b",
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "meaningZh": "一种常见宠物",
+    "korean": "고양이",
+    "radical": "animal",
+    "otherPart": "苗",
+    "firstPart": "犭",
+    "secondPart": "苗",
+    "structure": "left-right",
+    "ids": "⿰犭苗",
+    "shapeNarrative": "现代字形：左部“犭”，右部“苗”。完整字形为“猫”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "熊猫",
+      "pinyin": "xióngmāo",
+      "korean": "판다"
+    },
+    "wordIds": [
+      "hsk-63",
+      "hsk-551"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "cat",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰犭苗"
+    }
+  },
+  {
+    "id": "char-72d7",
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "meaningZh": "一种常见宠物",
+    "korean": "개",
+    "radical": "animal",
+    "otherPart": "句",
+    "firstPart": "犭",
+    "secondPart": "句",
+    "structure": "left-right",
+    "ids": "⿰犭句",
+    "shapeNarrative": "现代字形：左部“犭”，右部“句”。完整字形为“狗”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "korean": "개"
+    },
+    "wordIds": [
+      "hsk-35"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "dog",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰犭句"
+    }
+  },
+  {
+    "id": "char-732a",
+    "hanzi": "猪",
+    "pinyin": "zhū",
+    "meaningZh": "一种常见家畜",
+    "korean": "돼지",
+    "radical": "animal",
+    "otherPart": "者",
+    "firstPart": "犭",
+    "secondPart": "者",
+    "structure": "left-right",
+    "ids": "⿰犭者",
+    "shapeNarrative": "现代字形：左部“犭”，右部“者”。完整字形为“猪”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "猪",
+      "pinyin": "zhū",
+      "korean": "돼지"
+    },
+    "wordIds": [
+      "hsk-2438"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "pig",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰犭者"
+    }
+  },
+  {
+    "id": "char-731c",
+    "hanzi": "猜",
+    "pinyin": "cāi",
+    "meaningZh": "根据线索推测",
+    "korean": "추측하다",
+    "radical": "animal",
+    "otherPart": "青",
+    "firstPart": "犭",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰犭青",
+    "shapeNarrative": "现代字形：左部“犭”，右部“青”。完整字形为“猜”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "猜",
+      "pinyin": "cāi",
+      "korean": "추측하다"
+    },
+    "wordIds": [
+      "hsk-635"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "guess",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰犭青"
+    }
+  },
+  {
+    "id": "char-51b0",
+    "hanzi": "冰",
+    "pinyin": "bīng",
+    "meaningZh": "水凝固形成的固体",
+    "korean": "얼음",
+    "radical": "ice",
+    "otherPart": "水",
+    "firstPart": "冫",
+    "secondPart": "水",
+    "structure": "left-right",
+    "ids": "⿰冫水",
+    "shapeNarrative": "现代字形：左部“冫”，右部“水”。完整字形为“冰”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "冰箱",
+      "pinyin": "bīngxiāng",
+      "korean": "냉장고"
+    },
+    "wordIds": [
+      "hsk-325",
+      "hsk-1255"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "ice",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰冫水"
+    }
+  },
+  {
+    "id": "char-51b7",
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "meaningZh": "温度低；感到寒冷",
+    "korean": "차갑다; 춥다",
+    "radical": "ice",
+    "otherPart": "令",
+    "firstPart": "冫",
+    "secondPart": "令",
+    "structure": "left-right",
+    "ids": "⿰冫令",
+    "shapeNarrative": "现代字形：左部“冫”，右部“令”。完整字形为“冷”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "冷静",
+      "pinyin": "lěngjìng",
+      "korean": "침착하다"
+    },
+    "wordIds": [
+      "hsk-57",
+      "hsk-877",
+      "hsk-1785"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "cold",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰冫令"
+    }
+  },
+  {
+    "id": "char-51bb",
+    "hanzi": "冻",
+    "pinyin": "dòng",
+    "meaningZh": "受冷凝固；感到冷",
+    "korean": "얼다",
+    "radical": "ice",
+    "otherPart": "东",
+    "firstPart": "冫",
+    "secondPart": "东",
+    "structure": "left-right",
+    "ids": "⿰冫东",
+    "shapeNarrative": "现代字形：左部“冫”，右部“东”。完整字形为“冻”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "冻",
+      "pinyin": "dòng",
+      "korean": "얼다, 얼리다"
+    },
+    "wordIds": [
+      "hsk-1428"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "frozen",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰冫东"
+    }
+  },
+  {
+    "id": "char-51c0",
+    "hanzi": "净",
+    "pinyin": "jìng",
+    "meaningZh": "干净；洁净",
+    "korean": "깨끗하다",
+    "radical": "ice",
+    "otherPart": "争",
+    "firstPart": "冫",
+    "secondPart": "争",
+    "structure": "left-right",
+    "ids": "⿰冫争",
+    "shapeNarrative": "现代字形：左部“冫”，右部“争”。完整字形为“净”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "干净",
+      "pinyin": "gānjìng",
+      "korean": "깨끗하다"
+    },
+    "wordIds": [
+      "hsk-374"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "clean",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰冫争"
+    }
+  },
+  {
+    "id": "char-51c9",
+    "hanzi": "凉",
+    "pinyin": "liáng",
+    "meaningZh": "温度较低而舒适",
+    "korean": "서늘하다",
+    "radical": "ice",
+    "otherPart": "京",
+    "firstPart": "冫",
+    "secondPart": "京",
+    "structure": "left-right",
+    "ids": "⿰冫京",
+    "shapeNarrative": "现代字形：左部“冫”，右部“京”。完整字形为“凉”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "凉快",
+      "pinyin": "liángkuai",
+      "korean": "시원하다"
+    },
+    "wordIds": [
+      "hsk-889",
+      "hsk-2392"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "cool",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰冫京"
+    }
+  },
+  {
+    "id": "char-706f",
+    "hanzi": "灯",
+    "pinyin": "dēng",
+    "meaningZh": "照明器具",
+    "korean": "등불",
+    "radical": "fire",
+    "otherPart": "丁",
+    "firstPart": "火",
+    "secondPart": "丁",
+    "structure": "left-right",
+    "ids": "⿰火丁",
+    "shapeNarrative": "现代字形：左部“火”，右部“丁”。完整字形为“灯”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "灯",
+      "pinyin": "dēng",
+      "korean": "등, 램프"
+    },
+    "wordIds": [
+      "hsk-350"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "lamp",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰火丁"
+    }
+  },
+  {
+    "id": "char-7092",
+    "hanzi": "炒",
+    "pinyin": "chǎo",
+    "meaningZh": "用少量油翻动加热食物",
+    "korean": "볶다",
+    "radical": "fire",
+    "otherPart": "少",
+    "firstPart": "火",
+    "secondPart": "少",
+    "structure": "left-right",
+    "ids": "⿰火少",
+    "shapeNarrative": "现代字形：左部“火”，右部“少”。完整字形为“炒”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "炒",
+      "pinyin": "chǎo",
+      "korean": "볶다"
+    },
+    "wordIds": [
+      "hsk-1302"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "stir-fry",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰火少"
+    }
+  },
+  {
+    "id": "char-70e7",
+    "hanzi": "烧",
+    "pinyin": "shāo",
+    "meaningZh": "燃烧；加热烹饪",
+    "korean": "태우다; 끓이다",
+    "radical": "fire",
+    "otherPart": "尧",
+    "firstPart": "火",
+    "secondPart": "尧",
+    "structure": "left-right",
+    "ids": "⿰火尧",
+    "shapeNarrative": "现代字形：左部“火”，右部“尧”。完整字形为“烧”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "发烧",
+      "pinyin": "fāshāo",
+      "korean": "열이 나다"
+    },
+    "wordIds": [
+      "hsk-366",
+      "hsk-1975"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "burn",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰火尧"
+    }
+  },
+  {
+    "id": "char-70e4",
+    "hanzi": "烤",
+    "pinyin": "kǎo",
+    "meaningZh": "用火或热气加热",
+    "korean": "굽다",
+    "radical": "fire",
+    "otherPart": "考",
+    "firstPart": "火",
+    "secondPart": "考",
+    "structure": "left-right",
+    "ids": "⿰火考",
+    "shapeNarrative": "现代字形：左部“火”，右部“考”。完整字形为“烤”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "烤鸭",
+      "pinyin": "kǎoyā",
+      "korean": "오리구이"
+    },
+    "wordIds": [
+      "hsk-851"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "roast",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰火考"
+    }
+  },
+  {
+    "id": "char-70df",
+    "hanzi": "烟",
+    "pinyin": "yān",
+    "meaningZh": "燃烧时产生的气体和微粒；香烟",
+    "korean": "연기; 담배",
+    "radical": "fire",
+    "otherPart": "因",
+    "firstPart": "火",
+    "secondPart": "因",
+    "structure": "left-right",
+    "ids": "⿰火因",
+    "shapeNarrative": "现代字形：左部“火”，右部“因”。完整字形为“烟”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "抽烟",
+      "pinyin": "chōuyān",
+      "korean": "담배를 피우다"
+    },
+    "wordIds": [
+      "hsk-651"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "smoke",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰火因"
+    }
+  },
+  {
+    "id": "char-7cbe",
+    "hanzi": "精",
+    "pinyin": "jīng",
+    "meaningZh": "细致；精力或精神中的精",
+    "korean": "정수; 정밀하다",
+    "radical": "rice",
+    "otherPart": "青",
+    "firstPart": "米",
+    "secondPart": "青",
+    "structure": "left-right",
+    "ids": "⿰米青",
+    "shapeNarrative": "现代字形：左部“米”，右部“青”。完整字形为“精”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "精彩",
+      "pinyin": "jīngcǎi",
+      "korean": "훌륭하다, 멋지다"
+    },
+    "wordIds": [
+      "hsk-834",
+      "hsk-1722",
+      "hsk-1723"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "energy",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰米青"
+    }
+  },
+  {
+    "id": "char-6599",
+    "hanzi": "料",
+    "pinyin": "liào",
+    "meaningZh": "材料；原料",
+    "korean": "재료; 짐작하다",
+    "radical": "rice",
+    "otherPart": "斗",
+    "firstPart": "米",
+    "secondPart": "斗",
+    "structure": "left-right",
+    "ids": "⿰米斗",
+    "shapeNarrative": "现代字形：左部“米”，右部“斗”。完整字形为“料”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "饮料",
+      "pinyin": "yǐnliào",
+      "korean": "음료"
+    },
+    "wordIds": [
+      "hsk-566",
+      "hsk-636",
+      "hsk-1013",
+      "hsk-2360",
+      "hsk-2471"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "ingredients",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰米斗"
+    }
+  },
+  {
+    "id": "char-7c97",
+    "hanzi": "粗",
+    "pinyin": "cū",
+    "meaningZh": "不细；不精细",
+    "korean": "굵다; 거칠다",
+    "radical": "rice",
+    "otherPart": "且",
+    "firstPart": "米",
+    "secondPart": "且",
+    "structure": "left-right",
+    "ids": "⿰米且",
+    "shapeNarrative": "现代字形：左部“米”，右部“且”。完整字形为“粗”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "粗心",
+      "pinyin": "cūxīn",
+      "korean": "부주의하다"
+    },
+    "wordIds": [
+      "hsk-661",
+      "hsk-1368"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "coarse",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰米且"
+    }
+  },
+  {
+    "id": "char-7cd6",
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "meaningZh": "有甜味的食品或物质",
+    "korean": "설탕; 사탕",
+    "radical": "rice",
+    "otherPart": "唐",
+    "firstPart": "米",
+    "secondPart": "唐",
+    "structure": "left-right",
+    "ids": "⿰米唐",
+    "shapeNarrative": "现代字形：左部“米”，右部“唐”。完整字形为“糖”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "糖",
+      "pinyin": "táng",
+      "korean": "설탕, 사탕"
+    },
+    "wordIds": [
+      "hsk-1025"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "sugar",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰米唐"
+    }
+  },
+  {
+    "id": "char-89c6",
+    "hanzi": "视",
+    "pinyin": "shì",
+    "meaningZh": "看；视线",
+    "korean": "보다; 대하다",
+    "radical": "ritual",
+    "otherPart": "见",
+    "firstPart": "礻",
+    "secondPart": "见",
+    "structure": "left-right",
+    "ids": "⿰礻见",
+    "shapeNarrative": "现代字形：左部“礻”，右部“见”。完整字形为“视”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "korean": "텔레비전"
+    },
+    "wordIds": [
+      "hsk-19",
+      "hsk-1178",
+      "hsk-1607",
+      "hsk-1954"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "look",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰礻见"
+    }
+  },
+  {
+    "id": "char-795d",
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "meaningZh": "祝愿",
+    "korean": "축복하다; 빌다",
+    "radical": "ritual",
+    "otherPart": "兄",
+    "firstPart": "礻",
+    "secondPart": "兄",
+    "structure": "left-right",
+    "ids": "⿰礻兄",
+    "shapeNarrative": "现代字形：左部“礻”，右部“兄”。完整字形为“祝”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "祝贺",
+      "pinyin": "zhùhè",
+      "korean": "축하하다"
+    },
+    "wordIds": [
+      "hsk-1181",
+      "hsk-1960",
+      "hsk-2452"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "blessing",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰礻兄"
+    }
+  },
+  {
+    "id": "char-795e",
+    "hanzi": "神",
+    "pinyin": "shén",
+    "meaningZh": "神灵；精神中的神",
+    "korean": "신; 정신",
+    "radical": "ritual",
+    "otherPart": "申",
+    "firstPart": "礻",
+    "secondPart": "申",
+    "structure": "left-right",
+    "ids": "⿰礻申",
+    "shapeNarrative": "现代字形：左部“礻”，右部“申”。完整字形为“神”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "精神",
+      "pinyin": "jīngshen",
+      "korean": "활기, 기력"
+    },
+    "wordIds": [
+      "hsk-1723",
+      "hsk-2029",
+      "hsk-2030"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "spirit",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰礻申"
+    }
+  },
+  {
+    "id": "char-793e",
+    "hanzi": "社",
+    "pinyin": "shè",
+    "meaningZh": "社会；团体中的社",
+    "korean": "사회단체; 모임",
+    "radical": "ritual",
+    "otherPart": "土",
+    "firstPart": "礻",
+    "secondPart": "土",
+    "structure": "left-right",
+    "ids": "⿰礻土",
+    "shapeNarrative": "现代字形：左部“礻”，右部“土”。完整字形为“社”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "社会",
+      "pinyin": "shèhuì",
+      "korean": "사회"
+    },
+    "wordIds": [
+      "hsk-972",
+      "hsk-1229"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "community",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰礻土"
+    }
+  },
+  {
+    "id": "char-88ab",
+    "hanzi": "被",
+    "pinyin": "bèi",
+    "meaningZh": "被子；被动句的被",
+    "korean": "이불; 피동 표시",
+    "radical": "clothes",
+    "otherPart": "皮",
+    "firstPart": "衤",
+    "secondPart": "皮",
+    "structure": "left-right",
+    "ids": "⿰衤皮",
+    "shapeNarrative": "现代字形：左部“衤”，右部“皮”。完整字形为“被”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "被子",
+      "pinyin": "bèizi",
+      "korean": "이불"
+    },
+    "wordIds": [
+      "hsk-317",
+      "hsk-1234"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "quilt",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰衤皮"
+    }
+  },
+  {
+    "id": "char-88d9",
+    "hanzi": "裙",
+    "pinyin": "qún",
+    "meaningZh": "裙子",
+    "korean": "치마",
+    "radical": "clothes",
+    "otherPart": "君",
+    "firstPart": "衤",
+    "secondPart": "君",
+    "structure": "left-right",
+    "ids": "⿰衤君",
+    "shapeNarrative": "现代字形：左部“衤”，右部“君”。完整字形为“裙”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "裙子",
+      "pinyin": "qúnzi",
+      "korean": "치마"
+    },
+    "wordIds": [
+      "hsk-492"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "skirt",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰衤君"
+    }
+  },
+  {
+    "id": "char-88e4",
+    "hanzi": "裤",
+    "pinyin": "kù",
+    "meaningZh": "裤子",
+    "korean": "바지",
+    "radical": "clothes",
+    "otherPart": "库",
+    "firstPart": "衤",
+    "secondPart": "库",
+    "structure": "left-right",
+    "ids": "⿰衤库",
+    "shapeNarrative": "现代字形：左部“衤”，右部“库”。完整字形为“裤”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "裤子",
+      "pinyin": "kùzi",
+      "korean": "바지"
+    },
+    "wordIds": [
+      "hsk-445",
+      "hsk-1884"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "trousers",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰衤库"
+    }
+  },
+  {
+    "id": "char-521d",
+    "hanzi": "初",
+    "pinyin": "chū",
+    "meaningZh": "最早；开始的",
+    "korean": "처음",
+    "radical": "clothes",
+    "otherPart": "刀",
+    "firstPart": "衤",
+    "secondPart": "刀",
+    "structure": "left-right",
+    "ids": "⿰衤刀",
+    "shapeNarrative": "现代字形：左部“衤”，右部“刀”。完整字形为“初”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "初级",
+      "pinyin": "chūjí",
+      "korean": "초급의"
+    },
+    "wordIds": [
+      "hsk-1346",
+      "hsk-2495"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "first",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰衤刀"
+    }
+  },
+  {
+    "id": "char-8def",
+    "hanzi": "路",
+    "pinyin": "lù",
+    "meaningZh": "道路",
+    "korean": "길",
+    "radical": "foot",
+    "otherPart": "各",
+    "firstPart": "足",
+    "secondPart": "各",
+    "structure": "left-right",
+    "ids": "⿰足各",
+    "shapeNarrative": "现代字形：左部“足”，右部“各”。完整字形为“路”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "高速公路",
+      "pinyin": "gāosùgōnglù",
+      "korean": "고속도로"
+    },
+    "wordIds": [
+      "hsk-215",
+      "hsk-739",
+      "hsk-905"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "road",
+    "source": {
+      "id": "makemeahanzi",
+      "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+      "verifiedIds": "⿰足各"
+    }
+  },
+  {
+    "id": "char-8dd1",
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "meaningZh": "跑步",
+    "korean": "달리다",
+    "radical": "foot",
+    "otherPart": "包",
+    "firstPart": "足",
+    "secondPart": "包",
+    "structure": "left-right",
+    "ids": "⿰足包",
+    "shapeNarrative": "现代字形：左部“足”，右部“包”。完整字形为“跑”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "跑步",
+      "pinyin": "pǎobù",
+      "korean": "달리다, 조깅하다"
+    },
+    "wordIds": [
+      "hsk-229"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "run",
+    "source": {
+      "id": "makemeahanzi",
+      "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+      "verifiedIds": "⿰足包"
+    }
+  },
+  {
+    "id": "char-8df3",
+    "hanzi": "跳",
+    "pinyin": "tiào",
+    "meaningZh": "向上或向前跃起",
+    "korean": "뛰다",
+    "radical": "foot",
+    "otherPart": "兆",
+    "firstPart": "足",
+    "secondPart": "兆",
+    "structure": "left-right",
+    "ids": "⿰足兆",
+    "shapeNarrative": "现代字形：左部“足”，右部“兆”。完整字形为“跳”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "跳舞",
+      "pinyin": "tiàowǔ",
+      "korean": "춤을 추다"
+    },
+    "wordIds": [
+      "hsk-254"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "jump",
+    "source": {
+      "id": "makemeahanzi",
+      "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+      "verifiedIds": "⿰足兆"
+    }
+  },
+  {
+    "id": "char-8e22",
+    "hanzi": "踢",
+    "pinyin": "tī",
+    "meaningZh": "用脚使劲触物",
+    "korean": "차다",
+    "radical": "foot",
+    "otherPart": "易",
+    "firstPart": "足",
+    "secondPart": "易",
+    "structure": "left-right",
+    "ids": "⿰足易",
+    "shapeNarrative": "现代字形：左部“足”，右部“易”。完整字形为“踢”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "踢足球",
+      "pinyin": "tī zúqiú",
+      "korean": "축구하다"
+    },
+    "wordIds": [
+      "hsk-252"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "kick",
+    "source": {
+      "id": "makemeahanzi",
+      "url": "https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/dictionary.txt",
+      "verifiedIds": "⿰足易"
+    }
+  },
+  {
+    "id": "char-7406",
+    "hanzi": "理",
+    "pinyin": "lǐ",
+    "meaningZh": "道理；管理",
+    "korean": "이치; 다스리다",
+    "radical": "jade",
+    "otherPart": "里",
+    "firstPart": "王",
+    "secondPart": "里",
+    "structure": "left-right",
+    "ids": "⿰王里",
+    "shapeNarrative": "现代字形：左部“王”，右部“里”。完整字形为“理”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "经理",
+      "pinyin": "jīnglǐ",
+      "korean": "매니저, 관리자"
+    },
+    "wordIds": [
+      "hsk-433",
+      "hsk-755",
+      "hsk-880",
+      "hsk-881",
+      "hsk-882",
+      "hsk-1089",
+      "hsk-1158",
+      "hsk-1214",
+      "hsk-1349",
+      "hsk-1408",
+      "hsk-1416",
+      "hsk-1593",
+      "hsk-1789",
+      "hsk-1790",
+      "hsk-2208",
+      "hsk-2257",
+      "hsk-2486"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "organize",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰王里"
+    }
+  },
+  {
+    "id": "char-73a9",
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "meaningZh": "游戏；玩耍",
+    "korean": "놀다",
+    "radical": "jade",
+    "otherPart": "元",
+    "firstPart": "王",
+    "secondPart": "元",
+    "structure": "left-right",
+    "ids": "⿰王元",
+    "shapeNarrative": "现代字形：左部“王”，右部“元”。完整字形为“玩”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "开玩笑",
+      "pinyin": "kāi wánxiào",
+      "korean": "농담하다"
+    },
+    "wordIds": [
+      "hsk-257",
+      "hsk-847",
+      "hsk-2167"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "play",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰王元"
+    }
+  },
+  {
+    "id": "char-7403",
+    "hanzi": "球",
+    "pinyin": "qiú",
+    "meaningZh": "球体；球类运动用具",
+    "korean": "공",
+    "radical": "jade",
+    "otherPart": "求",
+    "firstPart": "王",
+    "secondPart": "求",
+    "structure": "left-right",
+    "ids": "⿰王求",
+    "shapeNarrative": "现代字形：左部“王”，右部“求”。完整字形为“球”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "打篮球",
+      "pinyin": "dǎlánqiú",
+      "korean": "농구하다"
+    },
+    "wordIds": [
+      "hsk-167",
+      "hsk-252",
+      "hsk-691",
+      "hsk-931",
+      "hsk-1048",
+      "hsk-1137",
+      "hsk-1961"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "ball",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰王求"
+    }
+  },
+  {
+    "id": "char-73b0",
+    "hanzi": "现",
+    "pinyin": "xiàn",
+    "meaningZh": "出现；现在的现",
+    "korean": "나타나다; 현재",
+    "radical": "jade",
+    "otherPart": "见",
+    "firstPart": "王",
+    "secondPart": "见",
+    "structure": "left-right",
+    "ids": "⿰王见",
+    "shapeNarrative": "现代字形：左部“王”，右部“见”。完整字形为“现”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "korean": "지금, 현재"
+    },
+    "wordIds": [
+      "hsk-120",
+      "hsk-367",
+      "hsk-655",
+      "hsk-1064",
+      "hsk-1254",
+      "hsk-2055",
+      "hsk-2134",
+      "hsk-2226",
+      "hsk-2227",
+      "hsk-2228"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "appear",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰王见"
+    }
+  },
+  {
+    "id": "char-86c7",
+    "hanzi": "蛇",
+    "pinyin": "shé",
+    "meaningZh": "一种无足的爬行动物",
+    "korean": "뱀",
+    "radical": "insect",
+    "otherPart": "它",
+    "firstPart": "虫",
+    "secondPart": "它",
+    "structure": "left-right",
+    "ids": "⿰虫它",
+    "shapeNarrative": "现代字形：左部“虫”，右部“它”。完整字形为“蛇”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "蛇",
+      "pinyin": "shé",
+      "korean": "뱀"
+    },
+    "wordIds": [
+      "hsk-2018"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "snake",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰虫它"
+    }
+  },
+  {
+    "id": "char-8774",
+    "hanzi": "蝴",
+    "pinyin": "hú",
+    "meaningZh": "蝴蝶中的蝴",
+    "korean": "나비(蝴蝶의 일부)",
+    "radical": "insect",
+    "otherPart": "胡",
+    "firstPart": "虫",
+    "secondPart": "胡",
+    "structure": "left-right",
+    "ids": "⿰虫胡",
+    "shapeNarrative": "现代字形：左部“虫”，右部“胡”。完整字形为“蝴”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "蝴蝶",
+      "pinyin": "húdié",
+      "korean": "나비"
+    },
+    "wordIds": [
+      "hsk-1611"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "butterfly",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰虫胡"
+    }
+  },
+  {
+    "id": "char-8681",
+    "hanzi": "蚁",
+    "pinyin": "yǐ",
+    "meaningZh": "蚂蚁中的蚁",
+    "korean": "개미",
+    "radical": "insect",
+    "otherPart": "义",
+    "firstPart": "虫",
+    "secondPart": "义",
+    "structure": "left-right",
+    "ids": "⿰虫义",
+    "shapeNarrative": "现代字形：左部“虫”，右部“义”。完整字形为“蚁”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "蚂蚁",
+      "pinyin": "mǎyǐ",
+      "korean": "개미"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "ant",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰虫义"
+    }
+  },
+  {
+    "id": "char-868a",
+    "hanzi": "蚊",
+    "pinyin": "wén",
+    "meaningZh": "蚊子；一种昆虫",
+    "korean": "모기",
+    "radical": "insect",
+    "otherPart": "文",
+    "firstPart": "虫",
+    "secondPart": "文",
+    "structure": "left-right",
+    "ids": "⿰虫文",
+    "shapeNarrative": "现代字形：左部“虫”，右部“文”。完整字形为“蚊”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "蚊子",
+      "pinyin": "wénzi",
+      "korean": "모기"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "mosquito",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰虫文"
+    }
+  },
+  {
+    "id": "char-8f6c",
+    "hanzi": "转",
+    "pinyin": "zhuǎn",
+    "meaningZh": "改变方向；转动",
+    "korean": "돌다; 바꾸다",
+    "radical": "vehicle",
+    "otherPart": "专",
+    "firstPart": "车",
+    "secondPart": "专",
+    "structure": "left-right",
+    "ids": "⿰车专",
+    "shapeNarrative": "现代字形：左部“车”，右部“专”。完整字形为“转”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "转变",
+      "pinyin": "zhuǎnbiàn",
+      "korean": "전환하다; 전환"
+    },
+    "wordIds": [
+      "hsk-1185",
+      "hsk-2457",
+      "hsk-2458"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "turn",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰车专"
+    }
+  },
+  {
+    "id": "char-8f6e",
+    "hanzi": "轮",
+    "pinyin": "lún",
+    "meaningZh": "轮子",
+    "korean": "바퀴; 차례",
+    "radical": "vehicle",
+    "otherPart": "仑",
+    "firstPart": "车",
+    "secondPart": "仑",
+    "structure": "left-right",
+    "ids": "⿰车仑",
+    "shapeNarrative": "现代字形：左部“车”，右部“仑”。完整字形为“轮”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "轮流",
+      "pinyin": "lúnliú",
+      "korean": "차례로 하다, 교대로 하다"
+    },
+    "wordIds": [
+      "hsk-1823"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "wheel",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰车仑"
+    }
+  },
+  {
+    "id": "char-8f86",
+    "hanzi": "辆",
+    "pinyin": "liàng",
+    "meaningZh": "车辆的量词",
+    "korean": "차량 대수 단위",
+    "radical": "vehicle",
+    "otherPart": "两",
+    "firstPart": "车",
+    "secondPart": "两",
+    "structure": "left-right",
+    "ids": "⿰车两",
+    "shapeNarrative": "现代字形：左部“车”，右部“两”。完整字形为“辆”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "korean": "(차량을 세는 양사) 대"
+    },
+    "wordIds": [
+      "hsk-454"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "vehicle",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰车两"
+    }
+  },
+  {
+    "id": "char-8f6f",
+    "hanzi": "软",
+    "pinyin": "ruǎn",
+    "meaningZh": "不硬；柔软",
+    "korean": "부드럽다; 약하다",
+    "radical": "vehicle",
+    "otherPart": "欠",
+    "firstPart": "车",
+    "secondPart": "欠",
+    "structure": "left-right",
+    "ids": "⿰车欠",
+    "shapeNarrative": "现代字形：左部“车”，右部“欠”。完整字形为“软”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "软件",
+      "pinyin": "ruǎnjiàn",
+      "korean": "소프트웨어"
+    },
+    "wordIds": [
+      "hsk-1997",
+      "hsk-1998"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "soft",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰车欠"
+    }
+  },
+  {
+    "id": "char-7834",
+    "hanzi": "破",
+    "pinyin": "pò",
+    "meaningZh": "破损；使损坏",
+    "korean": "깨지다; 깨뜨리다",
+    "radical": "stone",
+    "otherPart": "皮",
+    "firstPart": "石",
+    "secondPart": "皮",
+    "structure": "left-right",
+    "ids": "⿰石皮",
+    "shapeNarrative": "现代字形：左部“石”，右部“皮”。完整字形为“破”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "破产",
+      "pinyin": "pòchǎn",
+      "korean": "파산하다"
+    },
+    "wordIds": [
+      "hsk-933",
+      "hsk-1923",
+      "hsk-1924"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "broken-stone",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰石皮"
+    }
+  },
+  {
+    "id": "char-786c",
+    "hanzi": "硬",
+    "pinyin": "yìng",
+    "meaningZh": "坚硬；不软",
+    "korean": "딱딱하다; 억지로",
+    "radical": "stone",
+    "otherPart": "更",
+    "firstPart": "石",
+    "secondPart": "更",
+    "structure": "left-right",
+    "ids": "⿰石更",
+    "shapeNarrative": "现代字形：左部“石”，右部“更”。完整字形为“硬”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "硬件",
+      "pinyin": "yìngjiàn",
+      "korean": "하드웨어"
+    },
+    "wordIds": [
+      "hsk-2335",
+      "hsk-2336"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "hard",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰石更"
+    }
+  },
+  {
+    "id": "char-77ff",
+    "hanzi": "矿",
+    "pinyin": "kuàng",
+    "meaningZh": "矿物；矿藏",
+    "korean": "광물; 광산",
+    "radical": "stone",
+    "otherPart": "广",
+    "firstPart": "石",
+    "secondPart": "广",
+    "structure": "left-right",
+    "ids": "⿰石广",
+    "shapeNarrative": "现代字形：左部“石”，右部“广”。完整字形为“矿”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "矿泉水",
+      "pinyin": "kuàngquánshuǐ",
+      "korean": "생수"
+    },
+    "wordIds": [
+      "hsk-864"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "mineral",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰石广"
+    }
+  },
+  {
+    "id": "char-7801",
+    "hanzi": "码",
+    "pinyin": "mǎ",
+    "meaningZh": "号码；代码",
+    "korean": "번호; 부호",
+    "radical": "stone",
+    "otherPart": "马",
+    "firstPart": "石",
+    "secondPart": "马",
+    "structure": "left-right",
+    "ids": "⿰石马",
+    "shapeNarrative": "现代字形：左部“石”，右部“马”。完整字形为“码”。部件的历史作用请结合下方构形说明。",
+    "example": {
+      "hanzi": "号码",
+      "pinyin": "hàomǎ",
+      "korean": "번호"
+    },
+    "wordIds": [
+      "hsk-772",
+      "hsk-906",
+      "hsk-2088"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "code",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰石马"
+    }
+  },
+  {
+    "id": "char-6c57",
+    "hanzi": "汗",
+    "pinyin": "hàn",
+    "meaningZh": "汗液；身体排出的汗水",
+    "korean": "땀",
+    "radical": "water",
+    "otherPart": "干",
+    "firstPart": "氵",
+    "secondPart": "干",
+    "structure": "left-right",
+    "ids": "⿰氵干",
+    "shapeNarrative": "现代字形：左部“氵”，右部“干”。完整字形为“汗”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "汗",
+      "pinyin": "hàn",
+      "korean": "땀"
+    },
+    "wordIds": [
+      "hsk-768"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "sweat",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵干"
+    }
+  },
+  {
+    "id": "char-6d41",
+    "hanzi": "流",
+    "pinyin": "liú",
+    "meaningZh": "液体流动；流淌",
+    "korean": "흐르다",
+    "radical": "water",
+    "otherPart": "㐬",
+    "firstPart": "氵",
+    "secondPart": "㐬",
+    "structure": "left-right",
+    "ids": "⿰氵㐬",
+    "shapeNarrative": "现代字形：左部“氵”，右部“㐬”。完整字形为“流”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "流动",
+      "pinyin": "liúdòng",
+      "korean": "흐르다, 유동하다"
+    },
+    "wordIds": [
+      "hsk-813",
+      "hsk-893",
+      "hsk-894",
+      "hsk-1815",
+      "hsk-1816",
+      "hsk-1823"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "flow",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵㐬"
+    }
+  },
+  {
+    "id": "char-6c60",
+    "hanzi": "池",
+    "pinyin": "chí",
+    "meaningZh": "池塘；蓄水的地方",
+    "korean": "연못; 못",
+    "radical": "water",
+    "otherPart": "也",
+    "firstPart": "氵",
+    "secondPart": "也",
+    "structure": "left-right",
+    "ids": "⿰氵也",
+    "shapeNarrative": "现代字形：左部“氵”，右部“也”。完整字形为“池”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "池塘",
+      "pinyin": "chítáng",
+      "korean": "연못"
+    },
+    "wordIds": [
+      "hsk-1326",
+      "hsk-1423"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "pond",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵也"
+    }
+  },
+  {
+    "id": "char-6ce5",
+    "hanzi": "泥",
+    "pinyin": "ní",
+    "meaningZh": "含水的土；泥土",
+    "korean": "진흙",
+    "radical": "water",
+    "otherPart": "尼",
+    "firstPart": "氵",
+    "secondPart": "尼",
+    "structure": "left-right",
+    "ids": "⿰氵尼",
+    "shapeNarrative": "现代字形：左部“氵”，右部“尼”。完整字形为“泥”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "泥",
+      "pinyin": "ní",
+      "korean": "진흙"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "mud",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰氵尼"
+    }
+  },
+  {
+    "id": "char-5439",
+    "hanzi": "吹",
+    "pinyin": "chuī",
+    "meaningZh": "合拢嘴唇用力呼出气体",
+    "korean": "불다",
+    "radical": "mouth",
+    "otherPart": "欠",
+    "firstPart": "口",
+    "secondPart": "欠",
+    "structure": "left-right",
+    "ids": "⿰口欠",
+    "shapeNarrative": "现代字形：左部“口”，右部“欠”。完整字形为“吹”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "吹",
+      "pinyin": "chuī",
+      "korean": "불다"
+    },
+    "wordIds": [
+      "hsk-1357"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "blow",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口欠"
+    }
+  },
+  {
+    "id": "char-54b3",
+    "hanzi": "咳",
+    "pinyin": "ké",
+    "meaningZh": "咳嗽",
+    "korean": "기침하다",
+    "radical": "mouth",
+    "otherPart": "亥",
+    "firstPart": "口",
+    "secondPart": "亥",
+    "structure": "left-right",
+    "ids": "⿰口亥",
+    "shapeNarrative": "现代字形：左部“口”，右部“亥”。完整字形为“咳”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "咳嗽",
+      "pinyin": "késou",
+      "korean": "기침하다"
+    },
+    "wordIds": [
+      "hsk-854"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "cough",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰口亥"
+    }
+  },
+  {
+    "id": "char-6843",
+    "hanzi": "桃",
+    "pinyin": "táo",
+    "meaningZh": "桃树；桃子",
+    "korean": "복숭아; 복숭아나무",
+    "radical": "wood",
+    "otherPart": "兆",
+    "firstPart": "木",
+    "secondPart": "兆",
+    "structure": "left-right",
+    "ids": "⿰木兆",
+    "shapeNarrative": "现代字形：左部“木”，右部“兆”。完整字形为“桃”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "桃",
+      "pinyin": "táo",
+      "korean": "복숭아"
+    },
+    "wordIds": [
+      "hsk-2120"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "peach",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木兆"
+    }
+  },
+  {
+    "id": "char-67f3",
+    "hanzi": "柳",
+    "pinyin": "liǔ",
+    "meaningZh": "柳树",
+    "korean": "버드나무",
+    "radical": "wood",
+    "otherPart": "卯",
+    "firstPart": "木",
+    "secondPart": "卯",
+    "structure": "left-right",
+    "ids": "⿰木卯",
+    "shapeNarrative": "现代字形：左部“木”，右部“卯”。完整字形为“柳”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "柳树",
+      "pinyin": "liǔshù",
+      "korean": "버드나무"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "willow",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰木卯"
+    }
+  },
+  {
+    "id": "char-5761",
+    "hanzi": "坡",
+    "pinyin": "pō",
+    "meaningZh": "倾斜的地面；山坡",
+    "korean": "비탈; 경사지다",
+    "radical": "earth",
+    "otherPart": "皮",
+    "firstPart": "土",
+    "secondPart": "皮",
+    "structure": "left-right",
+    "ids": "⿰土皮",
+    "shapeNarrative": "现代字形：左部“土”，右部“皮”。完整字形为“坡”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "山坡",
+      "pinyin": "shānpō",
+      "korean": "산비탈"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "slope",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰土皮"
+    }
+  },
+  {
+    "id": "char-5854",
+    "hanzi": "塔",
+    "pinyin": "tǎ",
+    "meaningZh": "高而分层的建筑物；佛塔",
+    "korean": "탑",
+    "radical": "earth",
+    "otherPart": "荅",
+    "firstPart": "土",
+    "secondPart": "荅",
+    "structure": "left-right",
+    "ids": "⿰土荅",
+    "shapeNarrative": "现代字形：左部“土”，右部“荅”。完整字形为“塔”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "塔",
+      "pinyin": "tǎ",
+      "korean": "탑"
+    },
+    "wordIds": [],
+    "scope": "extension",
+    "inHskVocabulary": false,
+    "sceneKey": "tower",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰土荅"
+    }
+  },
+  {
+    "id": "char-94c3",
+    "hanzi": "铃",
+    "pinyin": "líng",
+    "meaningZh": "摇动时发声的小型金属器具",
+    "korean": "방울; 종",
+    "radical": "metal",
+    "otherPart": "令",
+    "firstPart": "钅",
+    "secondPart": "令",
+    "structure": "left-right",
+    "ids": "⿰钅令",
+    "shapeNarrative": "现代字形：左部“钅”，右部“令”。完整字形为“铃”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "铃",
+      "pinyin": "líng",
+      "korean": "방울, 종"
+    },
+    "wordIds": [
+      "hsk-1809"
+    ],
+    "scope": "hsk",
+    "inHskVocabulary": true,
+    "sceneKey": "bell",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰钅令"
+    }
+  },
+  {
+    "id": "char-996e",
+    "hanzi": "饮",
+    "pinyin": "yǐn",
+    "meaningZh": "喝；饮用",
+    "korean": "마시다",
+    "radical": "food",
+    "otherPart": "欠",
+    "firstPart": "饣",
+    "secondPart": "欠",
+    "structure": "left-right",
+    "ids": "⿰饣欠",
+    "shapeNarrative": "现代字形：左部“饣”，右部“欠”。完整字形为“饮”。历史作用见下方来源说明，照片只表示本卡的现代常用义。",
+    "example": {
+      "hanzi": "饮料",
+      "pinyin": "yǐnliào",
+      "korean": "음료"
+    },
+    "wordIds": [
+      "hsk-566"
+    ],
+    "scope": "extension",
+    "inHskVocabulary": true,
+    "sceneKey": "drink",
+    "source": {
+      "id": "cjkvi-ids",
+      "url": "https://github.com/cjkvi/cjkvi-ids/blob/86b4d16159f0079437870408f0ca186e529015db/ids.txt",
+      "verifiedIds": "⿰饣欠"
+    }
+  }
+]

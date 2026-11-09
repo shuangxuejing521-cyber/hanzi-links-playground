@@ -1,0 +1,262 @@
+[
+  {
+    "id": "water",
+    "form": "氵",
+    "name": "三点水",
+    "korean": "삼수변 · 물",
+    "meaningHint": "水滴、河流、液体：先看三点水，再联系清水、海水或油等具体画面。",
+    "contrast": "氵有三笔，冫有两笔；油是液体，但不是水。",
+    "sceneKey": "water",
+    "color": "#4b9ac5"
+  },
+  {
+    "id": "person",
+    "form": "亻",
+    "name": "单人旁",
+    "korean": "사람인변 · 사람",
+    "meaningHint": "人、人的动作与关系：把站立的人和休息、居住等场景联系起来。",
+    "contrast": "亻为两笔；忄为三笔，中间一竖。",
+    "sceneKey": "person",
+    "color": "#d59a61"
+  },
+  {
+    "id": "hand",
+    "form": "扌",
+    "name": "提手旁",
+    "korean": "재방변 · 손",
+    "meaningHint": "手部动作：拉、推、抱等动作可以亲手做一遍。",
+    "contrast": "扌右边有一提；才和扌不是同一个部件。",
+    "sceneKey": "hand",
+    "color": "#dc9b50"
+  },
+  {
+    "id": "mouth",
+    "form": "口",
+    "name": "口字旁",
+    "korean": "입구변 · 입",
+    "meaningHint": "嘴巴、说话和发声：联系吃、喝、唱的动作。",
+    "contrast": "口通常较小；囗是包围其他部件的大框。",
+    "sceneKey": "mouth",
+    "color": "#df8c79"
+  },
+  {
+    "id": "wood",
+    "form": "木",
+    "name": "木字旁",
+    "korean": "나무목변 · 나무",
+    "meaningHint": "树木、木材与物品：树、木板、杯子的材料可形成一组联想。",
+    "contrast": "木中间一竖穿过横画；禾上面多一撇。",
+    "sceneKey": "tree",
+    "color": "#7c9a63"
+  },
+  {
+    "id": "speech",
+    "form": "讠",
+    "name": "言字旁",
+    "korean": "말씀언변 · 말",
+    "meaningHint": "语言和交流：请、说、读、讲常可联系说话或文字。",
+    "contrast": "讠两笔；冫两笔但第二笔方向和结构不同。",
+    "sceneKey": "speech",
+    "color": "#9b8ac8"
+  },
+  {
+    "id": "heart",
+    "form": "忄",
+    "name": "竖心旁",
+    "korean": "심방변 · 마음",
+    "meaningHint": "心理、感受与状态：用怕、忙、情的表情帮助记忆。",
+    "contrast": "忄中间一竖，两旁是点；不要看成亻。",
+    "sceneKey": "feeling",
+    "color": "#c7829b"
+  },
+  {
+    "id": "woman",
+    "form": "女",
+    "name": "女字旁",
+    "korean": "계집녀변 · 여자",
+    "meaningHint": "女字部件：联系妈妈、姐妹等人物；并非所有带女的字都表示女性。",
+    "contrast": "女作左部时形体收窄；不要把右边子认成了。",
+    "sceneKey": "mother",
+    "color": "#d791a8"
+  },
+  {
+    "id": "thread",
+    "form": "纟",
+    "name": "绞丝旁",
+    "korean": "실사변 · 실",
+    "meaningHint": "把线、织物、打结的实物与红绿颜色、联系、连续等词串起来；这些是记忆联想。",
+    "contrast": "简体纟对应繁体糹/糸相关形体；纟不是氵。",
+    "sceneKey": "thread",
+    "color": "#a78bc2"
+  },
+  {
+    "id": "sun",
+    "form": "日",
+    "name": "日字旁",
+    "korean": "날일변 · 해",
+    "meaningHint": "太阳、光线和时间：晴天、早晚、昨天等可放在一天的画面中。",
+    "contrast": "日里面一横；目里面两横。",
+    "sceneKey": "sun",
+    "color": "#e2af55"
+  },
+  {
+    "id": "eye",
+    "form": "目",
+    "name": "目字旁",
+    "korean": "눈목변 · 눈",
+    "meaningHint": "眼睛与视觉：看眼睛的形状，联想眼、睛、睡。",
+    "contrast": "目里两横，比日多一横。",
+    "sceneKey": "eye",
+    "color": "#81a8b9"
+  },
+  {
+    "id": "body",
+    "form": "月",
+    "name": "月字旁（肉）",
+    "korean": "육달월변 · 몸",
+    "meaningHint": "这组月形左部通常与身体部位或身体状态相关，如脸、腿、胖。",
+    "contrast": "这里按现代月形部件归类；它与表示月亮的月同形，字义要逐字辨认。",
+    "sceneKey": "body",
+    "color": "#c99c8a"
+  },
+  {
+    "id": "earth",
+    "form": "土",
+    "name": "提土旁",
+    "korean": "흙토변 · 흙",
+    "meaningHint": "土地、城市、地块：联系脚下的土地；坏等字的现代字义须单独学。",
+    "contrast": "土上横短、下横长；士上横长、下横短。",
+    "sceneKey": "earth",
+    "color": "#b99c77"
+  },
+  {
+    "id": "metal",
+    "form": "钅",
+    "name": "金字旁",
+    "korean": "쇠금변 · 금속",
+    "meaningHint": "金属与金属制品：钱、铁、针等可放进工具盒联想。",
+    "contrast": "钅来自金的偏旁写法；与饣的笔画不同。",
+    "sceneKey": "metal",
+    "color": "#98a8ad"
+  },
+  {
+    "id": "food",
+    "form": "饣",
+    "name": "食字旁",
+    "korean": "밥식변 · 음식",
+    "meaningHint": "食物与进食状态：饭、饼、饺和饿、饱。",
+    "contrast": "饣三笔；不要和钅或讠混淆。",
+    "sceneKey": "food",
+    "color": "#d5a171"
+  },
+  {
+    "id": "animal",
+    "form": "犭",
+    "name": "反犬旁",
+    "korean": "개사슴록변 · 동물",
+    "meaningHint": "猫、狗、猪等动物；猜的现代字义另记。",
+    "contrast": "犭右侧弯钩是主要轮廓；扌的横和提不同。",
+    "sceneKey": "animal",
+    "color": "#c6a57f"
+  },
+  {
+    "id": "ice",
+    "form": "冫",
+    "name": "两点水",
+    "korean": "이수변 · 얼음",
+    "meaningHint": "冷、冰、冻等状态：联系冰块和低温；净、冲另看各词含义。",
+    "contrast": "冫只有两笔；氵有三笔。",
+    "sceneKey": "ice",
+    "color": "#9cc2d3"
+  },
+  {
+    "id": "fire",
+    "form": "火",
+    "name": "火字旁",
+    "korean": "불화변 · 불",
+    "meaningHint": "火焰、灯火与加热：炒、烧、烤的动作可放在厨房里。",
+    "contrast": "火作左部时捺常变点；灬是另一种常见火部件形态。",
+    "sceneKey": "fire",
+    "color": "#dc9568"
+  },
+  {
+    "id": "rice",
+    "form": "米",
+    "name": "米字旁",
+    "korean": "쌀미변 · 쌀",
+    "meaningHint": "米粒、食物和颗粒画面；精、料等字也有引申义，要联系具体词语。",
+    "contrast": "米有四个斜向笔画；木只有两条主要斜笔。",
+    "sceneKey": "rice",
+    "color": "#c6b47b"
+  },
+  {
+    "id": "ritual",
+    "form": "礻",
+    "name": "示字旁",
+    "korean": "보일시변 · 제사",
+    "meaningHint": "祭礼、祝福与社会中的礼仪场景；字义不能只靠偏旁猜。",
+    "contrast": "礻四笔；衤五笔，右边多一撇。",
+    "sceneKey": "ritual",
+    "color": "#ba91ad"
+  },
+  {
+    "id": "clothes",
+    "form": "衤",
+    "name": "衣字旁",
+    "korean": "옷의변 · 옷",
+    "meaningHint": "衣物、被子和裙裤：联系穿着、布料、裁衣场景。",
+    "contrast": "衤比礻多一撇；二者不能互换。",
+    "sceneKey": "clothes",
+    "color": "#a28fb8"
+  },
+  {
+    "id": "foot",
+    "form": "足",
+    "name": "足字旁",
+    "korean": "발족변 · 발",
+    "meaningHint": "脚、道路和脚部动作：走路、跑、跳、踢。",
+    "contrast": "足作左部时下部收窄；不要看成口加止的随意拼法。",
+    "sceneKey": "foot",
+    "color": "#8fa977"
+  },
+  {
+    "id": "jade",
+    "form": "王",
+    "name": "王字旁（玉）",
+    "korean": "구슬옥변 · 옥",
+    "meaningHint": "王形左部常用于玉石、珠宝等字；玩、现等现代含义另记。",
+    "contrast": "这里是玉字旁的王形写法；与土的横画数不同。",
+    "sceneKey": "jade",
+    "color": "#8eb7a5"
+  },
+  {
+    "id": "insect",
+    "form": "虫",
+    "name": "虫字旁",
+    "korean": "벌레충변 · 벌레",
+    "meaningHint": "昆虫与一些动物名称：蚂蚁、蚊子、蛇等一起辨认。",
+    "contrast": "虫下部有提和点；不要看成中。",
+    "sceneKey": "insect",
+    "color": "#a2af72"
+  },
+  {
+    "id": "vehicle",
+    "form": "车",
+    "name": "车字旁",
+    "korean": "수레거변 · 수레",
+    "meaningHint": "车辆与移动：车轮、车辆、转弯与软硬等词一起记。",
+    "contrast": "车是简体部件；不要把中间一竖省掉。",
+    "sceneKey": "vehicle",
+    "color": "#9ca8bd"
+  },
+  {
+    "id": "stone",
+    "form": "石",
+    "name": "石字旁",
+    "korean": "돌석변 · 돌",
+    "meaningHint": "石头、矿物、坚硬和破碎：联系岩石、工具和石块。",
+    "contrast": "石由上部横撇与口形组成；与右不同。",
+    "sceneKey": "stone",
+    "color": "#a5a19c"
+  }
+]

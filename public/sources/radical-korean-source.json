@@ -1,0 +1,158 @@
+{
+  "checked": "2026-11-06",
+  "coverage": {
+    "dictionaryGroups": 206,
+    "koreanNames": 206,
+    "koreanMeanings": 206
+  },
+  "scope": "Korean names and concise editorial meaning clues for the 206 canonical radical-number groups used by this site. Traditional names and shape names are not all standalone-character readings.",
+  "sources": [
+    {
+      "title": "국립국어원 2016-01-32 · 점자 활용 규격 표준화 및 사용자별 교육 과정 개발: 유니코드 표준을 고려한 점자·점형 체계 표준화 연구",
+      "url": "https://www.korean.go.kr/common/download.do?c_file_name=e9fe80f1-5305-4873-b6a2-b34c01017a1b_2.pdf&file_path=reportData&o_file_name=%EC%A0%90%EC%9E%90%20%ED%99%9C%EC%9A%A9%20%EA%B7%9C%EA%B2%A9%20%ED%91%9C%EC%A4%80%ED%99%94%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9%EC%9E%90%EB%B3%84%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%20%EA%B0%9C%EB%B0%9C_%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C%20%ED%91%9C%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EC%A0%90%EC%9E%90%C2%B7%EC%A0%90%ED%98%95%20%EC%B2%B4%EA%B3%84.pdf",
+      "table": "표 6 · 강희부수",
+      "physicalPdfPages": [
+        69,
+        87
+      ],
+      "printedPages": [
+        59,
+        77
+      ],
+      "sha256": "70ee87cdd24e90749a008419ab4c0429df32ab99e33108fe0854c82b073c9964"
+    },
+    {
+      "title": "이젠교육 고등학교 한문 교사용 자료 · 부록 3. 부수 일람표",
+      "url": "https://ezentextbook.co.kr/upload/teacher/common_data/20250103174635_6777a3ebe38c5.pdf",
+      "physicalPdfPages": [
+        8,
+        9
+      ],
+      "printedPages": [
+        189,
+        190
+      ],
+      "sha256": "39c0f16ad28d2ccaf3cbcd8a816a4fe2c4615bfb6818a86ee6edbeb5c9ca631f"
+    }
+  ],
+  "editorialPolicy": "Names were transcribed from the Korean references, normalized for spacing, and where helpful selected from documented classroom shape-name variants. Meaning fields are short editorial Korean explanations, not an official HSK translation or an automatic rule for semantic/phonetic roles. Facts such as names, readings, and basic lexical meaning clues are retained; the source tables and prose are not reproduced.",
+  "importantDistinctions": {
+    "20": "쌀 포 uses the Korean verb 싸다, to wrap; it does not mean rice 쌀.",
+    "90": "장수장변 is a conventional radical shape-name; the meaning clue 쪼갠 나무 describes the wood-half form rather than translating the name literally.",
+    "129": "오직 율 is a recorded traditional name; 붓 율 is retained as a meaning/reading alias. The meaning clue is 붓.",
+    "58": "튼가로왈 is a conventional shape-name, not a claim that the standalone character is pronounced 왈.",
+    "15": "이수변 is a conventional shape-name; the meaning clue is 얼음.",
+    "163": "邑 is the settlement radical used in right-side 阝; it is not 阜.",
+    "170": "阜 is the hill radical used in left-side 阝; it is not 邑.",
+    "74": "月 uses the moon clue; meat-related forms are classified separately under 肉130."
+  },
+  "nameSelections": {
+    "15": {
+      "reportName": "이 수",
+      "displayName": "이수변"
+    },
+    "17": {
+      "reportName": "위터진입 구",
+      "displayName": "위튼입구몸"
+    },
+    "22": {
+      "reportName": "터진입구 방",
+      "displayName": "튼입구몸"
+    },
+    "27": {
+      "reportName": "기슭 엄",
+      "displayName": "민엄호"
+    },
+    "28": {
+      "reportName": "사사 사",
+      "displayName": "마늘모"
+    },
+    "31": {
+      "reportName": "큰입구 국",
+      "displayName": "큰입구몸"
+    },
+    "53": {
+      "reportName": "엄호 엄",
+      "displayName": "엄호"
+    },
+    "54": {
+      "reportName": "민책받침 인",
+      "displayName": "민책받침"
+    },
+    "55": {
+      "reportName": "밑스물입 공",
+      "displayName": "스물입발"
+    },
+    "58": {
+      "reportName": "터진가로 왈",
+      "displayName": "튼가로왈"
+    },
+    "66": {
+      "reportName": "둥글월 문",
+      "displayName": "칠 복"
+    },
+    "69": {
+      "reportName": "날 근",
+      "displayName": "도끼 근"
+    },
+    "71": {
+      "reportName": "이미기 무",
+      "displayName": "없을 무"
+    },
+    "90": {
+      "reportName": "장수 장",
+      "displayName": "장수장변"
+    },
+    "103": {
+      "reportName": "필 필",
+      "displayName": "짝 필"
+    },
+    "104": {
+      "reportName": "병질안 역",
+      "displayName": "병질엄"
+    },
+    "105": {
+      "reportName": "필발",
+      "displayName": "필발머리"
+    },
+    "138": {
+      "reportName": "머무를 간",
+      "displayName": "괘이름 간"
+    },
+    "165": {
+      "reportName": "분별할 채",
+      "displayName": "분별할 변"
+    },
+    "184": {
+      "reportName": "ㅍ밥 식",
+      "displayName": "밥 식"
+    },
+    "190": {
+      "reportName": "터럭발 표",
+      "displayName": "터럭발"
+    },
+    "213": {
+      "reportName": "거북 귀(구)",
+      "displayName": "거북 귀"
+    }
+  },
+  "dataPath": "/sources/radical-korean.json",
+  "editorialClarifications": {
+    "5": {
+      "meaning": "굽은 획; 둘째 천간",
+      "note": "Keep the conventional name 새 을, but do not mistake the name for the bird radical; use curved stroke and the second heavenly stem as the short learning clue."
+    },
+    "172": {
+      "meaning": "꼬리가 짧은 새",
+      "note": "隹 denotes the short-tailed bird category. Short tail is not the same as a small-sized bird."
+    },
+    "171": {
+      "meaning": "닿다; 붙잡다",
+      "note": "The traditional name 미칠 이 refers to reaching, not the unrelated Korean sense of going mad."
+    },
+    "156": {
+      "meaning": "걷다; 달리다",
+      "note": "Keep the traditional radical name 달아날 주; the short clue also accommodates the modern Chinese verb 走, to walk."
+    }
+  }
+}

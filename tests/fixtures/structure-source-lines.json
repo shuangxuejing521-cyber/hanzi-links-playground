@@ -1,0 +1,734 @@
+{
+  "油": {
+    "cjkviRawLine": "U+6CB9\t油\t⿰氵由",
+    "makeMeAHanziDecomposition": "⿰氵由"
+  },
+  "泳": {
+    "cjkviRawLine": "U+6CF3\t泳\t⿰氵永",
+    "makeMeAHanziDecomposition": "⿰氵永"
+  },
+  "清": {
+    "cjkviRawLine": "U+6E05\t清\t⿰氵青",
+    "makeMeAHanziDecomposition": "⿰氵青"
+  },
+  "河": {
+    "cjkviRawLine": "U+6CB3\t河\t⿰氵可",
+    "makeMeAHanziDecomposition": "⿰氵可"
+  },
+  "海": {
+    "cjkviRawLine": "U+6D77\t海\t⿰氵每[GTKV]\t⿰氵毎[J]",
+    "makeMeAHanziDecomposition": "⿰氵每"
+  },
+  "洋": {
+    "cjkviRawLine": "U+6D0B\t洋\t⿰氵羊",
+    "makeMeAHanziDecomposition": "⿰氵羊"
+  },
+  "洗": {
+    "cjkviRawLine": "U+6D17\t洗\t⿰氵先",
+    "makeMeAHanziDecomposition": "⿰氵先"
+  },
+  "沙": {
+    "cjkviRawLine": "U+6C99\t沙\t⿰氵少",
+    "makeMeAHanziDecomposition": "⿰氵少"
+  },
+  "汉": {
+    "cjkviRawLine": "U+6C49\t汉\t⿰氵又",
+    "makeMeAHanziDecomposition": "⿰氵又"
+  },
+  "酒": {
+    "cjkviRawLine": "U+9152\t酒\t⿰氵酉",
+    "makeMeAHanziDecomposition": "⿰氵酉"
+  },
+  "汽": {
+    "cjkviRawLine": "U+6C7D\t汽\t⿰氵气",
+    "makeMeAHanziDecomposition": "⿰氵气"
+  },
+  "泪": {
+    "cjkviRawLine": "U+6CEA\t泪\t⿰氵目",
+    "makeMeAHanziDecomposition": "⿰氵目"
+  },
+  "湖": {
+    "cjkviRawLine": "U+6E56\t湖\t⿰氵胡",
+    "makeMeAHanziDecomposition": "⿰氵胡"
+  },
+  "波": {
+    "cjkviRawLine": "U+6CE2\t波\t⿰氵皮",
+    "makeMeAHanziDecomposition": "⿰氵皮"
+  },
+  "休": {
+    "cjkviRawLine": "U+4F11\t休\t⿰亻木",
+    "makeMeAHanziDecomposition": "⿰亻木"
+  },
+  "你": {
+    "cjkviRawLine": "U+4F60\t你\t⿰亻尔",
+    "makeMeAHanziDecomposition": "⿰亻尔"
+  },
+  "他": {
+    "cjkviRawLine": "U+4ED6\t他\t⿰亻也",
+    "makeMeAHanziDecomposition": "⿰亻也"
+  },
+  "们": {
+    "cjkviRawLine": "U+4EEC\t们\t⿰亻门",
+    "makeMeAHanziDecomposition": "⿰亻门"
+  },
+  "住": {
+    "cjkviRawLine": "U+4F4F\t住\t⿰亻主",
+    "makeMeAHanziDecomposition": "⿰亻主"
+  },
+  "作": {
+    "cjkviRawLine": "U+4F5C\t作\t⿰亻乍",
+    "makeMeAHanziDecomposition": "⿰亻乍"
+  },
+  "体": {
+    "cjkviRawLine": "U+4F53\t体\t⿰亻本",
+    "makeMeAHanziDecomposition": "⿰亻本"
+  },
+  "信": {
+    "cjkviRawLine": "U+4FE1\t信\t⿰亻言",
+    "makeMeAHanziDecomposition": "⿰亻言"
+  },
+  "借": {
+    "cjkviRawLine": "U+501F\t借\t⿰亻昔",
+    "makeMeAHanziDecomposition": "⿰亻昔"
+  },
+  "位": {
+    "cjkviRawLine": "U+4F4D\t位\t⿰亻立",
+    "makeMeAHanziDecomposition": "⿰亻立"
+  },
+  "但": {
+    "cjkviRawLine": "U+4F46\t但\t⿰亻旦",
+    "makeMeAHanziDecomposition": "⿰亻旦"
+  },
+  "伴": {
+    "cjkviRawLine": "U+4F34\t伴\t⿰亻半",
+    "makeMeAHanziDecomposition": "⿰亻半"
+  },
+  "伙": {
+    "cjkviRawLine": "U+4F19\t伙\t⿰亻火",
+    "makeMeAHanziDecomposition": "⿰亻火"
+  },
+  "打": {
+    "cjkviRawLine": "U+6253\t打\t⿰扌丁",
+    "makeMeAHanziDecomposition": "⿰扌丁"
+  },
+  "把": {
+    "cjkviRawLine": "U+628A\t把\t⿰扌巴",
+    "makeMeAHanziDecomposition": "⿰扌巴"
+  },
+  "拉": {
+    "cjkviRawLine": "U+62C9\t拉\t⿰扌立",
+    "makeMeAHanziDecomposition": "⿰扌立"
+  },
+  "推": {
+    "cjkviRawLine": "U+63A8\t推\t⿰扌隹",
+    "makeMeAHanziDecomposition": "⿰扌隹"
+  },
+  "找": {
+    "cjkviRawLine": "U+627E\t找\t⿰扌戈",
+    "makeMeAHanziDecomposition": "⿰扌戈"
+  },
+  "拍": {
+    "cjkviRawLine": "U+62CD\t拍\t⿰扌白",
+    "makeMeAHanziDecomposition": "⿰扌白"
+  },
+  "抱": {
+    "cjkviRawLine": "U+62B1\t抱\t⿰扌包",
+    "makeMeAHanziDecomposition": "⿰扌包"
+  },
+  "提": {
+    "cjkviRawLine": "U+63D0\t提\t⿰扌是",
+    "makeMeAHanziDecomposition": "⿰扌是"
+  },
+  "吃": {
+    "cjkviRawLine": "U+5403\t吃\t⿰口乞",
+    "makeMeAHanziDecomposition": "⿰口乞"
+  },
+  "喝": {
+    "cjkviRawLine": "U+559D\t喝\t⿰口曷[GTKV]\t⿰口⿱日匂[J]",
+    "makeMeAHanziDecomposition": "⿰口曷"
+  },
+  "吗": {
+    "cjkviRawLine": "U+5417\t吗\t⿰口马",
+    "makeMeAHanziDecomposition": "⿰口马"
+  },
+  "呢": {
+    "cjkviRawLine": "U+5462\t呢\t⿰口尼",
+    "makeMeAHanziDecomposition": "⿰口尼"
+  },
+  "吧": {
+    "cjkviRawLine": "U+5427\t吧\t⿰口巴",
+    "makeMeAHanziDecomposition": "⿰口巴"
+  },
+  "唱": {
+    "cjkviRawLine": "U+5531\t唱\t⿰口昌",
+    "makeMeAHanziDecomposition": "⿰口昌"
+  },
+  "听": {
+    "cjkviRawLine": "U+542C\t听\t⿰口斤",
+    "makeMeAHanziDecomposition": "⿰口斤"
+  },
+  "叫": {
+    "cjkviRawLine": "U+53EB\t叫\t⿰口丩",
+    "makeMeAHanziDecomposition": "⿰口丩"
+  },
+  "林": {
+    "cjkviRawLine": "U+6797\t林\t⿰木木",
+    "makeMeAHanziDecomposition": "⿰木木"
+  },
+  "树": {
+    "cjkviRawLine": "U+6811\t树\t⿰木对",
+    "makeMeAHanziDecomposition": "⿰木对"
+  },
+  "板": {
+    "cjkviRawLine": "U+677F\t板\t⿰木反",
+    "makeMeAHanziDecomposition": "⿰木反"
+  },
+  "松": {
+    "cjkviRawLine": "U+677E\t松\t⿰木公",
+    "makeMeAHanziDecomposition": "⿰木公"
+  },
+  "桥": {
+    "cjkviRawLine": "U+6865\t桥\t⿰木乔",
+    "makeMeAHanziDecomposition": "⿰木乔"
+  },
+  "校": {
+    "cjkviRawLine": "U+6821\t校\t⿰木交",
+    "makeMeAHanziDecomposition": "⿰木交"
+  },
+  "样": {
+    "cjkviRawLine": "U+6837\t样\t⿰木羊",
+    "makeMeAHanziDecomposition": "⿰木羊"
+  },
+  "杯": {
+    "cjkviRawLine": "U+676F\t杯\t⿰木不",
+    "makeMeAHanziDecomposition": "⿰木不"
+  },
+  "机": {
+    "cjkviRawLine": "U+673A\t机\t⿰木几",
+    "makeMeAHanziDecomposition": "⿰木几"
+  },
+  "请": {
+    "cjkviRawLine": "U+8BF7\t请\t⿰讠青",
+    "makeMeAHanziDecomposition": "⿰讠青"
+  },
+  "语": {
+    "cjkviRawLine": "U+8BED\t语\t⿰讠吾",
+    "makeMeAHanziDecomposition": "⿰讠吾"
+  },
+  "话": {
+    "cjkviRawLine": "U+8BDD\t话\t⿰讠舌",
+    "makeMeAHanziDecomposition": "⿰讠舌"
+  },
+  "说": {
+    "cjkviRawLine": "U+8BF4\t说\t⿰讠兑",
+    "makeMeAHanziDecomposition": "⿰讠兑"
+  },
+  "读": {
+    "cjkviRawLine": "U+8BFB\t读\t⿰讠卖",
+    "makeMeAHanziDecomposition": "⿰讠卖"
+  },
+  "认": {
+    "cjkviRawLine": "U+8BA4\t认\t⿰讠人",
+    "makeMeAHanziDecomposition": "⿰讠人"
+  },
+  "讲": {
+    "cjkviRawLine": "U+8BB2\t讲\t⿰讠井",
+    "makeMeAHanziDecomposition": "⿰讠井"
+  },
+  "课": {
+    "cjkviRawLine": "U+8BFE\t课\t⿰讠果",
+    "makeMeAHanziDecomposition": "⿰讠果"
+  },
+  "记": {
+    "cjkviRawLine": "U+8BB0\t记\t⿰讠己",
+    "makeMeAHanziDecomposition": "⿰讠己"
+  },
+  "诗": {
+    "cjkviRawLine": "U+8BD7\t诗\t⿰讠寺",
+    "makeMeAHanziDecomposition": "⿰讠寺"
+  },
+  "情": {
+    "cjkviRawLine": "U+60C5\t情\t⿰忄青[GTJV]\t⿰忄靑[K]",
+    "makeMeAHanziDecomposition": "⿰忄青"
+  },
+  "快": {
+    "cjkviRawLine": "U+5FEB\t快\t⿰忄夬",
+    "makeMeAHanziDecomposition": "⿰忄夬"
+  },
+  "忙": {
+    "cjkviRawLine": "U+5FD9\t忙\t⿰忄亡",
+    "makeMeAHanziDecomposition": "⿰忄亡"
+  },
+  "怕": {
+    "cjkviRawLine": "U+6015\t怕\t⿰忄白",
+    "makeMeAHanziDecomposition": "⿰忄白"
+  },
+  "性": {
+    "cjkviRawLine": "U+6027\t性\t⿰忄生",
+    "makeMeAHanziDecomposition": "⿰忄生"
+  },
+  "怪": {
+    "cjkviRawLine": "U+602A\t怪\t⿰忄圣",
+    "makeMeAHanziDecomposition": "⿰忄圣"
+  },
+  "懂": {
+    "cjkviRawLine": "U+61C2\t懂\t⿰忄董",
+    "makeMeAHanziDecomposition": "⿰忄董"
+  },
+  "慢": {
+    "cjkviRawLine": "U+6162\t慢\t⿰忄曼",
+    "makeMeAHanziDecomposition": "⿰忄曼"
+  },
+  "惊": {
+    "cjkviRawLine": "U+60CA\t惊\t⿰忄京",
+    "makeMeAHanziDecomposition": "⿰忄京"
+  },
+  "好": {
+    "cjkviRawLine": "U+597D\t好\t⿰女子",
+    "makeMeAHanziDecomposition": "⿰女子"
+  },
+  "妈": {
+    "cjkviRawLine": "U+5988\t妈\t⿰女马",
+    "makeMeAHanziDecomposition": "⿰女马"
+  },
+  "她": {
+    "cjkviRawLine": "U+5979\t她\t⿰女也",
+    "makeMeAHanziDecomposition": "⿰女也"
+  },
+  "姐": {
+    "cjkviRawLine": "U+59D0\t姐\t⿰女且",
+    "makeMeAHanziDecomposition": "⿰女且"
+  },
+  "妹": {
+    "cjkviRawLine": "U+59B9\t妹\t⿰女未",
+    "makeMeAHanziDecomposition": "⿰女未"
+  },
+  "如": {
+    "cjkviRawLine": "U+5982\t如\t⿰女口",
+    "makeMeAHanziDecomposition": "⿰女口"
+  },
+  "姓": {
+    "cjkviRawLine": "U+59D3\t姓\t⿰女生",
+    "makeMeAHanziDecomposition": "⿰女生"
+  },
+  "始": {
+    "cjkviRawLine": "U+59CB\t始\t⿰女台",
+    "makeMeAHanziDecomposition": "⿰女台"
+  },
+  "红": {
+    "cjkviRawLine": "U+7EA2\t红\t⿰纟工",
+    "makeMeAHanziDecomposition": "⿰纟工"
+  },
+  "绿": {
+    "cjkviRawLine": "U+7EFF\t绿\t⿰纟录",
+    "makeMeAHanziDecomposition": "⿰纟录"
+  },
+  "级": {
+    "cjkviRawLine": "U+7EA7\t级\t⿰纟及",
+    "makeMeAHanziDecomposition": "⿰纟及"
+  },
+  "结": {
+    "cjkviRawLine": "U+7ED3\t结\t⿰纟吉",
+    "makeMeAHanziDecomposition": "⿰纟吉"
+  },
+  "练": {
+    "cjkviRawLine": "U+7EC3\t练\t⿰纟𫠣",
+    "makeMeAHanziDecomposition": "⿰纟柬"
+  },
+  "组": {
+    "cjkviRawLine": "U+7EC4\t组\t⿰纟且",
+    "makeMeAHanziDecomposition": "⿰纟且"
+  },
+  "经": {
+    "cjkviRawLine": "U+7ECF\t经\t⿰纟𢀖",
+    "makeMeAHanziDecomposition": "⿰纟⿱？工"
+  },
+  "细": {
+    "cjkviRawLine": "U+7EC6\t细\t⿰纟田",
+    "makeMeAHanziDecomposition": "⿰纟田"
+  },
+  "线": {
+    "cjkviRawLine": "U+7EBF\t线\t⿰纟戋",
+    "makeMeAHanziDecomposition": "⿰纟戋"
+  },
+  "续": {
+    "cjkviRawLine": "U+7EED\t续\t⿰纟卖",
+    "makeMeAHanziDecomposition": "⿰纟卖"
+  },
+  "纪": {
+    "cjkviRawLine": "U+7EAA\t纪\t⿰纟己",
+    "makeMeAHanziDecomposition": "⿰纟己"
+  },
+  "约": {
+    "cjkviRawLine": "U+7EA6\t约\t⿰纟勺",
+    "makeMeAHanziDecomposition": "⿰纟勺"
+  },
+  "织": {
+    "cjkviRawLine": "U+7EC7\t织\t⿰纟只",
+    "makeMeAHanziDecomposition": "⿰纟只"
+  },
+  "给": {
+    "cjkviRawLine": "U+7ED9\t给\t⿰纟合",
+    "makeMeAHanziDecomposition": "⿰纟合"
+  },
+  "绝": {
+    "cjkviRawLine": "U+7EDD\t绝\t⿰纟色",
+    "makeMeAHanziDecomposition": "⿰纟色"
+  },
+  "纸": {
+    "cjkviRawLine": "U+7EB8\t纸\t⿰纟氏",
+    "makeMeAHanziDecomposition": "⿰纟氏"
+  },
+  "晴": {
+    "cjkviRawLine": "U+6674\t晴\t⿰日青[GTJV]\t⿰日靑[K]",
+    "makeMeAHanziDecomposition": "⿰日青"
+  },
+  "时": {
+    "cjkviRawLine": "U+65F6\t时\t⿰日寸",
+    "makeMeAHanziDecomposition": "⿰日寸"
+  },
+  "明": {
+    "cjkviRawLine": "U+660E\t明\t⿰日月",
+    "makeMeAHanziDecomposition": "⿰日月"
+  },
+  "晚": {
+    "cjkviRawLine": "U+665A\t晚\t⿰日免",
+    "makeMeAHanziDecomposition": "⿰日免"
+  },
+  "昨": {
+    "cjkviRawLine": "U+6628\t昨\t⿰日乍",
+    "makeMeAHanziDecomposition": "⿰日乍"
+  },
+  "晒": {
+    "cjkviRawLine": "U+6652\t晒\t⿰日西",
+    "makeMeAHanziDecomposition": "⿰日西"
+  },
+  "睛": {
+    "cjkviRawLine": "U+775B\t睛\t⿰目青[GT]\t⿰目靑[JK]",
+    "makeMeAHanziDecomposition": "⿰目青"
+  },
+  "眼": {
+    "cjkviRawLine": "U+773C\t眼\t⿰目艮",
+    "makeMeAHanziDecomposition": "⿰目艮"
+  },
+  "睡": {
+    "cjkviRawLine": "U+7761\t睡\t⿰目垂",
+    "makeMeAHanziDecomposition": "⿰目垂"
+  },
+  "胖": {
+    "cjkviRawLine": "U+80D6\t胖\t⿰月半[GJK]\t⿰⺼半[TV]",
+    "makeMeAHanziDecomposition": "⿰⺼半"
+  },
+  "肚": {
+    "cjkviRawLine": "U+809A\t肚\t⿰月土[GJK]\t⿰⺼土[T]",
+    "makeMeAHanziDecomposition": "⿰⺼土"
+  },
+  "脸": {
+    "cjkviRawLine": "U+8138\t脸\t⿰月佥",
+    "makeMeAHanziDecomposition": "⿰⺼佥"
+  },
+  "腿": {
+    "cjkviRawLine": "U+817F\t腿\t⿰月退[GJK]\t⿰⺼退[TV]",
+    "makeMeAHanziDecomposition": "⿰⺼退"
+  },
+  "脏": {
+    "cjkviRawLine": "U+810F\t脏\t⿰月庄",
+    "makeMeAHanziDecomposition": "⿰⺼庄"
+  },
+  "地": {
+    "cjkviRawLine": "U+5730\t地\t⿰土也",
+    "makeMeAHanziDecomposition": "⿰土也"
+  },
+  "坏": {
+    "cjkviRawLine": "U+574F\t坏\t⿰土不",
+    "makeMeAHanziDecomposition": "⿰土不"
+  },
+  "城": {
+    "cjkviRawLine": "U+57CE\t城\t⿰土成",
+    "makeMeAHanziDecomposition": "⿰土成"
+  },
+  "块": {
+    "cjkviRawLine": "U+5757\t块\t⿰土夬",
+    "makeMeAHanziDecomposition": "⿰土夬"
+  },
+  "钱": {
+    "cjkviRawLine": "U+94B1\t钱\t⿰钅戋",
+    "makeMeAHanziDecomposition": "⿰钅戋"
+  },
+  "铁": {
+    "cjkviRawLine": "U+94C1\t铁\t⿰钅失",
+    "makeMeAHanziDecomposition": "⿰钅失"
+  },
+  "银": {
+    "cjkviRawLine": "U+94F6\t银\t⿰钅艮",
+    "makeMeAHanziDecomposition": "⿰钅艮"
+  },
+  "镜": {
+    "cjkviRawLine": "U+955C\t镜\t⿰钅竟",
+    "makeMeAHanziDecomposition": "⿰钅竟"
+  },
+  "错": {
+    "cjkviRawLine": "U+9519\t错\t⿰钅昔",
+    "makeMeAHanziDecomposition": "⿰钅昔"
+  },
+  "针": {
+    "cjkviRawLine": "U+9488\t针\t⿰钅十",
+    "makeMeAHanziDecomposition": "⿰钅十"
+  },
+  "饭": {
+    "cjkviRawLine": "U+996D\t饭\t⿰饣反",
+    "makeMeAHanziDecomposition": "⿰饣反"
+  },
+  "饼": {
+    "cjkviRawLine": "U+997C\t饼\t⿰饣并",
+    "makeMeAHanziDecomposition": "⿰饣并"
+  },
+  "饺": {
+    "cjkviRawLine": "U+997A\t饺\t⿰饣交",
+    "makeMeAHanziDecomposition": "⿰饣交"
+  },
+  "馆": {
+    "cjkviRawLine": "U+9986\t馆\t⿰饣官",
+    "makeMeAHanziDecomposition": "⿰饣官"
+  },
+  "饿": {
+    "cjkviRawLine": "U+997F\t饿\t⿰饣我",
+    "makeMeAHanziDecomposition": "⿰饣我"
+  },
+  "饱": {
+    "cjkviRawLine": "U+9971\t饱\t⿰饣包",
+    "makeMeAHanziDecomposition": "⿰饣包"
+  },
+  "猫": {
+    "cjkviRawLine": "U+732B\t猫\t⿰犭苗",
+    "makeMeAHanziDecomposition": "⿰犭苗"
+  },
+  "狗": {
+    "cjkviRawLine": "U+72D7\t狗\t⿰犭句",
+    "makeMeAHanziDecomposition": "⿰犭句"
+  },
+  "猪": {
+    "cjkviRawLine": "U+732A\t猪\t⿰犭者",
+    "makeMeAHanziDecomposition": "⿰犭者"
+  },
+  "猜": {
+    "cjkviRawLine": "U+731C\t猜\t⿰犭青[GT]\t⿰犭靑[JK]",
+    "makeMeAHanziDecomposition": "⿰犭青"
+  },
+  "冰": {
+    "cjkviRawLine": "U+51B0\t冰\t⿰冫水",
+    "makeMeAHanziDecomposition": "⿰冫水"
+  },
+  "冷": {
+    "cjkviRawLine": "U+51B7\t冷\t⿰冫令",
+    "makeMeAHanziDecomposition": "⿰冫令"
+  },
+  "冻": {
+    "cjkviRawLine": "U+51BB\t冻\t⿰冫东",
+    "makeMeAHanziDecomposition": "⿰冫东"
+  },
+  "净": {
+    "cjkviRawLine": "U+51C0\t净\t⿰冫争",
+    "makeMeAHanziDecomposition": "⿰冫争"
+  },
+  "凉": {
+    "cjkviRawLine": "U+51C9\t凉\t⿰冫京",
+    "makeMeAHanziDecomposition": "⿰冫京"
+  },
+  "灯": {
+    "cjkviRawLine": "U+706F\t灯\t⿰火丁",
+    "makeMeAHanziDecomposition": "⿰火丁"
+  },
+  "炒": {
+    "cjkviRawLine": "U+7092\t炒\t⿰火少",
+    "makeMeAHanziDecomposition": "⿰火少"
+  },
+  "烧": {
+    "cjkviRawLine": "U+70E7\t烧\t⿰火尧",
+    "makeMeAHanziDecomposition": "⿰火尧"
+  },
+  "烤": {
+    "cjkviRawLine": "U+70E4\t烤\t⿰火考",
+    "makeMeAHanziDecomposition": "⿰火考"
+  },
+  "烟": {
+    "cjkviRawLine": "U+70DF\t烟\t⿰火因",
+    "makeMeAHanziDecomposition": "⿰火因"
+  },
+  "精": {
+    "cjkviRawLine": "U+7CBE\t精\t⿰米青[GTJV]\t⿰米靑[K]",
+    "makeMeAHanziDecomposition": "⿰米青"
+  },
+  "料": {
+    "cjkviRawLine": "U+6599\t料\t⿰米斗",
+    "makeMeAHanziDecomposition": "⿰米斗"
+  },
+  "粗": {
+    "cjkviRawLine": "U+7C97\t粗\t⿰米且",
+    "makeMeAHanziDecomposition": "⿰米且"
+  },
+  "糖": {
+    "cjkviRawLine": "U+7CD6\t糖\t⿰米唐",
+    "makeMeAHanziDecomposition": "⿰米唐"
+  },
+  "视": {
+    "cjkviRawLine": "U+89C6\t视\t⿰礻见",
+    "makeMeAHanziDecomposition": "⿰礻见"
+  },
+  "祝": {
+    "cjkviRawLine": "U+795D\t祝\t⿰礻兄[GTJV]\t⿰示兄[K]",
+    "makeMeAHanziDecomposition": "⿰礻兄"
+  },
+  "神": {
+    "cjkviRawLine": "U+795E\t神\t⿰礻申[GTJV]\t⿰示申[K]",
+    "makeMeAHanziDecomposition": "⿰礻申"
+  },
+  "社": {
+    "cjkviRawLine": "U+793E\t社\t⿰礻土[GTJV]\t⿰示土[K]",
+    "makeMeAHanziDecomposition": "⿰礻土"
+  },
+  "被": {
+    "cjkviRawLine": "U+88AB\t被\t⿰衤皮",
+    "makeMeAHanziDecomposition": "⿰衤皮"
+  },
+  "裙": {
+    "cjkviRawLine": "U+88D9\t裙\t⿰衤君",
+    "makeMeAHanziDecomposition": "⿰衤君"
+  },
+  "裤": {
+    "cjkviRawLine": "U+88E4\t裤\t⿰衤库",
+    "makeMeAHanziDecomposition": "⿰衤库"
+  },
+  "初": {
+    "cjkviRawLine": "U+521D\t初\t⿰衤刀",
+    "makeMeAHanziDecomposition": "⿰衤刀"
+  },
+  "路": {
+    "cjkviRawLine": "U+8DEF\t路\t⿰𧾷各",
+    "makeMeAHanziDecomposition": "⿰足各"
+  },
+  "跑": {
+    "cjkviRawLine": "U+8DD1\t跑\t⿰𧾷包",
+    "makeMeAHanziDecomposition": "⿰足包"
+  },
+  "跳": {
+    "cjkviRawLine": "U+8DF3\t跳\t⿰𧾷兆",
+    "makeMeAHanziDecomposition": "⿰足兆"
+  },
+  "踢": {
+    "cjkviRawLine": "U+8E22\t踢\t⿰𧾷易",
+    "makeMeAHanziDecomposition": "⿰足易"
+  },
+  "理": {
+    "cjkviRawLine": "U+7406\t理\t⿰王里",
+    "makeMeAHanziDecomposition": "⿰王里"
+  },
+  "玩": {
+    "cjkviRawLine": "U+73A9\t玩\t⿰王元",
+    "makeMeAHanziDecomposition": "⿰王元"
+  },
+  "球": {
+    "cjkviRawLine": "U+7403\t球\t⿰王求",
+    "makeMeAHanziDecomposition": "⿰王求"
+  },
+  "现": {
+    "cjkviRawLine": "U+73B0\t现\t⿰王见",
+    "makeMeAHanziDecomposition": "⿰王见"
+  },
+  "蛇": {
+    "cjkviRawLine": "U+86C7\t蛇\t⿰虫它",
+    "makeMeAHanziDecomposition": "⿰虫它"
+  },
+  "蝴": {
+    "cjkviRawLine": "U+8774\t蝴\t⿰虫胡",
+    "makeMeAHanziDecomposition": "⿰虫胡"
+  },
+  "蚁": {
+    "cjkviRawLine": "U+8681\t蚁\t⿰虫义",
+    "makeMeAHanziDecomposition": "⿰虫义"
+  },
+  "蚊": {
+    "cjkviRawLine": "U+868A\t蚊\t⿰虫文",
+    "makeMeAHanziDecomposition": "⿰虫文"
+  },
+  "转": {
+    "cjkviRawLine": "U+8F6C\t转\t⿰车专",
+    "makeMeAHanziDecomposition": "⿰车专"
+  },
+  "轮": {
+    "cjkviRawLine": "U+8F6E\t轮\t⿰车仑",
+    "makeMeAHanziDecomposition": "⿰车仑"
+  },
+  "辆": {
+    "cjkviRawLine": "U+8F86\t辆\t⿰车两",
+    "makeMeAHanziDecomposition": "⿰车两"
+  },
+  "软": {
+    "cjkviRawLine": "U+8F6F\t软\t⿰车欠",
+    "makeMeAHanziDecomposition": "⿰车欠"
+  },
+  "破": {
+    "cjkviRawLine": "U+7834\t破\t⿰石皮",
+    "makeMeAHanziDecomposition": "⿰石皮"
+  },
+  "硬": {
+    "cjkviRawLine": "U+786C\t硬\t⿰石更",
+    "makeMeAHanziDecomposition": "⿰石更"
+  },
+  "矿": {
+    "cjkviRawLine": "U+77FF\t矿\t⿰石广",
+    "makeMeAHanziDecomposition": "⿰石广"
+  },
+  "码": {
+    "cjkviRawLine": "U+7801\t码\t⿰石马",
+    "makeMeAHanziDecomposition": "⿰石马"
+  },
+  "汗": {
+    "cjkviRawLine": "U+6C57\t汗\t⿰氵干",
+    "makeMeAHanziDecomposition": "⿰氵干"
+  },
+  "流": {
+    "cjkviRawLine": "U+6D41\t流\t⿰氵㐬",
+    "makeMeAHanziDecomposition": "⿰氵㐬"
+  },
+  "池": {
+    "cjkviRawLine": "U+6C60\t池\t⿰氵也",
+    "makeMeAHanziDecomposition": "⿰氵也"
+  },
+  "泥": {
+    "cjkviRawLine": "U+6CE5\t泥\t⿰氵尼",
+    "makeMeAHanziDecomposition": "⿰氵尼"
+  },
+  "吹": {
+    "cjkviRawLine": "U+5439\t吹\t⿰口欠",
+    "makeMeAHanziDecomposition": "⿰口欠"
+  },
+  "咳": {
+    "cjkviRawLine": "U+54B3\t咳\t⿰口亥",
+    "makeMeAHanziDecomposition": "⿰口亥"
+  },
+  "桃": {
+    "cjkviRawLine": "U+6843\t桃\t⿰木兆",
+    "makeMeAHanziDecomposition": "⿰木兆"
+  },
+  "柳": {
+    "cjkviRawLine": "U+67F3\t柳\t⿰木卯",
+    "makeMeAHanziDecomposition": "⿰木卯"
+  },
+  "坡": {
+    "cjkviRawLine": "U+5761\t坡\t⿰土皮",
+    "makeMeAHanziDecomposition": "⿰土皮"
+  },
+  "塔": {
+    "cjkviRawLine": "U+5854\t塔\t⿰土荅",
+    "makeMeAHanziDecomposition": "⿰土荅"
+  },
+  "铃": {
+    "cjkviRawLine": "U+94C3\t铃\t⿰钅令",
+    "makeMeAHanziDecomposition": "⿰钅令"
+  },
+  "饮": {
+    "cjkviRawLine": "U+996E\t饮\t⿰饣欠",
+    "makeMeAHanziDecomposition": "⿰饣欠"
+  }
+}

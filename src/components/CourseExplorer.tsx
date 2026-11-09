@@ -1,0 +1,72 @@
+import {useEffect,useMemo,useState} from 'react';
+import {ArrowLeft,ArrowRight,ChevronLeft,ChevronRight,Search,Sparkles,Volume2} from 'lucide-react';
+import {getRadicalCounts} from '../lib/radical-index';
+import {getCourseCharacter,getCourseCharactersForWords,getCourseComponentBank,getRelatedCourseCharacters,getWordsForCourseCharacter,matchCourseCombination,nodeIds,searchCourseCharacters,type CourseCharacter} from '../lib/course';
+import {formatWordLevel} from '../lib/hsk';
+import type {Word} from '../lib/types';
+import CourseCharacterCard,{CourseFragment} from './CourseCharacterCard';
+import './course-explorer.css';
+
+interface Props{mode:'explore'|'lab'|'challenge';words:Word[];showKo:boolean;speak:(text:string)=>void;onWord:(word:Word)=>void;onDiscover:(hanzi:string)=>void;onScore:(round:string,correct:boolean)=>void;onFavorite:(hanzi:string)=>void;favorites:string[]}
+const layouts:Record<string,string>={'⿰':'좌우','⿱':'상하','⿲':'좌·중·우','⿳':'상·중·하','⿴':'전체 둘레','⿵':'위 둘레','⿶':'아래 둘레','⿷':'왼쪽 둘레','⿸':'왼쪽 위 둘레','⿹':'오른쪽 위 둘레','⿺':'왼쪽 아래 둘레','⿻':'겹침'};
+const canAssemble=(char:CourseCharacter)=>char.tree.type==='layout'&&!/[①-⑳？?]/u.test(char.ids);
+export default function CourseExplorer({mode,words,showKo,speak,onWord,onDiscover,onScore,onFavorite,favorites}:Props){
+ const pool=useMemo(()=>getCourseCharactersForWords(words),[words]);
+ const groups=useMemo(()=>getRadicalCounts(words).map(group=>({...group,charCount:pool.filter(char=>char.radicalIds.includes(group.id)).length})),[words,pool]);
+ const componentBank=useMemo(()=>getCourseComponentBank(words),[words]);
+ const [selected,setSelected]=useState((pool.find(char=>char.hanzi==='红')??pool[0])?.hanzi??''),[groupId,setGroupId]=useState<string|null>(null),[rootQuery,setRootQuery]=useState(''),[charQuery,setCharQuery]=useState('');
+ const [charPage,setCharPage]=useState(0),[wordPage,setWordPage]=useState(0),[trail,setTrail]=useState<string[]>([]);
+ const [operator,setOperator]=useState('⿰'),[slots,setSlots]=useState<string[]>(['','']),[activeSlot,setActiveSlot]=useState(0),[partQuery,setPartQuery]=useState(''),[partPage,setPartPage]=useState(0),[feedback,setFeedback]=useState(''),[found,setFound]=useState(false),[correct,setCorrect]=useState(false),[score,setScore]=useState(0),[round,setRound]=useState(1);
+ const puzzlePool=useMemo(()=>pool.filter(canAssemble),[pool]);
+ const [target,setTarget]=useState(puzzlePool[0]?.hanzi??'');
+ const [questionId,setQuestionId]=useState(()=>crypto.randomUUID());
+ const c=getCourseCharacter(selected),goal=getCourseCharacter(target);
+ function prepare(char:CourseCharacter,challenge=false){const op=char.tree.type==='layout'?char.tree.operator:'⿰';setOperator(op);setSlots(Array(op==='⿲'||op==='⿳'?3:2).fill(''));setActiveSlot(0);setPartQuery('');setPartPage(0);setFeedback('');setFound(false);setCorrect(false);if(challenge){setTarget(char.hanzi);setQuestionId(crypto.randomUUID());}}
+ useEffect(()=>{
+  const familiar=pool.find(char=>char.hanzi==='红')??pool[0];setSelected((mode==='challenge'?puzzlePool[0]:familiar)?.hanzi??'');setGroupId(null);setRootQuery('');setCharQuery('');setCharPage(0);setWordPage(0);setTrail([]);setScore(0);setRound(1);
+  const first=mode==='lab'&&familiar&&canAssemble(familiar)?familiar:puzzlePool[0];if(first)prepare(first,true);
+ },[words,mode,pool,puzzlePool]);
+ const chooseChar=(hanzi:string)=>{if(!getCourseCharacter(hanzi))return;setTrail(old=>selected&&selected!==hanzi?[...old,selected]:old);setSelected(hanzi);setWordPage(0);setFeedback('');setFound(false);onDiscover(hanzi);if(mode==='lab')prepare(getCourseCharacter(hanzi)!);};
+ const selectedGroup=groups.find(group=>group.id===groupId);
+ const visibleGroups=groups.filter(group=>group.charCount>0&&(!rootQuery||[group.form,group.baseForm,group.nameZh,...group.forms,...group.searchTerms].some(value=>value.toLowerCase().includes(rootQuery.toLowerCase()))));
+ const family=searchCourseCharacters(pool.filter(char=>!groupId||char.radicalIds.includes(groupId)),charQuery);
+ const familyPages=Math.max(1,Math.ceil(family.length/12)),safePage=Math.min(charPage,familyPages-1);
+ const linkedWords=useMemo(()=>getWordsForCourseCharacter(selected,words),[selected,words]);
+ const related=useMemo(()=>getRelatedCourseCharacters(selected,words,10),[selected,words]);
+ const wordPages=Math.max(1,Math.ceil(linkedWords.length/8)),safeWordPage=Math.min(wordPage,wordPages-1);
+ const bank=componentBank.filter(part=>!partQuery||part.ids.includes(partQuery)||part.example.includes(partQuery)||getCourseCharacter(part.ids)?.korean?.includes(partQuery));
+ const currentReference=mode==='challenge'?goal:c;
+ const recommended=currentReference?.tree.type==='layout'?currentReference.tree.children.map(nodeIds):[];
+ const orderedBank=partQuery?bank:[...bank.filter(part=>recommended.includes(part.ids)),...bank.filter(part=>!recommended.includes(part.ids))];
+ const bankPages=Math.max(1,Math.ceil(orderedBank.length/30)),safePartPage=Math.min(partPage,bankPages-1);
+ function chooseGroup(id:string|null){setGroupId(id);setCharPage(0);setCharQuery('');const first=pool.find(char=>(!id||char.radicalIds.includes(id))&&(mode!=='challenge'||canAssemble(char)));if(first){chooseChar(first.hanzi);if(mode==='challenge'){prepare(first,true);setRound(value=>value+1);}}}
+ function putPart(ids:string){const next=[...slots];next[activeSlot]=ids;setSlots(next);const empty=next.findIndex((value,i)=>!value&&i>activeSlot);setActiveSlot(empty>=0?empty:Math.max(0,next.indexOf('')));setFeedback('');setFound(false);setCorrect(false);}
+ function submit(){
+  const matches=matchCourseCombination(operator,slots,words);
+  if(!matches.length){setFeedback('선택한 급수에서 이 조합은 아직 수록되지 않았어요.');setFound(false);return;}
+  const answer=matches.find(char=>mode==='challenge'&&char.hanzi===target)??matches[0];
+  if(mode==='challenge'&&answer.hanzi!==target){setFeedback(`${answer.hanzi}를 만들었어요. 문제의 모양과 다시 비교해요.`);setFound(false);return;}
+  setSelected(answer.hanzi);setWordPage(0);setFound(true);setFeedback(`완성! ${answer.hanzi} · ${answer.pinyin.join(' / ')}`);onDiscover(answer.hanzi);
+  if(mode==='challenge'&&!correct){setCorrect(true);setScore(value=>value+1);onScore(questionId,true);}
+ }
+ function nextQuestion(){const candidates=puzzlePool.filter(char=>!groupId||char.radicalIds.includes(groupId));if(!candidates.length)return;const index=candidates.findIndex(char=>char.hanzi===target);const next=candidates[(index+1)%candidates.length];prepare(next,true);setSelected(next.hanzi);setRound(value=>value+1);}
+ return <div className="course-explorer">
+  <div className="course-scope-line"><span>한자 <b>{pool.length.toLocaleString()}</b></span><span>단어 <b>{words.length.toLocaleString()}</b></span><small>부수 → 한자 구성 → 단어</small></div>
+  <div className="learning-workspace course-workspace">
+   <aside className="radical-sidebar course-radical-sidebar" aria-label="전체 급수의 부수 분류"><div className="sidebar-title"><span>부수별 한자</span><small>{groups.filter(group=>group.charCount>0).length}</small></div><label className="radical-search"><Search size={14}/><input aria-label="전체 부수 찾기" placeholder="부수 / 한국어" value={rootQuery} onChange={e=>setRootQuery(e.target.value)}/></label><button type="button" className={`course-all-characters ${groupId===null?'active':''}`} onClick={()=>chooseGroup(null)}>전체 한자 <b>{pool.length.toLocaleString()}</b></button><div className="radical-list">{visibleGroups.map(group=><button type="button" key={group.id} className={groupId===group.id?'active':''} disabled={mode==='challenge'&&!puzzlePool.some(char=>char.radicalIds.includes(group.id))} aria-pressed={groupId===group.id} aria-label={`${group.form} ${showKo?group.koreanName+' · ':''}부수 · ${group.charCount}자`} onClick={()=>chooseGroup(group.id)}><span className="radical-form">{group.form}</span><span className="course-radical-name"><strong>{group.nameZh}</strong>{showKo&&<span className="course-radical-korean" lang="ko">{group.koreanName} · {group.koreanMeaning}</span>}<small>#{group.number}</small></span><em>{group.charCount}</em></button>)}</div><p className="course-dictionary-note">사전 부수 분류예요. 뜻부·소리부와 구분해요.</p></aside>
+   <div className="center-column course-center-column">
+    {trail.length>0&&<button type="button" className="course-return" onClick={()=>{const last=trail.at(-1)!;setTrail(trail.slice(0,-1));setSelected(last);setWordPage(0);}}><ArrowLeft size={14}/>{trail.at(-1)}로 돌아가기</button>}
+    {mode!=='explore'&&<section className="course-workshop" aria-label={mode==='lab'?'전체 급수 자유 조합':'전체 급수 모양 조합 문제'}><header><h2>{mode==='lab'?'자유롭게 조합해요':`${round}번 · 모양을 보고 조합해요`}</h2>{mode==='challenge'&&<span>이번 연습 정답 {score}</span>}</header>
+     {mode==='challenge'&&goal&&<div className="course-question-glyph"><img src={goal.glyph} alt="문제의 실제 한자 모양"/><span>{layouts[goal.tree.type==='layout'?goal.tree.operator:'']}</span></div>}
+     <label className="course-layout-select">배치<select aria-label="부품 배치 선택" disabled={mode==='challenge'} value={operator} onChange={e=>{setOperator(e.target.value);setSlots(Array(['⿲','⿳'].includes(e.target.value)?3:2).fill(''));setActiveSlot(0);setFeedback('');setFound(false);setCorrect(false);}}>{Object.entries(layouts).map(([id,label])=><option key={id} value={id}>{id} · {label}</option>)}</select></label>
+     <div className={`course-free-slots ${['⿱','⿳'].includes(operator)?'vertical':''}`} role="group" aria-label="자유 조합 칸">{slots.map((value,index)=>{const part=componentBank.find(part=>part.ids===value);return <button type="button" key={index} className={activeSlot===index?'active':''} aria-pressed={activeSlot===index} aria-label={`${index+1}번 조합 칸 ${value||'비어 있음'}`} onClick={()=>setActiveSlot(index)}>{part?<CourseFragment node={part.node}/>:<span>＋</span>}<small>{index+1}</small></button>;})}</div>
+     <div className="course-workshop-actions"><button type="button" className="primary-button" disabled={slots.some(value=>!value)||(mode==='challenge'&&correct)} onClick={submit}><Sparkles size={15}/>조합하기</button><button type="button" onClick={()=>{setSlots(slots.map(()=>''));setActiveSlot(0);setFeedback('');setFound(false);}} disabled={mode==='challenge'&&correct}>다시</button>{mode==='challenge'&&correct&&<button type="button" onClick={nextQuestion}>다음 문제<ArrowRight size={14}/></button>}</div><p className="course-workshop-feedback" role="status">{feedback||'칸을 고르고 아래 부품을 눌러요. 같은 부품도 반복해서 쓸 수 있어요.'}</p>
+     <label className="course-bank-search"><Search size={14}/><input aria-label="전체 조합 부품 찾기" placeholder="부품 · 예시 한자" value={partQuery} onChange={e=>{setPartQuery(e.target.value);setPartPage(0);}}/></label><div className="course-free-bank">{orderedBank.slice(safePartPage*30,(safePartPage+1)*30).map(part=><button type="button" key={part.ids} aria-label={`조합 부품 ${part.ids}`} onClick={()=>putPart(part.ids)} disabled={mode==='challenge'&&correct}><CourseFragment node={part.node}/><small>{getCourseCharacter(part.ids)?.korean?.split(';')[0]??part.example+'의 부품'}</small></button>)}</div><div className="course-pagination"><button type="button" disabled={!safePartPage} onClick={()=>setPartPage(safePartPage-1)}><ChevronLeft size={14}/></button><span>{safePartPage+1} / {bankPages}</span><button type="button" disabled={safePartPage===bankPages-1} onClick={()=>setPartPage(safePartPage+1)}><ChevronRight size={14}/></button></div>
+    </section>}
+    {(mode==='explore'||found)&&c&&<CourseCharacterCard key={c.hanzi} hanzi={c.hanzi} words={words} showKo={showKo} speak={speak} onCharacter={chooseChar} onWord={onWord} saved={favorites.includes(c.hanzi)} onFavorite={()=>onFavorite(c.hanzi)}/>}
+    {mode!=='challenge'&&<section className="course-family-browser"><header><h3>{selectedGroup?`${selectedGroup.form} 부수의 한자`:'전체 한자'}</h3><span>{family.length.toLocaleString()}자</span></header><label className="course-bank-search"><Search size={14}/><input aria-label="급수별 한자 찾기" placeholder="한자·병음·한국어" value={charQuery} onChange={e=>{setCharQuery(e.target.value);setCharPage(0);}}/></label><div className="course-family-grid">{family.slice(safePage*12,(safePage+1)*12).map(char=><button type="button" key={char.hanzi} className={selected===char.hanzi?'selected':''} aria-pressed={selected===char.hanzi} aria-label={`${char.hanzi} 전체 구성 학습`} onClick={()=>chooseChar(char.hanzi)}><img src={char.glyph} alt="" loading="lazy"/><strong>{char.hanzi}</strong><span>{char.pinyin.join(' / ')}</span>{showKo&&char.korean&&<small>{char.korean}</small>}</button>)}</div>{!family.length&&<p>해당 한자가 없어요.</p>}<div className="course-pagination"><button type="button" aria-label="이전 한자 페이지" disabled={!safePage} onClick={()=>setCharPage(safePage-1)}><ChevronLeft size={14}/></button><span>{safePage+1} / {familyPages}</span><button type="button" aria-label="다음 한자 페이지" disabled={safePage===familyPages-1} onClick={()=>setCharPage(safePage+1)}><ChevronRight size={14}/></button></div></section>}
+   </div>
+   <aside className="connection-panel course-connection-panel" aria-label="전체 한자와 단어 연결"><div className="connection-title"><h2>단어로 연결</h2></div>{c&&<><div className="connection-current"><span>{c.hanzi}</span><div><strong>{c.pinyin.join(' / ')}</strong>{showKo&&c.korean&&<small>{c.korean}</small>}</div><button type="button" aria-label="선택 한자 듣기" onClick={()=>speak(c.hanzi)}><Volume2 size={16}/></button></div><div className="connection-branch"><span className="branch-label">선택 급수 · {linkedWords.length}개 단어</span>{linkedWords.slice(safeWordPage*8,(safeWordPage+1)*8).map(word=><button type="button" className="linked-word" key={word.id} onClick={()=>onWord(word)}><div><strong>{word.hanzi}</strong><em>{word.pinyin}</em>{showKo&&<small>{word.korean}</small>}<small>{formatWordLevel(word)}</small></div><ChevronRight size={14}/></button>)}<div className="course-pagination"><button type="button" aria-label="이전 연결 단어" disabled={!safeWordPage} onClick={()=>setWordPage(safeWordPage-1)}><ChevronLeft size={14}/></button><span>{safeWordPage+1} / {wordPages}</span><button type="button" aria-label="다음 연결 단어" disabled={safeWordPage===wordPages-1} onClick={()=>setWordPage(safeWordPage+1)}><ChevronRight size={14}/></button></div></div>{related.length>0&&<div className="same-part"><span className="branch-label">같은 부품, 다른 한자</span><div className="related-characters">{related.map(char=><button type="button" key={char.hanzi} onClick={()=>chooseChar(char.hanzi)}><strong>{char.hanzi}</strong><small>{char.pinyin.join(' / ')}</small></button>)}</div></div>}</>}</aside>
+  </div>
+ </div>;
+}

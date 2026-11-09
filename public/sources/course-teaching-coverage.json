@@ -1,0 +1,40 @@
+{
+  "checked": "2026-11-06",
+  "officialWords": 11000,
+  "officialCharacters": 3088,
+  "modernCharacterDiagrams": 3088,
+  "modernCharacterGlyphs": 3088,
+  "allWordsHaveCharacterLessons": true,
+  "koreanCharacterGlosses": 3088,
+  "supplementalKoreanGlosses": 973,
+  "supplementalKoreanPolicy": "AI reference translations of independent character meanings, with source-error and compound-only notes; not independent native-teacher review. Complete word Korean remains separate.",
+  "readingCorrections": "/sources/course-corrections.json",
+  "koreanSupplements": [
+    "/sources/course-korean-a.json",
+    "/sources/course-korean-b.json"
+  ],
+  "legacyExtraCharacter": "桔",
+  "ancientReferenceCoverage": {
+    "requestedCharacters": 3089,
+    "processedCharacters": 3089,
+    "charactersWithAncientSpecimens": 2618,
+    "notListedCharacters": 471,
+    "fetchErrorCharacters": 0,
+    "specimenCount": 4627,
+    "localSpecimenCount": 4618,
+    "remoteSpecimenCount": 9,
+    "complete": true,
+    "charactersWithLocalAncientSpecimens": 2618,
+    "charactersWithoutReachableAncientSpecimens": [],
+    "firstImageMirroringComplete": true,
+    "allStageMirroringComplete": false,
+    "mirrorProcessingComplete": true
+  },
+  "ancientReferencePolicy": "Source dictionary entry-linked historical specimens, not a universal direct evolution chain. Related file-index characters and polysemous traditional forms require distinct labels.",
+  "meaningScenePhotographs": 171,
+  "additionalObjectPhotographs": 6,
+  "meaningImagePolicy": "The 171 editorial meaning-scene photographs and six object-reference photos do not imply 3088 independently illustrated meaning scenes. Modern glyphs and historical specimens are separately identified.",
+  "componentModernGlyphsAdded": 129,
+  "sourceMetadata": "/sources/course-characters-provenance.json",
+  "sourceMetadataPolicy": "Original import-time coverage snapshot is retained; this report describes the editorial Korean and external glyph overlays."
+}

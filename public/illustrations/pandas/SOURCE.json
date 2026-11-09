@@ -1,0 +1,79 @@
+{
+  "source": "https://claude.ai/artifact/BerPmm6iwNt7KjhTXPRbLc",
+  "retrieved": "2026-11-06",
+  "description": "Eight original transparent WebP panda poses reused from the user-designated later version; image bytes unchanged.",
+  "assets": [
+    {
+      "file": "pd-ring.webp",
+      "sha256": "7d15e55c9a97ecff38a5adeb4e8175c65acbeb657d5fb0e7753542dba4b571ab",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-cherry.webp",
+      "sha256": "a2e12fa730273c1d485fbb27409d02fddd6799bf48c6471aee463aeb7f5a0c24",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-frog.webp",
+      "sha256": "300dd84ef4103334d18b9b07609539fbb71cb089f02876e9c0925163036e53bd",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-bamboo.webp",
+      "sha256": "e663afb19cd2bd5a2421ec7d65c07b87c25a1dff6f8cba5f875f24ec2c6cac97",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-duck.webp",
+      "sha256": "41714202a79bdd97d1ef88de08b298f062f9ebfca250343b17e4f26bc3a647fb",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-tube.webp",
+      "sha256": "e842480284e3df0ee6c7284a2f342ced9cf405aa2729168fca5f3ab2115367a9",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-sleep.webp",
+      "sha256": "74fcad35492e356cfe82cd66b16d06ae4b0eccceee1411b719913b99a074d646",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "pd-wave.webp",
+      "sha256": "ef9ae22b1fdedb5d6bbd505623b77af006cf9fbb7f31a4c25a56029295249a72",
+      "size": [
+        192,
+        192
+      ],
+      "mode": "RGBA"
+    }
+  ]
+}

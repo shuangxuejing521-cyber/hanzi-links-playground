@@ -1,0 +1,579 @@
+[
+  {
+    "form": "氵",
+    "baseForm": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "korean": "삼수변 · 물",
+    "meaningZh": "水；液体",
+    "originKind": "pictograph",
+    "originNote": "水的早期字形以中线表示水流，两侧短笔表示水滴；氵是现代左旁写法。",
+    "shapeNote": "氵有三笔，冫有两笔；油是液体，但不是水。",
+    "visualKey": "water",
+    "visualCaption": "流水和两旁水滴，先对照水，再认识氵。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·水",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%B0%B4",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "water"
+  },
+  {
+    "form": "亻",
+    "baseForm": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "korean": "사람인변 · 사람",
+    "meaningZh": "人",
+    "originKind": "pictograph",
+    "originNote": "人的古文字取侧身站立、手向下垂的人形；亻是作左部时的写法。",
+    "shapeNote": "亻为两笔；忄为三笔，中间一竖。",
+    "visualKey": "person",
+    "visualCaption": "侧面站立的人：头身、垂手与腿形成轮廓。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·人",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BA%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "person"
+  },
+  {
+    "form": "扌",
+    "baseForm": "手",
+    "traditional": "手",
+    "pinyin": "shǒu",
+    "korean": "재방변 · 손",
+    "meaningZh": "手",
+    "originKind": "pictograph",
+    "originNote": "手的金文描出五指连着手臂；更早又形也表示手。扌是手作偏旁的变体。",
+    "shapeNote": "扌右边有一提；才和扌不是同一个部件。",
+    "visualKey": "hand",
+    "visualCaption": "手掌、手指与手腕的轮廓，不把扌三笔说成完整五指图。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·手",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%89%8B",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "hand"
+  },
+  {
+    "form": "口",
+    "baseForm": "口",
+    "traditional": "口",
+    "pinyin": "kǒu",
+    "korean": "입구변 · 입",
+    "meaningZh": "嘴；开口",
+    "originKind": "pictograph",
+    "originNote": "口的早期字形像张开的嘴；后来轮廓写成方框。",
+    "shapeNote": "口通常较小；囗是包围其他部件的大框。",
+    "visualKey": "oral",
+    "visualCaption": "张开的嘴的外轮廓→方形口，不是一个容器。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·口",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8F%A3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "mouth"
+  },
+  {
+    "form": "木",
+    "baseForm": "木",
+    "traditional": "木",
+    "pinyin": "mù",
+    "korean": "나무목변 · 나무",
+    "meaningZh": "树木；木材",
+    "originKind": "pictograph",
+    "originNote": "木的古文字描绘树木：上为枝叶，中为树干，下为根。",
+    "shapeNote": "木中间一竖穿过横画；禾上面多一撇。",
+    "visualKey": "tree",
+    "visualCaption": "枝、干、根分别对照木的斜笔、竖笔和下部。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·木",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%9C%A8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "wood"
+  },
+  {
+    "form": "讠",
+    "baseForm": "言",
+    "traditional": "言",
+    "pinyin": "yán",
+    "korean": "말씀언변 · 말",
+    "meaningZh": "言语；说话",
+    "originKind": "compound",
+    "originNote": "言的早期构形与舌和一有关，表示言语出于舌；讠是言的简化偏旁，不能把两笔直接当成说话气泡的古图。",
+    "shapeNote": "讠两笔；冫两笔但第二笔方向和结构不同。",
+    "visualKey": "speech",
+    "visualCaption": "口舌发声作意义提示，再对照言→讠的字形变化。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·言",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A8%80",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "speech"
+  },
+  {
+    "form": "忄",
+    "baseForm": "心",
+    "traditional": "心",
+    "pinyin": "xīn",
+    "korean": "심방변 · 마음",
+    "meaningZh": "心脏；心意",
+    "originKind": "pictograph",
+    "originNote": "心的早期字形来自心脏形状，随后用来表示心理活动；忄是侧旁变体。",
+    "shapeNote": "忄中间一竖，两旁是点；不要看成亻。",
+    "visualKey": "heart",
+    "visualCaption": "先看身体器官的心脏轮廓，再看心→忄；爱心符号只属现代联想。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·心",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%BF%83",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "heart"
+  },
+  {
+    "form": "女",
+    "baseForm": "女",
+    "traditional": "女",
+    "pinyin": "nǚ",
+    "korean": "계집녀변 · 여자",
+    "meaningZh": "女子",
+    "originKind": "pictograph",
+    "originNote": "甲骨文、金文取女子双膝着地、坐在脚跟上、双手交叠的人形；目前核查资料未将织布动作列为直接取形依据。",
+    "shapeNote": "女作左部时形体收窄；不要把右边子认成了。",
+    "visualKey": "woman",
+    "visualCaption": "跪坐人形的手臂与屈膝轮廓；不把现代裙子当作女字字源。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·女",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%A5%B3",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "中央研究院《汉字古今字资料库》·女字形演变",
+        "url": "https://chardb.iis.sinica.edu.tw/evolution.jsp?cid=9595",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "woman"
+  },
+  {
+    "form": "纟",
+    "baseForm": "糸",
+    "traditional": "糸",
+    "pinyin": "mì",
+    "korean": "실사변 · 실",
+    "meaningZh": "细丝；丝线",
+    "originKind": "pictograph",
+    "originNote": "糸的古文字像束起的丝线，末端可有丝绪；简体绞丝旁写作纟。",
+    "shapeNote": "简体纟对应繁体糹/糸相关形体；纟不是氵。",
+    "visualKey": "thread",
+    "visualCaption": "丝束的弯曲、捆扎与细丝→糸→纟；现代纟不是一张原始象形照片。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·糸",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B3%B8",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "thread"
+  },
+  {
+    "form": "日",
+    "baseForm": "日",
+    "traditional": "日",
+    "pinyin": "rì",
+    "korean": "날일변 · 해",
+    "meaningZh": "太阳；日子",
+    "originKind": "pictograph",
+    "originNote": "日的早期轮廓为太阳，圆或近方的外框中加点，逐步成为今日的日。",
+    "shapeNote": "日里面一横；目里面两横。",
+    "visualKey": "sun",
+    "visualCaption": "太阳的圆形与中心标记→方框中的短横。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·日",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%97%A5",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "sun"
+  },
+  {
+    "form": "目",
+    "baseForm": "目",
+    "traditional": "目",
+    "pinyin": "mù",
+    "korean": "눈목변 · 눈",
+    "meaningZh": "眼睛",
+    "originKind": "pictograph",
+    "originNote": "目取眼睛形，早期可横置，后来多竖写。内外线条逐渐成为目。",
+    "shapeNote": "目里两横，比日多一横。",
+    "visualKey": "eye",
+    "visualCaption": "眼的外轮廓、瞳孔→竖写目的框与内横。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·目",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9B%AE",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "eye"
+  },
+  {
+    "form": "月",
+    "baseForm": "肉",
+    "traditional": "肉",
+    "pinyin": "ròu",
+    "korean": "육달월변 · 몸",
+    "meaningZh": "肉；身体组织",
+    "originKind": "pictograph",
+    "originNote": "这一类月形左旁通常来自肉，肉与月的写法在历史中相近而混用。明的月才是月亮，不能统一解释成月光。",
+    "shapeNote": "这里按现代月形部件归类；它与表示月亮的月同形，字义要逐字辨认。",
+    "visualKey": "meat",
+    "visualCaption": "肉的肌理作线条提示→肉旁月形；与月亮分开对照。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·肉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%82%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "body"
+  },
+  {
+    "form": "土",
+    "baseForm": "土",
+    "traditional": "土",
+    "pinyin": "tǔ",
+    "korean": "흙토변 · 흙",
+    "meaningZh": "泥土；土地",
+    "originKind": "pictograph",
+    "originNote": "土可解为地面堆起的土块；字库同时列出祭土地神主等不同说法。",
+    "shapeNote": "土上横短、下横长；士上横长、下横短。",
+    "visualKey": "earth",
+    "visualCaption": "地面上的土堆轮廓；这是主要释形之一，不是唯一无争议结论。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·土",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%9C%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed",
+    "radicalId": "earth"
+  },
+  {
+    "form": "钅",
+    "baseForm": "金",
+    "traditional": "金",
+    "pinyin": "jīn",
+    "korean": "쇠금변 · 금속",
+    "meaningZh": "金属",
+    "originKind": "compound",
+    "originNote": "金的早期构形有金属形体和声符今的省形；不是简单画一块金子。最初多指铜，后泛指金属。",
+    "shapeNote": "钅来自金的偏旁写法；与饣的笔画不同。",
+    "visualKey": "metal",
+    "visualCaption": "金属块是意义图，金→钅是字形变体；图不声称每笔都是金块。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·金",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%87%91",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "metal"
+  },
+  {
+    "form": "饣",
+    "baseForm": "食",
+    "traditional": "食",
+    "pinyin": "shí",
+    "korean": "밥식변 · 음식",
+    "meaningZh": "进食；食物",
+    "originKind": "compound",
+    "originNote": "食的古文字包含食器及其上部形体；有就食之口或器盖等解释，细部释形存在分歧。",
+    "shapeNote": "饣三笔；不要和钅或讠混淆。",
+    "visualKey": "foodbowl",
+    "visualCaption": "食器与进食提示食义，再看食→饣；标明细部有异说。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·食",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%A3%9F",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed",
+    "radicalId": "food"
+  },
+  {
+    "form": "犭",
+    "baseForm": "犬",
+    "traditional": "犬",
+    "pinyin": "quǎn",
+    "korean": "개사슴록변 · 동물",
+    "meaningZh": "狗",
+    "originKind": "pictograph",
+    "originNote": "犬的古文字描绘狗的形体，犭是犬作左偏旁的变体。",
+    "shapeNote": "犭右侧弯钩是主要轮廓；扌的横和提不同。",
+    "visualKey": "dog",
+    "visualCaption": "狗的头、身、腿与尾的侧影→犬→犭；不用猫代替犬的原形。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·犬",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8A%AC",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "animal"
+  },
+  {
+    "form": "冫",
+    "baseForm": "仌",
+    "traditional": "仌",
+    "pinyin": "bīng",
+    "korean": "이수변 · 얼음",
+    "meaningZh": "冰块；寒冷",
+    "originKind": "pictograph",
+    "originNote": "仌是古冰字，早期点块形表示冰块；后世用作偏旁时写成冫。",
+    "shapeNote": "冫只有两笔；氵有三笔。",
+    "visualKey": "ice",
+    "visualCaption": "凝结冰块→早期点块→两点冫；不是三点水漏掉一点。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·仌",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%BB%8C",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "ice"
+  },
+  {
+    "form": "火",
+    "baseForm": "火",
+    "traditional": "火",
+    "pinyin": "huǒ",
+    "korean": "불화변 · 불",
+    "meaningZh": "火焰",
+    "originKind": "pictograph",
+    "originNote": "火的古文字像燃烧的一团火焰，后来变为中间与两侧的笔画。",
+    "shapeNote": "火作左部时捺常变点；灬是另一种常见火部件形态。",
+    "visualKey": "fire",
+    "visualCaption": "向上燃烧的焰尖与两侧火舌→火。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·火",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%81%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "fire"
+  },
+  {
+    "form": "米",
+    "baseForm": "米",
+    "traditional": "米",
+    "pinyin": "mǐ",
+    "korean": "쌀미변 · 쌀",
+    "meaningZh": "谷粒；米",
+    "originKind": "pictograph",
+    "originNote": "米的早期字形以小点表示谷粒，中间一画的解释有筛子或谷梗等说法。",
+    "shapeNote": "米有四个斜向笔画；木只有两条主要斜笔。",
+    "visualKey": "rice",
+    "visualCaption": "谷粒围绕中线分布→米；不把现代交叉六笔说成六颗确定的稻米。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·米",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%B1%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed",
+    "radicalId": "rice"
+  },
+  {
+    "form": "礻",
+    "baseForm": "示",
+    "traditional": "示",
+    "pinyin": "shì",
+    "korean": "보일시변 · 제사",
+    "meaningZh": "祭祀神主；显示",
+    "originKind": "uncertain",
+    "originNote": "示与祭祀神主有关，字库列神主牌位、祭杆等不同释形，尚无定论；礻为现代偏旁写法。",
+    "shapeNote": "礻四笔；衤五笔，右边多一撇。",
+    "visualKey": "altar",
+    "visualCaption": "祭祀神主的场景是学说示意→示→礻，不作已确证的单一古图。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·示",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%A4%BA",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed",
+    "radicalId": "ritual"
+  },
+  {
+    "form": "衤",
+    "baseForm": "衣",
+    "traditional": "衣",
+    "pinyin": "yī",
+    "korean": "옷의변 · 옷",
+    "meaningZh": "衣服",
+    "originKind": "pictograph",
+    "originNote": "衣的古文字像上衣，可辨衣领、两袖与相叠衣襟；衤是作左偏旁时的变体。",
+    "shapeNote": "衤比礻多一撇；二者不能互换。",
+    "visualKey": "cloth",
+    "visualCaption": "衣领、左右袖与衣襟→衣→衤。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·衣",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%A1%A3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "clothes"
+  },
+  {
+    "form": "足",
+    "baseForm": "足",
+    "traditional": "足",
+    "pinyin": "zú",
+    "korean": "발족변 · 발",
+    "meaningZh": "脚；足",
+    "originKind": "pictograph",
+    "originNote": "足的早期构形取腿脚形，与表示脚趾的止有关；上部口形在这里不是嘴。",
+    "shapeNote": "足作左部时下部收窄；不要看成口加止的随意拼法。",
+    "visualKey": "foot",
+    "visualCaption": "腿到脚底的轮廓→足；不将足解释为“嘴＋停止”。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·足",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%B6%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "foot"
+  },
+  {
+    "form": "王",
+    "baseForm": "玉",
+    "traditional": "玉",
+    "pinyin": "yù",
+    "korean": "구슬옥변 · 옥",
+    "meaningZh": "玉石；珠玉",
+    "originKind": "pictograph",
+    "originNote": "玉的早期字形像以线串起的数块玉片，后来加点与王区别。玉作左旁通常保留王形。",
+    "shapeNote": "这里是玉字旁的王形写法；与土的横画数不同。",
+    "visualKey": "jade",
+    "visualCaption": "线穿数块玉片→玉→王形玉旁；与君王的王分开。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·玉",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%8E%89",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "jade"
+  },
+  {
+    "form": "虫",
+    "baseForm": "虫",
+    "traditional": "虫",
+    "pinyin": "chóng",
+    "korean": "벌레충변 · 벌레",
+    "meaningZh": "蛇形的虫；今常指昆虫",
+    "originKind": "pictograph",
+    "originNote": "虫的早期形体像蛇，原指毒蛇；作偏旁后来泛指昆虫及若干动物。",
+    "shapeNote": "虫下部有提和点；不要看成中。",
+    "visualKey": "worm",
+    "visualCaption": "蛇的头和弯曲身躯→虫；甲虫图片只能解释今义，不能解释原形。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·虫",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%99%AB",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "insect"
+  },
+  {
+    "form": "车",
+    "baseForm": "車",
+    "traditional": "車",
+    "pinyin": "chē",
+    "korean": "수레거변 · 수레",
+    "meaningZh": "车辆",
+    "originKind": "pictograph",
+    "originNote": "車的古文字画出车轮、轴和车身等部分，后来竖写并简化为车。",
+    "shapeNote": "车是简体部件；不要把中间一竖省掉。",
+    "visualKey": "cart",
+    "visualCaption": "古代两轮车的轮、轴、车身→車→车；现代汽车只是应用图。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·車",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E8%BB%8A",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "supported",
+    "radicalId": "vehicle"
+  },
+  {
+    "form": "石",
+    "baseForm": "石",
+    "traditional": "石",
+    "pinyin": "shí",
+    "korean": "돌석변 · 돌",
+    "meaningZh": "石头；石材",
+    "originKind": "uncertain",
+    "originNote": "字库采用“早期厂形象石磬，后加口作饰笔”的解释，并指出《说文》崖下石块说与古文字不合；不宜强称唯一字源。",
+    "shapeNote": "石由上部横撇与口形组成；与右不同。",
+    "visualKey": "stone",
+    "visualCaption": "石磬/石器的取形学说→石；同时标注释形分歧，口不表示嘴。",
+    "sources": [
+      {
+        "title": "香港中文大学《汉语多功能字库》·石",
+        "url": "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9F%B3",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "confidence": "disputed",
+    "radicalId": "stone"
+  }
+]

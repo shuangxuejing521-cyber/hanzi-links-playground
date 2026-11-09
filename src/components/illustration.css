@@ -1,0 +1,40 @@
+.meaning-illustration {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  overflow: visible;
+  isolation: isolate;
+}
+
+.meaning-illustration .illustration-object {
+  filter: drop-shadow(0 7px 0 rgb(103 75 47 / 7%));
+}
+
+.meaning-illustration .illustration-float {
+  animation: illustration-float 7s ease-in-out infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+.meaning-illustration .illustration-spark {
+  animation: illustration-spark 4s ease-in-out infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes illustration-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+@keyframes illustration-spark {
+  0%, 100% { opacity: .55; }
+  50% { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .meaning-illustration .illustration-float,
+  .meaning-illustration .illustration-spark {
+    animation: none;
+  }
+}

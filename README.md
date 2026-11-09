@@ -89,6 +89,8 @@ Cloudflare D1 stores real visitor records. This repository contains schema and s
 
 各级实际照片覆盖与待补数量见 `public/sources/word-photo-coverage.json`，新增图片的实际提示词、SHA256和审核记录见 `public/sources/word-photo-expansion.json`。补全目标为11,000词，按真实完成度逐级更新，不把字形SVG计作词义照片。
 
+当前一至四级共2,000个词已全部对应词义照片，连同更高级原有照片，覆盖2,121/11,000词。四级新增140张经目视核对的场景照片。之后新生成人物照片以亚洲人为主，之前生成的图片保留。
+
 
 ## 左侧部首扩充
 

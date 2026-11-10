@@ -60,3 +60,7 @@ yarn-error.log*
 /hanzi-events-*.csv
 /hanzi-radicals-*.csv
 /hanzi-daily-*.csv
+
+# Netlify deployment output and local authentication state
+/dist-netlify/
+/.netlify/

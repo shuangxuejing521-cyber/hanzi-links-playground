@@ -1,5 +1,5 @@
 {
-  "revision": "6b0da07cc787e3340228193b525f22dfa27082cd",
+  "revision": "d3fd4263443a49348782918df6cfddf95bd4f006",
   "files": {
     "after-work.jpg": {
       "sha256": "6e00ac12f6f13d7bcd4f4fe136e4dd7474846eff7ca61dce855afbfcb7d77b71",
@@ -3244,6 +3244,2230 @@
     "hsk6-zongzi.jpg": {
       "sha256": "890f17b065f22647a379a240dc84e0ba503abbaf40e45820cb124059cf981ab0",
       "bytes": 253160
+    },
+    "hsk7-abacus.jpg": {
+      "sha256": "31f6f304ef49fbb8fc8ddfb4192907f5769db9d1ead0b921b280436cd9bfe872",
+      "bytes": 272339
+    },
+    "hsk7-acoustic-guitar.jpg": {
+      "sha256": "9d9eddb64abb5c0cd37792183483c8d443a7a9fd17002b06224acd9606275dba",
+      "bytes": 224505
+    },
+    "hsk7-acupoint-teaching-model.jpg": {
+      "sha256": "2348ada33905f37c346aab7a60b018bed68772dd2a7c6265adc1d6f96c12c1bb",
+      "bytes": 180772
+    },
+    "hsk7-adult-cheek-kiss.jpg": {
+      "sha256": "51d37f31b4a6276577ca2f591d63c30dd4d9cc022c9be00d6e55bb447254fc37",
+      "bytes": 236284
+    },
+    "hsk7-adult-chewing-bread.jpg": {
+      "sha256": "84b45f4cf9da689735f494d50646bf7182097f6da3297fae637e6556dbd0e29c",
+      "bytes": 218942
+    },
+    "hsk7-adult-evening-style.jpg": {
+      "sha256": "bf6f863fb011dd024aaaef8cbb19d0742b45ebbe097b41b23a9960cd64030ec2",
+      "bytes": 116728
+    },
+    "hsk7-adult-twins.jpg": {
+      "sha256": "02f1f6dec822ecc11a3bce6af02a78273e7992e29d2d4ac95d139223f6097e62",
+      "bytes": 325870
+    },
+    "hsk7-airplane-cabin.jpg": {
+      "sha256": "a118c887a05e5278a335d4ab217ae91d7e4ab6fd014b173fd1656b4fd139e8ef",
+      "bytes": 202715
+    },
+    "hsk7-alarm-bell-wall.jpg": {
+      "sha256": "f72a0aaceed4f188e911bf138564fe1388a2a07fea9b76d37e33a838e3fb0f5f",
+      "bytes": 264176
+    },
+    "hsk7-alien-toy.jpg": {
+      "sha256": "8e94c01672182935d72414095f0620a94ed871989016364892bdfabdbd7014db",
+      "bytes": 160236
+    },
+    "hsk7-aluminum-foil.jpg": {
+      "sha256": "0ff879ada27647033eb2c14f982c6f7f2a8384ddd3c8c88055c1a41aa0882fc4",
+      "bytes": 275415
+    },
+    "hsk7-angel-figurine.jpg": {
+      "sha256": "bf6cdd3cecddb85bd42a78dad1e636d326db288c7be66451b11b2d8a2608cd8c",
+      "bytes": 211276
+    },
+    "hsk7-anti-corruption-stage.jpg": {
+      "sha256": "3eb0ed7a06dd962556e49200fe809f68148ab106e62b49b35eb7aef345b7d404",
+      "bytes": 218068
+    },
+    "hsk7-archaeology-teaching-dig.jpg": {
+      "sha256": "e0f0f1288b52674812c94442e18f0ea3ae0836ffe9d473a7dcf4c010f6adffa5",
+      "bytes": 295219
+    },
+    "hsk7-architectural-drawing-paper.jpg": {
+      "sha256": "2ec7a0942818d04e491e65a6524f1184b960f882a4626d643356a9bbbedf96a0",
+      "bytes": 186896
+    },
+    "hsk7-art-album.jpg": {
+      "sha256": "241b2d6c6d13176abb9417fc0e39ad0c343f63c4b1f7445e13c9f4b3616d1542",
+      "bytes": 313143
+    },
+    "hsk7-art-class-discussion.jpg": {
+      "sha256": "5541ec6ee3356a834691006aff6cbfc6fc7fe4c180e484fe3b7347fed7dc296c",
+      "bytes": 213949
+    },
+    "hsk7-assembly-production-line.jpg": {
+      "sha256": "11f1b69e8570f4e6169215ed266ec32516b779c2858c565efb8f706b3bc835f4",
+      "bytes": 284962
+    },
+    "hsk7-astronaut-mannequin.jpg": {
+      "sha256": "cf7b68e36404a595fa02d076a692ccb63e5f7a4b048821a5254d4f06de7b15d1",
+      "bytes": 168245
+    },
+    "hsk7-attic-room.jpg": {
+      "sha256": "b606ed21e5a70b8156117dc43afb48cba0249dd509cf4839cfccb17241634961",
+      "bytes": 269470
+    },
+    "hsk7-auction-room.jpg": {
+      "sha256": "964c13c284159c9f9bc73dde05424b3780c09fce5298178b95e414cf15c4d0d4",
+      "bytes": 168297
+    },
+    "hsk7-aviation-accident-teaching-model.jpg": {
+      "sha256": "0e015221f535480964e24e0d4da8fd6e94fdf43d13d895a575c3fda5a7b8591c",
+      "bytes": 249720
+    },
+    "hsk7-award-pennant.jpg": {
+      "sha256": "07f3615258b432947d6c280dfe4cf40667976fb6de635b9ef3f6123cb3f77707",
+      "bytes": 173997
+    },
+    "hsk7-bald-adult-portrait.jpg": {
+      "sha256": "e8ee2f13cd4157acd168f4ee93a616c47075455992dd9070e71ce9288462f8a6",
+      "bytes": 147052
+    },
+    "hsk7-ballet-practice.jpg": {
+      "sha256": "fa75aeb0e33e8ea0aedf7426c1f812f17adbc18400a1858d0cf6ed385ddd25be",
+      "bytes": 164815
+    },
+    "hsk7-bamboo-flute.jpg": {
+      "sha256": "7920103c1905c2ff3a7572b7e7f6305050d037a92dec0659b766a09e252c33eb",
+      "bytes": 194847
+    },
+    "hsk7-bamboo-pole.jpg": {
+      "sha256": "e829e3e9d1ed92b8c8290640979a892414438829e1446671b149bdcd99538e91",
+      "bytes": 262117
+    },
+    "hsk7-barbell-training.jpg": {
+      "sha256": "ded76ca63060532ada435f7446faaa53ffbc27922274f6f8f78ac1ab38d946b2",
+      "bytes": 189006
+    },
+    "hsk7-bare-cabin-room.jpg": {
+      "sha256": "8bc8ddf26a0ec0a0cdc5359d9ff62b316850d2d627a2f02264606f16cf433312",
+      "bytes": 264424
+    },
+    "hsk7-barometer-teaching-model.jpg": {
+      "sha256": "4dbef20b9e328080bd818351f906bdf03fac43bd89e459aa57d6937e14426452",
+      "bytes": 133540
+    },
+    "hsk7-basin-teaching-model.jpg": {
+      "sha256": "7f922fdb332d33273f23107d7a4da5567ebdfb050709506becbf9742ffec3ad3",
+      "bytes": 333248
+    },
+    "hsk7-begging-theatre-actors.jpg": {
+      "sha256": "bc83700b524300e6b65d039b0d46358792a084cd33ebed3e7f83d3dbc9604ea3",
+      "bytes": 196631
+    },
+    "hsk7-bird-cage.jpg": {
+      "sha256": "867a2048b211bdbcd0ad7dcaeb4d5245b9fc776e7b77199c2745eb662dcf6b99",
+      "bytes": 236786
+    },
+    "hsk7-bird-nest.jpg": {
+      "sha256": "677d50b0e83f9d8aa1cbf7d463555401aaff098e2613fe9f923c4de0d634616a",
+      "bytes": 322537
+    },
+    "hsk7-blood-glucose-teaching.jpg": {
+      "sha256": "0227f5f710c7d188ac289b53429a1afd8394a93f463097bd4294c1cabed37917",
+      "bytes": 187469
+    },
+    "hsk7-boat-helm.jpg": {
+      "sha256": "74bd17ae3023abb8edf516c8e71da0e66aa321af24b5aa6277c9c8d29cc2896f",
+      "bytes": 212796
+    },
+    "hsk7-bodhisattva-figurine.jpg": {
+      "sha256": "691c3bcec915349e2defea2ece531a5597365ccfd13c65784b33629a3604a22f",
+      "bytes": 143360
+    },
+    "hsk7-boots.jpg": {
+      "sha256": "bcf1125b4112756647057aa685cc7d7359694db9f7d5b7d876b98ada41b32ae9",
+      "bytes": 244487
+    },
+    "hsk7-bowing-greeting.jpg": {
+      "sha256": "2694589c10b2d5bc4f937b56731efcc3ffd23f67874ae0106d020c05f8298c79",
+      "bytes": 171790
+    },
+    "hsk7-boxing-training.jpg": {
+      "sha256": "53e79d939bbc7d57203e20ba4556b18298671f6ae077bf43fc1e65d77d0a039f",
+      "bytes": 193700
+    },
+    "hsk7-braided-hair.jpg": {
+      "sha256": "38760e21afef73d5f0256aeeea3b9a4a965db21f7c20f14aad9ee957f2cc42f7",
+      "bytes": 141773
+    },
+    "hsk7-braised-food.jpg": {
+      "sha256": "0e7c9ecccb47ff897e0819d0a1b4f91a01eece44ec048e95eb550d8337a7a51b",
+      "bytes": 315696
+    },
+    "hsk7-brass-buddha-craft.jpg": {
+      "sha256": "fc50085781858f7c9080ec4b05c16f20bc76f743110a9766a342a60bbf082a06",
+      "bytes": 194860
+    },
+    "hsk7-bread-dough.jpg": {
+      "sha256": "d75ff1272b69df2a803e177ddf43a0f4e96393b71419afb0b7f8a736cd2fdc78",
+      "bytes": 261357
+    },
+    "hsk7-breaking-bread.jpg": {
+      "sha256": "7179161fccd73cc356bb04c251f811e9498f4c68c8e521404cdd0dabf48a172a",
+      "bytes": 207775
+    },
+    "hsk7-breathing-on-glass.jpg": {
+      "sha256": "3d880bd9f47d84af482baf9705ff1f7d48cc5c1d6e287b1cd849bad7040283fc",
+      "bytes": 226616
+    },
+    "hsk7-brewing-tanks.jpg": {
+      "sha256": "3b9fe4bbc9bd0447b5c0a91f83504ed5e519fd9da1920c1c508c8441f322e22a",
+      "bytes": 207049
+    },
+    "hsk7-broken-clay-pot.jpg": {
+      "sha256": "2b0f3b4f5d7c0771ed922ba79d25984a074fcd4b713f2723880dd032119279cc",
+      "bytes": 262383
+    },
+    "hsk7-broken-wood-stick.jpg": {
+      "sha256": "ff4eeb4bd46c1df60692f980a92f227b4b2c88f3f961f8769c9a593f9e93ef88",
+      "bytes": 216767
+    },
+    "hsk7-bronze-vessel-replica.jpg": {
+      "sha256": "6d7c5e7289b704432c92cb6373516a37320ef2cf9a1d8662847422625ee76de7",
+      "bytes": 189761
+    },
+    "hsk7-broom.jpg": {
+      "sha256": "d1438e6f8349fda1866100a43abdffd5bf7bea41f3896078ecd5ae7458aad78d",
+      "bytes": 168578
+    },
+    "hsk7-building-foundation.jpg": {
+      "sha256": "704752dd9b1dbb06963e041323e361cc1af1ab464ef105649fb632e908d0403f",
+      "bytes": 372449
+    },
+    "hsk7-burnt-toast.jpg": {
+      "sha256": "012e12e730f36d3c9e4ee3b69e6e7d3acda183a1b97314930b1f90ebfae60e37",
+      "bytes": 228108
+    },
+    "hsk7-cable-car.jpg": {
+      "sha256": "c9aa5c7cd04ce12a13b707aab153ee99d7a6741d75cda19e2d4bc0a19780101b",
+      "bytes": 296088
+    },
+    "hsk7-calling-awake.jpg": {
+      "sha256": "8ec357a19414bbecc26b0eb6bb5ba82be0bca54d3b87b6ab75e7f31cddb96abd",
+      "bytes": 192661
+    },
+    "hsk7-camping-tent.jpg": {
+      "sha256": "6f74ca7c16814c569cdd86754e8d2a73370c8f1b46924246cd3a23bd2d4c150f",
+      "bytes": 319603
+    },
+    "hsk7-canal-channel.jpg": {
+      "sha256": "4e6bd4620b78511d9fe81bac28536ee2613b504885ee2b3efc061444fe02efc4",
+      "bytes": 343302
+    },
+    "hsk7-canyon.jpg": {
+      "sha256": "9619c71bf927166e61f8e70dca92e39408929a875dafda6420181b01ad5dcd1a",
+      "bytes": 471347
+    },
+    "hsk7-capsule-teaching-props.jpg": {
+      "sha256": "a67656ba935cd98a1044f5a9cc6fbb0d9eacd87be3fe7a2631c84e8b29d80505",
+      "bytes": 155447
+    },
+    "hsk7-card-front-back.jpg": {
+      "sha256": "202a8981c869f4d504877d7daf874fea0fa75fe7ddc017afb0e6ce909c272543",
+      "bytes": 236864
+    },
+    "hsk7-card-table-drama.jpg": {
+      "sha256": "ea5de822250ab7f4bb4d667367bc79b8197a64aae573932d312dd91cfd2e0450",
+      "bytes": 220226
+    },
+    "hsk7-carp.jpg": {
+      "sha256": "0decf08684b847480ce9e4522dfea75c85aca6ebcd5e4b3f50f4eac6764ce894",
+      "bytes": 238105
+    },
+    "hsk7-carrying-bag-handle.jpg": {
+      "sha256": "2aceacb34e8391543c1853584e29efa4e28205e7cb78145c128428f1d617e475",
+      "bytes": 322730
+    },
+    "hsk7-carrying-rolled-mat.jpg": {
+      "sha256": "410f1eb47818ec23dbf2797b28b65388980a0aeaf17d6ac953154e335a9163e2",
+      "bytes": 271929
+    },
+    "hsk7-cassette-tape.jpg": {
+      "sha256": "205040ae0112f6e76275bed2593a064b9059a906fe2f9e301a163503f2487081",
+      "bytes": 268162
+    },
+    "hsk7-cat-licking-paw.jpg": {
+      "sha256": "86f7270446965935428fa2d0b78b4a83b81808487ec02c6cb7b452c598b21072",
+      "bytes": 244295
+    },
+    "hsk7-cavity-tooth-model.jpg": {
+      "sha256": "ef87a3c3a7428ad70a39aee7068d6cd0834ad0077896416a18bc634e4bedbfd1",
+      "bytes": 124903
+    },
+    "hsk7-ceiling-interior.jpg": {
+      "sha256": "90ee082ace50dbb87e863a3fde218738a44fd54f1ff2ee82696fb335d55804a6",
+      "bytes": 76351
+    },
+    "hsk7-cemetery.jpg": {
+      "sha256": "fd491a6feddb502aa937c488dcef2ac13cb0dcd55384cc0d17310ea3a839200f",
+      "bytes": 434721
+    },
+    "hsk7-changing-room.jpg": {
+      "sha256": "2a41e4699761ee8d75004b02b7e0dd40fed35cb3ca7bdb40d87275cdc94d707f",
+      "bytes": 176254
+    },
+    "hsk7-charcoal-pieces.jpg": {
+      "sha256": "48cae9c0d62021a2a5ef0c9122b08d95ffd6f8f42b9b47ad900c4d82b0844351",
+      "bytes": 246351
+    },
+    "hsk7-checked-fabric.jpg": {
+      "sha256": "f1fc680469acedf103d1a0bc4c788fe4c6ccc942443cde161cd1ecf37abf4df0",
+      "bytes": 299697
+    },
+    "hsk7-cheer-team.jpg": {
+      "sha256": "0ea995f3141b3b10d8f04b148a595652dfb80bcbee290ce22d60db3a3b539300",
+      "bytes": 307881
+    },
+    "hsk7-cheese-wedge.jpg": {
+      "sha256": "d3896212d842eff55a46cacdc5df57fcd7d7b6bac80c8d173ff8f0d95217f9cf",
+      "bytes": 165225
+    },
+    "hsk7-cheque-paper-prop.jpg": {
+      "sha256": "87ca37d9f28b49aa92fa30f1f5f722d4ab8a695bf2e469f45fcc8f0ac55c8787",
+      "bytes": 232620
+    },
+    "hsk7-chick-hatching.jpg": {
+      "sha256": "b4485df32c493b49dba0393656695853d44813acdc397a76f704aa2ab896b109",
+      "bytes": 222162
+    },
+    "hsk7-choir-rehearsal.jpg": {
+      "sha256": "3edeea551d64a39ed9543ee5aeb8eb84882e165e1b29a5f88da121ca9e889c1b",
+      "bytes": 183439
+    },
+    "hsk7-circle-diameter-model.jpg": {
+      "sha256": "7d77e93cbbd64e069212ad534de7c95733631322f424992e4a5b7eadafc97489",
+      "bytes": 239244
+    },
+    "hsk7-circle-radius-model.jpg": {
+      "sha256": "74034dca84b9c09b3a79083582aba576a1122438bbda9e804dbf314273ad0a80",
+      "bytes": 269177
+    },
+    "hsk7-citrus-press.jpg": {
+      "sha256": "d2d7abfe827f04e7513cc41b270ba5b3ebac7fbeced82eb6762ec93d58e57cf6",
+      "bytes": 217022
+    },
+    "hsk7-classical-function-word-cards.jpg": {
+      "sha256": "58f97a65f6cb81b33c1fd9e5686df2b70d857a724b5c9301f8a10c984e5b6dbd",
+      "bytes": 234373
+    },
+    "hsk7-clay-sculpture.jpg": {
+      "sha256": "6f1678994553122714a4dcfc552b34bdb2bedf00131083beb3ddb106166ec8f1",
+      "bytes": 237133
+    },
+    "hsk7-clay-soup-pot.jpg": {
+      "sha256": "8005f086afd111481dbe77b57f614dac3e9a1bcfffde89c6fbbc6790842d1ea5",
+      "bytes": 244139
+    },
+    "hsk7-clear-partition.jpg": {
+      "sha256": "6c592ef060689f82832c2828814463f0fe1cdf750605352c2137d08912894111",
+      "bytes": 188497
+    },
+    "hsk7-clenched-fist.jpg": {
+      "sha256": "4aff892b8f1d34cd037032873ec5bc44d1c5e37f6dd3404f6a6c5137dac3754b",
+      "bytes": 188085
+    },
+    "hsk7-climbing-vine-trunk.jpg": {
+      "sha256": "b9df274bb7a614dd4dbb67a472f30c74723f485aeaa53a5f3a1175bb3837de9c",
+      "bytes": 274686
+    },
+    "hsk7-clinic-record-review.jpg": {
+      "sha256": "3403f12e6925e92730a3169cbec54917799a405cee43679df8c75e2ea03b0c94",
+      "bytes": 180003
+    },
+    "hsk7-closed-barrier-path.jpg": {
+      "sha256": "eb9c17434c9210c121e2601ff9e9b0b58e661cc0e02d2a5dcf953c44f0c102cc",
+      "bytes": 357007
+    },
+    "hsk7-closed-coffin-prop.jpg": {
+      "sha256": "ed6e7f58f2745e89b8d9419a898da6fe64822e9cb0627c60aac6d144620e9559",
+      "bytes": 232011
+    },
+    "hsk7-closed-flower-bud.jpg": {
+      "sha256": "26e6f114a965afe42cfb8a65afd44481c6f8c113689b3380fc977849b6aecab4",
+      "bytes": 152592
+    },
+    "hsk7-closed-path-gate.jpg": {
+      "sha256": "7a0ebc38a178e7b5b80bc6f708473859e12a8228512149585b8092e8377ae2d7",
+      "bytes": 385511
+    },
+    "hsk7-closed-shopfront.jpg": {
+      "sha256": "bffd5f3f1181ec0fbba7fb0351ec386981607d7e55ee95adb275ad1c17878813",
+      "bytes": 290466
+    },
+    "hsk7-cloth-bundle.jpg": {
+      "sha256": "d4f857fd924ab2103d15f31bdb4c3d6f511df995a1ca61c5dcd91963e49d815e",
+      "bytes": 226992
+    },
+    "hsk7-cloth-covered-box.jpg": {
+      "sha256": "7fa1e06539338aff7e4e99974fbf244055dbce37a3b908b23b8639ea75a1f1aa",
+      "bytes": 188839
+    },
+    "hsk7-cloth-in-water.jpg": {
+      "sha256": "7dbbf770a0cb182e166fd38ed119ff6bc448814a3ea7c99c98bf613097323155",
+      "bytes": 218219
+    },
+    "hsk7-cloth-pocket.jpg": {
+      "sha256": "0cabf9df6d07ef66a1f595fe4c82aa4374f9483751e0dc173d1076d2f428dc41",
+      "bytes": 180490
+    },
+    "hsk7-clothed-abdomen.jpg": {
+      "sha256": "1ecbdc44c79a7c6ecd73065323c2eb82bb0323530fbd92d4072b2a8dbec082cc",
+      "bytes": 158394
+    },
+    "hsk7-clothed-hip.jpg": {
+      "sha256": "de0efb22e1c6992b54a8a422c7b4c47444cb2f6f2620cc80b6097853c6e18d73",
+      "bytes": 155508
+    },
+    "hsk7-clothes-dryer.jpg": {
+      "sha256": "6c507967b0283cb08db3f0e0e3473217cc7fb978bad2da6d153b693088ac017d",
+      "bytes": 219242
+    },
+    "hsk7-clothespin.jpg": {
+      "sha256": "8045a49a21701c9e4fd06bd4127b6db455c34f8613fba693954b38a679e0c260",
+      "bytes": 157292
+    },
+    "hsk7-cloudy-water-jar.jpg": {
+      "sha256": "07b1f7c1ca9f8a3b37bc6732ff3c9344f1220a641d75039bf17c5b4a4e9565b3",
+      "bytes": 159002
+    },
+    "hsk7-clown-performer.jpg": {
+      "sha256": "da46a159ba2ae0d868f3ebcc1d1b4d6a31e39af86679802e61dd2b931ac64897",
+      "bytes": 174154
+    },
+    "hsk7-coastal-reef-rocks.jpg": {
+      "sha256": "53e75e434046c8b9d0c3beff344a32c899f697a3115a6a28c5a6440de3c9f519",
+      "bytes": 300469
+    },
+    "hsk7-coastal-wave-teaching-model.jpg": {
+      "sha256": "c6178aa272c9762ddeda322070ee9d03d6bd1db2cd802e56f51267035c346f26",
+      "bytes": 248814
+    },
+    "hsk7-coconut.jpg": {
+      "sha256": "01fcd6f06d21802fc96772d943c3c286f280fe07716d526c24819c738ddd78f9",
+      "bytes": 250271
+    },
+    "hsk7-coffee-filter.jpg": {
+      "sha256": "ff8e448b16c02c82bc940562919956dd4715c46d28d2bd7a1febb548e7789c72",
+      "bytes": 203290
+    },
+    "hsk7-collapsed-block-tower.jpg": {
+      "sha256": "31c674e53a7314c5fac610a884cd8dc0781e400c44b2fc70a4c6170c514f087a",
+      "bytes": 175957
+    },
+    "hsk7-color-sticker-labels.jpg": {
+      "sha256": "bba82fb06941e89d79d274d41a6c8d8e9a269f3e8870984c675531a35bab9410",
+      "bytes": 206712
+    },
+    "hsk7-colored-gemstones.jpg": {
+      "sha256": "7e48505999389fcd592cb28a7171b3388c525e6ec993add11137250bf42a3787",
+      "bytes": 219915
+    },
+    "hsk7-community-funfair.jpg": {
+      "sha256": "3e1f5e41afc054e3129b9077301fb6bf3e8c9f618ef795112b4a5f1e5a3ca162",
+      "bytes": 413972
+    },
+    "hsk7-community-shelter.jpg": {
+      "sha256": "4249f0ccca70756a6ad58daccfd62e4cfa210b6ea808d81b419853b32c09129a",
+      "bytes": 229089
+    },
+    "hsk7-compact-disc.jpg": {
+      "sha256": "7ff2560771fd89339024ae664512d7c964d6014fe0c825f73c17f9a98a17ec80",
+      "bytes": 196733
+    },
+    "hsk7-contact-lens-case.jpg": {
+      "sha256": "51144e993b45157ba22079853783ff169c794315c0a5b7b5477bd7c8cba3bdd4",
+      "bytes": 131124
+    },
+    "hsk7-contained-embers.jpg": {
+      "sha256": "9654b433f1c412d501a67a2f56cdcca91eac78f816d5f9e4b545f9d505014fc3",
+      "bytes": 187424
+    },
+    "hsk7-converging-streams.jpg": {
+      "sha256": "1f6d7d3ae8d3a53bedb160cc1f5650c48b8f455171d3377d9209fe00e4fc4d1c",
+      "bytes": 471872
+    },
+    "hsk7-convex-disc.jpg": {
+      "sha256": "784428957564d9b2bef483847d28ab766c4d2df0a913b8bebd7917db10a47df4",
+      "bytes": 228197
+    },
+    "hsk7-cooking-smoke.jpg": {
+      "sha256": "2326fa1abcc096bb4688226a50718c7157146978041f387d2d0c3566dceed90b",
+      "bytes": 484069
+    },
+    "hsk7-cool-cloth-forehead.jpg": {
+      "sha256": "e5d15938bf5eff15045836bdfbbdd2966c0911d3b8f08dbfbf0fdb36ff1fa739",
+      "bytes": 210607
+    },
+    "hsk7-corpse-stage-dummy.jpg": {
+      "sha256": "c2e22aee501f1405c4754faaff091225e95b9b7e7a9a0016d6cccfcdc94a63e0",
+      "bytes": 200658
+    },
+    "hsk7-correct-typo-cards.jpg": {
+      "sha256": "c91e114b844764b8400745b96ebbaf450cd5c23a271640a30abd620909bd1f78",
+      "bytes": 216019
+    },
+    "hsk7-cotton-bolls.jpg": {
+      "sha256": "ca80974b0e1f980c4cf692e05e988aef68e4a119e06f5b505d82e67b1d0e4377",
+      "bytes": 232335
+    },
+    "hsk7-countdown-cards.jpg": {
+      "sha256": "149dc296dd70df0dd4eb5c35fb3b89a8f21e088795301e54877cf7a5e0c8c7ee",
+      "bytes": 156337
+    },
+    "hsk7-couplet-display.jpg": {
+      "sha256": "e6ec80c895ccb4e78bb177f33960a1058e2501d23e2a95a5161d56d380a9387c",
+      "bytes": 371686
+    },
+    "hsk7-cow-pasture-worker.jpg": {
+      "sha256": "e3f2bd1e5b3dc718f4ed2fb4b67b30d28543de9f5ebdc0fa5a2238c7c4f97f33",
+      "bytes": 375727
+    },
+    "hsk7-crab.jpg": {
+      "sha256": "f952390f230afb3e36b82c11cc6713e44e9993265fe30a1a1e1a54f83e2092b1",
+      "bytes": 410155
+    },
+    "hsk7-crocodile.jpg": {
+      "sha256": "0fc26f4d0bee170326c3508d646a7efd0fcc50eae3fb95640903f1d031a6620f",
+      "bytes": 378764
+    },
+    "hsk7-crossed-sticks.jpg": {
+      "sha256": "af6483636f3245d2cc84236a7dc360fd7efa332b4a6a7ddcd0e7b1c79b979cff",
+      "bytes": 258583
+    },
+    "hsk7-crumbled-chalk.jpg": {
+      "sha256": "6e5e255c09a52ef287a87804ec21504b11d88cb6db14382d5c88ffd034c69c3d",
+      "bytes": 199026
+    },
+    "hsk7-crystal-cluster.jpg": {
+      "sha256": "d8f82227a3711e31a79f66f0d5b7afa0a08be428ae7e6790fb0a6dbf78daa997",
+      "bytes": 182105
+    },
+    "hsk7-currency-teaching-coins.jpg": {
+      "sha256": "800fdf896ad15ec92ce493374328fec7a16cd66c6ed19128294169198a539117",
+      "bytes": 261983
+    },
+    "hsk7-curtain.jpg": {
+      "sha256": "451f7899b64f8760f9c0a9de7d88a5d813c33dfc776baa8c1c3b3beadeddd674",
+      "bytes": 220491
+    },
+    "hsk7-cushion.jpg": {
+      "sha256": "b91e97ab5ad2e31d76300881dd817c11d88b4228cb0fb83c3bd9442a3dda1487",
+      "bytes": 219090
+    },
+    "hsk7-cutting-cloth.jpg": {
+      "sha256": "48b0aa0aee772a053c579cec12f615779567001b14a9465d07e3de4cc847e3fd",
+      "bytes": 197612
+    },
+    "hsk7-cypress-tree.jpg": {
+      "sha256": "433a401a10e49ac16afca22ae259daa87786072ee9918e4df5d10e8810684ed4",
+      "bytes": 421530
+    },
+    "hsk7-dedicated-store-counter.jpg": {
+      "sha256": "e2b5145bbc6b6bb2e1c548098eede3b31367e012cf571f4955c26be76463194e",
+      "bytes": 194503
+    },
+    "hsk7-demolition-site.jpg": {
+      "sha256": "bd399db4cb62b32e4ef83853ed1432e443e16368aa7c83767576bef952f1f7a1",
+      "bytes": 411115
+    },
+    "hsk7-dew-leaf.jpg": {
+      "sha256": "6656eb7f2ad08ec852f292f20e55da0b67b80b160b9a869748fc1c4bf9e0d497",
+      "bytes": 157057
+    },
+    "hsk7-diamond-replica.jpg": {
+      "sha256": "d11079444cd1457ede8a80e1cd757cd48245c46bca3c6570316b60034edf635b",
+      "bytes": 210047
+    },
+    "hsk7-diced-carrots.jpg": {
+      "sha256": "67f01c55c313be41ebd168ffe0e3d4001c02b8ff5c412619fd843a5850ef1a84",
+      "bytes": 214825
+    },
+    "hsk7-dinosaur-model.jpg": {
+      "sha256": "ad08da21ec112b0dbd5131d2eed910d3a4c35e9bc336e4ad831b05c2a5174822",
+      "bytes": 224619
+    },
+    "hsk7-divination-stage-props.jpg": {
+      "sha256": "294c5ab7439e2741635108a5625104bff875db1394a7742f20deaaea9cb8547f",
+      "bytes": 197290
+    },
+    "hsk7-dolphin.jpg": {
+      "sha256": "9199e19b0a2e5e9d63affe394aab69504f5e78ccb8ad74da08dcda8fab3e2417",
+      "bytes": 173120
+    },
+    "hsk7-donkey-baskets.jpg": {
+      "sha256": "9f66b89054638edc82114b579d8a8d502153c433f6a33de477e982c0ac62e4cb",
+      "bytes": 351266
+    },
+    "hsk7-downcast-posture.jpg": {
+      "sha256": "c2776e8a45a146bc43bcc735964b379e868cb3533215ea74ecb96b77246070c7",
+      "bytes": 231345
+    },
+    "hsk7-drawing-straws.jpg": {
+      "sha256": "7e186dc6c305f913d2684fe8fe879c385adcd2d78b49ddd10caa5e9b80c91ead",
+      "bytes": 202572
+    },
+    "hsk7-dripping-stone-story-model.jpg": {
+      "sha256": "0b46fd73edb581e1b7f47643a688e45f846fe647a9a518c127fe620989878023",
+      "bytes": 220694
+    },
+    "hsk7-drug-prevention-lesson.jpg": {
+      "sha256": "aa483156e37ae7b52a02af36b1189b0bc713641ed7d8c56ec057cdeb0de7917e",
+      "bytes": 220276
+    },
+    "hsk7-eagle-flight.jpg": {
+      "sha256": "7e797a2f603148f9a315dc282a4a1930ee6128c3a667fc660eaf767c4b50e36d",
+      "bytes": 217243
+    },
+    "hsk7-early-embryo-model.jpg": {
+      "sha256": "40eacf711065ba6dd8bf1ddb8bc89194ba79fcb9361f8d1f449d2d2fee6da8ff",
+      "bytes": 133696
+    },
+    "hsk7-earthenware-jar.jpg": {
+      "sha256": "88afed06e2a7ffebf6a4222946e93c54612681200bddca92be6760ec6461db09",
+      "bytes": 271727
+    },
+    "hsk7-eight-of-ten-counters.jpg": {
+      "sha256": "99115e7464301719c5d92aab11bae3f4c45a7900a63008fcc5b91ab4f2f33ca9",
+      "bytes": 233986
+    },
+    "hsk7-eleven-counters.jpg": {
+      "sha256": "542f7e718e913a1f3e796eb4b963da53b677c6c196716239abb52f2dcbbc0b8e",
+      "bytes": 251413
+    },
+    "hsk7-embroidering.jpg": {
+      "sha256": "23431541a424789f6b971b6dbb8057e2ba593409ae8b387d2226834d8f3c32e7",
+      "bytes": 298055
+    },
+    "hsk7-empty-cradle.jpg": {
+      "sha256": "e252d4f425ba13c3f95e4f6b33e3af3f00f20ddee9489a53bf5af8da26c91878",
+      "bytes": 210089
+    },
+    "hsk7-enclosed-laser-demo.jpg": {
+      "sha256": "e32b8ee95c60caae8d469e0e298be32d74a3a3135770b09ae529f6c7d064b961",
+      "bytes": 154196
+    },
+    "hsk7-enclosed-wood-stove.jpg": {
+      "sha256": "5a0b224a60ae6f5c74373a4d6c6065d811d86c60c43cbcc375690d251b9ba384",
+      "bytes": 228320
+    },
+    "hsk7-engine-static-model.jpg": {
+      "sha256": "9e4d57318bc10aa830aa28d64fdfad832a052a98c37d6e873729f3ffe5a250ba",
+      "bytes": 239829
+    },
+    "hsk7-environment-poster-preparation.jpg": {
+      "sha256": "26707b73ef41eccc2e983f5c958316b1a27317e5b1bc231ad47457a4919b25a9",
+      "bytes": 221038
+    },
+    "hsk7-equal-arm-balance.jpg": {
+      "sha256": "d7edc731dbbabaa1457711c8c2d499e5b94a2cad3cc690599237d20336daf6e0",
+      "bytes": 147543
+    },
+    "hsk7-equator-globe.jpg": {
+      "sha256": "fce9dc8c0b007ab4c5e6a6cf76f4347b13d45718a139e88cb60a0aff4a5023e7",
+      "bytes": 220905
+    },
+    "hsk7-event-mascot-plush.jpg": {
+      "sha256": "64cacfdb13534dd483ada7e2d176ffd1fe724048701fc260f56f9f6da35b1652",
+      "bytes": 215257
+    },
+    "hsk7-exchanging-glance.jpg": {
+      "sha256": "33adb81846858705b47c181822d1887811023d5b317521af57fe2949986150af",
+      "bytes": 236268
+    },
+    "hsk7-face-mask.jpg": {
+      "sha256": "9e21645e75f20b75ead16b7c0ecc795758264c362506021715707546a8a60fad",
+      "bytes": 154775
+    },
+    "hsk7-fairy-stage-actor.jpg": {
+      "sha256": "d59e9a5e0f6e6bbb10cc3c425125436483f409386a96ee8043a4de186ff82288",
+      "bytes": 181047
+    },
+    "hsk7-fallow-overgrown-field.jpg": {
+      "sha256": "922a8a6b9e981f61089d5c345478a2cb51ac8d7e3ac08ab6b3bc96dd27d2cfac",
+      "bytes": 460740
+    },
+    "hsk7-family-with-son-in-law.jpg": {
+      "sha256": "962de708c9d92a0683a967bd8ae780fe9e8ca9574bbe6ff6c5868cdadf6b2949",
+      "bytes": 269690
+    },
+    "hsk7-feed-pellets.jpg": {
+      "sha256": "60e1228c8ba3fc44319a44a4c9f0b4fbb9d53eec3a66d39288a272a8666ce038",
+      "bytes": 311099
+    },
+    "hsk7-fertilizer-granules.jpg": {
+      "sha256": "c82ca2ddaeb41f35f51313b59fbcf2cab3dcee3b9233fa34b8aea6c9a435e3ac",
+      "bytes": 270245
+    },
+    "hsk7-fetal-womb-model.jpg": {
+      "sha256": "feb378a1a97a169fa1b7b23f542eea12e661ee4f1175ff53aeb10cd401881cba",
+      "bytes": 161382
+    },
+    "hsk7-fiber-optic-cable.jpg": {
+      "sha256": "ddb6973634e81a1d83b2025f8c8dd51d1f5c42f57ea877578638ed11dfaa1a45",
+      "bytes": 191751
+    },
+    "hsk7-fictional-national-emblem.jpg": {
+      "sha256": "1ca83d0b96580fc1c1a1441218dee19960bf0b54b7985972a8a405a30732e7d6",
+      "bytes": 213661
+    },
+    "hsk7-fictional-prison-corridor.jpg": {
+      "sha256": "14f8b22b14874ca6b966c6853cf4b32fa5fcbbb70e6aa2e09718bbf294a4bcef",
+      "bytes": 292199
+    },
+    "hsk7-filling-cloth-bag.jpg": {
+      "sha256": "794298c7d8b96c46a55b2b279a3909012d018de7740b1596fb4779aa151f456b",
+      "bytes": 200278
+    },
+    "hsk7-fingernails-hand.jpg": {
+      "sha256": "58a6f90b50ddecfddb748b36e2d8a55c317d5f82cf5dd269ab3e1af7ea9c2ae7",
+      "bytes": 329531
+    },
+    "hsk7-fingerprint-learning-card.jpg": {
+      "sha256": "1f5989dd2258f505ee13632920a221766ee1b534eaf3273ef460a86e38305d66",
+      "bytes": 259517
+    },
+    "hsk7-firecracker-decor-prop.jpg": {
+      "sha256": "9e3c085ce645b1979f37aaae612a06590a35689906e4c22a3c746af391e6f2a0",
+      "bytes": 146049
+    },
+    "hsk7-fireworks-sky.jpg": {
+      "sha256": "2e19f4e00235ff68f5137035ec5ed85723056b689c9d665c864f92ce6c0bded2",
+      "bytes": 187049
+    },
+    "hsk7-fishing-boat.jpg": {
+      "sha256": "a4bb96654cf43a07382e29b7b2a695254cc3d655d5fe4ea53ba11326c5dbcd81",
+      "bytes": 285801
+    },
+    "hsk7-flour-sieve.jpg": {
+      "sha256": "ea2c803f7ab8e498fe3ac39a32f3b8188c5f04934fd8fdef03adcca743064f46",
+      "bytes": 219198
+    },
+    "hsk7-fluorescent-teaching-beads.jpg": {
+      "sha256": "c9b15ea27f6e98420cdf1fcf2234450804c6395d284df95ec6a55615d5f2a3c1",
+      "bytes": 194933
+    },
+    "hsk7-flustered-actor.jpg": {
+      "sha256": "555d4279c1ac44952ede996af4a9a0ae439b951a4bbe8e7c30985156a9c12783",
+      "bytes": 204124
+    },
+    "hsk7-flyer-distribution.jpg": {
+      "sha256": "06669547e351a88c2218842f11e852374d979ba1d316ab36934d58d7aff35d8e",
+      "bytes": 207077
+    },
+    "hsk7-flying-saucer-model.jpg": {
+      "sha256": "99a90b3d1ceeca023bff8c99d42392b3385bd614fe25d99ce80e89cbd96ba903",
+      "bytes": 177300
+    },
+    "hsk7-forked-path.jpg": {
+      "sha256": "51b07628571eb678d096d93466274536a53e5259b52107483922959ba34af34a",
+      "bytes": 465963
+    },
+    "hsk7-fox.jpg": {
+      "sha256": "895df0989bf18b64c0b2a3179ae8bbce4c9da433375335023f3589b02c5d4e38",
+      "bytes": 324758
+    },
+    "hsk7-friendly-monster-toy.jpg": {
+      "sha256": "2d204e6c24a0e14b8be99c73497c64f07842b111e8bcd31e4e196e9fc8097fa8",
+      "bytes": 223635
+    },
+    "hsk7-frog-land-water.jpg": {
+      "sha256": "a144af04b09f672faf76c8150728f5c4a2456ca9f1ca0775368debe8d1c1d26b",
+      "bytes": 279400
+    },
+    "hsk7-frog-well-model.jpg": {
+      "sha256": "f0171fbdc261cf620ffd8830d10774e18e44eace0f5f329b15a687d14c338271",
+      "bytes": 281534
+    },
+    "hsk7-frost-leaf.jpg": {
+      "sha256": "d4929472194174ec8fb1eb167fb1721f65217e2cf010df2d7b816e879273590f",
+      "bytes": 415745
+    },
+    "hsk7-frozen-food.jpg": {
+      "sha256": "85894887c99350c28b4c70ddbf0fa78badddd3e569b8e0431b88690f78eba2b2",
+      "bytes": 241436
+    },
+    "hsk7-fruit-pit.jpg": {
+      "sha256": "478d6d2cd148f9b4220b7b1033d1f126ca5b4f4d19b364a0fa3b0d90bf2696b6",
+      "bytes": 227637
+    },
+    "hsk7-funeral-flower-table.jpg": {
+      "sha256": "139789652db212ef525c647310d8d85eb8b2c8d12b1b90577ed4bac7072d1f60",
+      "bytes": 174265
+    },
+    "hsk7-galaxy-teaching-model.jpg": {
+      "sha256": "02763ef78e10829b828fcb31a9ddc7b65fe827dfcaf5014f0b4d3225890293bc",
+      "bytes": 305066
+    },
+    "hsk7-galloping-horse.jpg": {
+      "sha256": "31956ff8b83ce47a3cbfe32b51f45bb1eb86d1a2d8783af05bf00d906b74372c",
+      "bytes": 245755
+    },
+    "hsk7-garden-hoe.jpg": {
+      "sha256": "497cd2a27c5f98ee4931fd1d99ffa6c920b8b5e9b733d81403e9d5d04ee4e964",
+      "bytes": 403687
+    },
+    "hsk7-garden-plot-preparation.jpg": {
+      "sha256": "69308674b9a9280d49f56346c445e85cd434bf142de1c47baf57b078181152af",
+      "bytes": 363608
+    },
+    "hsk7-garlic.jpg": {
+      "sha256": "2b14c3e9a53347371c9169288155f5317f8ab19fc1cc1b0a6fc5b706516d0014",
+      "bytes": 219290
+    },
+    "hsk7-gelatin-cubes.jpg": {
+      "sha256": "4e4dfc01ab9a157be742a5fca8708c4285c964717982c2b89e5996ece263cfa5",
+      "bytes": 194561
+    },
+    "hsk7-ghost-stage-prop.jpg": {
+      "sha256": "a943e8f01be69e1f525a75969a10f2f0e8e00cf40a461eb05e6a364ea804171a",
+      "bytes": 168749
+    },
+    "hsk7-giant-story-figurines.jpg": {
+      "sha256": "66f0d6e800e5eeab42e4c8bf44886ac948da8489802bb72219aa659f12895531",
+      "bytes": 190171
+    },
+    "hsk7-ginger.jpg": {
+      "sha256": "e490ddbe401a2d1c4d0aebd66c0718842ebbed93975e180304994d2413f78cfb",
+      "bytes": 298340
+    },
+    "hsk7-glass-noodles.jpg": {
+      "sha256": "1e50c61f85c065d31e034b4b8cfcebc6b4e162bc1a0beff3278f9fe3c0e5ffc2",
+      "bytes": 254752
+    },
+    "hsk7-gobi-gravel-landscape.jpg": {
+      "sha256": "d78ed23760a149722024449fa45cb2849791df9b56c458afc5b2df19be65dbbf",
+      "bytes": 354946
+    },
+    "hsk7-grain-harvest.jpg": {
+      "sha256": "2b376ec9dfe25a109f3fd92def0da880ff5da404604a9af737274c1d4165c6f3",
+      "bytes": 376917
+    },
+    "hsk7-grand-hall.jpg": {
+      "sha256": "cd722f2e48d62b0aa1d3ecd5576d95feff74aff253254ee84478aacf6ed36ceb",
+      "bytes": 265722
+    },
+    "hsk7-greenhouse.jpg": {
+      "sha256": "66117615abe3ce1afab89517078abd96cd4ccec4ba14a1f41e1f7da847fd3187",
+      "bytes": 379628
+    },
+    "hsk7-groundwater-model.jpg": {
+      "sha256": "cd16edd89c2c0021ad3e63799383de23292a20c64649ed19f112f297e676dd3c",
+      "bytes": 280381
+    },
+    "hsk7-guided-evacuation-practice.jpg": {
+      "sha256": "6af54ebb8cf4ea4900427416f8ab2e36871839290396a19ed091af9a2baf2d8f",
+      "bytes": 184155
+    },
+    "hsk7-gum-unwrapping.jpg": {
+      "sha256": "1f8dbf92d3128097ba161d8270635397b05879c2ddb86185cc89caefae65ce8f",
+      "bytes": 225570
+    },
+    "hsk7-hailstones.jpg": {
+      "sha256": "788b8b1f2bc6f51d7c3a99b0336dc8ef5ed6f82b1462849be287d384988429fd",
+      "bytes": 262489
+    },
+    "hsk7-ham-slices.jpg": {
+      "sha256": "17fd69c3cd51a9193ed424971f4eec2b19d4bb39044a676a865541761875f698",
+      "bytes": 196214
+    },
+    "hsk7-hanfu-adult.jpg": {
+      "sha256": "6488ffac11047144440f260bce4eff64dd4cf935a6403d69d524f81faf2e5dca",
+      "bytes": 252975
+    },
+    "hsk7-hanzi-component-cards.jpg": {
+      "sha256": "706dc5f9c88aa1b186989836cc3426926898952854bf235982f7b2c15fcb29af",
+      "bytes": 243974
+    },
+    "hsk7-hanzi-font-cards.jpg": {
+      "sha256": "8a2012a9172908c5599dd6451c134150859dfc8b90ee6b0ea6e6bfa581a7cd9b",
+      "bytes": 228213
+    },
+    "hsk7-hard-disk-drive.jpg": {
+      "sha256": "2c240364bccbaa0a01e30de29702eac352273f6e9af202ec8255be916a827df3",
+      "bytes": 213670
+    },
+    "hsk7-healed-scar-arm.jpg": {
+      "sha256": "c428e5d0af05b0c3e28a52e5a9954e5b608a87fe0c91e4ba3329481fd9d464b1",
+      "bytes": 178885
+    },
+    "hsk7-helicopter-model.jpg": {
+      "sha256": "1b8fddf376c4807171ce3b84304c598df51ebea1411d98ae3a6e714018f80926",
+      "bytes": 189456
+    },
+    "hsk7-highway-overpass.jpg": {
+      "sha256": "a908f7b3b57180b24be713fec9e0e3f11f2d0dc1361f939a902c195388dd649c",
+      "bytes": 391919
+    },
+    "hsk7-historical-captive-rehearsal.jpg": {
+      "sha256": "e120be90273fd26c837fecd0214b2dbb26e49795eece12dedc24f3a0a78896e6",
+      "bytes": 223402
+    },
+    "hsk7-hogging-chair-stage.jpg": {
+      "sha256": "0df5f875e43b5faa8ed4bb3f6107d5ab8af32d8123014f619e3a3df99d547a4a",
+      "bytes": 232147
+    },
+    "hsk7-home-housekeeper.jpg": {
+      "sha256": "03cbc45948b45b5c21f7ac45b03b37040f1a7c8ed2480329127eeae5e55784d8",
+      "bytes": 195649
+    },
+    "hsk7-honey-jar.jpg": {
+      "sha256": "5460ec85dca95b6b613f907f27562849bf26ecd1e89eca2f5bcb695582179060",
+      "bytes": 216765
+    },
+    "hsk7-honor-medal.jpg": {
+      "sha256": "222bbaec52229bce01029ba57dbf7d928eee5170ed9b01451af25e637eab5fc9",
+      "bytes": 213662
+    },
+    "hsk7-horseshoe-magnet.jpg": {
+      "sha256": "dbe5fc7ad78a6084f90ecf8611e93319ffd1baa8f958137b6cc6da05fd0eb202",
+      "bytes": 204198
+    },
+    "hsk7-hot-spring.jpg": {
+      "sha256": "dac4554191c89cf4d9a34441236b5f06b98e118d8d3a1ba229d609bcac07a634",
+      "bytes": 367714
+    },
+    "hsk7-housefly.jpg": {
+      "sha256": "09950adf913c50f397464a2a1e16ebbee2ba92c6b33d5cd38ed2bbf8f38936f3",
+      "bytes": 220830
+    },
+    "hsk7-iceberg-water-model.jpg": {
+      "sha256": "f5c3a1a9b19eb5a9807de8aec3fc46412ed26ce1846e7838dfe341e8d3d93333",
+      "bytes": 189463
+    },
+    "hsk7-idle-office-worker.jpg": {
+      "sha256": "d32637562502c7445c35f1d573ef21e6298222c4209cbd266c3bf3fcfc7ec0ed",
+      "bytes": 177484
+    },
+    "hsk7-increasing-blocks.jpg": {
+      "sha256": "d1acb7efbd0133df5ee7251fa37dc2c8e2e4463b3ef2ae1df385ecf1f4cb1698",
+      "bytes": 176116
+    },
+    "hsk7-industrial-park.jpg": {
+      "sha256": "7f800bb13f69cd60a57e9e8e2e01fe4a884e8cbcde81783f95aaac8e258e11fa",
+      "bytes": 296393
+    },
+    "hsk7-inert-cartridge-replica.jpg": {
+      "sha256": "3eb4da2bbd46ea94fc6fd8bb2f5295576c33303372cc45d56a7cd513e838af8b",
+      "bytes": 184559
+    },
+    "hsk7-inert-droppings-model.jpg": {
+      "sha256": "97e526652d59dcef6e1552fc5b352003103c43252c762beeb753036f7b12b6b9",
+      "bytes": 169741
+    },
+    "hsk7-ink-bottle.jpg": {
+      "sha256": "4a2c1ebba3f1c3e40ab9ae4dd437927455ea0a249f76e46ed197f0c8c027d9c7",
+      "bytes": 209714
+    },
+    "hsk7-ink-diffusion-water.jpg": {
+      "sha256": "b5f052b6193dfe1d7330c5ac46a75387eb6c150d601df6bcc86084fb42187adf",
+      "bytes": 138335
+    },
+    "hsk7-inlay-craft.jpg": {
+      "sha256": "68dcc2562ce409e5fb49c4fefb199d221422be304e1efeed2465b9337b539372",
+      "bytes": 211876
+    },
+    "hsk7-inline-valve.jpg": {
+      "sha256": "d985a8fb9780d352fd0107a6dfb82f7313a67178af22ce195896bb36c8e39fcc",
+      "bytes": 163768
+    },
+    "hsk7-insulated-cable-sample.jpg": {
+      "sha256": "b1af94b14bf1e7c33525f7a04fc09a447093e566af3c3d50d0f2442d7c183665",
+      "bytes": 130962
+    },
+    "hsk7-interlaced-cords.jpg": {
+      "sha256": "0c04e44a3db88149af68599ee9b7f5242f43c7ab12092486c269c834f916097a",
+      "bytes": 322506
+    },
+    "hsk7-invitation-card.jpg": {
+      "sha256": "2f9937c740f0ec487a90e9a55c7e9b22353be2438d492500eb0d17e2e2dc866a",
+      "bytes": 226858
+    },
+    "hsk7-iou-paper-prop.jpg": {
+      "sha256": "4d13b31a80acf48e0177f90d6325f75fd15834cafc9e5ceb4a23dc914666f0ea",
+      "bytes": 225810
+    },
+    "hsk7-ironing-shirt.jpg": {
+      "sha256": "f84a823143ea8c904544f6d11fdb4d2247e42d3782d6d0ca168829d6248c5a03",
+      "bytes": 194363
+    },
+    "hsk7-irrigation-channel.jpg": {
+      "sha256": "15a77fe1c32449c55b94cc213e3dd987c405df9e0f835f78ae805b587804aaf2",
+      "bytes": 415148
+    },
+    "hsk7-jade-disc-teaching.jpg": {
+      "sha256": "90f60462c6dbd03a8a46a03a317f6e8494cfb4470f654375161a692dfff2c8b8",
+      "bytes": 261409
+    },
+    "hsk7-jasmine.jpg": {
+      "sha256": "23b22d183ac5403ddb7a387e2131cf4857784505516662d78aa1e75fd9b0ee84",
+      "bytes": 239679
+    },
+    "hsk7-joint-clinic-consultation.jpg": {
+      "sha256": "87154e57d64203286956a09524aea72ebd906cd4ef5c93616d91bdbb765ce8cf",
+      "bytes": 197285
+    },
+    "hsk7-joint-teaching-model.jpg": {
+      "sha256": "87d6a31be115fce90d2e6a2795fc1ee99beae1b276d5a69a212b94e61d284f4d",
+      "bytes": 144128
+    },
+    "hsk7-juggling-balls.jpg": {
+      "sha256": "a8a739e22186cc5fc1efbbf31bdf234e75c00e56ae090a942abd113839ddea2f",
+      "bytes": 147649
+    },
+    "hsk7-jujubes.jpg": {
+      "sha256": "f64154991e3b794098a80f5ef863f6419bc04be25ec0b02786dd400b6aaf95c4",
+      "bytes": 251583
+    },
+    "hsk7-jungle.jpg": {
+      "sha256": "874ebf4635dac3a732de002248d16cdb6decc86a60e7d79a719b67f559b62819",
+      "bytes": 514320
+    },
+    "hsk7-kidney-model.jpg": {
+      "sha256": "6e0efbc230f8b27e4713747856cb8fc318bea6130b2a969418e391d88c8dd2d9",
+      "bytes": 170785
+    },
+    "hsk7-kingfisher-with-fish.jpg": {
+      "sha256": "2f9eb133e481379d40db647dcd2725ab9d945430a9717a378cc03dd5a7eea3b8",
+      "bytes": 214932
+    },
+    "hsk7-kite-flight.jpg": {
+      "sha256": "ebfb2a3b0de85516928119b80621bcc1e58778a62850e72bfa9cc645b912fcea",
+      "bytes": 154207
+    },
+    "hsk7-latitude-globe-model.jpg": {
+      "sha256": "0904eada5d96fe1b8b51f89760bafcb0d0b8ac62385803a77a6b172f0e157204",
+      "bytes": 237817
+    },
+    "hsk7-leafy-stem-closeup.jpg": {
+      "sha256": "b351d7bfe85188751af486916af2eb47208bda80bb15fe7f480389d07d39c63c",
+      "bytes": 255282
+    },
+    "hsk7-leaning-prone-table.jpg": {
+      "sha256": "e41c91c998f93e4257d19af3405a6cd34a8c46ce1ea65880425f44eba49d1044",
+      "bytes": 197556
+    },
+    "hsk7-left-falling-stroke.jpg": {
+      "sha256": "2f4d3420247dfd5a5359b6c20f9f2910a224d72364868e548304a9e37e2d7300",
+      "bytes": 239088
+    },
+    "hsk7-leopard.jpg": {
+      "sha256": "79f22c1102f5b147793d1e19e433f5fe61eba38cb890f31448af4019cd8e1e94",
+      "bytes": 361951
+    },
+    "hsk7-lever-demonstration.jpg": {
+      "sha256": "4df47ba64d49fcb4671d4fbe4255078842a790e75a3b2f9e6cf3df11112dc17e",
+      "bytes": 157397
+    },
+    "hsk7-lifting-cloth-stick.jpg": {
+      "sha256": "38b0eb2d82d7b4d82d163351b6e63948725d111a7166e925f5308fece3808c64",
+      "bytes": 211050
+    },
+    "hsk7-lightbulb.jpg": {
+      "sha256": "6fccba44bd3a51acd0b96f8a4d7f4d49b0e01e99527e9f269d97cefb562323b3",
+      "bytes": 177733
+    },
+    "hsk7-limping-stage-actor.jpg": {
+      "sha256": "7ee26f8c283ef9d04ef3e3cf3e6770c6edb0b94be34a08580eb0ae56d626f04e",
+      "bytes": 191180
+    },
+    "hsk7-linen-fabric.jpg": {
+      "sha256": "d2c3ca393145bda0fd6db4d96efa99935a32a71cb39390f95102b032eb85f2af",
+      "bytes": 358970
+    },
+    "hsk7-longitude-globe-model.jpg": {
+      "sha256": "2d4b82a94e4c55407e72dd0a0c7772bf9bbbe737db9cd7e224c6ecf7e48be5c5",
+      "bytes": 165636
+    },
+    "hsk7-lotus-blossom.jpg": {
+      "sha256": "41740bd93a3165766861a2cb821f43d882a2fbe8b9528f34417def70d82eaa63",
+      "bytes": 215391
+    },
+    "hsk7-lotus-seeds.jpg": {
+      "sha256": "5736e68431c539e1ec7bf3ccc73e67c5bbb65b2b3ca044abc854862a0f52144c",
+      "bytes": 209563
+    },
+    "hsk7-lunar-date-card.jpg": {
+      "sha256": "b5f19f381c8064cdad027c5de5f4069c33f341d4993319f94f58e68c84bcf9fd",
+      "bytes": 191089
+    },
+    "hsk7-mahjong-teaching-set.jpg": {
+      "sha256": "4003ebecd997fa5ac6fd02196ee12fb62d413fad862e357b16d443d4d3ee469b",
+      "bytes": 257186
+    },
+    "hsk7-managed-log-stacks.jpg": {
+      "sha256": "c2de81bb4b66d50d9b9cb6e8ceb28fd68f97267d06846b0c50c40a25f292480c",
+      "bytes": 470059
+    },
+    "hsk7-manor-garden.jpg": {
+      "sha256": "c4f59a081abb8cba1675880dc21e3edc9e05eecf31cc893ad5c573d7964f6c57",
+      "bytes": 436248
+    },
+    "hsk7-meatballs.jpg": {
+      "sha256": "7e30427f1ce58eff2f9f054c6a5b7eeafbc43ce947c997bd2cef0dfad74522b9",
+      "bytes": 236969
+    },
+    "hsk7-medicine-measure-teaching.jpg": {
+      "sha256": "54aa51335fa10b7e662dd9008cc42a845b5677687201bd450dbebfdae8a233e7",
+      "bytes": 144565
+    },
+    "hsk7-memorial-offering-table.jpg": {
+      "sha256": "157842f05fdfb21bfee38fc95de7b8a9a5bc750f4eed22c9be58618c0158c161",
+      "bytes": 253472
+    },
+    "hsk7-metal-casting-model.jpg": {
+      "sha256": "f0f3e34e3db68fd2f2cdd9ccb8cbb6c5f7f4adbb28f8046e57ceb7880e5e4a9a",
+      "bytes": 228409
+    },
+    "hsk7-metal-refining-teaching-model.jpg": {
+      "sha256": "60e92389eefbd346287d01dfe72689dd3e88e8090872df3c0ea38b1a0e4bc8bf",
+      "bytes": 258026
+    },
+    "hsk7-meteorite-replica.jpg": {
+      "sha256": "bdfa723bac05cea72bf8cb4efe7e883a0492ba24513d4f8b56269ad0657c6134",
+      "bytes": 238109
+    },
+    "hsk7-microwave.jpg": {
+      "sha256": "93704596021df7dbc984276064423d53744d82ad013d1cf915d63b6b5ac7aee3",
+      "bytes": 196985
+    },
+    "hsk7-mirror-reflection.jpg": {
+      "sha256": "8823fbeaa4cccf7ba0b91d9f5270a5838be68f21083c2b293be154d841336ed5",
+      "bytes": 226871
+    },
+    "hsk7-mismatched-shape-hole.jpg": {
+      "sha256": "f6d8ce46b2fd553e7bf455a54e8ba78a661177b9ce99085ae59c87ae7a4a1f78",
+      "bytes": 209517
+    },
+    "hsk7-mixing-salad.jpg": {
+      "sha256": "51dd4800d8b7d92abef50e27bb357118f63a0bbdb896681eeb269403381a32cf",
+      "bytes": 210782
+    },
+    "hsk7-monk-theatre-actor.jpg": {
+      "sha256": "4bee25b43d2c8b838e9b4b9d4de09ce97576056e13b37f67dd903136979f16e7",
+      "bytes": 163979
+    },
+    "hsk7-mosquito-net.jpg": {
+      "sha256": "2fb57ebe733a76992fe0f188fab12815060f98015f4359db292b75ae0c9b6bdb",
+      "bytes": 249120
+    },
+    "hsk7-msg-crystals.jpg": {
+      "sha256": "a882cf372a030c188e268314ad5264598afe58a8313c6222a3483fd5e58ed6ef",
+      "bytes": 196319
+    },
+    "hsk7-museum-cannon.jpg": {
+      "sha256": "b17f3197bcf6737bf9128279c96c2015ec20cdbb3dc74facf5438877a192845c",
+      "bytes": 226037
+    },
+    "hsk7-museum-handgun-replica.jpg": {
+      "sha256": "96061275834e521c7cd3736e41aa1fb7f9d53d8fc5bb71ae01c9da03ddff5895",
+      "bytes": 152704
+    },
+    "hsk7-museum-missile-model.jpg": {
+      "sha256": "e2b8b85148ecb32d2e4f3eb8922ec3f9865627f7cf014ed4ac954be4eda333ac",
+      "bytes": 158709
+    },
+    "hsk7-museum-space-rocket.jpg": {
+      "sha256": "7bb7ab179063af246a8ed04c80313b78ed013c4d88b07499f8cf2b5968b247d2",
+      "bytes": 151060
+    },
+    "hsk7-museum-tank-model.jpg": {
+      "sha256": "2c4840956cb5a86a8079e814d7bdb1905e9d634827595d458ba9cd08b0995e62",
+      "bytes": 204400
+    },
+    "hsk7-mushrooms.jpg": {
+      "sha256": "c9f897f82e159ce36f39533443bbc24d6fb5a6c6069d9f1125a63f13ca57f5eb",
+      "bytes": 210332
+    },
+    "hsk7-music-score-paper.jpg": {
+      "sha256": "0e47eff470ccde7c34e689ed8772e696a8dbb60feb6dc8872815bf35a39006e7",
+      "bytes": 168663
+    },
+    "hsk7-nails-tray.jpg": {
+      "sha256": "5b1c8851b88999b5783ecef767ddebafb16c04b4dc42b0a487c98aba8b8f632b",
+      "bytes": 273906
+    },
+    "hsk7-naval-ship-model.jpg": {
+      "sha256": "6f3c3e651733cd016fa639573dc6814115455140c447befbb4e18b08c12f886b",
+      "bytes": 209084
+    },
+    "hsk7-naval-theatre-actors.jpg": {
+      "sha256": "f8a6562a08626c4ea9d7fde73438d70c3b950a6537018a321d054809e61f23bf",
+      "bytes": 196964
+    },
+    "hsk7-new-year-print-teaching.jpg": {
+      "sha256": "03568a19b0bdec76a7cbbc959a2ce2e727d01b7d082543e4843195625a232c93",
+      "bytes": 406941
+    },
+    "hsk7-notched-boat-story-model.jpg": {
+      "sha256": "3a8c766e0b3f6512981a8895561e6917b1eb0aadb1c9b42de2b7de6d486e97c5",
+      "bytes": 210700
+    },
+    "hsk7-nuclear-power-teaching-model.jpg": {
+      "sha256": "aa4f7a591a2269800ad42f5b001e9ec81b8d2c82ee69549c26e92a8deb3a1f80",
+      "bytes": 202706
+    },
+    "hsk7-numbered-boxes.jpg": {
+      "sha256": "90cc27a44152536b88a61c10c83449f53f8222cb0d0684656f06f54da50db9c3",
+      "bytes": 208686
+    },
+    "hsk7-numberplate-prop.jpg": {
+      "sha256": "de6ca156a34388def3a87850160cc6368ac251e18c0e41c1ca7796265295c56e",
+      "bytes": 227609
+    },
+    "hsk7-nursing-cat.jpg": {
+      "sha256": "da26c32ced4c8e847bfba2a32874fc0addb05b56eca9497822b144488cf72b0c",
+      "bytes": 272705
+    },
+    "hsk7-oasis.jpg": {
+      "sha256": "ed925c7f625d1c7ced6d95564b9099c351c875ef349b93f5e58759bf64e8baef",
+      "bytes": 404158
+    },
+    "hsk7-offset-blocks.jpg": {
+      "sha256": "0c3bf854f80ac62b86e6e6c1c70418884364e8f99b3a14af7026ebee47bc4a20",
+      "bytes": 170099
+    },
+    "hsk7-oil-painting-studio.jpg": {
+      "sha256": "4dc6bd43518bfcdabb8762bd122079835231f4358f8bdc149c141d28ad7012c0",
+      "bytes": 263629
+    },
+    "hsk7-older-face-wrinkles.jpg": {
+      "sha256": "ae26bbd975516003638586117735944217f48692bec52c8780d0f7ce4b1949c1",
+      "bytes": 211804
+    },
+    "hsk7-open-canned-beans.jpg": {
+      "sha256": "fa583fe42700b7d8beac9076a1a5efb758ee1bfcdb5fbd366d1fedfe89b58c07",
+      "bytes": 294175
+    },
+    "hsk7-open-car-trunk.jpg": {
+      "sha256": "d63d3cf3c85086d3fb794718a58581d628ee2a12916d3894f11d7e4b83eb81cf",
+      "bytes": 277054
+    },
+    "hsk7-open-drawer-paper.jpg": {
+      "sha256": "9f07d70db3e669d0ad614a1e5c81c75b63d66bb406de81cdb9150389784f1de7",
+      "bytes": 192144
+    },
+    "hsk7-open-drawer.jpg": {
+      "sha256": "df098f4d0bfd695b383dab16d817e912da137ffdff4c0d77510f611a2de7505c",
+      "bytes": 208742
+    },
+    "hsk7-open-passbook-prop.jpg": {
+      "sha256": "f9932dc394a5a76816566151ddb88b35edc3dc10c590cf8e7f2fe9f845747de4",
+      "bytes": 218837
+    },
+    "hsk7-open-pipe-section.jpg": {
+      "sha256": "284707a5cc3f1f288cf9c0b8d8da2ba82134dde0c219dc8eae0a484ae422bdea",
+      "bytes": 146403
+    },
+    "hsk7-opera-rehearsal.jpg": {
+      "sha256": "1ed31b796fb25a446941b115593dc5c0695368f136cfe75e9eac0e5e05ea1a6e",
+      "bytes": 189236
+    },
+    "hsk7-orangutan.jpg": {
+      "sha256": "93995d8de150094f3e5e58889fe70a18f28292947a3aaa726df799e957974a4d",
+      "bytes": 320434
+    },
+    "hsk7-orchestra-rehearsal.jpg": {
+      "sha256": "3bcee3937dbe15a5b44c20505128f29410af894806bebfc4ae374f07948367a4",
+      "bytes": 239447
+    },
+    "hsk7-osmanthus-blossoms.jpg": {
+      "sha256": "a1f40db553c2dacfa7521ddd4c339fbea571e7bbcd9e4a57253647812d48e82d",
+      "bytes": 164198
+    },
+    "hsk7-outline-notebook.jpg": {
+      "sha256": "7d8a3f3b2060848df72ff68d8fbf61b19e23be7d5048f742aff28490853d22b6",
+      "bytes": 224018
+    },
+    "hsk7-oven-baking.jpg": {
+      "sha256": "71eb246d42f8ba661a37f1eace26c13f4f39916d5730d2c328edd70e6f92c16b",
+      "bytes": 171563
+    },
+    "hsk7-paint-can-roller.jpg": {
+      "sha256": "72086a57ecad1b6bb5e8c2384595f2ab0dafb8d128d88b9afd7c69e42c1ec20d",
+      "bytes": 203482
+    },
+    "hsk7-pale-theatre-makeup.jpg": {
+      "sha256": "9d8c1ff6d3aad66561282fea51573a002e4179e9da787bc7329bbcf642b30df4",
+      "bytes": 194801
+    },
+    "hsk7-pan-frying-pancake.jpg": {
+      "sha256": "422f4f8e9980411a6ee06302ad83385d25b5bfc98d8c4af8ad24cdad251bfe00",
+      "bytes": 215883
+    },
+    "hsk7-paper-banknote-props.jpg": {
+      "sha256": "9fa868d2a71c53e8c57e83b3b0c57f6e906b737d9771845be3fd27aafd4592d5",
+      "bytes": 222629
+    },
+    "hsk7-paper-formula.jpg": {
+      "sha256": "112db678d49adab7ff237069d224fa2168806659a81e92cb194800c613076dd4",
+      "bytes": 223852
+    },
+    "hsk7-paper-shredder.jpg": {
+      "sha256": "ced1013904b2fe2eff8dab59219c644ff32a2ce1481d2eff30e71b86d0aa4e62",
+      "bytes": 208190
+    },
+    "hsk7-parachuting.jpg": {
+      "sha256": "bcd72825ba2d7bc8bbdb93de16510ea0546380911b4aef6ef1b056807b9a5274",
+      "bytes": 146837
+    },
+    "hsk7-parenthesis-cards.jpg": {
+      "sha256": "228b036967836d99eec97287ffece308581a6b4175c6b65ece65f16677a40c5e",
+      "bytes": 146126
+    },
+    "hsk7-park-pavilion.jpg": {
+      "sha256": "9e7ffeae4d1b9505caa63e9f46343b921817ca5c4fc41cd67700343fc485656f",
+      "bytes": 427717
+    },
+    "hsk7-paternal-older-uncle-couple.jpg": {
+      "sha256": "631ab77643b499bad4b2a2234fb1b4d1b383d0b84f6c206ef56397584efbd12f",
+      "bytes": 244824
+    },
+    "hsk7-peaceful-procession.jpg": {
+      "sha256": "348f69479156245a6d314990a148274030997351d07d27feec995487f79418c4",
+      "bytes": 298251
+    },
+    "hsk7-pedestrian-overpass.jpg": {
+      "sha256": "7cbb4589af4e9c8ae5dfcf9764e87b18916224b693a57673c98084ecb525fc5d",
+      "bytes": 450469
+    },
+    "hsk7-pedestrian-tunnel.jpg": {
+      "sha256": "97389a2d8cdd2bad81d022ddca7c3334be7b51012d777b50c4b081b68fd3b120",
+      "bytes": 303637
+    },
+    "hsk7-pencil-shaving.jpg": {
+      "sha256": "30daa291db331226dca1390c7133274e637ed4ab1f9881849db1c2d01657af75",
+      "bytes": 222834
+    },
+    "hsk7-peninsula-landscape.jpg": {
+      "sha256": "1d7c8e2af601fb30fcd3fd831dcf84a08d389626a6c1ad2c9243ccfa7d55f3da",
+      "bytes": 264132
+    },
+    "hsk7-peony.jpg": {
+      "sha256": "dc2558d60f430b71052e33e382f59e0ac2dbc08614443dbb28435f5c889e99b7",
+      "bytes": 274522
+    },
+    "hsk7-persimmons.jpg": {
+      "sha256": "51605c64f5f62e51de59cb4827649861fba183b1275f28b2f29425f385351ced",
+      "bytes": 230534
+    },
+    "hsk7-pharmacy-prescription.jpg": {
+      "sha256": "71b912b5aba2efb28daa342356d697bc88685f7bffcf4f59ba469e9a13eea7aa",
+      "bytes": 178967
+    },
+    "hsk7-phoenix-carving.jpg": {
+      "sha256": "3dddbb980518b34786aaf34bcb2353de2595b53357ece201e25de28cefdb79ae",
+      "bytes": 258469
+    },
+    "hsk7-piano-accompaniment.jpg": {
+      "sha256": "7c029cd1ca614f26bbb9d2b9a29c7bb8bcad336760f9e5c9d45c42cdb6ba1a16",
+      "bytes": 198336
+    },
+    "hsk7-picking-sticker-edge.jpg": {
+      "sha256": "886437c5a97fedf51a3b9d7e4ef53092cd0436a4fa923f6f4b2c13d8774db9ec",
+      "bytes": 192240
+    },
+    "hsk7-picture-frame.jpg": {
+      "sha256": "476e219d5d01bcc97f1a77ef10c58c2e6a78467a73764b3d1f8bd522f6f44a6d",
+      "bytes": 197412
+    },
+    "hsk7-pigeon.jpg": {
+      "sha256": "667a6a63b8007b24207f726b82813c3bfe515ded6705bbb7027d22d83b965d86",
+      "bytes": 227432
+    },
+    "hsk7-pinching-clay.jpg": {
+      "sha256": "50a6495cb751a83605abd8de3daa25710c1104abc90859ae0e24d21b7647ef9e",
+      "bytes": 194973
+    },
+    "hsk7-plain-book-cover.jpg": {
+      "sha256": "c15a78461052890ba7caf1897fa8fcee14c368667427b9e13da0e5b4e32e0af5",
+      "bytes": 222482
+    },
+    "hsk7-playground-slide.jpg": {
+      "sha256": "474ea141da8ff91412bc52c5cb0c15e580a5171aed3c18a2954a126b4d1779f3",
+      "bytes": 312351
+    },
+    "hsk7-playing-zither-near-cow.jpg": {
+      "sha256": "3340ee1edd63451361057ac17720514cc2cf108875ac30faa5363ec44bcb86a4",
+      "bytes": 301082
+    },
+    "hsk7-poking-foam-board.jpg": {
+      "sha256": "d55707938124070f12083787178b79482fb05a385b5c1605d47532ebaec81507",
+      "bytes": 176344
+    },
+    "hsk7-poplar-tree.jpg": {
+      "sha256": "14f4b1377efe96c1ccfafde223a340afa3ca912f01777682a82067784dd36dd0",
+      "bytes": 372187
+    },
+    "hsk7-pottery-kiln.jpg": {
+      "sha256": "74af6e57c7feac38759a7007e8253e77d3c5566ad1164987211bed1e83bade0f",
+      "bytes": 226906
+    },
+    "hsk7-power-lines.jpg": {
+      "sha256": "00b7025f499bf42feb516ed6b6d2f2be0d4efd6cf19daa6eb8b1ff4bb09595db",
+      "bytes": 229854
+    },
+    "hsk7-practicing-pedal.jpg": {
+      "sha256": "a48744ca5dce6d0010b5f57be722fc09a5e4849a8ad409ee733d3d7c1e5a26cf",
+      "bytes": 334878
+    },
+    "hsk7-product-spokesperson.jpg": {
+      "sha256": "31eea362a3b29526ff613b08262e18c05092cd45e2094bd6468e496e07d50b6e",
+      "bytes": 209457
+    },
+    "hsk7-programming-laptop.jpg": {
+      "sha256": "3995bdd55c0f4e4d7fa5fc29bb63ec61f25afeb8e74fdc039058ee9ca77facf4",
+      "bytes": 189645
+    },
+    "hsk7-pull-tab-can.jpg": {
+      "sha256": "f4ce8ce918fbf5ba76e34ece12486e1535dd2453f9e7feb1ba7805f691b81035",
+      "bytes": 220092
+    },
+    "hsk7-pulling-rope.jpg": {
+      "sha256": "ce778a633d6f5bff7c72f350f2d0e599a28ad0974f45b5f363b1934c6d3eda23",
+      "bytes": 178252
+    },
+    "hsk7-pulling-seedling-story-model.jpg": {
+      "sha256": "54e82ca72c452b3442cd8aaea3c1dc259050eb61f62bafa0d279c9013bc8c131",
+      "bytes": 222220
+    },
+    "hsk7-pulling-weed.jpg": {
+      "sha256": "4732c49be9c8f413f284cdb48ee60c71a3f76b07336f1c23b87e95ec6e6ea0d0",
+      "bytes": 303926
+    },
+    "hsk7-pulse-check.jpg": {
+      "sha256": "ce2e11602b343b1ebdb42c6fc61670c747ee0a1f2ce41901c28703dd2b209422",
+      "bytes": 185791
+    },
+    "hsk7-pumpkin.jpg": {
+      "sha256": "3e77644384e900621f0f6f4a34552fd7972cd8fd54d6bd2200e98f7ce4b2a28d",
+      "bytes": 219767
+    },
+    "hsk7-punctuation-cards.jpg": {
+      "sha256": "a7ca80592156e0ac01239f25bcc579f81f78271b9c252eb978d08a1d20120b58",
+      "bytes": 169271
+    },
+    "hsk7-putty-poke.jpg": {
+      "sha256": "75792c7ea31ab8c5c4f316c6b15a44820ef060f4b37ca82856a206f1eabb442b",
+      "bytes": 206727
+    },
+    "hsk7-qipao-adult.jpg": {
+      "sha256": "d9a8b669df18374e2d172b5329b0332194818c24516f879598fe7ec51735ab99",
+      "bytes": 179470
+    },
+    "hsk7-quiet-lobby.jpg": {
+      "sha256": "4d61d5d6dea56c8dba61449dd784243b0c5901fd2fb6262a2d842cdfbe3f51b2",
+      "bytes": 274846
+    },
+    "hsk7-quiet-prayer.jpg": {
+      "sha256": "c6bf1ad353a3cf80c57b523d729cdb2f3e2cb2f6eb4210a877a443a024027522",
+      "bytes": 208200
+    },
+    "hsk7-race-car-model.jpg": {
+      "sha256": "cb9133941b4ea0747d0279dc633333613d47d5eeb14ad2ca8072102b4bcd6d1c",
+      "bytes": 199898
+    },
+    "hsk7-race-start-line.jpg": {
+      "sha256": "ff169ae85868ed6ad21baaeb2f160d738b5f2793ddb3988ea7c2752c3e82ded0",
+      "bytes": 273469
+    },
+    "hsk7-radar-dish.jpg": {
+      "sha256": "99e9e1088d5cd7a736a4433e3ce13ca564ed5ba66c2e3911c17e97a0cf538890",
+      "bytes": 327978
+    },
+    "hsk7-ranking-board.jpg": {
+      "sha256": "cc9b3af42c7d19c6bfec926bdd675354f33a17d232ba12131b0489646893a4b5",
+      "bytes": 200017
+    },
+    "hsk7-rebounding-three-bars.jpg": {
+      "sha256": "eb0c761756aa86fb82cb8703c5658438aeaa3fcf0e7ae9d38d75039b80f7eb18",
+      "bytes": 132825
+    },
+    "hsk7-red-crowned-crane.jpg": {
+      "sha256": "a93ee31165c32aa9d134b81f3224c07e8397d1e88f45f1ce9aa9e306dc5a9bc9",
+      "bytes": 266475
+    },
+    "hsk7-refraction-straw-glass.jpg": {
+      "sha256": "1d6661963f924577f0f24ba0e775a8b8c8e187765098721e5201b8cc505e49cf",
+      "bytes": 170307
+    },
+    "hsk7-relay-baton.jpg": {
+      "sha256": "938fc7b01285951dfabb74117ba5d2626c6b24903e8668c6a7ba61b2088c3915",
+      "bytes": 265805
+    },
+    "hsk7-remote-control-car.jpg": {
+      "sha256": "e50ab5c1edfcec9233585faaccd18b9dc6fffe0011761171b56f2de7f5ce755c",
+      "bytes": 189622
+    },
+    "hsk7-rinsing-vegetables.jpg": {
+      "sha256": "da4c48f765bd477300d0308ef6182e3bf77d25fc7bf63ec1a174bf844a8754ff",
+      "bytes": 221579
+    },
+    "hsk7-ripples-pond.jpg": {
+      "sha256": "5b32000f139a8136458fa034294a1e86808db5dc13118c407dacb5f5d813c4be",
+      "bytes": 232411
+    },
+    "hsk7-river-basin-model.jpg": {
+      "sha256": "347e0744c73c85f73cf528e2125414043320efdaad42052f840a4ad26556d782",
+      "bytes": 392989
+    },
+    "hsk7-river-levee.jpg": {
+      "sha256": "82a3d6e818dce89b6746d3ecb732f561e4f9a5a45e469c634ecc12869ea93065",
+      "bytes": 285209
+    },
+    "hsk7-river-overflow-model.jpg": {
+      "sha256": "548c54ce756f6509836522c91a315050e759406f6462f1ab8f5a302450df78c2",
+      "bytes": 314626
+    },
+    "hsk7-rolling-hills.jpg": {
+      "sha256": "621437ab16b7938c851a4c254e6c261de8ad51e87c55b897171990a34bdff484",
+      "bytes": 327397
+    },
+    "hsk7-rolling-sideways.jpg": {
+      "sha256": "aad276d88ebf1c07df3f2629fd10a3ea311dccc332f344f632956e9aaf13b3b8",
+      "bytes": 197641
+    },
+    "hsk7-rolling-sleeve.jpg": {
+      "sha256": "0086ac6dfde0e2084769997edd0b994c5d05e34c02ad602f32b8f3ed63e3a5bf",
+      "bytes": 196019
+    },
+    "hsk7-roof-completed.jpg": {
+      "sha256": "e356438184a56c1c1e44047d803c2e2842d69776e461bd8705d1a9b5d25e165e",
+      "bytes": 299061
+    },
+    "hsk7-rope-around-pot.jpg": {
+      "sha256": "b5653ab58709c3519f2ca06b4911b67842851a51a97fc9125aac74c0da6e7f61",
+      "bytes": 222806
+    },
+    "hsk7-rosy-cheeks.jpg": {
+      "sha256": "a8064ffd4839c009fdb77d96404c86902ef79dac36918b8961e51d61d6538701",
+      "bytes": 170344
+    },
+    "hsk7-rotten-log.jpg": {
+      "sha256": "990c261e7adad4ef5799673a7244d7f21d79de229b9c1662ac494b5290b9f38d",
+      "bytes": 399407
+    },
+    "hsk7-round-pill-props.jpg": {
+      "sha256": "5bbe5edda8496314a7074f7029229214ec9cad0a00737696bcee38e10463130d",
+      "bytes": 222601
+    },
+    "hsk7-round-plush-animal.jpg": {
+      "sha256": "afeb02f22e5a28435ed63e9017dbd93a723d21102e4446451d7044e8fbefa502",
+      "bytes": 260805
+    },
+    "hsk7-rubber-ball-bounce.jpg": {
+      "sha256": "1be00da630c9cac45f67a31425e9bbaa49d678279153f095823b2a00b5cfe3c8",
+      "bytes": 135260
+    },
+    "hsk7-rug.jpg": {
+      "sha256": "a4bb18f9af9ddf78ed65a34ebf276ceabb6c0e53d31cd44c303302e9dc896fbc",
+      "bytes": 379784
+    },
+    "hsk7-rusted-metal.jpg": {
+      "sha256": "440bf2997e545a97b7ca5f804181adb5d9662402d83e8059d1141f4daedb100d",
+      "bytes": 285919
+    },
+    "hsk7-sailboat.jpg": {
+      "sha256": "b67d3d070040d47e948aa66f5f324566bc78e3dcd6a576a737f5a72e456e88e8",
+      "bytes": 240822
+    },
+    "hsk7-salt-dissolving-water.jpg": {
+      "sha256": "88afe32ebf52a38ee26d020d926549187713098a8115c9c7f959fd71df399996",
+      "bytes": 249780
+    },
+    "hsk7-saluting-actor.jpg": {
+      "sha256": "aba98beee8a3b27f8c1ce74e01e944ba02223aa1d0a3139ab383828188a3094e",
+      "bytes": 210426
+    },
+    "hsk7-salvage-net.jpg": {
+      "sha256": "ae7059d6a7e1b2f37051305a4970b171fa50235e220023dd907c1c77e18d1b32",
+      "bytes": 323068
+    },
+    "hsk7-sanding-wood.jpg": {
+      "sha256": "4f9066004fb097c23e9ef4399f8754c7a6879f46388e9dd15038e94300138679",
+      "bytes": 226391
+    },
+    "hsk7-sandstorm-behind-window.jpg": {
+      "sha256": "0319693e931cea28b1c06ad9d91701c4b9dfe1185175300ea4c4b975c83810dd",
+      "bytes": 125792
+    },
+    "hsk7-satellite-model.jpg": {
+      "sha256": "17f96bb1c1e4ae6a842d84e3721929b1cde99e30b60b833791474ae27fa1bccf",
+      "bytes": 173006
+    },
+    "hsk7-sauna-room.jpg": {
+      "sha256": "e8aca11fb5a6b6f04b8b22fe17802ebe4b2513c3ad592fdaba718020d5de405a",
+      "bytes": 201946
+    },
+    "hsk7-scallions.jpg": {
+      "sha256": "fde94ddbd9fe04b1e6652bf6c45a8e18e7f11c57fcb1c9bfdf91d47e53bf06e5",
+      "bytes": 243799
+    },
+    "hsk7-scholar-tree.jpg": {
+      "sha256": "a2cfc7b05e6be59c09b47a25ad3a030f8c559a1f4ca08d1a5e14842c55e2379e",
+      "bytes": 491540
+    },
+    "hsk7-screws.jpg": {
+      "sha256": "ab6f828c03e6881e4a6ba36744f449c5a2f05084cdf73cdaef471bfedc8d71fb",
+      "bytes": 220698
+    },
+    "hsk7-scuba-pool-training.jpg": {
+      "sha256": "fb07a3d0a1e26ee67e7b3ed49d05fc6571f648f3b336bf0d478f7fa9576fa8a5",
+      "bytes": 275173
+    },
+    "hsk7-search-rescue-practice.jpg": {
+      "sha256": "b5732270f4771318dbc59588c1a48965b017219e33fca2c8c87d3cc8e717b8e4",
+      "bytes": 356129
+    },
+    "hsk7-seasonal-term-calendar.jpg": {
+      "sha256": "dc850be5e53b423107d6e15152b35ca5af916e559f3f6d8145b97d19800c8134",
+      "bytes": 201203
+    },
+    "hsk7-seaweed-water.jpg": {
+      "sha256": "bd169b866b3ed41f6d50f1420b9535171ea757de6136aaea0bb6beed1b0694f2",
+      "bytes": 308333
+    },
+    "hsk7-security-camera.jpg": {
+      "sha256": "74f5f39ec2676f5f187f30457d927fbda0223ce6763974844fdb624bd26a4caf",
+      "bytes": 221480
+    },
+    "hsk7-sedan-exterior.jpg": {
+      "sha256": "d57e0ad4d5a774d37cdbdf423c73e6b2517c5b8bbe0b4beb59a4cfef606e5e29",
+      "bytes": 311259
+    },
+    "hsk7-separated-cord-sections.jpg": {
+      "sha256": "691be04d8151044edd1e3814c6abdf3cd9d7497f970a5095e157fc82aacb0ede",
+      "bytes": 215705
+    },
+    "hsk7-server-rack.jpg": {
+      "sha256": "14eb841aba9f512aea2e74123181caa201f1d40badc3f7dde3a88158622af12d",
+      "bytes": 177126
+    },
+    "hsk7-sesame-oil.jpg": {
+      "sha256": "6bf2862c2b7c5d57133a48c37ad540c98ecbf76e81b823f108734fe5acc232c3",
+      "bytes": 233289
+    },
+    "hsk7-sesame-seeds.jpg": {
+      "sha256": "0acb520079eb1daf2308a30c22b06ad1309ce1ac7fd6dae39a221474ba3990b0",
+      "bytes": 255757
+    },
+    "hsk7-settled-sediment-jar.jpg": {
+      "sha256": "2aa72867cfe6ccf2868a13c1eda9e59da44c2da30e7d676767d01d95bf7c0d67",
+      "bytes": 160758
+    },
+    "hsk7-shade-tree.jpg": {
+      "sha256": "98d09bd498590e8aa118a8026ec1bda12f5ef6334b5b684374341f12023ac3bd",
+      "bytes": 323438
+    },
+    "hsk7-shaking-towel.jpg": {
+      "sha256": "d09576452ddeaf8ce2ddd2241edc6efc2b924c55b6206dea40daca4f05f5e716",
+      "bytes": 210343
+    },
+    "hsk7-shaving-beard.jpg": {
+      "sha256": "7c4be7539673b93ee3b63008da6b6c20b0279b11320767a735aa95816eb4fc47",
+      "bytes": 175917
+    },
+    "hsk7-sheep-pen.jpg": {
+      "sha256": "f2c566ca95df423997e2df700073df6c4337a98159a3c86bbe2018b9a11ca7ca",
+      "bytes": 421367
+    },
+    "hsk7-sheltered-lamp-light.jpg": {
+      "sha256": "571c81243bbcb421f9a58d1354013a7b9a695e1edfeadcef5ddebd06e18db98f",
+      "bytes": 148710
+    },
+    "hsk7-shop-display-window.jpg": {
+      "sha256": "29942bdde14a5c8aadd1730de69bb997f0945c4ec9aea2f87144160382ec42f1",
+      "bytes": 274487
+    },
+    "hsk7-short-nap.jpg": {
+      "sha256": "5e5d01b1f090e13a348d44dd12a2940a5b9fe43a84eed784fc72578f0220e2b4",
+      "bytes": 228289
+    },
+    "hsk7-shoulder-pole.jpg": {
+      "sha256": "42bdb7fcc7a9914843b4f6e763f9618638752d6401fab0d2277e35556fab1226",
+      "bytes": 268292
+    },
+    "hsk7-shrimp.jpg": {
+      "sha256": "5d525a83bab47c20092de7125f1a842f1c9db3763ef8b82e97af33e2258091e1",
+      "bytes": 227267
+    },
+    "hsk7-shrunken-shirt-pair.jpg": {
+      "sha256": "9025a3c3e012935ca8ac258750189000f202ede68883fc056a74b763039a051f",
+      "bytes": 238306
+    },
+    "hsk7-sighing-adult.jpg": {
+      "sha256": "28b9496df6b95f313751a5b5686d1b6e14eb967589c54173c45a86ff1f6b6f98",
+      "bytes": 181203
+    },
+    "hsk7-sign-language-conversation.jpg": {
+      "sha256": "c269618970926bb907460cd5972e47cb493c774dbb5c1f7ccc4e1e0b5c888126",
+      "bytes": 200587
+    },
+    "hsk7-silk-thread-fabric.jpg": {
+      "sha256": "d6eabd79e5e0b6f3d2469e94a9132b5f23cb46b8911c2dc400b9bf757f293c50",
+      "bytes": 205792
+    },
+    "hsk7-similar-mugs.jpg": {
+      "sha256": "b515b917e8301380182f9aa634312ccfc337be6e001976909c5325f4feeb9de6",
+      "bytes": 157336
+    },
+    "hsk7-simulated-bleeding-hand.jpg": {
+      "sha256": "fa87279b5949511f05877b5738017583e75d2953cb40ce6b746764593f8746f3",
+      "bytes": 155939
+    },
+    "hsk7-single-storey-house.jpg": {
+      "sha256": "bacb22915982c4c3e4be596adaafee9486adf894fa6965d114680f3aee61ff32",
+      "bytes": 344005
+    },
+    "hsk7-skeleton-model.jpg": {
+      "sha256": "15b4a7fdae3210ec4518eb1eab9e677ef339fdcb3948f11fea17af30fcee3de2",
+      "bytes": 170760
+    },
+    "hsk7-sleeper-berth.jpg": {
+      "sha256": "a064186f126f640efb5085fdc320dd34b1b17f11ea128f690bf06779b9e9b9e5",
+      "bytes": 218450
+    },
+    "hsk7-sleeping-bag.jpg": {
+      "sha256": "86c548acd82d735f308d56a7e0d3bc0a3231e8114b270b8e99c5d88b9181104c",
+      "bytes": 224536
+    },
+    "hsk7-slip-resistant-stop.jpg": {
+      "sha256": "4e3cee53ca8c8f16026cce690b534f86d017a4fe0ebe843ceb3aa4d506b30183",
+      "bytes": 176298
+    },
+    "hsk7-sluice-gate-model.jpg": {
+      "sha256": "780e3befab803f5c05a0497b14c629dd2374924f954800d50fbc22c32d386431",
+      "bytes": 300557
+    },
+    "hsk7-small-fountain.jpg": {
+      "sha256": "66c2d044ba6be6596b965bfec56f687cdb8fc8fab9003af9d55dca5a2c14b7b2",
+      "bytes": 337182
+    },
+    "hsk7-small-handbell.jpg": {
+      "sha256": "a4fc2f6b2d5a17f71809972e855b3534f8eff796d6ac472294b780deb269f14e",
+      "bytes": 222808
+    },
+    "hsk7-small-saucer.jpg": {
+      "sha256": "f92cf33594a9dadde7f16924be02d44c14d5d5fc5e20796b4538bbc197ed10c6",
+      "bytes": 158548
+    },
+    "hsk7-small-skin-bump.jpg": {
+      "sha256": "1153c7e85aa2d6b8fc5932760f9ab6b50b600de5c954d73092b681352f7ed0c5",
+      "bytes": 177455
+    },
+    "hsk7-sneezing-elbow.jpg": {
+      "sha256": "f050b19b17d1cb48f045745c023ed0861e7b5949d90c8548a091287c31712fe8",
+      "bytes": 170540
+    },
+    "hsk7-snowy-mountains.jpg": {
+      "sha256": "77eee8496a5b174bdaf796e54b5718653cdc5ff17abf0e58b6b930c7a629439b",
+      "bytes": 379061
+    },
+    "hsk7-soaked-beans-pair.jpg": {
+      "sha256": "9dfa5dba7aea7486ac62d8533a12e376b0fee80f0dfa9e8558206e54d34d9d5b",
+      "bytes": 227547
+    },
+    "hsk7-soap-bubble-air.jpg": {
+      "sha256": "3c4c8517c77d7094139960be792f5e5ecee1e6fe65c9e4d6298f590f5f81dfe8",
+      "bytes": 188889
+    },
+    "hsk7-soap-handwashing.jpg": {
+      "sha256": "3a49b78c406e94b5f3c13233fe96c635008e957b6e61005870dfc54c3e888610",
+      "bytes": 185864
+    },
+    "hsk7-soft-mallet-work.jpg": {
+      "sha256": "58c089c472d35ec4c69303d8a7716c6e142d3573450adc722da82114dd6f2997",
+      "bytes": 203213
+    },
+    "hsk7-space-station-model.jpg": {
+      "sha256": "63ba2168f559a708f641d32544b9b3c10bff48279d618c561b97563df934fa0a",
+      "bytes": 216426
+    },
+    "hsk7-spearhead-prop.jpg": {
+      "sha256": "d775a5f06a4ead934efc50b29f1bc550af8b05ad389881a7e51c431cec9a54f9",
+      "bytes": 147473
+    },
+    "hsk7-spice-bowls.jpg": {
+      "sha256": "7d0bd9701708cf0e46ee26207df710905e9e5157599561a9f2fc1beacffd26b2",
+      "bytes": 264789
+    },
+    "hsk7-spleen-model.jpg": {
+      "sha256": "f0bd9de84d8f4b28248e7aadacd3cce8fe8e5717d632f772d4e3d29446b4dacd",
+      "bytes": 161299
+    },
+    "hsk7-squinting-eyes.jpg": {
+      "sha256": "ca873a44d7856e83d7b0561b803e1d945c88716a9be8f487c0dc8b1138bcbc77",
+      "bytes": 239155
+    },
+    "hsk7-stacked-cloths.jpg": {
+      "sha256": "642b755a7c6e16802c85247dcb81926f0c739f30ed30b3a16b554532fb3133ef",
+      "bytes": 251412
+    },
+    "hsk7-stage-magician.jpg": {
+      "sha256": "d1fbeed6fb628ec3b5706f3a3a034b46e9c92accaee49645dfc0be034eed369b",
+      "bytes": 216801
+    },
+    "hsk7-staged-abduction-rehearsal.jpg": {
+      "sha256": "7697276afaea732caee7dff4a81d5f1a67dd3cb2ea318e4ea50375597900ff12",
+      "bytes": 229125
+    },
+    "hsk7-staged-noncontact-slap.jpg": {
+      "sha256": "5023a4e9799e97873e3feb83cdae7d3af24afd4ce170f9d8ac340287e23b92dc",
+      "bytes": 210047
+    },
+    "hsk7-starch-bowl.jpg": {
+      "sha256": "37e230c909eefe6bb9b441f4180b590d49cc38d2bd73f42fe2246be87cd19a92",
+      "bytes": 188360
+    },
+    "hsk7-steel-rods.jpg": {
+      "sha256": "7b5eab2df31e71d275a11125c0a50b9e68c343fa9e9fadd37d0ef42e0d3e4d63",
+      "bytes": 220291
+    },
+    "hsk7-stone-fortress.jpg": {
+      "sha256": "0ff8f0cbb5a596cd10ad047c903dc537fe44e7d9b413ab0a9fe9c070b7bad5e8",
+      "bytes": 405095
+    },
+    "hsk7-stone-stele.jpg": {
+      "sha256": "d2c77bfcc65984b9160309882d40427680e0af6ec25ee07aee9566b72b85e184",
+      "bytes": 352511
+    },
+    "hsk7-storm-at-sea.jpg": {
+      "sha256": "cbf045b5f05a638a8b309382dbbdecabc0156a489958bd908af14fc0edcea570",
+      "bytes": 200030
+    },
+    "hsk7-stranded-boat.jpg": {
+      "sha256": "8e3a922fcd8d8736628a855a9d4c3b15799b84c432aeb8df392e3406576979a1",
+      "bytes": 274387
+    },
+    "hsk7-straw-bundle.jpg": {
+      "sha256": "7c13f6b8438436de9aad44e8043bc7b2468feb937b1dd2ce4c711eec36a909ad",
+      "bytes": 389921
+    },
+    "hsk7-stream-source.jpg": {
+      "sha256": "36c29c5194ed4b4b7c730b93eeaa72fe154b23b235fd0b6c15348d8eba5991c4",
+      "bytes": 523802
+    },
+    "hsk7-stroking-cat.jpg": {
+      "sha256": "78aabebaf8d64b10656794201a26c2e537074d1072e5c29f340c4b021dd044c9",
+      "bytes": 225794
+    },
+    "hsk7-stump-rabbit-story-model.jpg": {
+      "sha256": "a6e0d805c4cb4044dd297233622220f0352a876a0413f5bfee01cd2a4ddf90bf",
+      "bytes": 226668
+    },
+    "hsk7-submarine-model.jpg": {
+      "sha256": "9cf880a8a3a0fae3d1c86b6e17d3ab3ee85bf61c7e35bb4451577248a2dc35ff",
+      "bytes": 195152
+    },
+    "hsk7-sunflower-seeds.jpg": {
+      "sha256": "75c48df3e8ac75de01fe6601cdd1efdefed8751e05b002ec1a1d97adaac2bdf2",
+      "bytes": 238966
+    },
+    "hsk7-sunset-clouds.jpg": {
+      "sha256": "b5602ff563e01b8b35a4ca7a3583b907d67ffd81d0c2f2d01a9d4f8dc0ea85d4",
+      "bytes": 169968
+    },
+    "hsk7-sunset-field.jpg": {
+      "sha256": "ccc8ca155fa4ebba863e48fcc27648f34e75f3b63778feb3067aa7f17442edfc",
+      "bytes": 165657
+    },
+    "hsk7-surface-mine.jpg": {
+      "sha256": "f3f8dc30046ccee2e5027a96cd6ba818eea59b1f54a90966502c3c6bee7f2788",
+      "bytes": 351959
+    },
+    "hsk7-surfing.jpg": {
+      "sha256": "ee43a0c03d41f1d1067b4a25692802aec4639096f03827c6b0c1547359891d96",
+      "bytes": 240939
+    },
+    "hsk7-surrender-theatre-rehearsal.jpg": {
+      "sha256": "8637756ea9f6a89b1e8867f3d83adf0d92f45651c3084351ca27a5f9e8cc34d4",
+      "bytes": 222088
+    },
+    "hsk7-surrounding-guide.jpg": {
+      "sha256": "b83726f66f3dc43355d04f7752ea872451b8e94e8c88ebf99c20bb67a09833ed",
+      "bytes": 240492
+    },
+    "hsk7-swaying-empty-swing.jpg": {
+      "sha256": "b812640a9be5556b651a4c66e2effc2c3026020e8eb5905eb2f65643b2da8bef",
+      "bytes": 340044
+    },
+    "hsk7-sweet-potatoes.jpg": {
+      "sha256": "316e06004537987c8bf113023e115c0839851dd37db99bf1c3a53741522e542f",
+      "bytes": 248004
+    },
+    "hsk7-synchronized-clocks.jpg": {
+      "sha256": "e6b074b585f8f2b5c59f719e95f4462389d9ce6e07886cf962dcf03503649f06",
+      "bytes": 182923
+    },
+    "hsk7-tai-chi-practice.jpg": {
+      "sha256": "f411221c3e88b3702879790e29f1ac01be555554430cdf869b56b0f4cc8866cd",
+      "bytes": 285362
+    },
+    "hsk7-tailpipe-exhaust.jpg": {
+      "sha256": "c778bc150db4de52f7064605aa4f3f98798b708387827fe8579cc1d59ccc351d",
+      "bytes": 295503
+    },
+    "hsk7-tamping-soil.jpg": {
+      "sha256": "843b4cc5317245aa37424d2969b15a069611fc3972e5ce55a8bc86771b674840",
+      "bytes": 346032
+    },
+    "hsk7-teaching-salivary-model.jpg": {
+      "sha256": "d0df5bfc8f2deee1daa5c66411d8d6e6157df64fef8e1627c39f4ef0c3473347",
+      "bytes": 155288
+    },
+    "hsk7-team-return-celebration.jpg": {
+      "sha256": "7f3148aefcaf812c94ec275901aed4b7ae514ebe87cc922ab1e45114725caf29",
+      "bytes": 240276
+    },
+    "hsk7-tearful-adult-actor.jpg": {
+      "sha256": "53992e4cfc7a3ecb98c854674d17adfba00370930b8e1e44c0b8581cf7b80f3e",
+      "bytes": 160907
+    },
+    "hsk7-tearing-paper.jpg": {
+      "sha256": "4c80ae7cd7e379fe36e54ae0b583b5180cf5ad3484a1ea5dcc72612eb7fb0b1e",
+      "bytes": 169980
+    },
+    "hsk7-temple-courtyard.jpg": {
+      "sha256": "e727a352742626f1604af280ce2f93cac3b3c42c6e0425598a3ff5f7a26e7f02",
+      "bytes": 367195
+    },
+    "hsk7-temple-fair.jpg": {
+      "sha256": "e7e6988dcf9b005bd51d2e6d6d21fbae5ae86ad89624e6044edc08f44ee8dce2",
+      "bytes": 384841
+    },
+    "hsk7-tendon-model.jpg": {
+      "sha256": "f40fd3a6f3a54c8393c8c6c36391a9e1a141061b99dd0551a08191aae9da8628",
+      "bytes": 195782
+    },
+    "hsk7-theatre-backstage.jpg": {
+      "sha256": "ecd1a4a5e5834548e4bc3ac3c95c895bdc437f28b1ba77dd1077957c72a14887",
+      "bytes": 228721
+    },
+    "hsk7-theatre-conspirators.jpg": {
+      "sha256": "d9a658b12d71c2b2230b00b155c51a5208c6b91b7e18264307b37618f2debb43",
+      "bytes": 257381
+    },
+    "hsk7-theatre-props.jpg": {
+      "sha256": "5cfc8a57cdd6df15b28c2ea40d804646d8cf20e112898dc2a87f45413ec3bc22",
+      "bytes": 222598
+    },
+    "hsk7-thesis-defense.jpg": {
+      "sha256": "caf6c779cfe9d4844946bc4ae9fc3de0b27644723c634b60d633b06cf8112f01",
+      "bytes": 219843
+    },
+    "hsk7-thin-fabric.jpg": {
+      "sha256": "43611273052eff3c6c68536e30ec565608620b15d45905edc6c499940f3fc357",
+      "bytes": 175076
+    },
+    "hsk7-threaded-beads.jpg": {
+      "sha256": "3694eca09fb039a486b7bd8bc7bbe0801a592e8f43cc3f737f28cfb99136f1e5",
+      "bytes": 181883
+    },
+    "hsk7-threshold.jpg": {
+      "sha256": "568af8fc0239edd5d3098df845a5497e3f2addb4f8e7a0619d97a64a7390f8cb",
+      "bytes": 242879
+    },
+    "hsk7-throat-teaching-model.jpg": {
+      "sha256": "c6be6e7c40479c6d8facf9d18b4be44fdd5798929f47e9328490d485996f55ea",
+      "bytes": 176183
+    },
+    "hsk7-thyroid-model.jpg": {
+      "sha256": "cbc8ede1037c8e78c2303387df907742112753874f721b2274c71f414233db42",
+      "bytes": 139175
+    },
+    "hsk7-tilling-field.jpg": {
+      "sha256": "1f829800f7b89fc4f1e738626a7cb9b0bdff65dc499606d6b74ba23545519915",
+      "bytes": 396090
+    },
+    "hsk7-toilet-bowl.jpg": {
+      "sha256": "ba919d0571c1a231386fb58ce8b7b89db3bfe3c2a4b9642dc97323c12db953a4",
+      "bytes": 143612
+    },
+    "hsk7-toppled-foam-blocks.jpg": {
+      "sha256": "bd2e4b1cce8f333452f30b5025700ae6e163da71036374bc66234c2827c9d311",
+      "bytes": 215746
+    },
+    "hsk7-torch-stand.jpg": {
+      "sha256": "14b0c0305a29b11d7d8f73015052c858dd75f5b7b4ae608b6079b28d13b55247",
+      "bytes": 207231
+    },
+    "hsk7-torn-cloth-opening.jpg": {
+      "sha256": "303b1765a2e5040147ca1873a78025424e81aad96fe08c55f989fb163f345d5b",
+      "bytes": 228673
+    },
+    "hsk7-trachea-model.jpg": {
+      "sha256": "d32697d7d386e9656d3e4f7d52812bca2946c1a894a5ca7588d5de99beaea8f1",
+      "bytes": 151183
+    },
+    "hsk7-traditional-hanzi-cards.jpg": {
+      "sha256": "470ef5659dfcb818489bf16596ccf0ac900c0b2a51383652749ced90abf5ec3d",
+      "bytes": 198041
+    },
+    "hsk7-trampling-paper-prop.jpg": {
+      "sha256": "77e31f65f97a6c16ee97692145dd3846af9b6d8fe6beaaa39881069e0f36767a",
+      "bytes": 173426
+    },
+    "hsk7-transplanting-seedling.jpg": {
+      "sha256": "073b132a2be4e947b9c4833d0e975a0d11cf200b44d019946b02d5936d1b198e",
+      "bytes": 283559
+    },
+    "hsk7-traveler-outdoor-meal.jpg": {
+      "sha256": "d795b9cdd8dcd4ff5fc03310c78fb2362e5780e9d5ea9891aa71f537c6690f0a",
+      "bytes": 304821
+    },
+    "hsk7-tree-rings.jpg": {
+      "sha256": "9df3a9c5fadc2677280a28db7700da3fcd3faf2c2d003412438f6d622246bffc",
+      "bytes": 338221
+    },
+    "hsk7-trumpet.jpg": {
+      "sha256": "5d2e19a354bc1b7c56db4f6957446390e81be0db53c4f7cb6fc21d397266c07a",
+      "bytes": 196979
+    },
+    "hsk7-turnip.jpg": {
+      "sha256": "29b22b85648b60598853c461187268f70b4473d91fdbbbe1575337e42de2439a",
+      "bytes": 235045
+    },
+    "hsk7-two-infusion-teaching-stands.jpg": {
+      "sha256": "fa28c551f735c4ef2d4380d78672b0ba6a179e9808e2ef58b0064c563aa5f093",
+      "bytes": 161282
+    },
+    "hsk7-two-person-paddling.jpg": {
+      "sha256": "e06cc0a4b58f743a9a7e5331aca5576ba6ace472755a1bd366463f8d026dcdfc",
+      "bytes": 264764
+    },
+    "hsk7-two-route-model.jpg": {
+      "sha256": "18b726779e012934ab6787587527eb63c1890aaeeafb62e0d6172fd86276e24d",
+      "bytes": 240138
+    },
+    "hsk7-two-waterlevel-model.jpg": {
+      "sha256": "624fac4c8a2742c2c75f145601d769fc295be162bea4f3d6da2b44922deee3fe",
+      "bytes": 183012
+    },
+    "hsk7-unconscious-patient-simulation.jpg": {
+      "sha256": "868ec82f0081e303be9ebb9500b37dc2f60737ee0cd8c4a8cb67810b53ae5521",
+      "bytes": 170364
+    },
+    "hsk7-underworld-judge-actor.jpg": {
+      "sha256": "f8aedd2dc29b7f8b357de19d8f478ee201f078f0d6c91fb5c9ba2b2ca9806293",
+      "bytes": 209142
+    },
+    "hsk7-unlit-candle-wax.jpg": {
+      "sha256": "2532c54b1ab3f7e78694a04066302ad4766b6ac5dc7b208c67dcb514325a827f",
+      "bytes": 131985
+    },
+    "hsk7-unlit-room-doorway.jpg": {
+      "sha256": "529ed91ebfd149603114050e527fe771b11cac19c84cd9d9ea0c413124e71f77",
+      "bytes": 128634
+    },
+    "hsk7-upturned-cup.jpg": {
+      "sha256": "63870eac649d60cffe987ae2fc019859d3455351ecfb54a32467e0b591e126a8",
+      "bytes": 173487
+    },
+    "hsk7-urine-sample-teaching.jpg": {
+      "sha256": "fc61b137fcbe7029e6441594e91f87e6192bbf798978a3c1b89a39aecd91d61e",
+      "bytes": 140945
+    },
+    "hsk7-vacuum-bell-jar-model.jpg": {
+      "sha256": "df809039a0bd4f49480e53fce9e9ea022663e2de8904b61ac160b0e4a6d8afde",
+      "bytes": 168026
+    },
+    "hsk7-vermilion-fabric.jpg": {
+      "sha256": "3ab138d0c4b98e390fb9661fadda5d31e11b1b4dcd449ef5ffa0c3cf1e6f8578",
+      "bytes": 234977
+    },
+    "hsk7-video-editing-desk.jpg": {
+      "sha256": "9bd2a6b051966699434e0ae8fe452cf21cb273d51a63f8c72b5d1e22951854a6",
+      "bytes": 207715
+    },
+    "hsk7-villa-exterior.jpg": {
+      "sha256": "f3a48613e1db118281e0ea38fe5eab93878440bfa8d0eacc6e394510db6afa93",
+      "bytes": 445856
+    },
+    "hsk7-vinyl-record.jpg": {
+      "sha256": "9041df197044e8fb7cde5500c8ab3c63d4ff89dc4c5e2a74418b0396b52886a1",
+      "bytes": 223013
+    },
+    "hsk7-violin.jpg": {
+      "sha256": "ae68286c33097a3b3a55028d5bc50e875962daad6f042abd68b1d521bbfb05b4",
+      "bytes": 244538
+    },
+    "hsk7-volcanic-cone.jpg": {
+      "sha256": "16e6f6dd7e5bf2e6ed7c94bb391683ebe0d7b6a8aab9c0e2ec3541630d7b6dac",
+      "bytes": 222509
+    },
+    "hsk7-walking-stick.jpg": {
+      "sha256": "ac66dd7dc82ec5ae51ce3fc58874f37bc2239897b727d3a6f12e191d8e79fc93",
+      "bytes": 176748
+    },
+    "hsk7-wall-hook.jpg": {
+      "sha256": "0eeb6497ee1b92dfb70d9875a9d8bc357fa12c82a7b3cdd99cb5d162ff8da91d",
+      "bytes": 138530
+    },
+    "hsk7-wall-mural.jpg": {
+      "sha256": "cca7925e2d621cbd9f48c8d97733ef672b508eb6f910b1779491691649e97bac",
+      "bytes": 263847
+    },
+    "hsk7-walnuts.jpg": {
+      "sha256": "884d7c26d0aec7aa06bd55bbf6cd4ded8f59f66289ec522b588128e5ec4ea1df",
+      "bytes": 300771
+    },
+    "hsk7-washing-rice.jpg": {
+      "sha256": "bd87c1a38dfb972c2d167872f7f256243dc261b543814b572045f8c677ceee6f",
+      "bytes": 221227
+    },
+    "hsk7-water-vortex-bowl.jpg": {
+      "sha256": "029bb5ddb6efc7d5001ee3571fe11df5131b764c6f07a77e58618f915f078f0f",
+      "bytes": 270590
+    },
+    "hsk7-water-wicking-cloth.jpg": {
+      "sha256": "0fe4e59d5eaee8ff41dec5c810cf2846ee018a4c61fc9e72d2f877107f710e5c",
+      "bytes": 179436
+    },
+    "hsk7-waterfall.jpg": {
+      "sha256": "a39f2d04c0976b7e542cdb344ab3afa2d039df5ea658eea6f18b92a4f9c777d4",
+      "bytes": 445609
+    },
+    "hsk7-waving-cloth.jpg": {
+      "sha256": "69b32da05889a3d988eb404bcb51c8242d0ae224a11b7d1366aea54a015fbe11",
+      "bytes": 251106
+    },
+    "hsk7-weaving-basket.jpg": {
+      "sha256": "6f2e6e0ef7daca369090e4f980ea6f618ab9f84bd47313148feb8640f460a44b",
+      "bytes": 225701
+    },
+    "hsk7-wedding-gift-chest.jpg": {
+      "sha256": "d218f8d42ed17c44fc3829578f0bbad9425817219d109490f17c011597516c79",
+      "bytes": 287292
+    },
+    "hsk7-wetland-bird-deer.jpg": {
+      "sha256": "81e646d9f28bf86afcebf8615ebe44429f7e94b4c772876c8c6a7e1f790aebc7",
+      "bytes": 385594
+    },
+    "hsk7-whale.jpg": {
+      "sha256": "e4a3ce3b6d089c4af621ed0b8b58bbe2ff4b9903865e05263d6a02427bfee2ae",
+      "bytes": 207140
+    },
+    "hsk7-whistle.jpg": {
+      "sha256": "1ddb2436c1817da3743b064f925f32e80f6caa7a9d136654904e7379c78e6b65",
+      "bytes": 168294
+    },
+    "hsk7-whistling-adult.jpg": {
+      "sha256": "5a0f6da02b0fd2056681c7b14df7859ecab8a1f159ea9322e6e1e098ce1591ec",
+      "bytes": 248354
+    },
+    "hsk7-white-goose.jpg": {
+      "sha256": "f9098eea21e983c7412d251a6ba7414229d6fa812ecbe116e98b4d865ac5efb0",
+      "bytes": 316164
+    },
+    "hsk7-white-lily.jpg": {
+      "sha256": "1c6e2ab1e965cc0c4e884b47c10f508e2e1a189a6a4f1f558066c44b06a157ce",
+      "bytes": 160402
+    },
+    "hsk7-white-swan.jpg": {
+      "sha256": "d419605100749375f44eff2b5c61aa53ec890e01b4f761ec9193e46c158fb568",
+      "bytes": 237042
+    },
+    "hsk7-wild-geese-flight.jpg": {
+      "sha256": "089561f3edff9e7cfc51270c99bf184702683eba4c37f6019b3a586b83e84637",
+      "bytes": 205733
+    },
+    "hsk7-will-paper-prop.jpg": {
+      "sha256": "946db6aa1927483ce089108532e1594d435ce8de1d5fea7e9271614d6d25ce8f",
+      "bytes": 209459
+    },
+    "hsk7-winking-adult.jpg": {
+      "sha256": "87de181207700c5cff629f7d1a68330890fc66f655435c5155e730db88563768",
+      "bytes": 154252
+    },
+    "hsk7-wiping-runny-nose.jpg": {
+      "sha256": "f775dd512449a66dd998c8c49fa61933863ae5187b347bd4320ac23ff0e3c1c9",
+      "bytes": 192631
+    },
+    "hsk7-wood-floor.jpg": {
+      "sha256": "d2af439de1ec07d9467907a4de0e087aa24c0cc7813a961d74f95a49d57d379b",
+      "bytes": 152598
+    },
+    "hsk7-wood-statue.jpg": {
+      "sha256": "e11e7e18406d4c4d6a3b5c5b0d734be6198daa76450b8e915183d2e017357bc2",
+      "bytes": 146245
+    },
+    "hsk7-wooden-beam.jpg": {
+      "sha256": "9af992bf1d148209217fa64a94f88a1096e5d3045f1dd2fc216b46c0442370f3",
+      "bytes": 306576
+    },
+    "hsk7-wooden-ladder.jpg": {
+      "sha256": "16e32e759eb02c61eb92c71f1c0b1dc1344ca249a51ff850a29aeda5c277e5e5",
+      "bytes": 204309
+    },
+    "hsk7-wooden-oval.jpg": {
+      "sha256": "049cfbd79fab5d77373473439133bdcf122d3c7b2b93b337473ce03f66d2a307",
+      "bytes": 305816
+    },
+    "hsk7-wooden-puppet.jpg": {
+      "sha256": "97e00d9291e367f04277027227c7ddccde39a9aa8b5cf2e9e7dc868434476f7c",
+      "bytes": 173969
+    },
+    "hsk7-wooden-seam-gap.jpg": {
+      "sha256": "028db25093beddef28d28350ffde2177416810f1bcaf34f60934e36f5705717e",
+      "bytes": 224885
+    },
+    "hsk7-wooden-stake.jpg": {
+      "sha256": "6ac8a837eca437348e2cf58f58c6a5cad58cb4054e078ea2bd1a5ad54953ffda",
+      "bytes": 364513
+    },
+    "hsk7-wooden-stool.jpg": {
+      "sha256": "3df0e4e62e12f1a218b2b185d5c899fe84e1d8951108a410a5706f8bfc0fde14",
+      "bytes": 185113
+    },
+    "hsk7-woodworking-chisel.jpg": {
+      "sha256": "03da17e5d3e1c655b7f25565500e09fe7113f7bd6ef076b1cdc6c6df8acfbe2c",
+      "bytes": 259954
+    },
+    "hsk7-working-dog-training.jpg": {
+      "sha256": "3e0ac208de2a3d8716085cbdbd946cadd0e0124be10be27130495d59da59c2d0",
+      "bytes": 249150
+    },
+    "hsk7-wrestling-practice.jpg": {
+      "sha256": "c868338d1ba87809258ac479d37d3adc84d276605a8695f255c1b79b5e254863",
+      "bytes": 196075
+    },
+    "hsk7-wringing-cloth.jpg": {
+      "sha256": "9ebd9e5bd3ce08ffbf45bdbd7829706a5d9c4044655da42e312fa5003c3f3e46",
+      "bytes": 186881
+    },
+    "hsk7-wrinkled-cloth.jpg": {
+      "sha256": "113c81e4db9065e86a7298078f792c4126cfe046e6e68f4f7aa91f71269d377a",
+      "bytes": 243417
+    },
+    "hsk7-yangge-adult-dance.jpg": {
+      "sha256": "21b20a5f16f85796395ea64c4f6ed6f23d18a6bb4922b090f3a6b37171308729",
+      "bytes": 305997
+    },
+    "hsk7-young-rice-seedlings.jpg": {
+      "sha256": "37e74aefb2d5459b1650582c1a95927d29d8abf0c3e64884d3e937ad8e9b7a52",
+      "bytes": 319304
+    },
+    "hsk7-zipper.jpg": {
+      "sha256": "e09885ccc617c94b1913a8822fa70b0cd95db5690ad0d80da536fe06b5fdc1ad",
+      "bytes": 269271
     },
     "hundred-beads.jpg": {
       "sha256": "4a37b12d77d4366131b77e0a06cfd44af7f9948672e48a2607d319ec1252c5c8",

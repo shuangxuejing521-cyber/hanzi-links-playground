@@ -95,3 +95,17 @@ test('every official level-six word has a reviewed meaning photograph with a cap
   if(picture.relation==='example-word'&&!baseline.entries[word.id])assert.ok(picture.note?.trim(),`new context note: ${word.hanzi}`);
  }
 });
+
+test('every official level-seven-to-nine word has a reviewed meaning photograph with a caption',()=>{
+ const words=officialVocabulary.filter(word=>word.level===7);
+ assert.equal(words.length,5600);
+ const missing=words.filter(word=>!getWordImage(word));
+ assert.equal(missing.length,0,`level-seven-to-nine photographs are incomplete: ${missing.slice(0,20).map(word=>word.hanzi).join(', ')}`);
+ for(const word of words){
+  const picture=getWordImage(word)!;
+  assert.match(picture.src,/^\/images\/[A-Za-z0-9/_\-.]+\.(?:jpg|jpeg|webp|png)$/);
+  assert.ok(existsSync(new URL(`../public${picture.src}`,import.meta.url)),word.hanzi);
+  assert.ok(picture.caption.trim().length>=(baseline.entries[word.id]?1:6),word.hanzi);
+  if(picture.relation==='example-word'&&!baseline.entries[word.id])assert.ok(picture.note?.trim(),`new context note: ${word.hanzi}`);
+ }
+});

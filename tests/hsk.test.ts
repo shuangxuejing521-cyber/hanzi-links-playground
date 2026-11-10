@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
 import {lexicon} from '../src/lib/combine.ts';
 import {officialVocabulary,DEFAULT_SELECTION,courseWords,searchCourseWords,getEligibleCharacters,formatWordLevel,OFFICIAL_SOURCE_URL} from '../src/lib/hsk.ts';
 
@@ -37,4 +38,16 @@ test('search and eligible character practice respect the selected corpus',()=>{
  const pool=getEligibleCharacters({course:'official',level:1,range:'cumulative'},beginner);
  assert.ok(pool.length>0);assert.ok(pool.every(c=>beginner.some(w=>w.hanzi.includes(c.hanzi))));
  assert.equal(new Set(pool.map(c=>c.id)).size,pool.length);
+});
+
+test('连绵 has its continuous sense while the imported source and other entries stay intact',()=>{
+ const raw=JSON.parse(readFileSync(new URL('../src/data/hsk-official.json',import.meta.url),'utf8'));
+ const target=officialVocabulary.find(word=>word.id==='hsk3-07965')!;
+ assert.equal(target.hanzi,'连绵');
+ assert.equal(target.korean,'잇달다; 끊임없이 이어지다');
+ assert.ok(searchCourseWords(officialVocabulary,'끊임없이').some(word=>word.id===target.id));
+ assert.equal(raw.find((word:{id:string})=>word.id===target.id).korean,'성대하다');
+ for(let index=0;index<raw.length;index++){
+  assert.deepEqual(officialVocabulary[index],raw[index].id===target.id?{...raw[index],korean:target.korean}:raw[index]);
+ }
 });

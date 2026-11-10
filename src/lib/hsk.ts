@@ -1,4 +1,5 @@
 import officialData from '../data/hsk-official.json';
+import vocabularyCorrections from '../data/official-vocabulary-corrections.json';
 import {characters,lexicon} from './combine';
 import type {Character,Word} from './types';
 
@@ -6,7 +7,11 @@ export interface CourseSelection {course:'legacy5'|'official';level:number;range
 export interface OfficialWord extends Word {officialIndex:number;sourcePage:number;definitionSource:string;displayHanzi?:string;senseNumber?:number;levelRaw?:string}
 export const DEFAULT_SELECTION:CourseSelection={course:'legacy5',level:5,range:'cumulative'};
 export const OFFICIAL_SOURCE_URL='https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf';
-export const officialVocabulary=officialData as OfficialWord[];
+const glossCorrections=vocabularyCorrections as Record<string,{hanzi:string;pinyin:string;korean:string}>;
+export const officialVocabulary=(officialData as OfficialWord[]).map(word=>{
+ const correction=glossCorrections[word.id];
+ return correction&&correction.hanzi===word.hanzi&&correction.pinyin===word.pinyin?{...word,korean:correction.korean}:word;
+});
 const officialIds=new Set(officialVocabulary.map(w=>w.id));
 export const cumulativeCounts=[300,500,1000,2000,3600,5400,11000] as const;
 export function courseWords(selection:CourseSelection):Word[]{

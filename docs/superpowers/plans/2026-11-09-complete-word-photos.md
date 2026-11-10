@@ -27,7 +27,7 @@ Progress is recorded under ignored work/hsk-word-images, including scene status 
 - [x] Level4: complete two500-word curation plans, generate/review140 new scenes, enforce1000/1000 coverage, publish v16 and mirror. Official photo coverage2121/11000; remaining8879.
 - [x] Level5: preserve51 original mappings, curate1549 missing links, generate/review221 new scenes, enforce1600/1600 coverage, publish v17 and mirror. Official photo coverage3670/11000; remaining7330.
 - [x] Level6: preserve37 original mappings, curate1763 missing links in three600-word parts, generate/review251 new scenes, enforce1800/1800 coverage, publish v18 and mirror. Official photo coverage5433/11000; remaining5567.
-- [ ] Level7–9: preserve33 original mappings and curate5567 missing exact-ID links across nine disjoint official-index parts; review photographs before promotion and full-group publication.
+- [x] Level7–9: preserve33 original mappings, complete5567 missing exact-ID links across nine parts, generate/review556 new scenes, enforce5600/5600 coverage, publish v19 and mirror. All11000 official words now have meaning photographs; pending0.
 
 v15: Site source bc73ec930468b918e02077cb16b1cfe502e751c2; GitHub source snapshot74e25cabdc0b28f40abb12e4525a9cc250e51e6e.86 Node tests,7 collector tests, types and production build passed; live206-sidebar/早 seven stages/level3西瓜 image checked. Runtime owner-only statistics remain at environment revision2.
 

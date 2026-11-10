@@ -1,0 +1,31 @@
+[build]
+  command = "node scripts/build-netlify.mjs"
+  publish = "dist-netlify"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+
+[dev]
+  framework = "#custom"
+  command = "npx vite --config vite.netlify.config.ts --host 127.0.0.1"
+  targetPort = 5173
+  publish = "dist-netlify"
+
+# Only static learning assets are published. Historical private analytics remain
+# behind the original site's server-side founder authentication.
+[[redirects]]
+  from = "/admin"
+  to = "https://hanzi-links-playground.jazzybay4.chatgpt.site/admin"
+  status = 302
+
+[[redirects]]
+  from = "/admin/*"
+  to = "https://hanzi-links-playground.jazzybay4.chatgpt.site/admin/:splat"
+  status = 302
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false

@@ -99,3 +99,13 @@ Cloudflare D1 stores real visitor records. This repository contains schema and s
 偏旁探索左侧现在保留原26类教学字族的ID、顺序、名称和活动，并追加180个原先未覆盖的辞书分类，共206类。原26字族按来源部首对齐，并保留酒（水字族）、料（米字族）等已有教学成员；同一字也能在酉、斗等辞书分类找到。肉130与月74、邑163与阜170分别保留。每类字数和词条随当前HSK范围变化；原26字族中新出现的其余汉字同样可从补充字卡进入，原183组合的教学照片与游戏继续保留。
 
 新增分类中的字卡复用现代真实字形、源结构和统一字源面板，并可进入对应单词。词义照片按完整分级清单关联，不能以字形图替代词义照片完成度。新增分类的点击、曝光和点击率进入原私有后台，创始人权限、统计排除规则与数据保密边界保持。分类逻辑及覆盖测试见`src/lib/sidebar-families.ts`、`tests/sidebar-families.test.ts`。
+
+## Copyright and GoatCounter
+
+The footer offers Chinese, Korean and English copyright text for © 2026 jingshuangxue; its language preference is saved locally and does not change the existing Korean learning-gloss toggle. Third-party data and asset licences above continue to apply.
+
+The root layout loads GoatCounter with `next/script` after interaction, using the account endpoint `https://ziyouyisi.goatcounter.com/count`. Automatic pageviews and declarative event binding are disabled. The client sends one pageview after the existing private analytics session permits collection, followed by intentional `click/部首/<form>`, `click/汉字/<character>` and `click/词语/<word>` events. Repeated clicks are retained with `no_session:true`; course changes, automatic selection, drags and navigation do not become card clicks. Founder exclusion and the existing statistics opt-out apply to both analytics systems. No tracking counts are rendered publicly.
+
+The GoatCounter dashboard is at https://ziyouyisi.goatcounter.com/ . At setup, its visibility was verified as “Only logged in users” and the public visitor counter was disabled; retain those settings and do not grant additional dashboard users. Account email verification is completed by the owner. No account token or production records are part of this repository.
+
+The present production backend uses Cloudflare D1 and verified Sites identity headers. Netlify requires a separate build/runtime adaptation; uploading `dist/client` alone is not a complete migration and omits archived-photo delivery and the private backend.

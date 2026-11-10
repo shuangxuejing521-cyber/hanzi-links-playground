@@ -109,3 +109,15 @@ The root layout loads GoatCounter with `next/script` after interaction, using th
 The GoatCounter dashboard is at https://ziyouyisi.goatcounter.com/ . At setup, its visibility was verified as “Only logged in users” and the public visitor counter was disabled; retain those settings and do not grant additional dashboard users. Account email verification is completed by the owner. No account token or production records are part of this repository.
 
 The present production backend uses Cloudflare D1 and verified Sites identity headers. Netlify requires a separate build/runtime adaptation; uploading `dist/client` alone is not a complete migration and omits archived-photo delivery and the private backend.
+
+## Netlify learning website
+
+Netlify uses a separate static Vite build: `npm run build:netlify` (or `node scripts/build-netlify.mjs`), with publish directory `dist-netlify`. `netlify.toml` pins Node 24 and disables automatic Next.js runtime installation. Connect this existing personal GitHub repository and select `main`; later commits publish automatically. The separate build leaves the original Sites/Cloudflare Worker build and its private backend intact.
+
+All public learning assets are copied, including the 1,410 archived photographs that the original Worker build normally serves remotely. The build verifies every public file byte for byte, all 11,000 official word photo references, archived photo hashes and all local character-origin specimens. Never deploy the original `dist/client` as the complete Netlify site.
+
+Netlify collects new pageviews and intentional radical, character and word clicks through GoatCounter only. Original detailed research events (practice results, mode filters, exposure and CTR) remain historical records in the original private backend and are not collected into that backend from the Netlify version. `/admin` redirects to that authenticated historical dashboard; it is never exported as public HTML or data. Netlify-specific frontend adapters make no requests to Sites identity or D1 APIs and never trust client-supplied identity headers.
+
+The anonymous statistics switch stops GoatCounter on the current browser, including queued clicks. Because static Netlify pages do not authenticate the founder, the owner should turn this switch off on their own device to exclude their visits. Learning progress stays local to each site's browser origin; the old site's records remain there. No cookie or visitor identifier is introduced by the Netlify adapter.
+
+Use the existing free Netlify team without enabling paid Web Analytics, upgrading the plan or enabling auto recharge. The private analytics dashboard is https://ziyouyisi.goatcounter.com/ . The original historical dashboard is https://hanzi-links-playground.jazzybay4.chatgpt.site/admin . Keep GoatCounter restricted to logged-in users and its public visitor counter disabled. Never commit `.netlify/`, runtime credentials, database exports or generated `dist-netlify/` output.

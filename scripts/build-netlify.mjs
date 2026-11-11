@@ -78,4 +78,12 @@ for(const entry of entries){
 const index=await readFile(join(output,'index.html'),'utf8');
 if(!index.includes('https://ziyouyisi.goatcounter.com/count'))fail('missing GoatCounter endpoint');
 if(index.includes('src="/main.tsx"'))fail('unbuilt application entry');
-console.log('Verified Netlify static package:',JSON.stringify({publicFiles,publicBytes,officialWords:words.length,archivedPhotos,characterOrigins:entries.length,localSpecimens}));
+let publishFiles=0,maxFileBytes=0,maxFile='';
+for await(const path of files(output)){
+ const size=(await stat(path)).size;
+ if(size>=10000000)fail(`file reaches Netlify's 10 MB upload limit: ${relative(output,path)} (${size} bytes)`);
+ if(size>maxFileBytes){maxFileBytes=size;maxFile=relative(output,path);}
+ publishFiles++;
+}
+if(publishFiles>=25000)fail(`publish file count reaches manual upload limit: ${publishFiles}`);
+console.log('Verified Netlify static package:',JSON.stringify({publicFiles,publicBytes,officialWords:words.length,archivedPhotos,characterOrigins:entries.length,localSpecimens,publishFiles,maxFile,maxFileBytes}));

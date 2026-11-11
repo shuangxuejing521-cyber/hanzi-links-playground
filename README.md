@@ -1,4 +1,4 @@
-# 字有意思 汉字部件实验室
+# 字链 ZiLink · 汉字部件实验室
 
 面向外国学习者的汉字与词汇学习网站，结合汉字来源、偏旁探索、组字练习和联想记忆，帮助练习汉字、记住汉语单词。当前界面提供韩语辅助说明。官方HSK 1–6级及合并7–9级的11,000条词汇均可进入逐字学习；覆盖3,088个不同汉字，兼容旧版五级词表独有的“桔”，共3,089字。保留原26类物象图解、171个经审阅的左右组合及旧版五级2,500条词汇；206类辞书部首作为分类入口，字典归部与构字角色分开呈现。
 
@@ -111,6 +111,8 @@ The GoatCounter dashboard is at https://ziyouyisi.goatcounter.com/ . At setup, i
 The present production backend uses Cloudflare D1 and verified Sites identity headers. Netlify requires a separate build/runtime adaptation; uploading `dist/client` alone is not a complete migration and omits archived-photo delivery and the private backend.
 
 ## Netlify learning website
+
+网站名称为「字链」，英文名称为「ZiLink」。Netlify 目标项目名为 `jjok-zilink`，目标网址为 `https://jjok-zilink.netlify.app/`；实际发布状态以 Netlify 项目为准。GitHub 仓库与原 Sites 私密后台地址保持原样。
 
 Netlify uses a separate static Vite build: `npm run build:netlify` (or `node scripts/build-netlify.mjs`), with publish directory `dist-netlify`. `netlify.toml` pins Node 24 and disables automatic Next.js runtime installation. Connect this existing personal GitHub repository and select `main`; later commits publish automatically. The separate build leaves the original Sites/Cloudflare Worker build and its private backend intact.
 

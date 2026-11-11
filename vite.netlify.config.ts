@@ -30,5 +30,15 @@ export default defineConfig({
   outDir:resolve(projectRoot,'dist-netlify'),
   emptyOutDir:true,
   copyPublicDir:true,
+  rolldownOptions:{
+   output:{
+    // Keep the complete learning data while staying below Netlify's per-file
+    // upload limit. These remain ordinary, eagerly imported ESM dependencies.
+    manualChunks(id){
+     const data=id.match(/\/src\/data\/(word-image-links|hsk-official|course-characters|glyph-geometry)\.json(?:\?.*)?$/);
+     return data?`data-${data[1]}`:undefined;
+    },
+   },
+  },
  },
 });

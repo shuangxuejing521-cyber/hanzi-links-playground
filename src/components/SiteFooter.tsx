@@ -23,7 +23,7 @@ export default function SiteFooter({onAbout}:{onAbout:()=>void}){
   try{localStorage.setItem(LANGUAGE_KEY,value);}catch{/* Keep the selected language for this visit. */}
  }
  return <footer className="site-footer localized-footer" lang={language}>
-  <span><span className="footer-mark">字</span>字有意思</span>
+  <span><span className="footer-mark">字</span>字链</span>
   <p className="footer-guide">{text.guide}</p>
   <div className="footer-controls">
    <button type="button" onClick={onAbout}>{text.about}<ArrowUpRight size={12}/></button>

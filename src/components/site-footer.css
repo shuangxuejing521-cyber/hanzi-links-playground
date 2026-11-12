@@ -6,10 +6,14 @@
 .localized-footer .footer-language>span{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 .localized-footer .footer-language select{max-width:120px;padding:6px 23px 6px 9px;font:inherit;color:#666168;background:#fff;border:1px solid #e7e2e6;border-radius:7px;cursor:pointer}
 .localized-footer .footer-language select:focus-visible{outline:3px solid #ad99e6;outline-offset:3px}
-.site-footer.localized-footer>.footer-copyright{flex:0 0 100%;width:100%;margin-top:2px;text-align:center;line-height:1.6;font-size:11px;overflow-wrap:anywhere}
+.site-footer.localized-footer>.footer-copyright,.site-footer.localized-footer>.footer-rights{flex:0 0 100%;width:100%;margin-top:2px;text-align:center;line-height:1.6;font-size:11px;overflow-wrap:anywhere}
+.localized-footer .footer-rights a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+@media(max-width:760px){
+ .site-footer.localized-footer>.footer-copyright{order:4;text-align:left}
+ .site-footer.localized-footer>.footer-rights{order:5;text-align:left}
+}
 @media(max-width:600px){
  .localized-footer .footer-controls{margin-left:auto;gap:12px}
  .localized-footer .footer-controls>button{font-size:11px}
  .site-footer.localized-footer>.footer-guide{flex:0 0 100%;order:3;text-align:left}
- .site-footer.localized-footer>.footer-copyright{order:4;text-align:left}
 }

@@ -13,7 +13,7 @@ async function combine(){await page.getByRole('button',{name:'组合，看看会
 async function glyph(text){assert.equal(await page.locator('.meaning-copy .character-title h2').textContent(),text);}
 try{
  await page.goto(base);await page.locator('.character-card').first().waitFor();
- assert.equal(await page.title(),'字有意思 · 汉字部件实验室');assert.equal(await page.locator('.radical-list>button').count(),26);await glyph('红');
+ assert.equal(await page.title(),'字链 ZiLink · 偏旁联想记词');assert.equal(await page.locator('.radical-list>button').count(),26);await glyph('红');
  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:path.join(output,'desktop-explore.png'),fullPage:true});pass('Thread family opens with real pictures, 26 radical categories and responsive layout');
  await page.locator('.radical-list button').filter({hasText:'三点水'}).click();await glyph('油');
  await page.locator('.character-card').filter({has:page.locator('strong').filter({hasText:/^泳$/})}).click();await glyph('泳');

@@ -4,7 +4,7 @@ import GoatCounterBridge from '../src/analytics/GoatCounterBridge';
 import '../src/styles.css';
 import '../src/warm-theme.css';
 export const metadata={
- title:'字链 ZiLink · 汉字部件实验室',
+ title:'字链 ZiLink · 偏旁联想记词',
  description:'한국어 학습자를 위한 한자 부수·그림·글자 연결 학습',
  alternates:{canonical:'https://jjok-zilink.netlify.app/'},
  robots:{index:true,follow:true},

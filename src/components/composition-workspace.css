@@ -1,0 +1,176 @@
+/* Keep choosing a component and composing it in the same learning card. */
+.character-studio.game-studio .studio-label {
+  padding: 9px 14px;
+  font-size: 12px;
+}
+
+.character-studio.game-studio .composition {
+  gap: 12px;
+  padding: 12px 14px;
+}
+
+.character-studio.game-studio .component-slot {
+  width: 88px;
+  min-width: 0;
+  min-height: 84px;
+  padding: 8px 4px;
+}
+
+.character-studio.game-studio .component-slot .part-glyph,
+.character-studio.game-studio .component-slot .part-crop {
+  font-size: 50px;
+  line-height: 1;
+}
+
+.character-studio.game-studio .component-slot .part-crop .glyph-drawing {
+  width: 36px;
+  height: 49px;
+}
+
+.character-studio.game-studio .component-slot small {
+  margin-top: 4px;
+  font-size: 10px;
+  line-height: 1.35;
+}
+
+.character-studio.game-studio .result-glyph {
+  min-width: 76px;
+  font-size: 64px;
+}
+
+.character-studio.game-studio .result-glyph small {
+  margin-top: 5px;
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.character-studio.game-studio .result-glyph.unrevealed small {
+  font-size: 10px;
+}
+
+.character-studio.game-studio .parts-bank.integrated-parts-bank {
+  padding: 10px 14px 12px;
+  border: 0;
+  border-top: 1px solid #f4c8b8;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.character-studio.game-studio .integrated-parts-bank .section-heading {
+  gap: 8px;
+  margin-bottom: 7px;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.character-studio.game-studio .integrated-parts-bank .section-heading h3 {
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+.character-studio.game-studio .integrated-parts-bank .section-heading p {
+  margin-top: 2px;
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.character-studio.game-studio .integrated-parts-bank .part-tiles {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 6px;
+  max-height: none;
+  overflow: visible;
+  padding: 2px;
+}
+
+.character-studio.game-studio .integrated-parts-bank .part-tiles > button {
+  min-height: 44px;
+  padding: 4px 2px;
+  font-size: 34px;
+  line-height: 1;
+}
+
+.character-studio.game-studio .integrated-parts-bank .part-crop .glyph-drawing {
+  width: 27px;
+  height: 34px;
+}
+
+.character-studio.game-studio .integrated-parts-bank .parts-note {
+  gap: 5px;
+  margin-top: 7px;
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.character-studio.game-studio .combine-button {
+  min-height: 44px;
+  padding: 9px 18px;
+  font-size: 13px;
+}
+
+.character-studio.game-studio .game-feedback {
+  min-height: 38px;
+  padding: 9px 14px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.character-studio.game-studio .game-feedback.correct {
+  margin-top: 7px;
+}
+
+.character-studio.game-studio .next-question {
+  min-height: 36px;
+  margin: 0 auto 12px;
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+@media (max-width: 760px) {
+  .character-studio.game-studio .composition {
+    gap: 8px;
+    padding: 10px 8px;
+  }
+
+  .character-studio.game-studio .component-slot {
+    width: 78px;
+    min-height: 80px;
+    padding: 7px 3px;
+  }
+
+  .character-studio.game-studio .result-glyph {
+    min-width: 64px;
+    font-size: 58px;
+  }
+
+  .character-studio.game-studio .parts-bank.integrated-parts-bank {
+    padding: 9px 10px 11px;
+  }
+
+  .character-studio.game-studio .integrated-parts-bank .part-tiles {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .character-studio.game-studio .integrated-parts-bank .part-tiles > button {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 370px) {
+  .character-studio.game-studio .composition {
+    gap: 5px;
+    padding-inline: 6px;
+  }
+
+  .character-studio.game-studio .component-slot {
+    width: 68px;
+  }
+
+  .character-studio.game-studio .result-glyph {
+    min-width: 56px;
+    font-size: 54px;
+  }
+
+  .character-studio.game-studio .integrated-parts-bank .part-tiles {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
